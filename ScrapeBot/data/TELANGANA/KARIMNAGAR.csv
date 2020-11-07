@@ -1,0 +1,646 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Others","Others","Weed Management","weedicide","recomended glyphosate 2lit/acre","TELANGANA","KARIMNAGAR","HUZURABAD                                         ","2014-09-03 08:27:13.920"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","mostly cloudy and shower","TELANGANA","KARIMNAGAR","KATARAM                                           ","2014-09-06 09:26:12.430"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","a couple of thunder strom and little shower","TELANGANA","KARIMNAGAR","KATHALAPUR                                        ","2014-09-06 09:47:35.987"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Weather","weather report","cloudy ,thunder storms","TELANGANA","KARIMNAGAR","HUSNABAD                                          ","2014-09-06 19:21:20.980"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Today
+Sep 7
+Heavy rain and a thunderstorm 24°Lo 22° 
+more Mon
+Sep 8
+Mostly cloudy, showers around 25°Lo 21°","TELANGANA","KARIMNAGAR","VEENAVANKA                                        ","2014-09-07 07:38:21.527"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest  in cotton","rogar 2ml/lit water","TELANGANA","KARIMNAGAR","KONARAOPET                                        ","2014-09-07 13:37:25.910"
+"KHARIF","AGRICULTURE","Others","Others","Soil Testing","soil testing","phn number","TELANGANA","KARIMNAGAR","SRIRAMPUR                                         ","2014-09-07 15:04:18.017"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","asking about field","crop suitable rice","TELANGANA","KARIMNAGAR","YELLAREDDIPET                                     ","2014-09-08 08:27:48.627"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in paddy","recommended carbofuron 3G 10kg,corazine 0.4ml/lit water","TELANGANA","KARIMNAGAR","KAMALAPUR                                         ","2014-09-08 11:14:14.643"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weed Management","weed problem in rice","top -star","TELANGANA","KARIMNAGAR","YELLAREDDIPET                                     ","2014-09-09 07:09:05.440"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","fertilizers in paddy","recommended 1bag urea,25kg potash","TELANGANA","KARIMNAGAR","ELKATHURTHI                                       ","2014-09-09 07:41:57.867"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice disease damage","pegasis @1.5g/lit","TELANGANA","KARIMNAGAR","ELIGAID                                           ","2014-09-09 07:57:22.670"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice damage","phorage @10g","TELANGANA","KARIMNAGAR","KAMALAPUR                                         ","2014-09-09 08:03:31.750"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in paddy","recomended corazine 80ml/acre","TELANGANA","KARIMNAGAR","SULTHANABAD                                       ","2014-09-09 13:59:00.737"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","root rot in cotton","recommended blitex 3g/lit water","TELANGANA","KARIMNAGAR","MAHADEVPUR                                        ","2014-09-10 07:23:50.117"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","growthing in cotton","recommended multi  k1kg/acre","TELANGANA","KARIMNAGAR","VEENAVANKA                                        ","2014-09-10 08:03:00.257"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recommended olala75g/acre","TELANGANA","KARIMNAGAR","ELKATHURTHI                                       ","2014-09-10 08:18:28.860"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","planofix 2ml /lit of wtr","TELANGANA","KARIMNAGAR","THIMMAPUR (L.M.D.)                                ","2014-09-10 08:45:14.550"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paddy stem borer","recommended korazin 80ml/acre","TELANGANA","KARIMNAGAR","CHOPPADANDI                                       ","2014-09-10 09:41:42.183"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","ASKED COTTON WEED MANAGEMENT","PARAQAT (GRAMOXONE, PARAGON ,UNIQAT ) ONE LITRE PER ACRE      ???????? (????????????, ??????, ???????? ) ????? ??? ????? 200 ??????? ?????? ????? ???????? ??????","TELANGANA","KARIMNAGAR","KATHALAPUR                                        ","2014-09-10 10:02:41.670"
+"KHARIF","ANIMAL HUSBANDRY","Avian","Turkey","Animal Nutrition","poultry","contact no;040_24015323","TELANGANA","KARIMNAGAR","KAMANPUR                                          ","2014-09-10 10:03:23.583"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paddy hispa","recommended chloropiripos 2.5ml/litre","TELANGANA","KARIMNAGAR","ELLANTHAKUNTA                                     ","2014-09-10 12:15:05.907"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","pollen plbm","cloripyriphos 2.5ml/lit twr","TELANGANA","KARIMNAGAR","CHIGURUMAMIDI                                     ","2014-09-10 12:21:02.770"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking [pest","recomended olala 75g/acre","TELANGANA","KARIMNAGAR","RAMADUGU                                          ","2014-09-10 15:28:41.160"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","patti perugudalaku,putha ravadaniki","multi k 1kg/acr","TELANGANA","KARIMNAGAR","MUSTABAD                                          ","2014-09-10 15:35:18.507"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice stemborer","spraying of cartaphydrochloride 8-10 kg/a","TELANGANA","KARIMNAGAR","BOINPALLI                                         ","2014-09-10 16:08:43.080"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice stemborer","spraying of cartaphydrochloride 8-10 kg/a","TELANGANA","KARIMNAGAR","BOINPALLI                                         ","2014-09-10 16:08:44.193"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","thrips damage","imedacloprid/monocrotophos","TELANGANA","KARIMNAGAR","BHEEMDEVARAPALLI                                  ","2014-09-10 17:12:50.950"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","thrips in cotton","ulala75gm/acr","TELANGANA","KARIMNAGAR","JAMMIKUNTA                                        ","2014-09-10 17:40:05.460"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton uda ralatam","planofix 5ml/20l of water","TELANGANA","KARIMNAGAR","BHEEMDEVARAPALLI                                  ","2014-09-10 18:41:21.507"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice stem borer","corazin 80ml/acr","TELANGANA","KARIMNAGAR","ELKATHURTHI                                       ","2014-09-10 19:35:06.497"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Weather","WATHER REPORT","Considerable cloudiness
+86°Lo 74°   
+
+
+
+Fri
+
+Sep 12
+
+
+
+A shower or","TELANGANA","KARIMNAGAR","VEENAVANKA                                        ","2014-09-11 07:22:35.353"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bacterial disease","blitex30g+PLANTOMYCIN 1g+10lit water","TELANGANA","KARIMNAGAR","KATARAM                                           ","2014-09-11 08:04:19.993"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","WEEDICIDE IN GREEN GRAM","RECOMMENDED PENDIMITHALIN 1.3 TO 1.5 LITRE /ACRE","TELANGANA","KARIMNAGAR","ELLANTHAKUNTA                                     ","2014-09-11 10:32:36.167"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton flower drop","recommended planofix 2 ml/ 10 litres","TELANGANA","KARIMNAGAR","CHANDURTHI                                        ","2014-09-11 12:01:53.267"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton lef folding","monocrotofas 1.6ml/l of water","TELANGANA","KARIMNAGAR","CHANDURTHI                                        ","2014-09-11 12:58:28.973"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recommended profenophos 400ml/acre","TELANGANA","KARIMNAGAR","HUZURABAD                                         ","2014-09-11 13:14:15.283"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice stem borer","carbofuran3g 6kg/acr","TELANGANA","KARIMNAGAR","KORUTLA                                           ","2014-09-11 13:39:50.297"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","PATTI LO PUTHA RALAKUND UNDATANIKI,VEGETATIVE GROWTH","MULTI K 1KG/ACR","TELANGANA","KARIMNAGAR","RAMAGUNDAM                                        ","2014-09-11 14:17:53.057"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","rains damage","coc@3g/lt wtr","TELANGANA","KARIMNAGAR","BEJANKI                                           ","2014-09-11 14:22:39.610"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","VARI ZINK LOPAM","ZINK 2GM/L OF WATER","TELANGANA","KARIMNAGAR","MANAKONDUR                                        ","2014-09-11 14:41:49.103"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","rice  fertiliser recommonded","1bag/urea-30kgs/potash","TELANGANA","KARIMNAGAR","KATHALAPUR                                        ","2014-09-11 15:16:57.430"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Some brightening
+Hi 87°
+
+RealFeel 94°
+ more 
+
+ 
+
+
+
+Tonight
+
+Sep 12
+
+
+Considerable cloudiness
+Lo 74°
+
+RealFeel 74°
+ more 
+
+ 
+
+
+
+Tomorrow
+
+Sep 13
+
+
+Cloudy
+Hi 87°
+
+RealFeel 93°
+ more 
+
+ 
+ 
+
+
+Video Weather Forecast
+
+
+Sep 8, 2014; 5:00 AM ET Flooding is a concern in Mumbai.
+
+ Asia Weather Forecast 
+   
+
+ 
+
+
+Karimnagar Satellite 
+ 
+
+  
+
+more Weather Satellite > 
+  
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+India, Pakistan Flooding Claims More Lives
+
+September 11, 2014; 6:36 AM ET
+
+The death toll from monsoon floods across Pakistan and India has topped 450. more >
+
+
+
+
+
+
+
+
+
+
+
+
+
+Karimnagar Weather Map - Nearby Places
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Karimnagar Weather Conditions - Nearby Places
+
+
+
+Ambarpet
+77°Ambarpet weather - Mostly cloudy
+
+
+
+Peddapalli
+79°Peddapalli weather - Thunderstorm
+
+
+
+Osmannagar
+79°Osmannagar weather - Thunderstorm
+
+
+
+Vemalwada
+74°Vemalwada weather - A shower
+
+
+
+Sirsilla
+74°Sirsilla weather - A shower
+
+
+
+Pochampalli
+74°Pochampalli weather - A shower
+
+
+
+Tadikal
+75°Tadikal weather - Mostly cloudy
+
+
+
+Huzurabad
+75°Huzurabad weather - Mostly cloudy
+
+
+
+Hasanabad
+75°Hasanabad weather - Mostly cloudy
+
+
+
+Narasingapuram
+76°Narasingapuram weather - Mostly cloudy
+
+.
+
+
+
+.","TELANGANA","KARIMNAGAR","SRIRAMPUR                                         ","2014-09-12 07:21:07.737"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bacterial disease in paddy","blue copper 30g +PLANTOMYCIN 1G+10LIT WATER","TELANGANA","KARIMNAGAR","KATARAM                                           ","2014-09-12 07:27:40.950"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem boer in paddy","recommended chloropyriphos 2.5ml/lit water","TELANGANA","KARIMNAGAR","HUZURABAD                                         ","2014-09-12 09:37:49.140"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","thunder  stream","TELANGANA","KARIMNAGAR","JAGTIAL                                           ","2014-09-12 17:41:31.800"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mealy bug in cotton","oberan 200ml/acr","TELANGANA","KARIMNAGAR","ELLANTHAKUNTA                                     ","2014-09-12 18:47:00.883"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mealy bug in cotton","1ml di- chlorovas+3ml methyle parathian","TELANGANA","KARIMNAGAR","ELLANTHAKUNTA                                     ","2014-09-12 20:56:57.600"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton white fly","recommended confider 1ml/litre","TELANGANA","KARIMNAGAR","CHIGURUMAMIDI                                     ","2014-09-12 21:02:25.530"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","TELANGANA","KARIMNAGAR","KONARAOPET                                        ","2014-09-12 21:03:29.723"
+"KHARIF","AGRICULTURE","Oilseeds","Castor (Rehri, Rendi, Arandi) ","Sowing Time and Weather","castor sowing time","september 15-october","TELANGANA","KARIMNAGAR","MANAKONDUR                                        ","2014-09-12 21:07:49.597"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","reddish leaves in cotton","recoimmended magnicum sulphate 10 grams + urea 10 grams per /litre","TELANGANA","KARIMNAGAR","KAMANPUR                                          ","2014-09-12 21:13:59.400"
+"KHARIF","HORTICULTURE","Condiments and Spices","Turmeric","	Plant Protection	","tataku disease in turmeric","garbendazim 1gm/l of water,r mancozeb 2gm/l of water","TELANGANA","KARIMNAGAR","MALLAPUR                                          ","2014-09-13 08:14:15.280"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","thrips in cotton","ulala 80ml/acr","TELANGANA","KARIMNAGAR","KAMANPUR                                          ","2014-09-13 09:09:12.603"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice zinc defficiency","zinc 2gm/l of water","TELANGANA","KARIMNAGAR","GANGADHARA                                        ","2014-09-13 10:29:22.990"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in paddy","corazin 80ml/acr","TELANGANA","KARIMNAGAR","HUSNABAD                                          ","2014-09-13 12:26:46.240"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in rice","corazin 80ml/acr","TELANGANA","KARIMNAGAR","KATHALAPUR                                        ","2014-09-13 12:53:09.223"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bacterial disease inpaddy","blitex 30g+plantomycin 1g+10lit water","TELANGANA","KARIMNAGAR","VEMULAWADA                                        ","2014-09-13 14:52:04.883"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in paddy","recomended corazine 80ml/acre","TELANGANA","KARIMNAGAR","ODELA                                             ","2014-09-13 15:12:28.327"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","up ward cur ling","pegasis 300g ,zolan 400ml/acre","TELANGANA","KARIMNAGAR","GOLLAPALLI                                        ","2014-09-13 18:01:33.253"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice blast in paddy","recomended bheem 120g/acre","TELANGANA","KARIMNAGAR","MALLIAL                                           ","2014-09-13 18:56:19.647"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended olala75g/acre 150lit water,actara 40g/acre","TELANGANA","KARIMNAGAR","HUZURABAD                                         ","2014-09-13 19:11:56.527"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest cotton","recomended olala 75g/acre/150lit water","TELANGANA","KARIMNAGAR","KAMANPUR                                          ","2014-09-13 20:02:56.757"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weed Management","weed management in paddy","recomended 2 4 D sodium salt 500g/acre","TELANGANA","KARIMNAGAR","MANTHANI                                          ","2014-09-14 11:47:12.140"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","leaf folding in chili","pegases 300gm/acr","TELANGANA","KARIMNAGAR","BOINPALLI                                         ","2014-09-14 14:42:24.940"
+"KHARIF","AGRICULTURE","Cereals","Oats ","	Plant Protection	","stem borer in rice","corazin 80ml/acr","TELANGANA","KARIMNAGAR","GAMBHIRAOPET                                      ","2014-09-14 15:10:38.407"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","thrips in cotton","spraying of monocrophas 1.6 ml/lit water","TELANGANA","KARIMNAGAR","DHARMARAM                                         ","2014-09-14 16:54:04.070"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","thunder stream","TELANGANA","KARIMNAGAR","METPALLI                                          ","2014-09-15 07:10:01.520"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","magnesum deficieny","magnesum sulphate@10g/lit wter","TELANGANA","KARIMNAGAR","KOHEDA                                            ","2014-09-15 07:38:04.683"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","TELANGANA","KARIMNAGAR","DHARMAPURI                                        ","2014-09-15 08:12:30.947"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","THRIPS IN COTTON","SRAYING OF MONOCHROTOPHOS 1.6ML/L OF WATER","TELANGANA","KARIMNAGAR","KATHALAPUR                                        ","2014-09-15 08:17:54.507"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","TELANGANA","KARIMNAGAR","CHIGURUMAMIDI                                     ","2014-09-15 08:34:00.407"
+"KHARIF","AGRICULTURE","Others","Others","	Water Management	","drip","Drip –Godavari- 040-27842092, 9959717505,
+Royal Krishna 9666633759, 9505856006","TELANGANA","KARIMNAGAR","BHEEMDEVARAPALLI                                  ","2014-09-15 09:15:47.070"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","TRIPS IN COTTON","MONO 1.6/L OF WATER","TELANGANA","KARIMNAGAR","ELLANTHAKUNTA                                     ","2014-09-15 10:14:11.260"
+"KHARIF","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","	Plant Protection	","fruit borer in green gram","recommended tracer 75g/acre,plitora 350ml/acre","TELANGANA","KARIMNAGAR","PEDDAPALLI                                        ","2014-09-15 10:52:25.580"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","thunder stream","TELANGANA","KARIMNAGAR","HUZURABAD                                         ","2014-09-15 13:06:24.010"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","fertiliser in cotton","recommonded  following","TELANGANA","KARIMNAGAR","MUTHARAM (MAHADEVPUR)                             ","2014-09-16 09:20:52.750"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in paddy","recomended chloripyriphos 2.5ml/lit water","TELANGANA","KARIMNAGAR","ELKATHURTHI                                       ","2014-09-16 13:29:09.197"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cottn,bacterial disease in paddy","recommended olala75g/acre ,blitex 30g +plantomycin 1g +10lit water","TELANGANA","KARIMNAGAR","ELLANTHAKUNTA                                     ","2014-09-17 13:09:18.663"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice disease","8179236779","TELANGANA","KARIMNAGAR","ELKATHURTHI                                       ","2014-09-18 08:31:00.003"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","toobaco virus in cotton","imedachloprid @.3ml/l water","TELANGANA","KARIMNAGAR","BOINPALLI                                         ","2014-09-18 08:57:54.087"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","thnder stream","TELANGANA","KARIMNAGAR","CHANDURTHI                                        ","2014-09-18 11:37:03.697"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","monocrotofas 2ml/l of water","TELANGANA","KARIMNAGAR","ELKATHURTHI                                       ","2014-09-18 12:59:44.760"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bacterial  disease  in paddy","recomended blitex 30g +plantomycin 1g +10lit water","TELANGANA","KARIMNAGAR","BOINPALLI                                         ","2014-09-18 17:33:21.793"
+"KHARIF","AGRICULTURE","Others","Others","Market Information","veternary no;","contact veternarVETERNARY	040-23311720,  9848406211-koteshwar rao (knr)
+040-24015316
+y no;","TELANGANA","KARIMNAGAR","KATARAM                                           ","2014-09-18 18:58:15.810"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Saturday
+Sep 20
+A t-storm in the afternoon Hi 29°
+
+RealFeel 34°
+ 
+more  Thunderstorms in the area Friday morning through late Friday night
+   
+
+Video Weather Forecast  Asia Weather Forecast 
+Karimnagar Satellite more Weather Satellite > CloseLoading.....
+Karimnagar Weather Map - Nearby PlacesAmbarpet2:35am IST
+28° RealFeel® 31°Winds: 11km/h NNWPrecipitation: 0 mmHourly | Extended  Peddapalli2:35am IST
+29° RealFeel® 39°Winds: 0km/h Precipitation: 0 mmHourly | Extended  Osmannagar2:35am IST
+29° RealFeel® 39°Winds: 0km/h Precipitation: 0 mmHourly | Extended  Vemalwada2:35am IST
+27° RealFeel® 29°Winds: 10km/h WNWPrecipitation: 0 mmHourly | Extended  Sirsilla2:35am IST
+27° RealFeel® 29°Winds: 10km/h WNWPrecipitation: 0 mmHourly | Extended  Pochampalli2:35am IST
+27° RealFeel® 29°Winds: 10km/h WNWPrecipitation: 0 mmHourly | Extended  Tadikal2:35am IST
+28° RealFeel® 31°Winds: 6km/h NWPrecipitation: 1 mmHourly | Extended  Huzurabad2:35am IST
+28° RealFeel® 31°Winds: 6km/h NWPrecipitation: 1 mmHourly | Extended  Hasanabad2:35am IST
+28° RealFeel® 31°Winds: 6km/h NWPrecipitation: 1 mmHourly | Extended  Narasingapuram2:20am IST
+27° RealFeel® 29°Winds: 8km/h NWPrecipitation: 3 mmHourly | Extended  Karimnagar2:35am IST
+27° RealFeel® 29°Winds: 10km/h WNWPrecipitation: 0 mmHourly | Extended  Karimnagar Weather Conditions - Nearby PlacesAmbarpet28°Peddapalli29°Osmannagar29°Vemalwada27°Sirsilla27°Pochampalli27°Tadikal28°Huzurabad28°Hasanabad28°Narasingapuram27°..","TELANGANA","KARIMNAGAR","HUSNABAD                                          ","2014-09-18 21:21:30.940"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","chloripyriphas @2.5ml/lit water","TELANGANA","KARIMNAGAR","JAMMIKUNTA                                        ","2014-09-19 14:03:23.913"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in paddy","recommended chloropyriphos 2.5ml/lit water","TELANGANA","KARIMNAGAR","MUTHARAM (MAHADEVPUR)                             ","2014-09-19 17:57:58.143"
+"KHARIF","AGRICULTURE","Pulses","Moth Bean (kidney bean/ deww gram)","Weed Management","weedicids in gram","spraying of terga super 400ml/acr","TELANGANA","KARIMNAGAR","KATARAM                                           ","2014-09-19 18:10:19.270"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","more 
+
+ 
+
+
+
+Tomorrow
+
+Sep 20
+
+
+A t-storm in the afternoon
+Hi 87°
+
+RealFeel 92°
+ more 
+
+ 
+
+
+
+Sunday
+
+Sep 21
+
+
+A thunderstorm in spots
+Hi 90°
+
+RealFeel 97°
+ more","TELANGANA","KARIMNAGAR","MALLAPUR                                          ","2014-09-19 19:10:53.170"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","TELANGANA","KARIMNAGAR","CHANDURTHI                                        ","2014-09-19 20:39:25.240"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","micro nutrients deficiency in cotton","recommended agrominmax 1kg /acre","TELANGANA","KARIMNAGAR","ELKATHURTHI                                       ","2014-09-19 20:58:51.600"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","powedery mildew in cotton","recomended carbendizim 1g/lit watre","TELANGANA","KARIMNAGAR","KARIMNAGAR                                        ","2014-09-20 08:10:59.763"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Market Information","market rate in cotton","KARIMNAGAR  choppadandi  3.2  Cotton (Unginned)  Tonnes  3600  4100  4000  Rs./Quintal","TELANGANA","KARIMNAGAR","VEMULAWADA                                        ","2014-09-20 09:19:13.037"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Market Information","market rate in cotton","KARIMNAGAR  choppadandi  3.2  Cotton (Unginned)  Tonnes  3600  4100  4000  Rs./Quintal","TELANGANA","KARIMNAGAR","VEMULAWADA                                        ","2014-09-20 09:28:56.950"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in rice","spraying of chlorofirifas 2ml/l of water","TELANGANA","KARIMNAGAR","DHARMAPURI                                        ","2014-09-20 16:08:37.683"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","thrips in cotton","mono 1.6ml/lof water","TELANGANA","KARIMNAGAR","JULAPALLI                                         ","2014-09-20 16:15:50.060"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton fertiliser","agrominimax","TELANGANA","KARIMNAGAR","SULTHANABAD                                       ","2014-09-20 18:21:20.740"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton sucking pest in cotton","chloripyriphas@2.5ml/lit water","TELANGANA","KARIMNAGAR","CHOPPADANDI                                       ","2014-09-20 18:59:26.430"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","thunder storm","TELANGANA","KARIMNAGAR","HUZURABAD                                         ","2014-09-21 14:34:25.190"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","MG SULFATE DEFICIENCY","MG SULFATE 10GM/ L OF WATER","TELANGANA","KARIMNAGAR","CHIGURUMAMIDI                                     ","2014-09-21 14:51:27.537"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","STEM BORER IN RICE","CARBOFURAN 3G 10KG/ACR","TELANGANA","KARIMNAGAR","VEENAVANKA                                        ","2014-09-21 16:25:00.930"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","chances of showers","TELANGANA","KARIMNAGAR","BHEEMDEVARAPALLI                                  ","2014-09-21 16:41:07.070"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","tthunder storm","TELANGANA","KARIMNAGAR","PEGADAPALLI                                       ","2014-09-21 17:31:44.617"
+"JAYAD","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","BOLL DROPPING IN COTTON","[PLANOFIX 5ML/20L OF WATER","TELANGANA","KARIMNAGAR","KOHEDA                                            ","2014-09-21 18:03:51.013"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","RICE STEM BORER","CHLOROFIRIPHOSE 2ML/L OF WATER","TELANGANA","KARIMNAGAR","GAMBHIRAOPET                                      ","2014-09-21 18:11:17.943"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","TELANGANA","KARIMNAGAR","HUZURABAD                                         ","2014-09-22 07:31:29.803"
+"KHARIF","AGRICULTURE","Cereals","Oats ","	Plant Protection	","endutegulu in rice","plantomycine 1gm/l of water","TELANGANA","KARIMNAGAR","DHARMARAM                                         ","2014-09-22 08:49:35.230"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","jassids in cotton","ulala 80gm/acr","TELANGANA","KARIMNAGAR","GAMBHIRAOPET                                      ","2014-09-22 10:32:42.083"
+"KHARIF","HORTICULTURE","Vegetables","Ridge Gourd","	Plant Protection	","jassids in ridge gourd","MALATHION( CYTHION,CHEMITHION,MORE ) 400 ML PER ACRE","TELANGANA","KARIMNAGAR","CHIGURUMAMIDI                                     ","2014-09-22 10:36:40.550"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Today
+
+Sep 22
+
+
+
+A thunderstorm in spots
+90°Lo 73°  more  
+
+
+
+Tue
+
+Sep 23
+
+
+
+Times of clouds and sun
+91°Lo 72°","TELANGANA","KARIMNAGAR","VEENAVANKA                                        ","2014-09-22 11:14:11.010"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","sucking pest","mono 1.6ml/l of water","TELANGANA","KARIMNAGAR","ELKATHURTHI                                       ","2014-09-22 11:48:20.977"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Seeds","rice varities","recommended BPT -5204,MTU -1001,","TELANGANA","KARIMNAGAR","DHARMAPURI                                        ","2014-09-22 12:02:54.750"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","growthinng in cotton","recommended multi k 1kg/acre","TELANGANA","KARIMNAGAR","KATARAM                                           ","2014-09-23 09:57:26.630"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","recommended planofix 2.5ml/10lit water","TELANGANA","KARIMNAGAR","JAMMIKUNTA                                        ","2014-09-23 10:16:36.850"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in paddy","recommended chloripyriphos 2.5ml/lit water","TELANGANA","KARIMNAGAR","ODELA                                             ","2014-09-23 12:03:11.597"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recommended prid 40g/acre","TELANGANA","KARIMNAGAR","CHANDURTHI                                        ","2014-09-23 12:47:41.647"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton sucking pest damage","acetamiprid @.2g/lit water","TELANGANA","KARIMNAGAR","VEENAVANKA                                        ","2014-09-23 14:57:00.010"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","mg deficiency in cotton","recommended magnesium sulphate 1kg/acre","TELANGANA","KARIMNAGAR","BHEEMDEVARAPALLI                                  ","2014-09-23 15:17:52.480"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","root rot in cotton","recommended blitex 3g/lit water","TELANGANA","KARIMNAGAR","ELKATHURTHI                                       ","2014-09-24 10:43:41.973"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","catter piller in cotton","recommended plitora 350ml/acre  catter piller in cotton","TELANGANA","KARIMNAGAR","VEMULAWADA                                        ","2014-09-24 12:27:39.563"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","more 
+
+ 
+
+
+
+Tonight
+
+Sep 24
+
+
+Mainly clear
+Lo 69°
+
+RealFeel 69°
+ more","TELANGANA","KARIMNAGAR","IBRAHIMPATNAM                                     ","2014-09-24 14:02:07.270"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","recommended planofix 2.5ml/10lit water","TELANGANA","KARIMNAGAR","JAMMIKUNTA                                        ","2014-09-24 15:34:28.420"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","ULLIKODU IN RICE","CARBOFURAN3G-10KG/ACR","TELANGANA","KARIMNAGAR","BHEEMDEVARAPALLI                                  ","2014-09-24 16:09:28.707"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","aggi tegulu in rice","trisiclojo@.6g/lit water","TELANGANA","KARIMNAGAR","MUTHARAM (MAHADEVPUR)                             ","2014-09-24 16:29:27.483"
+"KHARIF","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","WILT IN PEGEON PEA","COOC 3GM /L OF WATER","TELANGANA","KARIMNAGAR","CHOPPADANDI                                       ","2014-09-24 17:37:00.570"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Partly sunny
+Hi 90°
+
+RealFeel 100°
+ more 
+
+ 
+
+
+
+Tonight
+
+Sep 24
+
+
+Mainly clear
+Lo 71°
+
+RealFeel 72°
+ more 
+
+ 
+
+
+
+Tomorrow
+
+Sep 25","TELANGANA","KARIMNAGAR","METPALLI                                          ","2014-09-24 17:39:43.937"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","MG deficiency in coton","recommended magnesium sulphate","TELANGANA","KARIMNAGAR","GOLLAPALLI                                        ","2014-09-24 17:55:10.490"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","zink deficiency","zink sulphate @2g/lit water","TELANGANA","KARIMNAGAR","SAIDAPUR                                          ","2014-09-24 19:01:28.257"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","REDDENING OF LEAF RICE","CARBENDAZIM (BAVISTIN, DEROSAL, CARBENDAZIM) 200 GRAMS PER ACRE","TELANGANA","KARIMNAGAR","SAIDAPUR                                          ","2014-09-24 19:20:04.677"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","TELANGANA","KARIMNAGAR","DHARMAPURI                                        ","2014-09-24 20:06:08.453"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","WIT IN COTTON","COC 3ML/L OF WATER","TELANGANA","KARIMNAGAR","CHANDURTHI                                        ","2014-09-25 08:30:11.303"
+"KHARIF","AGRICULTURE","Others","Others","Sowing Time and Weather","WEATHER REPORT","CHANCE TO RAIN","TELANGANA","KARIMNAGAR","MAHADEVPUR                                        ","2014-09-25 09:20:41.730"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","LEAF CURLING IN COTTONN","MONO 1.6ML/L OF WATER","TELANGANA","KARIMNAGAR","CHOPPADANDI                                       ","2014-09-25 09:49:02.530"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather eport","no rain","TELANGANA","KARIMNAGAR","HUZURABAD                                         ","2014-09-25 13:17:44.310"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Sunny to partly cloudy Hi 33°
+
+RealFeel 37°
+ 
+more Tonight
+Sep 25","TELANGANA","KARIMNAGAR","SIRCILLA                                          ","2014-09-25 15:14:54.557"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","CATTER PILLER","recomended plitora350 ml/acre","TELANGANA","KARIMNAGAR","JAMMIKUNTA                                        ","2014-09-25 17:39:49.757"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","ulala@75g/acre","TELANGANA","KARIMNAGAR","BHEEMDEVARAPALLI                                  ","2014-09-25 18:07:12.207"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","45 days after weed management in paddy","not recomended","TELANGANA","KARIMNAGAR","SARANGAPUR                                        ","2014-09-25 18:59:49.143"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","LEAF DRIED IN COTTON","COC 3ML/L OF WATER","TELANGANA","KARIMNAGAR","DHARMARAM                                         ","2014-09-26 06:43:03.757"
+"KHARIF","AGRICULTURE","Oilseeds","Sesame (Gingelly/Til)/Sesamum","Weed Management","WEEDICID IN SESAMUM CROP AT 15 DAS","NO RECOMMENDED","TELANGANA","KARIMNAGAR","KATARAM                                           ","2014-09-27 07:57:53.150"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","ZN DEFICICENCY","ZN SULFATE 2GM/L OF WATER","TELANGANA","KARIMNAGAR","KAMANPUR                                          ","2014-09-27 08:02:59.897"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","TELANGANA","KARIMNAGAR","CHIGURUMAMIDI                                     ","2014-09-27 08:37:46.670"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","STEM IN RICE","CARBOFURAN(FURAN ,TATA FURAN ) 10 KGS/ACRE","TELANGANA","KARIMNAGAR","KATARAM                                           ","2014-09-27 08:52:14.977"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER  REPORT","CLOUDY AND THUNDER STROME","TELANGANA","KARIMNAGAR","KONARAOPET                                        ","2014-09-27 09:29:23.427"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","REDDENING OF LEAFS","COC 30GM AND PLANTOMYCIN 1GM/10L OF WATER","TELANGANA","KARIMNAGAR","HUZURABAD                                         ","2014-09-27 09:39:49.683"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","MG DEFICIENCY","SPRAYING OF MG SULFATE 10GM/L OF WATER","TELANGANA","KARIMNAGAR","KAMANPUR                                          ","2014-09-27 12:56:25.253"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","NO RAIN","TELANGANA","KARIMNAGAR","MAHADEVPUR                                        ","2014-09-27 14:38:49.497"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","STEM BORER IN RICE","CARBOFURAN 3G 10KG/ACR","TELANGANA","KARIMNAGAR","KOHEDA                                            ","2014-09-27 15:30:37.293"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","MG DEFICIENCY","MG SULFATE 10GM/ACR","TELANGANA","KARIMNAGAR","GAMBHIRAOPET                                      ","2014-09-27 15:46:39.270"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Fertilizer Use and Availability","mg deficiency","mg sulphate @10g/lit water","TELANGANA","KARIMNAGAR","BEJANKI                                           ","2014-09-28 12:31:40.477"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Partly sunny Hi 33°
+
+RealFeel 39°
+ 
+more Tonight
+Sep 28
+Mainly clear Lo 22°
+
+RealFeel 22°
+ 
+more Tomorrow
+Sep 29
+Partly sunny Hi 34","TELANGANA","KARIMNAGAR","PEDDAPALLI                                        ","2014-09-28 14:22:01.620"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","reddening of leaf","recommended to spray of magnesium sulphate 10 grams per litre","TELANGANA","KARIMNAGAR","JAGTIAL                                           ","2014-09-28 15:34:30.843"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","leaf curling in chilli","pegases 300gm/acr","TELANGANA","KARIMNAGAR","PEDDAPALLI                                        ","2014-09-28 15:46:56.553"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","TELANGANA","KARIMNAGAR","KATARAM                                           ","2014-09-28 16:01:53.280"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended acephate 1.5g/lit water","TELANGANA","KARIMNAGAR","MANTHANI                                          ","2014-09-28 16:03:04.407"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower dropping in cotton","planofix5ml/20l of water","TELANGANA","KARIMNAGAR","KATHALAPUR                                        ","2014-09-28 16:12:49.063"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","RECOMMENDED TO SPRAY CHLOFENPYRPHOS  (INTRAPRID, LEPIDO) 300 ML PER ACRE","TELANGANA","KARIMNAGAR","ODELA                                             ","2014-09-28 16:24:25.443"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","planofix 5ml/20l of water","TELANGANA","KARIMNAGAR","BHEEMDEVARAPALLI                                  ","2014-09-29 07:58:47.840"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","TELANGANA","KARIMNAGAR","HUSNABAD                                          ","2014-09-29 12:13:56.847"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","STEM BORER IN RICE","CHKLOROFIPHOSE 2ML/L OF WATER","TELANGANA","KARIMNAGAR","ELKATHURTHI                                       ","2014-09-29 12:19:24.483"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","TELANGANA","KARIMNAGAR","DHARMAPURI                                        ","2014-09-29 13:32:11.777"
+"RABI","AGRICULTURE","Others","Others","Weather","weather informtion","normal","TELANGANA","KARIMNAGAR","HUZURABAD                                         ","2014-09-30 16:03:54.687"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rats damage in rice","zink phosphid @rice@oil","TELANGANA","KARIMNAGAR","BHEEMDEVARAPALLI                                  ","2014-09-30 19:23:38.133"

@@ -1,0 +1,727 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","","","","wether reporet","thunderstorm 34°Lo 25° Thu
+Sep 4
+A t-storm in the afternoon","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-03 11:36:16.907"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","mg  deficiency","recommended  mgso410g/lit","ANDHRA PRADESH","KURNOOL","C.BELAGAL                                         ","2014-09-04 13:17:31.037"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","A couple of thunderstorms 28°Lo 23° Sun
+Sep 7","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-06 13:30:19.720"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weed Management","weedicide in paddy","recomended nominigold 100ml/acre  ,o.5ml/lit","ANDHRA PRADESH","KURNOOL","MAHANANDI                                         ","2014-09-06 17:08:28.520"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest","acephate  1.5 gr/lt water","ANDHRA PRADESH","KURNOOL","KURNOOL                                           ","2014-09-06 17:35:27.503"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","root rot in cotton","recomended blitex 3g /lit water","ANDHRA PRADESH","KURNOOL","TUGGALI                                           ","2014-09-06 17:52:06.717"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton pest (dhoma)","ulala @75g/lit","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-06 18:21:01.383"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest","confidor 60ml/acre","ANDHRA PRADESH","KURNOOL","PATTIKONDA                                        ","2014-09-06 19:54:48.830"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast","recommended tricyclazole 200g/acre","ANDHRA PRADESH","KURNOOL","KODUMUR                                           ","2014-09-07 12:40:54.893"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","planofix 5ml/10l of water","ANDHRA PRADESH","KURNOOL","PEAPULLY","2014-09-07 14:26:51.287"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","tomato pina machhalu vastunay","mancozeb 400gm/acr","ANDHRA PRADESH","KURNOOL","PATTIKONDA                                        ","2014-09-07 14:38:52.923"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","suking pest","confidar","ANDHRA PRADESH","KURNOOL","ALUR                                              ","2014-09-07 15:23:43.673"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion  mgmt","MANCOZEB (DITHANE M-45, INDOFIL M-45, MANJET)  500-600 GRAMS  PER ACRE","ANDHRA PRADESH","KURNOOL","GUDUR                                             ","2014-09-07 15:25:35.520"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion tips dropping","propanophas@ 2ml","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-07 16:30:05.513"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","thrips damage","acephate @1.5g","ANDHRA PRADESH","KURNOOL","CHAGALAMARRI                                      ","2014-09-07 17:12:38.997"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paddy weedicide","PRETILACHLOR (RIFIT ) 500 ML PER ACRE","ANDHRA PRADESH","KURNOOL","ALLAGADDA                                         ","2014-09-07 17:34:51.630"
+"KHARIF","AGRICULTURE","Others","Others","Weed Management","weedicide recommondation","paraquat","ANDHRA PRADESH","KURNOOL","C.BELAGAL                                         ","2014-09-07 18:31:31.807"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","patti edugudala kosam","multi-k 1kg/acr","ANDHRA PRADESH","KURNOOL","KURNOOL                                           ","2014-09-07 18:45:14.840"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","VANGA LO KAYA,KOMMA THOLUCHU PURUGU","TRAZER 70ML/ACR","ANDHRA PRADESH","KURNOOL","ORVAKAL                                           ","2014-09-08 07:11:38.740"
+"KHARIF","HORTICULTURE","Fruits","Citrus","Nutrient Management","fl0wering in citrus","recommended multik/1kg/acre","ANDHRA PRADESH","KURNOOL","NANDYAL                                           ","2014-09-08 08:31:11.270"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton leaves are turning into red colour","recommended magnisium sulphate 10gm /litre","ANDHRA PRADESH","KURNOOL","GADIVEMULA                                        ","2014-09-09 07:35:33.397"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paddy stem borer","recommended KORAZIN 80 ml/ acre","ANDHRA PRADESH","KURNOOL","ALUR                                              ","2014-09-09 07:41:20.160"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton flower drop","recommended planofix 2ml/ 10 litres of water","ANDHRA PRADESH","KURNOOL","ALUR                                              ","2014-09-09 08:12:09.570"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","COTTON CROP NIPPING","ONLY 45 days","ANDHRA PRADESH","KURNOOL","PEDDAKADABUR                                      ","2014-09-09 12:23:58.747"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","growthing in cotton","recommended multi k 1kg/acre","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-10 06:47:19.103"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","planofix 2.5ml/10lit water","ANDHRA PRADESH","KURNOOL","HALAHARVI                                         ","2014-09-10 09:19:17.630"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","mg deficiency","mgso4 10g/lit water","ANDHRA PRADESH","KURNOOL","CHAGALAMARRI                                      ","2014-09-10 11:06:57.850"
+"KHARIF","AGRICULTURE","Oilseeds","Sesame (Gingelly/Til)/Sesamum","Soil Testing","sowing time","sowing in january","ANDHRA PRADESH","KURNOOL","HOLAGUNDA                                         ","2014-09-10 12:25:25.760"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower ,growth","agrominmax 1kg/multi k/1kg/acre","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-10 14:48:51.853"
+"KHARIF","AGRICULTURE","Others","Others","Weather","wethr","thndr strm","ANDHRA PRADESH","KURNOOL","NANDIKOTKUR                                       ","2014-09-10 15:27:02.540"
+"KHARIF","AGRICULTURE","Others","Others","Cultural Practices","mkt rate","Market rate	1800-208-2081","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-10 15:33:56.797"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","SHOOT borerin brinjal","recomended profenophos 2ml/lit water","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-10 16:19:57.323"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest","confidor 60ml/acre","ANDHRA PRADESH","KURNOOL","PATTIKONDA                                        ","2014-09-10 16:44:40.600"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","up ward curling","zolan 400ml/acre","ANDHRA PRADESH","KURNOOL","KODUMUR                                           ","2014-09-10 16:49:33.660"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Sowing Time and Weather","sowing time in maize","recomended sowing in octomber","ANDHRA PRADESH","KURNOOL","KALLUR                                            ","2014-09-10 16:59:40.857"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","leaf folder in ground nut","cloripyriphos 2.5ml/lit water","ANDHRA PRADESH","KURNOOL","GADIVEMULA                                        ","2014-09-10 17:06:32.847"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","eruvlu","urea 25kg/acr","ANDHRA PRADESH","KURNOOL","PAGIDYALA                                         ","2014-09-10 17:11:24.247"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","root rot in cotton","blitex3g/lit water","ANDHRA PRADESH","KURNOOL","KOSIGI                                            ","2014-09-10 17:22:23.697"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stemborer in paddy","recomended corazine 80ml/acre","ANDHRA PRADESH","KURNOOL","KALLUR                                            ","2014-09-10 17:28:58.810"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice blast","tricyclazole ,bheem 0.6ml/lit water","ANDHRA PRADESH","KURNOOL","KOLIMIGUNDLA                                      ","2014-09-10 18:09:53.063"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","GROwthig in coton","multik 1kg/agromin max 1kg /acre","ANDHRA PRADESH","KURNOOL","YEMMIGANUR                                        ","2014-09-11 09:00:05.277"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","root rot in cotton","blirex 3g/lit water , multik ,znso4","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-11 09:25:51.830"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","root rot in cotton","recommended blitex3g/li water","ANDHRA PRADESH","KURNOOL","GONEGANDLA                                        ","2014-09-11 12:02:48.920"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Tomorrow
+
+Sep 12
+
+
+Cloudy
+Hi 32°
+
+RealFeel 34°
+ more 
+
+ 
+ 
+
+
+Video Weather Forecast
+
+
+Sep 8, 2014; 5:00 AM ET Flooding is a concern in Mumbai.
+
+ Asia Weather Forecast 
+   
+
+ 
+
+
+Kurnool Satellite 
+ 
+
+  
+
+more Weather Satellite > 
+  
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+India, Pakistan Flooding Claims More Lives
+
+September 11, 2014; 4:36 AM ET
+
+After already claiming more than 400 lives across the two countries flooding issues start flowing slowly downstream. more >
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kurnool Weather Map - Nearby Places
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Kurnool Weather Conditions - Nearby Places
+
+
+
+Vyaparla
+31°Vyaparla weather - Clouds and sun
+
+
+
+Narayanpur
+31°Narayanpur weather - Clouds and sun
+
+
+
+Rajavolu
+33°Rajavolu weather - Mostly cloudy
+
+
+
+Alampur
+33°Alampur weather - Mostly cloudy
+
+
+
+Nandikotkur
+30°Nandikotkur weather - Clouds and sun
+
+
+
+Guduru
+31°Guduru weather - Partly sunny
+
+
+
+Kuruva Nagalapuram
+33°Kuruva Nagalapuram weather - Mostly cloudy
+
+
+
+Narnuru
+33°Narnuru weather - Mostly cloudy
+
+
+
+Varakuru
+33°Varakuru weather - Mostly cloudy
+
+
+
+Ulindakonda
+33°Ulindakonda weather - Mostly cloudy
+
+.
+
+
+
+.","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-11 15:23:17.893"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-11 15:28:36.617"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","cloudy","ANDHRA PRADESH","KURNOOL","PAMULAPADU                                        ","2014-09-11 15:29:09.720"
+"KHARIF","HORTICULTURE","Vegetables","Ridge Gourd","	Plant Protection	","leaf curl in","phn:HORTICULTURE	1800-425-0080, 1800-425-0040","ANDHRA PRADESH","KURNOOL","DHONE ALIAS DRONACHALAM                           ","2014-09-11 15:34:39.870"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","zink deficiency","zink sulphate","ANDHRA PRADESH","KURNOOL","YEMMIGANUR                                        ","2014-09-11 16:57:16.820"
+"KHARIF","AGRICULTURE","Oilseeds","Castor (Rehri, Rendi, Arandi) ","Government Schemes","caster market rate","3200-3785/qutl","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-11 18:17:01.787"
+"KHARIF","AGRICULTURE","Others","Others","Weed Management","weather","thunder stream","ANDHRA PRADESH","KURNOOL","TUGGALI                                           ","2014-09-11 20:59:45.270"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","RealFeel® 0° 
+ 
+
+Hourly Forecast
+
+
+
+
+Today
+
+Sep 12
+
+
+Cloudy
+Hi 90°
+
+RealFeel 94°
+ more","ANDHRA PRADESH","KURNOOL","DHONE ALIAS DRONACHALAM                           ","2014-09-12 07:30:18.927"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bacterial disease","blitex 30g+plantomycin 1g+10kgwater","ANDHRA PRADESH","KURNOOL","GONEGANDLA                                        ","2014-09-12 08:11:25.347"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Cloudy
+90°Lo 75°   
+
+
+
+Sat
+
+Sep 13
+
+
+
+A t-storm around in the p.m.
+90°Lo 76°  more  
+
+
+
+Sun
+
+Sep 14
+
+
+
+Cloudy with a few showers
+90°Lo 75°  more","ANDHRA PRADESH","KURNOOL","DHONE ALIAS DRONACHALAM                           ","2014-09-12 10:12:06.817"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","suking pest in cotton","chloripyriphas 3ml/lit wtr","ANDHRA PRADESH","KURNOOL","YEMMIGANUR                                        ","2014-09-12 14:46:18.783"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton flower drop","recommended planofix 2ml/ 10 litre water","ANDHRA PRADESH","KURNOOL","KOILAKUNTLA","2014-09-12 15:02:41.923"
+"KHARIF","AGRICULTURE","Oilseeds","Castor (Rehri, Rendi, Arandi) ","	Plant Protection	","dasari purugu damage in castor","carbaril@3g/lit wtr","ANDHRA PRADESH","KURNOOL","KURNOOL                                           ","2014-09-12 15:06:21.327"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","thrips in cotton","ulala 80 ml/acr","ANDHRA PRADESH","KURNOOL","KOSIGI                                            ","2014-09-12 17:29:55.913"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","thrips in cotton","ulala 80ml/acr","ANDHRA PRADESH","KURNOOL","ATMAKUR                                           ","2014-09-12 18:30:45.620"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","KURNOOL","YEMMIGANUR                                        ","2014-09-12 21:00:20.833"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton flower drop","recommended planofix 2ml/10 litre of water","ANDHRA PRADESH","KURNOOL","KALLUR                                            ","2014-09-12 21:18:11.593"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower dropping in cotton","planofix 5ml/20l of water","ANDHRA PRADESH","KURNOOL","ORVAKAL                                           ","2014-09-13 10:33:36.907"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","trips in cotton","ulala 80ml/acr","ANDHRA PRADESH","KURNOOL","DEVANAKONDA                                       ","2014-09-13 11:42:46.703"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","zn deficieny in coton","recomended spraing in znso4","ANDHRA PRADESH","KURNOOL","GONEGANDLA                                        ","2014-09-13 15:15:56.760"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","leaf folder in ground nut","recomended cloropyriphos 2ml/lit water","ANDHRA PRADESH","KURNOOL","ASPARI                                            ","2014-09-13 15:57:23.637"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","growthing in cotton","recomended multi k 1kg /acre","ANDHRA PRADESH","KURNOOL","VELUGODU","2014-09-13 15:59:49.720"
+"KHARIF","AGRICULTURE","Others","Others","Weed Management","power weeder","contact no;040-24015011","ANDHRA PRADESH","KURNOOL","KOILAKUNTLA","2014-09-13 16:08:47.830"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended acphate 300g/acre","ANDHRA PRADESH","KURNOOL","DEVANAKONDA                                       ","2014-09-13 17:36:09.647"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","A thunderstorm in spots early Lo 24°
+
+RealFeel 24°
+ 
+more Tomorrow
+Sep 14
+A p.m. t-storm in spots Hi 32°
+
+RealFeel 35°
+ 
+more Monday
+Sep 15
+Cloudy with a t-storm or two Hi 31°
+
+RealFeel 36°
+ 
+more","ANDHRA PRADESH","KURNOOL","DHONE ALIAS DRONACHALAM                           ","2014-09-13 18:44:49.163"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","growthing in cotton","urea 20g /lit watre","ANDHRA PRADESH","KURNOOL","JUPADU BUNGALOW                                   ","2014-09-13 19:41:07.620"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","planofix 2.5ml/10lit water","ANDHRA PRADESH","KURNOOL","KURNOOL                                           ","2014-09-14 10:20:17.157"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pestb in coton ,flower drop in cotton","recomended olala 75g/acre, planofix 2.5ml/10lit water","ANDHRA PRADESH","KURNOOL","ORVAKAL                                           ","2014-09-14 11:19:36.340"
+"KHARIF","AGRICULTURE","Oilseeds","Castor (Rehri, Rendi, Arandi) ","	Plant Protection	","bihar hairy catterpiller","recomended cloripyriphos 2.5ml/acephate1.5ml/lit water","ANDHRA PRADESH","KURNOOL","DORNIPADU                                         ","2014-09-14 13:33:41.053"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer  in paddy","recomended carbofuran 10kg/acre","ANDHRA PRADESH","KURNOOL","DEVANAKONDA                                       ","2014-09-14 13:52:37.227"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","leaf hopper damage in rice","ulala","ANDHRA PRADESH","KURNOOL","DEVANAKONDA                                       ","2014-09-14 13:59:08.003"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","leaf hopper  and  whitefly damage in rice","confider @1ml/litwter","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-14 14:10:44.223"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","mg deficiency","mg sulphate 10gm/l","ANDHRA PRADESH","KURNOOL","ATMAKUR                                           ","2014-09-14 14:28:23.607"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","ground nut leaf folding","spraying of monocrophas 1.6 ml/lit water","ANDHRA PRADESH","KURNOOL","BETHAMCHERLA                                      ","2014-09-14 14:58:08.687"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","recomended planofix 2.5ml/litb water","ANDHRA PRADESH","KURNOOL","DEVANAKONDA                                       ","2014-09-14 15:01:45.820"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Market Information","Bengal gram market rate","min 2700rs/q-3000rs/q","ANDHRA PRADESH","KURNOOL","BANAGANAPALLE                                     ","2014-09-14 15:40:39.403"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","chilli leaf curl","recommended pegasis 1.5gm/litre","ANDHRA PRADESH","KURNOOL","ALLAGADDA                                         ","2014-09-14 16:29:15.967"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","thips in cotton","MONOCROTOPHOS(NUVACRON, PHOSKIL, LUPHOS) 400 ML PER ACRE","ANDHRA PRADESH","KURNOOL","GUDUR                                             ","2014-09-14 16:42:49.810"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","growthing in chilli","recomended agrominmax 1kg","ANDHRA PRADESH","KURNOOL","PAMULAPADU                                        ","2014-09-14 17:03:44.677"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bacterial disease in paddy","recomended blitex 30g+plantomycin 1g+ 10lit water","ANDHRA PRADESH","KURNOOL","MAHANANDI                                         ","2014-09-14 17:56:09.560"
+"RABI","AGRICULTURE","Pulses","Black Gram (urd bean)","Sowing Time and Weather","sowing time of black gram","october","ANDHRA PRADESH","KURNOOL","BANAGANAPALLE                                     ","2014-09-14 18:03:57.220"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","vegetative growth in growth","multi-k 1kg/acr","ANDHRA PRADESH","KURNOOL","BANDI ATMAKUR                                     ","2014-09-14 19:12:46.100"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","KURNOOL","BANAGANAPALLE                                     ","2014-09-14 19:48:56.170"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","KURNOOL","BANAGANAPALLE                                     ","2014-09-14 19:48:57.530"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","KURNOOL","KOWTHALAM                                         ","2014-09-15 07:06:06.590"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","VEGETATIVE GROWTH IN COTTON","MULTI-K 1KG/ACR","ANDHRA PRADESH","KURNOOL","KALLUR                                            ","2014-09-15 07:13:13.700"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","THRIPS IN COTTON","SPRYING OF MONOCHROTOPHOS 1.6M/L OF WATER","ANDHRA PRADESH","KURNOOL","ASPARI                                            ","2014-09-15 07:26:36.597"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","MG DEFICIENCY","MG SULFATE 10GM/L OF WATER","ANDHRA PRADESH","KURNOOL","HOLAGUNDA                                         ","2014-09-15 07:38:12.357"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","groundnut blight damage","ferm chemical","ANDHRA PRADESH","KURNOOL","GUDUR                                             ","2014-09-15 08:51:13.790"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","KURNOOL","KOTHAPALLE                                        ","2014-09-15 09:07:47.410"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mealy bug in cotton","recommended astaf1.5g/lit ,profenophos 2ml/li water","ANDHRA PRADESH","KURNOOL","VELUGODU","2014-09-15 10:38:48.320"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton leaf curling","recommended pipronil 2ml/litre","ANDHRA PRADESH","KURNOOL","KOLIMIGUNDLA                                      ","2014-09-15 12:13:49.413"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","ground nut leaf holder","chloripyriphas@2ml/lit water","ANDHRA PRADESH","KURNOOL","ASPARI                                            ","2014-09-16 14:00:40.273"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","megnesium damage in cotton","magnesium sulphate@10g/lit water","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-18 07:17:47.087"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","mirchi root damage","phorate @10/acre /6kgs","ANDHRA PRADESH","KURNOOL","KOSIGI                                            ","2014-09-18 11:02:30.383"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","acetamipride @.2g/lit water","ANDHRA PRADESH","KURNOOL","KALLUR                                            ","2014-09-18 11:26:32.053"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg deficiency","magnesium sulphate @10g/lit water","ANDHRA PRADESH","KURNOOL","C.BELAGAL                                         ","2014-09-18 11:40:34.690"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather  information","thunder stream","ANDHRA PRADESH","KURNOOL","ALUR                                              ","2014-09-18 11:56:49.793"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","white fly damage in cotton","imedachlopride @2oows@.4ml/lit water=
+multi k 1 kg/ac or agrominmax 1kg/ac","ANDHRA PRADESH","KURNOOL","GUDUR                                             ","2014-09-18 12:36:53.863"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice blast damage","corbendizum@3g/lit water","ANDHRA PRADESH","KURNOOL","BANDI ATMAKUR                                     ","2014-09-18 12:42:07.250"
+"KHARIF","HORTICULTURE","Fruits","Pomegranate","Seeds and Planting Material","pomegranate variety","ganesh","ANDHRA PRADESH","KURNOOL","BANAGANAPALLE                                     ","2014-09-18 12:56:14.553"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","planofix 5ml/20 of water","ANDHRA PRADESH","KURNOOL","DHONE ALIAS DRONACHALAM                           ","2014-09-18 14:16:52.843"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","root rot in chilli","recomended blitex 3g/lit water","ANDHRA PRADESH","KURNOOL","MIDTHUR                                           ","2014-09-18 14:27:52.440"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","up ward and down ward culing in chilli","recomended zolan 400ml/acre","ANDHRA PRADESH","KURNOOL","ASPARI                                            ","2014-09-18 16:03:09.543"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","fertilizers in cotton","recomended 1urea,20kg potash","ANDHRA PRADESH","KURNOOL","MIDTHUR                                           ","2014-09-18 18:18:21.077"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","root rot in cotton","recomended blitex 3g/lit water","ANDHRA PRADESH","KURNOOL","KALLUR                                            ","2014-09-18 18:26:19.247"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","zn deficiency","recomended zinc sulphate 2g /lit water","ANDHRA PRADESH","KURNOOL","VELDURTHI                                         ","2014-09-18 20:56:14.843"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","chloripyriphas @2.5ml/lit water","ANDHRA PRADESH","KURNOOL","BETHAMCHERLA                                      ","2014-09-19 08:58:16.790"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Market Information","market information","Market rate	1800-208-2081/18001038616.","ANDHRA PRADESH","KURNOOL","GUDUR                                             ","2014-09-19 12:21:20.080"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton leaves dropping","mg sulphate @10g/lit water","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-19 12:50:15.737"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Field Preparation	","best seeds of cotton","not recommended","ANDHRA PRADESH","KURNOOL","VELDURTHI                                         ","2014-09-19 12:57:55.270"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","thrips in cotton","confidar super 60ml/acr","ANDHRA PRADESH","KURNOOL","KALLUR                                            ","2014-09-19 16:56:32.567"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","leaf folding in chilli","spraying of pegases 300gm/acr","ANDHRA PRADESH","KURNOOL","HALAHARVI                                         ","2014-09-19 17:58:42.760"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","THRIPS IN GROUND NUT","MONO 1.6ML/L OF WATER","ANDHRA PRADESH","KURNOOL","KOSIGI                                            ","2014-09-19 18:56:45.330"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","CHILLI PLANTS DIED","SPRAYING OF COC 3GM/L OF WATER","ANDHRA PRADESH","KURNOOL","ASPARI                                            ","2014-09-19 19:21:40.507"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","KURNOOL","HALAHARVI                                         ","2014-09-19 19:51:03.300"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","ZINCK DEF RICE","ZINK SULFATE 2GM/L OF WATER","ANDHRA PRADESH","KURNOOL","NANDYAL                                           ","2014-09-19 19:56:26.557"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","KURNOOL","DHONE ALIAS DRONACHALAM                           ","2014-09-19 20:15:27.310"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","sucking pest in paddy","recommended astaf 1.5g/lit water","ANDHRA PRADESH","KURNOOL","RUDRAVARAM                                        ","2014-09-19 20:31:09.853"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recommended prid 40g /acre","ANDHRA PRADESH","KURNOOL","GUDUR                                             ","2014-09-19 21:13:50.570"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weed Management","WEED management in paddy","recommended pretilachlor 500ml/25kg sand","ANDHRA PRADESH","KURNOOL","GOSPADU                                           ","2014-09-19 21:29:26.693"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","black spots in tomato","recommended clorotalonil 2.5g/lit water","ANDHRA PRADESH","KURNOOL","VELDURTHI                                         ","2014-09-19 21:47:14.033"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended astaf 1.5g/lit water,mgso4 10g/lit water","ANDHRA PRADESH","KURNOOL","YEMMIGANUR                                        ","2014-09-20 07:55:17.630"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","recomended planofix 2.5ml/10lit water","ANDHRA PRADESH","KURNOOL","PAGIDYALA                                         ","2014-09-20 08:22:48.923"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Fertilizer Use and Availability","fertilizers in cotton","recomended 1bag urea , 25kg potash","ANDHRA PRADESH","KURNOOL","GADIVEMULA                                        ","2014-09-20 13:34:14.727"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flwer drop in  cotton","planofix 2.5ml/10lit water","ANDHRA PRADESH","KURNOOL","KOWTHALAM                                         ","2014-09-20 14:06:55.650"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice disease","hexaconojal @2ml/lit water","ANDHRA PRADESH","KURNOOL","NANDYAL                                           ","2014-09-20 15:38:29.740"
+"KHARIF","HORTICULTURE","Flowers","Chrysanthemum","	Plant Protection	","chamanthi damage due to rains","coc@3g/lit water","ANDHRA PRADESH","KURNOOL","BETHAMCHERLA                                      ","2014-09-20 15:41:43.680"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","KURNOOL","CHIPPAGIRI                                        ","2014-09-20 16:03:22.300"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","VERUKULLU IN CHILLI","PHORATE 6KG/ACR","ANDHRA PRADESH","KURNOOL","MIDTHUR                                           ","2014-09-20 17:37:05.590"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","KURNOOL","ALLAGADDA                                         ","2014-09-20 17:39:43.227"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Market Information","market information","cotton price","ANDHRA PRADESH","KURNOOL","GUDUR                                             ","2014-09-20 19:15:10.227"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","KURNOOL","ATMAKUR                                           ","2014-09-20 20:58:40.030"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","planofix@2ml/10lit water","ANDHRA PRADESH","KURNOOL","KRISHNAGIRI                                       ","2014-09-21 14:44:10.253"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","STEM BORER IN RICE","CARBOFURAN 3G 10KG/ACR","ANDHRA PRADESH","KURNOOL","RUDRAVARAM                                        ","2014-09-21 14:48:52.420"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","Fertilizer Use and Availability","ground nut fertiliser","followed recommonded practices","ANDHRA PRADESH","KURNOOL","KRISHNAGIRI                                       ","2014-09-21 15:29:40.493"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","Fertilizer Use and Availability","ground nut fertiliser","followed recommonded practices","ANDHRA PRADESH","KURNOOL","KRISHNAGIRI                                       ","2014-09-21 15:33:49.190"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","THRIPS IN COTTON","MONO 1.6ML/L","ANDHRA PRADESH","KURNOOL","MIDTHUR                                           ","2014-09-21 15:58:44.890"
+"KHARIF","HORTICULTURE","Vegetables","Beans ","	Plant Protection	","beans fertiliser","recommonded practices followed","ANDHRA PRADESH","KURNOOL","MIDTHUR                                           ","2014-09-21 16:22:10.537"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-21 16:45:23.020"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg deficiency","mg sulphate @10g/lit water","ANDHRA PRADESH","KURNOOL","KRISHNAGIRI                                       ","2014-09-21 16:45:25.737"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","komma andu disease","propinoconajal@200ml/acre","ANDHRA PRADESH","KURNOOL","ALLAGADDA                                         ","2014-09-21 17:50:34.400"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Sowing Time and Weather","SOWING TIME OF CTOON","SEPTEMBER","ANDHRA PRADESH","KURNOOL","GADIVEMULA                                        ","2014-09-21 18:53:52.520"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","ZN DEFICIECY","ZN SULFATE 2GM/L OF WATER","ANDHRA PRADESH","KURNOOL","NANDIKOTKUR                                       ","2014-09-21 19:00:13.620"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","MIRCHI LEAF FOLDING","PEGESES 300GM/ACR","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-21 19:10:03.577"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","THRIPS N COTTON","ULALA 80GM/ACR","ANDHRA PRADESH","KURNOOL","MADDIKERA (EAST)                                  ","2014-09-21 19:16:32.113"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","PENU BANKA,DOMA IN COTTON","ULALA 80GM/ACR","ANDHRA PRADESH","KURNOOL","GADIVEMULA                                        ","2014-09-21 19:29:05.083"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER INFORMATION","thunder storm","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-21 21:28:14.210"
+"KHARIF","AGRICULTURE","Pulses","Black Gram (urd bean)","	Plant Protection	","sowing time of pegean pea","sep-oct","ANDHRA PRADESH","KURNOOL","MIDTHUR                                           ","2014-09-22 08:57:24.087"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","vegetative growth in cotton","multi-k 1kg/acr","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-22 10:41:34.400"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","more 
+
+ 
+
+
+
+Tonight
+
+Sep 22
+
+
+An evening thunderstorm
+Lo 23°
+
+RealFeel 24°
+ more","ANDHRA PRADESH","KURNOOL","HALAHARVI                                         ","2014-09-22 13:29:20.490"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended olala 75g/acre","ANDHRA PRADESH","KURNOOL","GONEGANDLA                                        ","2014-09-22 18:18:58.390"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended olala75g/acre","ANDHRA PRADESH","KURNOOL","GUDUR                                             ","2014-09-22 20:37:43.623"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cottn","recommended planofix 2.5ml/10lit water","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-23 09:11:55.087"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","rice stem borer","recommended  CARBOFURAN(FURADAN,TATAFURAN)10 KG PER ACRE    ????????????? ??????? (????????,????????????) ?????? 10 ??????","ANDHRA PRADESH","KURNOOL","NANDYAL                                           ","2014-09-23 09:51:30.553"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Market Information","onion rate","KURNOOL  
+
+kurnool  
+0  Local  Tonnes  750  1355  1150  Rs./Quintal 
+
+POTTI","ANDHRA PRADESH","KURNOOL","C.BELAGAL                                         ","2014-09-23 13:29:16.993"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","sucking pest in chilli","recommended pegasis 300g/acre   ,agrominmax 1kg/acre","ANDHRA PRADESH","KURNOOL","ORVAKAL                                           ","2014-09-23 13:37:16.357"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","upward culing in chilli","recommended pegasis 300g/acre","ANDHRA PRADESH","KURNOOL","ASPARI                                            ","2014-09-23 15:20:21.863"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","catter pilar in bengalgram","recommended astaf 1g/lit water","ANDHRA PRADESH","KURNOOL","MAHANANDI                                         ","2014-09-23 15:40:31.513"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mealy bug in cotton","recommended profenophos 2ml/lit water","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-23 16:43:38.510"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Field Preparation	","sowing time of bengal dram","oct-nov","ANDHRA PRADESH","KURNOOL","BANAGANAPALLE                                     ","2014-09-23 17:52:55.407"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","tomato disease","steptomycin &blitox","ANDHRA PRADESH","KURNOOL","DEVANAKONDA                                       ","2014-09-23 18:02:06.020"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","chloripyriphas @2ml/lit water","ANDHRA PRADESH","KURNOOL","PATTIKONDA                                        ","2014-09-23 18:17:49.293"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","/coragen@60ml/acre","ANDHRA PRADESH","KURNOOL","PATTIKONDA                                        ","2014-09-23 18:22:54.907"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg deficiency","mg sulphate @10/lit water","ANDHRA PRADESH","KURNOOL","PATTIKONDA                                        ","2014-09-23 18:50:21.147"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","leaf curl damage in chilli","JOLON @400ML/ACRE","ANDHRA PRADESH","KURNOOL","PEAPULLY","2014-09-23 21:45:49.483"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","recommended planofix 2.5ml/10lit water","ANDHRA PRADESH","KURNOOL","KRISHNAGIRI                                       ","2014-09-24 10:49:22.130"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","SUCKING pest in cotton","recommended actara 40g/acre","ANDHRA PRADESH","KURNOOL","TUGGALI                                           ","2014-09-24 12:12:13.990"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Seeds","seed treatment in bengalgram","recommended 1kg seds/4g trichodermaviride seed treatment in bengalgram","ANDHRA PRADESH","KURNOOL","KRISHNAGIRI                                       ","2014-09-24 12:18:45.937"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","MIDGE IN CHILLI","TRIZOFAS 200ML/ACR","ANDHRA PRADESH","KURNOOL","PANYAM                                            ","2014-09-24 14:50:54.663"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","ONION TRIPS","MANCOZEB 3GM/L OF WATER","ANDHRA PRADESH","KURNOOL","CHAGALAMARRI                                      ","2014-09-24 14:55:48.543"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","KURNOOL","ATMAKUR                                           ","2014-09-24 15:08:12.530"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton sucking pest damage","imedachloprid @.4ml/li water","ANDHRA PRADESH","KURNOOL","CHIPPAGIRI                                        ","2014-09-24 16:03:20.820"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg  deficiency","mg sulphate @10g/lit water","ANDHRA PRADESH","KURNOOL","DEVANAKONDA                                       ","2014-09-24 16:06:48.780"
+"KHARIF","AGRICULTURE","Oilseeds","Castor (Rehri, Rendi, Arandi) ","Market Information","CASTOR RATE IN KURNUL MARKET","RS 3000/QTL","ANDHRA PRADESH","KURNOOL","ORVAKAL                                           ","2014-09-24 16:44:29.910"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","thunder storm","ANDHRA PRADESH","KURNOOL","PATTIKONDA                                        ","2014-09-24 17:10:19.480"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPOERT","CHANCE TO RAIN","ANDHRA PRADESH","KURNOOL","ASPARI                                            ","2014-09-24 17:32:40.233"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Fertilizer Use and Availability","cotton fertiliser","biojem @5kgs /acre","ANDHRA PRADESH","KURNOOL","JUPADU BUNGALOW                                   ","2014-09-24 18:30:02.467"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","STEM BORER IN RICE","CARBOFURAN3G-10KG/ACR","ANDHRA PRADESH","KURNOOL","ALUR                                              ","2014-09-24 18:30:24.460"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","SUCKING PEST IN CVOTTON","MONO 1.6ML/L","ANDHRA PRADESH","KURNOOL","ALUR                                              ","2014-09-24 18:59:42.910"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weed Management","WEEDICISIDS IN RICE","NAMINI GOLD 80GM/ACR","ANDHRA PRADESH","KURNOOL","KODUMUR                                           ","2014-09-24 19:05:01.100"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Weed Management","WEEDICIDS IN COTTON","NO RECOMMENDED","ANDHRA PRADESH","KURNOOL","KODUMUR                                           ","2014-09-24 19:32:38.157"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","AAKU MUDATHA IN COTTON","DICOFAL 1.5ML/L OF WATER","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-24 19:36:16.017"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","FLOWER DROPPING IN COTTON","PLANOFIX 5ML/20L OF WATER","ANDHRA PRADESH","KURNOOL","ALUR                                              ","2014-09-24 20:16:07.317"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","thunder storm","ANDHRA PRADESH","KURNOOL","GADIVEMULA                                        ","2014-09-24 20:26:04.830"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","FLOWER DROPPING IN COTTON","PLANOFIX 5ML/ 20L OF WATER","ANDHRA PRADESH","KURNOOL","ALUR                                              ","2014-09-25 08:31:56.453"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","planofix 5ml/ 20l of water","ANDHRA PRADESH","KURNOOL","CHAGALAMARRI                                      ","2014-09-25 10:13:14.303"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cooton","mono 1.6ml/l of water","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-25 10:51:55.057"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-25 12:41:44.150"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","KURNOOL","BETHAMCHERLA                                      ","2014-09-25 12:46:06.813"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","ladde purugu in g nut","plethora 350ml/acr","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-25 13:27:53.620"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Seeds","varieties of Bengal garm","k.a.k-2,swetha,jyiti","ANDHRA PRADESH","KURNOOL","DEVANAKONDA                                       ","2014-09-25 13:38:41.753"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","SUCKING PEST","MONO 1.6/L","ANDHRA PRADESH","KURNOOL","ALUR                                              ","2014-09-25 13:58:01.790"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Tonight
+Sep 25
+Clear Lo 23°
+
+RealFeel 24°
+ 
+more Tomorrow
+Sep 26
+Couple of thunderstorms Hi 33°
+
+RealFeel 41°
+ 
+more Video Weather Forecast  Asia Weather Forecast 
+Kurnool Satellite more Weather Satellite > CloseLoading.....
+Top Story 
+Kurnool Weather Report
+Monsoon Rains Spark Deadly Flooding, Mudslides in India
+September 25, 2014; 12:15 AM ET
+Heavy rain this week has led to deadly flooding and mudslides across northeast India and Bangladesh. more >
+Kurnool Weather Map - Nearby PlacesN
+
+
+
+© 2014 Nokia© 2014 Microsoft CorporationEarthstar Geographics SIOVyaparla7:20pm IST
+32° RealFeel® 38°Winds: 10km/h ENEPrecipitation: 1 mmHourly | Extended  Narayanpur7:20pm IST
+32° RealFeel® 38°Winds: 10km/h ENEPrecipitation: 1 mmHourly | Extended  Rajavolu7:20pm IST
+32° RealFeel® 36°Winds: 11km/h ENEPrecipitation: 1 mmHourly | Extended  Alampur7:20pm IST
+32° RealFeel® 36°Winds: 11km/h ENEPrecipitation: 1 mmHourly | Extended  Nandikotkur7:20pm IST
+32° RealFeel® 40°Winds: 10km/h ENEPrecipitation: 0 mmHourly | Extended  Guduru7:20pm IST
+32° RealFeel® 38°Winds: 11km/h ENEPrecipitation: 0 mmHourly | Extended  Kuruva Nagalapuram7:20pm IST
+32° RealFeel® 36°Winds: 11km/h ENEPrecipitation: 1 mmHourly | Extended  Narnuru7:20pm IST
+32° RealFeel® 36°Winds: 11km/h ENEPrecipitation: 1 mmHourly | Extended  Varakuru7:20pm IST
+32° RealFeel® 36°Winds: 11km/h ENEPrecipitation: 1 mmHourly | Extended  Ulindakonda7:20pm IST
+32° RealFeel® 36°Winds: 11km/h ENEPrecipitation: 1 mmHourly | Extended  Kurnool7:20pm IST
+32° RealFeel® 36°Winds: 11km/h ENEPrecipitation: 1 mmHourly | Extended  Kurnool Weather Conditions - Nearby PlacesVyaparla32°Narayanpur32°Rajavolu32°Alampur32°Nandikotkur32°Guduru32°Kuruva Nagalapuram32°Narnuru32°Varakuru32°Ulindakonda32°..","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-25 14:19:59.257"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended confidor 0. 6ml/lit water","ANDHRA PRADESH","KURNOOL","NANDAVARAM                                        ","2014-09-25 15:38:19.433"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather informaton","thunder storm","ANDHRA PRADESH","KURNOOL","C.BELAGAL                                         ","2014-09-25 15:39:19.467"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","thunder storm","ANDHRA PRADESH","KURNOOL","KOTHAPALLE                                        ","2014-09-25 15:56:32.113"
+"KHARIF","HORTICULTURE","Vegetables","Others","	Plant Protection	","ridge gaurd damage","redomil@2g/lit water","ANDHRA PRADESH","KURNOOL","DHONE ALIAS DRONACHALAM                           ","2014-09-25 15:58:36.467"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","weather information","thunder storm","ANDHRA PRADESH","KURNOOL","KOWTHALAM                                         ","2014-09-25 16:00:12.700"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","normal","ANDHRA PRADESH","KURNOOL","DHONE ALIAS DRONACHALAM                           ","2014-09-25 16:44:39.497"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Field Preparation	","bengal gram  ferrtiliser","followed recommonded practicesv","ANDHRA PRADESH","KURNOOL","OWK                                               ","2014-09-25 18:15:32.577"
+"KHARIF","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","Nutrient Management","fertilizers","recomended 8 kg urea ,20kg single super phasphate","ANDHRA PRADESH","KURNOOL","HALAHARVI                                         ","2014-09-25 18:28:02.700"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","imedachloprid","ANDHRA PRADESH","KURNOOL","KALLUR                                            ","2014-09-25 18:32:59.937"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended olala 75g/acre","ANDHRA PRADESH","KURNOOL","KOLIMIGUNDLA                                      ","2014-09-25 18:49:37.600"
+"KHARIF","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","Nutrient Management","fertilizers in bengalgram","recomended 8kg urea ,20kg super phasphate","ANDHRA PRADESH","KURNOOL","NANDIKOTKUR                                       ","2014-09-25 19:22:21.983"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","mg deficiency in cotton","recomended magnesium sulphate 1kg/acre","ANDHRA PRADESH","KURNOOL","GONEGANDLA                                        ","2014-09-25 20:10:50.840"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Fertilizer Use and Availability","FERTILIZER IN COTTON","AT 80 DAYS STAGE UREA 25KG/ACR","ANDHRA PRADESH","KURNOOL","PATTIKONDA                                        ","2014-09-26 07:40:33.677"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Sowing Time and Weather","sowing time in maize","recomended 0ctomber 15","ANDHRA PRADESH","KURNOOL","CHIPPAGIRI                                        ","2014-09-26 07:47:41.750"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","Sowing Time and Weather","G NUT SOWING TIME","NOV 1-DEC 15","ANDHRA PRADESH","KURNOOL","PAGIDYALA                                         ","2014-09-26 07:48:12.410"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","Fertilizer Use and Availability","FERTILIZERS IN CHILLI","UREA 35KG,POTASH 20KG/ACR","ANDHRA PRADESH","KURNOOL","KOSIGI                                            ","2014-09-26 08:04:57.947"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended pipronil 2ml/lit water","ANDHRA PRADESH","KURNOOL","KOSIGI                                            ","2014-09-26 09:53:10.477"
+"KHARIF","HORTICULTURE","Vegetables","Broccoli","	Plant Protection	","TOMATO FLOWER","planofix @2ml/10lit awter","ANDHRA PRADESH","KURNOOL","MADDIKERA (EAST)                                  ","2014-09-26 15:54:18.757"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping  in cotton","planofix @2ml/10 lit water","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-26 18:28:40.327"
+"RABI","AGRICULTURE","Others","Others","Market Information","maise  market","KURNOOL  
+
+atmakur  
+0.1  Hybrid or Local  Tonnes  1200  1300  1250  Rs./Quintal","ANDHRA PRADESH","KURNOOL","NANDIKOTKUR                                       ","2014-09-26 18:39:43.137"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","LEAF CURLING IN CHILLI","PEGASES 300GM/ACR","ANDHRA PRADESH","KURNOOL","PEAPULLY","2014-09-27 08:28:10.030"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER  REPORT","CLOUDY AND THUNDER STROME","ANDHRA PRADESH","KURNOOL","GUDUR                                             ","2014-09-27 08:41:50.900"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","STE BORER IN RICE","CARBOFURAN(FURAN ,TATA FURAN ) 10 KGS/ACRE","ANDHRA PRADESH","KURNOOL","MAHANANDI                                         ","2014-09-27 09:26:41.940"
+"KHARIF","AGRICULTURE","Others","Others","Varieties","WEATHER REPORT","NO RAIN","ANDHRA PRADESH","KURNOOL","CHAGALAMARRI                                      ","2014-09-27 14:33:51.963"
+"RABI","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","Weed Management","weed management","followed intercultation","ANDHRA PRADESH","KURNOOL","PANYAM                                            ","2014-09-27 18:46:49.660"
+"KHARIF","AGRICULTURE","Others","Others","Varieties","weather information","thunder","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-27 20:34:30.943"
+"RABI","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","Market Information","mkt information","3100-4000","ANDHRA PRADESH","KURNOOL","PEAPULLY","2014-09-27 20:44:33.323"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","planofix@2ML/10LIT WATER","ANDHRA PRADESH","KURNOOL","OWK                                               ","2014-09-28 08:24:29.860"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","thunder","ANDHRA PRADESH","KURNOOL","BANAGANAPALLE                                     ","2014-09-28 12:58:07.780"
+"KHARIF","HORTICULTURE","Flowers","Chrysanthemum","Seeds and Planting Material","sowing time of chamanthi","not recommended","ANDHRA PRADESH","KURNOOL","PEDDAKADABUR                                      ","2014-09-28 13:24:07.570"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice blast in paddy","recomended bheem 120g/acre","ANDHRA PRADESH","KURNOOL","KOSIGI                                            ","2014-09-28 14:18:09.903"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chances of showers","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-28 14:23:19.980"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Tonight
+Sep 28
+A t-storm early; mainly clear Lo 22°
+
+RealFeel 23°
+ 
+more Tomorrow
+Sep 29
+A thunderstorm in spots Hi 33°
+
+RealFeel 37°
+ 
+more","ANDHRA PRADESH","KURNOOL","DEVANAKONDA                                       ","2014-09-28 14:25:23.960"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","growthing in cotton","recomended multi k 1kg/acre","ANDHRA PRADESH","KURNOOL","YEMMIGANUR                                        ","2014-09-28 14:33:45.727"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","KURNOOL","KRISHNAGIRI                                       ","2014-09-28 15:00:32.267"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended olala 75 g/acre","ANDHRA PRADESH","KURNOOL","DEVANAKONDA                                       ","2014-09-28 15:17:51.160"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended actara 40g/acre","ANDHRA PRADESH","KURNOOL","ASPARI                                            ","2014-09-28 15:49:15.750"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","KURNOOL","ADONI                                             ","2014-09-28 15:56:51.700"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg deficiency","recommended to spray of magnesium sulphate 10 grams per litre","ANDHRA PRADESH","KURNOOL","KURNOOL                                           ","2014-09-28 16:19:19.297"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","growthing in cotton","recomendded multik  1kg/acre","ANDHRA PRADESH","KURNOOL","MANTRALAYAM                                       ","2014-09-28 16:21:01.237"
+"KHARIF","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","Sowing Time and Weather","SWING TIME OF GREEN GRAM","OCTOBER","ANDHRA PRADESH","KURNOOL","BETHAMCHERLA                                      ","2014-09-28 17:05:43.670"
+"KHARIF","AGRICULTURE","Oilseeds","Castor (Rehri, Rendi, Arandi) ","Market Information","market rate","KURNOOL  yemmiganur  111.4  TMV-2  Tonnes  2710  5260  4890  Rs./Quintal 
+
+
+
+Back","ANDHRA PRADESH","KURNOOL","ASPARI                                            ","2014-09-28 17:16:37.160"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","black spots in cotton","recomended blitex 30g+plantomycin 1g+10lit water","ANDHRA PRADESH","KURNOOL","KRISHNAGIRI                                       ","2014-09-28 17:20:32.280"
+"KHARIF","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","LEAF FOLDING IN REDGRAM","RECOMMENDED TO SPRAY MONOCROTOPHOS(NUVACRON, PHOSKIL, LUPHOS) 300 ML PER ACRE","ANDHRA PRADESH","KURNOOL","KRISHNAGIRI                                       ","2014-09-28 18:14:37.397"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended olala 75g/acre","ANDHRA PRADESH","KURNOOL","HALAHARVI                                         ","2014-09-28 19:12:17.570"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","A thunderstorm in spots 31°Lo 20° 
+more Tue
+Sep 30
+A p.m. t-storm in spots 31°Lo 20°","ANDHRA PRADESH","KURNOOL","TUGGALI                                           ","2014-09-28 19:54:24.827"
+"KHARIF","AGRICULTURE","Millets","Pearl Millet (Bajra/Bulrush Millet/Spiked Millet)","	Plant Protection	","leafhopper in sorghum","mono 1.6ml/l of water","ANDHRA PRADESH","KURNOOL","ALLAGADDA                                         ","2014-09-28 20:39:37.953"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","leaf curling in cotton","RECOMMENDED TO SPRAY MONOCROTOPHOS(NUVACRON, PHOSKIL, LUPHOS) 300 ML PER ACRE","ANDHRA PRADESH","KURNOOL","KOILAKUNTLA","2014-09-28 21:18:13.977"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","weather report","chance to rain","ANDHRA PRADESH","KURNOOL","KURNOOL                                           ","2014-09-29 08:05:54.673"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","shoot borerin brinjal","profinophose 2ml/l of water","ANDHRA PRADESH","KURNOOL","DHONE ALIAS DRONACHALAM                           ","2014-09-29 08:12:40.950"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton wilt","coc 3gm/l of water","ANDHRA PRADESH","KURNOOL","BANDI ATMAKUR                                     ","2014-09-29 08:55:48.733"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","ENDU TEGULU IN CHILLI","PROPICONAZOLE (TILT, RADAR)  200 ML PER ACRE","ANDHRA PRADESH","KURNOOL","KOSIGI                                            ","2014-09-29 09:24:54.153"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","KURNOOL","GADIVEMULA                                        ","2014-09-29 12:16:01.280"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","ZN DEFIDENCY IN RICE","ZNCK SULFATE 2GM/L OF WATER","ANDHRA PRADESH","KURNOOL","CHAGALAMARRI                                      ","2014-09-29 13:52:58.763"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recommended olala 75g/acre","ANDHRA PRADESH","KURNOOL","KALLUR                                            ","2014-09-29 18:05:31.420"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recommended olala 75g acre","ANDHRA PRADESH","KURNOOL","NANDIKOTKUR                                       ","2014-09-29 18:20:04.617"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","Nutrient Management","yellowing in leaves","recomended  agrominimax 1kg/acre","ANDHRA PRADESH","KURNOOL","ALUR                                              ","2014-09-29 18:38:46.457"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","weather report","thunderstorm this evening
+Lo 23°
+
+RealFeel 25°
+ more 
+
+ 
+
+
+
+Tomorrow
+
+Sep 30
+
+
+An afternoon thunderstorm","ANDHRA PRADESH","KURNOOL","CHIPPAGIRI                                        ","2014-09-29 18:55:52.207"
+"RABI","AGRICULTURE","Millets","Sorghum (Jowar/Great Millet)","	Plant Protection	","ASKED SORGHUM","CARBOFURAN(FURADAN,TATAFURAN)10 KG PER ACRE    ????????????? ??????? (????????,????????????) ?????? 10 ??????","ANDHRA PRADESH","KURNOOL","KOSIGI                                            ","2014-09-30 08:26:48.843"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recommended olala 75g/acre","ANDHRA PRADESH","KURNOOL","KRISHNAGIRI                                       ","2014-09-30 08:32:11.153"
+"KHARIF","HORTICULTURE","Fruits","Papaya","	Plant Protection	","VIRUS disease in papaya","recommended rogar 2ml lit water","ANDHRA PRADESH","KURNOOL","C.BELAGAL                                         ","2014-09-30 08:39:59.270"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","up ward curling in chilli","recommended pegasis 300g/acre","ANDHRA PRADESH","KURNOOL","MIDTHUR                                           ","2014-09-30 08:53:36.790"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower drop in cotton","recommended planofix 2.5ml/10lit water","ANDHRA PRADESH","KURNOOL","DEVANAKONDA                                       ","2014-09-30 09:28:29.153"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Market Information","MARKET RATE","KURNOOL  
+
+atmakur  
+0.1  Hybrid or Local  Tonnes  1200  1300  1250  Rs./Quintal","ANDHRA PRADESH","KURNOOL","GOSPADU                                           ","2014-09-30 13:12:22.270"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg deficieny in cotton","mg sulphate @10g/lit water","ANDHRA PRADESH","KURNOOL","KODUMUR                                           ","2014-09-30 14:43:00.940"
+"RABI","AGRICULTURE","Others","Others","Weather","wweather informatin","normal","ANDHRA PRADESH","KURNOOL","KOILAKUNTLA","2014-09-30 15:58:36.933"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","normal","ANDHRA PRADESH","KURNOOL","GADIVEMULA                                        ","2014-09-30 19:32:34.917"

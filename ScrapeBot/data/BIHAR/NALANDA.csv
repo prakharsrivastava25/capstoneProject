@@ -1,0 +1,511 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"","HORTICULTURE","Vegetables","Chillies","","curly leaf of chillies.","spray saaf 2gm/lit of water.","BIHAR","NALANDA","ISLAMPUR                                          ","2014-08-01 07:56:13.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Today and tomorrow Cloudy weather in your area chance of rain","BIHAR","NALANDA","HARNAUT                                           ","2014-08-01 08:04:27.000"
+"","AGRICULTURE","Others","Others","Weather","weather information ?","Cloudy weather in your area and chance of rain","BIHAR","NALANDA","HILSA                                             ","2014-08-01 08:31:25.000"
+"","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","","IMPACTION ?","Powder Mgso4+Nacl- 500g+500g (p.o.) with 2 lit. of water.
+            Inj Ringers Lactate – 5lit.i/v
+            Inj Avil-10ml i/m
+            Inj Neostigmine  -    5-10ml i/m","BIHAR","NALANDA","ASTHAWAN                                          ","2014-08-01 08:50:38.000"
+"","AGRICULTURE","Millets","Maize (Makka)","","insect in maize.","spray imidachloropid-1ml/3lit of water.","BIHAR","NALANDA","ISLAMPUR                                          ","2014-08-01 10:14:11.000"
+"","HORTICULTURE","Fruits","Papaya","","yellowing of leaves","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","NALANDA","SARMERA                                           ","2014-08-01 10:28:27.000"
+"","AGRICULTURE","Others","Others","","about weather in nalanda","34°Lo 27° Sat
+Aug 2
+A couple of thunderstorms 34°Lo 27° 
+more Sun
+Aug 3
+A couple of thunderstorms 34°Lo 26° 
+more Mon
+Aug 4
+An afternoon thunderstorm 34°Lo 27° 
+more Tue
+Aug 5
+Showers and a heavier t-storm 32°Lo 26°","BIHAR","NALANDA","CHANDI                                            ","2014-08-01 12:20:05.000"
+"RABI","AGRICULTURE","Oilseeds","Indian rapeseed and mustard (yellow sarson)","Weather","FERTILEZER APPLICATION IN MAIZE","FERTILEZER APPLICATION IN MAIZE- NPK @ 120: 70: 50 KG/ HA","BIHAR","NALANDA","NOORSARAI                                         ","2014-08-01 13:33:15.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","Weather information","Times of clouds and sun with a shower or thunderstorm in spots","BIHAR","NALANDA","PARBALPUR                                         ","2014-08-01 16:11:39.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","Delay in growth","Spray boomflower @ 2 ml in 1 litre of water","BIHAR","NALANDA","PARBALPUR                                         ","2014-08-01 16:12:31.000"
+"JAYAD","AGRICULTURE","Others","Others","","Weather information","Cloudy weather in your area & little chance of rain","BIHAR","NALANDA","PARBALPUR                                         ","2014-08-01 16:13:59.000"
+"","HORTICULTURE","Fruits","Papaya","","Good variety of papaya","Pusa dwarf, pusa nanha c o-5, surya","BIHAR","NALANDA","BEN                                               ","2014-08-01 17:41:10.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Max UV Index: N/A
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm","BIHAR","NALANDA","SILAO                                             ","2014-08-01 18:15:51.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","weed control","use butaclore @ 120 ml/ acre","BIHAR","NALANDA","SILAO                                             ","2014-08-01 18:18:28.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Max UV Index: 9 (Very High)
+Thunderstorms: 40%
+Precipitation: 5 mm
+Rain: 5 mm","BIHAR","NALANDA","BEN                                               ","2014-08-01 18:35:50.000"
+"","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","insect control","spray quinolphose @ 1.5ml/liter water","BIHAR","NALANDA","BEN                                               ","2014-08-01 18:36:55.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","fertilizer","NPK 120:60:40kg/ha","BIHAR","NALANDA","HILSA                                             ","2014-08-01 19:45:44.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","NALANDA","HILSA                                             ","2014-08-01 19:50:01.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-01 20:11:09.000"
+"","HORTICULTURE","Vegetables","Cauliflower","","Varities of Cauliflower","Pusa Dapoli, Cuba Giant, Snow ball","BIHAR","NALANDA","ASTHAWAN                                          ","2014-08-01 21:02:55.000"
+"","HORTICULTURE","Vegetables","Brinjal","","insect problem in brinjal","Spray quinalphos @ 2 ml in one litre of water","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-02 06:08:31.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","Yellowing of leaves in paddy","Spray multi micro nutrients @ 2 ml in 1 litre of water","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-02 06:10:34.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","Weather information","Mostly cloudy with a couple of showers and a thunderstorm
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 7 mm
+Rain: 7 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","BIHAR","NALANDA","HILSA                                             ","2014-08-02 06:40:40.000"
+"","AGRICULTURE","Others","Others","","Weather information","chance of rain","BIHAR","NALANDA","BEN                                               ","2014-08-02 07:04:12.000"
+"","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","","Insect infestation in bhindi","Spray imidachlorprid @ 1 ml in 3 litre of water","BIHAR","NALANDA","BEN                                               ","2014-08-02 07:25:00.000"
+"","HORTICULTURE","Vegetables","Capsicum","","leaf sucker","Spray quinalphos @ 2 ml in one litre of waterkcc","BIHAR","NALANDA","GIRIAK                                            ","2014-08-02 07:27:45.000"
+"","AGRICULTURE","Others","Others","","Weather information","chance of rain","BIHAR","NALANDA","BEN                                               ","2014-08-02 08:05:33.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","Weather information","Mostly cloudy with a couple of showers and a thunderstorm
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 7 mm
+Rain: 7 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-02 08:49:40.000"
+"","AGRICULTURE","Others","Others","","about weather in nalanda","thunderstorms 34°Lo 27° Sun
+Aug 3
+A couple of thunderstorms 33°Lo 27° 
+more Mon
+Aug 4
+Cloudy with thunderstorms 33°Lo 26° 
+more Tue
+Aug 5
+Cloudy, a couple of t-storms 32°Lo 26° 
+more Wed
+Aug 6
+A shower in the a.m.; cloudy 34°Lo 26°","BIHAR","NALANDA","ISLAMPUR                                          ","2014-08-02 10:23:13.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","fertilizer dose in paddy","urea 261 kg., ssp 375 kg., mop 67 kg., zinc 20-25 kg./hact.","BIHAR","NALANDA","ISLAMPUR                                          ","2014-08-02 10:25:16.000"
+"","AGRICULTURE","Others","Others","","about weather in nalanda","thunderstorms 34°Lo 27° Sun
+Aug 3
+A couple of thunderstorms 33°Lo 27° 
+more Mon
+Aug 4
+Cloudy with thunderstorms 33°Lo 26° 
+more Tue
+Aug 5
+Cloudy, a couple of t-","BIHAR","NALANDA","HARNAUT                                           ","2014-08-02 10:34:30.000"
+"","AGRICULTURE","Others","Others","","weather information","Mostly cloudy and very warm with a couple of showers and a thunderstorm","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-02 11:35:32.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Chance of precipitation to some extent in your area","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-02 11:47:33.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","1.Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","NALANDA","HILSA                                             ","2014-08-02 13:44:55.000"
+"","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","","cow related problem","contact to nearer vetenary doctor","BIHAR","NALANDA","ASTHAWAN                                          ","2014-08-02 15:01:12.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","NALANDA","BEN                                               ","2014-08-02 15:12:41.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","","fungal problem","spray saaf @2gm /lit of water","BIHAR","NALANDA","BIHARSHARIF                                       ","2014-08-02 16:21:03.000"
+"","AGRICULTURE","Others","Others","","Weather information","in evening Chance of precipitation to some extent in your area","BIHAR","NALANDA","ISLAMPUR                                          ","2014-08-02 17:35:17.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-02 19:12:44.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","in evening Chance of precipitation to some extent in your area","BIHAR","NALANDA","HARNAUT                                           ","2014-08-02 19:33:48.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","NALANDA","THARTHARI                                         ","2014-08-02 20:24:40.000"
+"","AGRICULTURE","Others","Others","","Weather information nalanda","Weather information nalanda-Full chance of rain","BIHAR","NALANDA","BIHARSHARIF                                       ","2014-08-02 21:29:28.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","WEATHER INFORMATION IN Nalanda","Thunderstorm
+27°
+RealFeel® 31°  
+
+Hourly Forecast
+
+
+
+
+Today
+
+Aug 3
+
+
+A couple of thunderstorms
+Hi 34°
+
+RealFeel 44°
+ more 
+
+ 
+
+
+
+Tonight
+
+Aug 3
+
+
+Cloudy with thunderstorms
+Lo 26°
+
+RealFeel 31°
+ more 
+
+ 
+
+
+
+Tomorrow
+
+Aug 4
+
+
+Cloudy, a couple of t-storms
+Hi 33°
+
+RealFeel 42°
+ more","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-03 06:18:40.000"
+"","AGRICULTURE","Others","Others","","Weather information","chance of rain","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-03 07:07:46.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","TODAY AND TOMORROW Chance of precipitation to some extent in your area","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-03 07:22:04.000"
+"","HORTICULTURE","Vegetables","Brinjal","","Delay in growth of brinjal","Delay in growth of brinjal-Spray boomflower @ 2 ml in 1 litre of water","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-03 07:24:20.000"
+"","AGRICULTURE","Millets","Maize (Makka)","","market rate of maiz","market rate of maiz is Rs.1310/Qt.","BIHAR","NALANDA","KARAI PARSURAI                                    ","2014-08-03 08:40:28.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Chance of precipitation to some extent in your area today","BIHAR","NALANDA","KARAI PARSURAI                                    ","2014-08-03 08:41:34.000"
+"","AGRICULTURE","Others","Others","Weather","weather information ?","Cloudy weather in your area and chance of rain.","BIHAR","NALANDA","HARNAUT                                           ","2014-08-03 08:56:04.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","weed problem in paddy","spray Butachlore @ 2ml in 1 litre of water","BIHAR","NALANDA","BIHARSHARIF                                       ","2014-08-03 08:56:20.000"
+"","AGRICULTURE","Others","Others","","Fungal problem","Spray mencozeb @ 2g/lit of water","BIHAR","NALANDA","GIRIAK                                            ","2014-08-03 10:34:04.000"
+"","AGRICULTURE","Others","Others","","weather information","Mostly cloudy and very warm with a couple of showers and a thunderstorm","BIHAR","NALANDA","BIHARSHARIF                                       ","2014-08-03 11:32:10.000"
+"","AGRICULTURE","Others","Others","","about weather in nalanda","Today
+Aug 3
+A couple of thunderstorms 34°Lo 26° Mon
+Aug 4
+Cloudy, a couple of t-storms 33°Lo 26° 
+more Tue
+Aug 5
+A couple of thunderstorms 33°Lo 26° 
+more Wed
+Aug 6
+Spotty morning showers","BIHAR","NALANDA","HARNAUT                                           ","2014-08-03 11:44:01.000"
+"","AGRICULTURE","Others","Others","Weather","weather information ?","Cloudy weather in your area and chance of rain.","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-03 12:04:01.000"
+"","AGRICULTURE","Others","Others","","about weather in nalanda","Aug 3
+A couple of thunderstorms 34°Lo 26° Mon
+Aug 4
+Cloudy, a couple of t-storms 33°Lo 26° 
+more Tue
+Aug 5
+A couple of thunderstorms 33°Lo 26° 
+more Wed
+Aug 6
+Spotty morning showers 33°Lo 25°","BIHAR","NALANDA","NOORSARAI                                         ","2014-08-03 13:17:48.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-03 14:18:58.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weater information","Overcast with showers and thunderstorms
+Max UV Index: N/A
+Thunderstorms: 40%
+Precipitation: 7 mm
+Rain: 7 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","BIHAR","NALANDA","HILSA                                             ","2014-08-03 18:07:16.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow chance of rain","BIHAR","NALANDA","HARNAUT                                           ","2014-08-03 20:14:48.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow chance of rain","BIHAR","NALANDA","NOORSARAI                                         ","2014-08-03 21:13:22.000"
+"","HORTICULTURE","Vegetables","Brinjal","","insect problem in brinjal","Spray quinalphos @ 2 ml in one litre of water","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-04 06:57:53.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather information in nalanda","Thunderstorm
+29°
+RealFeel® 33°  
+
+Hourly Forecast
+
+
+
+
+Today
+
+Aug 4
+
+
+Cloudy, a couple of t-storms
+Hi 33°
+
+RealFeel 42°
+ more 
+
+ 
+
+
+
+Tonight
+
+Aug 4
+
+
+A couple of thunderstorms
+Lo 26°
+
+RealFeel 29°
+ more 
+
+ 
+
+
+
+Tomorrow
+
+Aug 5
+
+
+A couple of thunderstorms
+Hi 32°
+
+RealFeel 38°
+ more","BIHAR","NALANDA","BIHARSHARIF                                       ","2014-08-04 08:54:43.000"
+"","AGRICULTURE","Others","Others","","weather information ?","Cloudy weather in your area and chance of rain.","BIHAR","NALANDA","HARNAUT                                           ","2014-08-04 09:25:21.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","WEATHER INFORMATION IN NALANDA","Thunderstorm
+29°
+RealFeel® 33°  
+
+Hourly Forecast
+
+
+
+
+Today
+
+Aug 4
+
+
+Cloudy, a couple of t-storms
+Hi 33°
+
+RealFeel 42°
+ more 
+
+ 
+
+
+
+Tonight
+
+Aug 4
+
+
+A couple of thunderstorms
+Lo 26°
+
+RealFeel 29°
+ more 
+
+ 
+
+
+
+Tomorrow
+
+Aug 5
+
+
+A couple of thunderstorms
+Hi 32°
+
+RealFeel 38°
+ more","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-04 10:01:59.000"
+"","AGRICULTURE","Millets","Maize (Makka)","","Market rate of maiz","Market rate of maiz is Rs.1310/Qt.","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-04 10:11:25.000"
+"","AGRICULTURE","Others","Others","","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-04 10:12:33.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","fertilizer dose in paddy","urea 261 kg., ssp 375 kg., mop 67 kg., zinc 20-25 kg./hact.","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-04 10:16:46.000"
+"RABI","AGRICULTURE","Oilseeds","Sunflower (suryamukhi)","Weather","Best variety of bitter guard","•	Best variety of bitter guard- pusa do mausami, pusa vesesh","BIHAR","NALANDA","HARNAUT                                           ","2014-08-04 12:28:20.000"
+"","FISHERIES","Inland","Fresh Water","","help line","1800-345-6185","BIHAR","NALANDA","ASTHAWAN                                          ","2014-08-04 15:44:17.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","weeds problem in paddy crops","weeds problem in paddy crops-spray in butachlore @ 2 gram per liter water","BIHAR","NALANDA","RAJGIR                                            ","2014-08-04 17:52:32.000"
+"","AGRICULTURE","Others","Others","","weather information nalanda","weather information nalanda-Today Cloudy weather in your area chance of rain","BIHAR","NALANDA","RAJGIR                                            ","2014-08-04 18:09:22.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","Weather information","Intervals of clouds and sunshine with a shower or thunderstorm around
+Max UV Index: 7 (High)
+Thunderstorms: 40%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","BIHAR","NALANDA","HILSA                                             ","2014-08-04 19:30:50.000"
+"","AGRICULTURE","Others","Others","Weather","WEATHER INFORMATION","cloudy weather in your area and chance of rain","BIHAR","NALANDA","HILSA                                             ","2014-08-04 19:32:15.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Cloudy weather in your area & little chance of rain","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-04 19:54:36.000"
+"","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","leaf curl in chillies","Spray metasistox @ 1.5 ml in 1 litre of water","BIHAR","NALANDA","HARNAUT                                           ","2014-08-04 20:10:47.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Chance of precipitation to some extent in your area","BIHAR","NALANDA","HARNAUT                                           ","2014-08-04 20:11:25.000"
+"","HORTICULTURE","Vegetables","Onion","","Best variety of onion","Best variety of onion -pusa red, Patna RED, NASIK RED, ARKA NIKETAN, N-2,4,1","BIHAR","NALANDA","HARNAUT                                           ","2014-08-04 20:12:05.000"
+"","HORTICULTURE","Vegetables","Cauliflower","","fertilizer application in cauliflower-","fertilizer application in cauliflower- compost200 kg , potash 80 kg, 10-15 kg boron and molybdenum, 1 kg sodium molibdate per hec. ke hisab se prayog karen","BIHAR","NALANDA","HARNAUT                                           ","2014-08-04 20:12:44.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","Fruit borers","Phosalone 35 % EC
+ 
+1.5 ml /lit
+ 
+
+Pyridalyl 10 % EC
+ 
+1.0  ml/lit
+ 
+
+Phosalone 35 % EC
+ 
+1.5 ml /lit
+ 
+
+Pyridalyl 10 % EC
+ 
+1.0  ml/lit","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-05 10:17:26.000"
+"","HORTICULTURE","Fruits","Guava","	Plant Protection	","Insect problem in guava","Spray carbaryl @ 2 gram in 1 litre of water","BIHAR","NALANDA","ISLAMPUR                                          ","2014-08-05 14:52:22.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","WEATHER INFORMATION","cloudy weather in your area but chance of rain","BIHAR","NALANDA","BIHARSHARIF                                       ","2014-08-05 14:53:15.000"
+"","HORTICULTURE","Fruits","Guava","","delay in growth","Spray boomflower @ 2 ml in 1 litre of water","BIHAR","NALANDA","ISLAMPUR                                          ","2014-08-05 14:53:37.000"
+"","AGRICULTURE","Others","Others","Weather","weather information","Cloudy weather in your area chance of heavy","BIHAR","NALANDA","CHANDI                                            ","2014-08-05 19:13:08.000"
+"","AGRICULTURE","Others","Others","Weather","waether information","there is a chance of rain in your area","BIHAR","NALANDA","HILSA                                             ","2014-08-05 20:46:23.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","•	VARIETIES OF HYBRID PADDY?","VARIETIES ARE P.H.B-71,K.R.H-2,PANT SHANKAR DHAN-1 FOR HYBRID RICE","BIHAR","NALANDA","HILSA                                             ","2014-08-05 20:47:07.000"
+"JAYAD","AGRICULTURE","Millets","Maize (Makka)","","•	VARIETIES OF MAIZE FOR KHARIF SEASON","VARIETIES ARE SHAKITMAN-1,2,RAJENDRA SHANKAR MAKKA-1,2","BIHAR","NALANDA","HILSA                                             ","2014-08-05 20:48:30.000"
+"","AGRICULTURE","Others","Others","Weather","weather information","today and tomorrow no chance of rain","BIHAR","NALANDA","HILSA                                             ","2014-08-05 21:10:30.000"
+"","AGRICULTURE","Others","Others","","about weather in nalanda","Clouds and sunshine 34°Lo 25° Thu
+Aug 7
+An a.m. shower; mostly cloudy 33°Lo 26° 
+more Fri
+Aug 8
+Thundershower 34°Lo 26° 
+more Sat
+Aug 9
+Cloudy with a few showers 34","BIHAR","NALANDA","HILSA                                             ","2014-08-06 06:10:38.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","weed problem in paddy","spray nominogold @ 1 ml in 3 litre of water","BIHAR","NALANDA","HARNAUT                                           ","2014-08-06 06:39:49.000"
+"","AGRICULTURE","Others","Others","","weather information","A shower in spots; cloudy in the morning, then periods of clouds and sunshine in the afternoon","BIHAR","NALANDA","HARNAUT                                           ","2014-08-06 06:41:10.000"
+"","AGRICULTURE","Others","Others","","yellow leaf","Spray saaf @ 2 ml in 1 litre of water","BIHAR","NALANDA","HARNAUT                                           ","2014-08-06 06:42:25.000"
+"","HORTICULTURE","Fruits","Aonla","","Weather information","chance of rain","BIHAR","NALANDA","RAJGIR                                            ","2014-08-06 09:30:26.000"
+"","AGRICULTURE","Others","Others","","Weather information","chance of rain","BIHAR","NALANDA","RAJGIR                                            ","2014-08-06 09:35:07.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Cloudy weather in your area  chance of rain","BIHAR","NALANDA","BIHARSHARIF                                       ","2014-08-06 09:54:31.000"
+"","AGRICULTURE","Others","Others","","Weather information","Cloudy weather in your area but no chance of rain","BIHAR","NALANDA","BEN                                               ","2014-08-06 13:29:21.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Cloudy weather in your area but no chance of heavy rain, light rain may be possibility","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-06 14:43:16.000"
+"","HORTICULTURE","Vegetables","Chillies","","leaf curl in chillies","Spray metasistox @ 1.5 ml in 1 litre of water","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-06 14:44:16.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","weed problem in paddy","Spray nominogold @ 1 ml in 3 litre of water","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-06 15:23:23.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","weed problem","spray nominigold @ 1 ml / 3 liter of water","BIHAR","NALANDA","RAJGIR                                            ","2014-08-06 18:37:28.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","Weather information","Cloudy; a passing shower this evening followed by a couple of thunderstorms around late
+Max UV Index: N/A
+Thunderstorms: 60%
+Precipitation: 8 mm
+Rain: 8 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","BIHAR","NALANDA","RAHUI                                             ","2014-08-06 19:13:17.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Max UV Index: N/A
+Thunderstorms: 40%
+Precipitation: 8 mm
+Rain: 8 mm","BIHAR","NALANDA","RAHUI                                             ","2014-08-06 19:13:40.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","Insect infestation","Spray imidachloprid @ 1ml/3 lit of water *","BIHAR","NALANDA","RAHUI                                             ","2014-08-06 19:14:34.000"
+"","AGRICULTURE","Others","Others","","weather information","Cloudy; a passing shower this evening followed by a couple of thunderstorms around late","BIHAR","NALANDA","HILSA                                             ","2014-08-06 19:29:43.000"
+"","AGRICULTURE","Others","Others","","weather information","little chance of rain in you area","BIHAR","NALANDA","HILSA                                             ","2014-08-06 19:30:57.000"
+"","AGRICULTURE","Others","Others","","weather information","little chance of rain in you area","BIHAR","NALANDA","HILSA                                             ","2014-08-06 19:35:02.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","NALANDA","HILSA                                             ","2014-08-06 20:11:28.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","tomorrow chance of rain","BIHAR","NALANDA","HILSA                                             ","2014-08-07 09:13:29.000"
+"","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","","Good variety of okra-","Good variety of okra- prabhani kranti, arka abhay, arka anamika, bersa uphar,Punjab-7, okra-4","BIHAR","NALANDA","HILSA                                             ","2014-08-07 15:26:42.000"
+"","AGRICULTURE","Others","Others","Weather","weather information","there is light chance of rain in your in next 2 to 3 days","BIHAR","NALANDA","BIHARSHARIF                                       ","2014-08-07 18:44:38.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Max UV Index: N/A
+Thunderstorms: 60%
+Precipitation: 5 mm
+Rain: 5 mm","BIHAR","NALANDA","BIHARSHARIF                                       ","2014-08-07 19:35:07.000"
+"","AGRICULTURE","Others","Others","Weather","weather information","Humidity: 68%
+Pressure: 998.00 mb ?
+UV Index: 0
+Cloud Cover: 78%
+Ceiling: 1036 m
+Dew Point: 24° C
+Visibility: 5 km","BIHAR","NALANDA","HARNAUT                                           ","2014-08-07 19:40:03.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","weed problem in paddy","spray Butachlore @ 2ml in 1 litre of water","BIHAR","NALANDA","HARNAUT                                           ","2014-08-07 19:41:21.000"
+"","HORTICULTURE","Vegetables","Radish","","VARIETY OF RADISH-","VARIETY OF RADISH- PUSA CHETKI, PUSA DESI, PUSA HIMANI, PUSA RESMI, JAPANI SAFED","BIHAR","NALANDA","HARNAUT                                           ","2014-08-07 19:42:24.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow chance of rain","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-08 07:25:50.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","WEED MANAGEMENT IN PADDY","SPRAY 2.4-D @2ML./LT. OF WATER","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-08 07:27:12.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","Insect problem","Chlorpyrifos 20 % EC 1ml/liter of water","BIHAR","NALANDA","NOORSARAI                                         ","2014-08-08 07:43:22.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather information in nalanda","Thunderstorm
+27°
+RealFeel® 33°  
+
+Hourly Forecast
+
+
+
+
+Today
+
+Aug 8
+
+
+Mostly cloudy with t-storms
+Hi 33°
+
+RealFeel 40°
+ more 
+
+ 
+
+
+
+Tonight
+
+Aug 8
+
+
+Showers and a heavier t-storm
+Lo 26°
+
+RealFeel 30°
+ more 
+
+ 
+
+
+
+Tomorrow
+
+Aug 9
+
+
+Rain and a thunderstorm
+Hi 33°
+
+RealFeel 40°
+ more","BIHAR","NALANDA","SILAO                                             ","2014-08-08 08:48:18.000"
+"","AGRICULTURE","Others","Others","Weather","weather information","Cloudy weather in your area but no chance of rain","BIHAR","NALANDA","CHANDI                                            ","2014-08-08 08:49:17.000"
+"","AGRICULTURE","Others","Others","","Weather information","today and tomorrow chance of rain","BIHAR","NALANDA","ASTHAWAN                                          ","2014-08-08 10:12:58.000"
+"","HORTICULTURE","Vegetables","Brinjal","","Best variety of brinjal","Best variety of brinjal-rajendra baigan-2, pant baigan, punjab sadabahar, sonali, pusa purple long, pusa anmol, arka navneet","BIHAR","NALANDA","ASTHAWAN                                          ","2014-08-08 12:45:10.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","fungal control in paddy","Spray Copper oxychloride 0.25 per cent 2 gram/liter of water","BIHAR","NALANDA","ASTHAWAN                                          ","2014-08-08 12:47:04.000"
+"","AGRICULTURE","Others","Others","Weather","weather information ?","Cloudy weather in your area and chance of rain.","BIHAR","NALANDA","HARNAUT                                           ","2014-08-08 13:08:58.000"
+"","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","INSECT INFESTATION","SPRAY IMIDACHLORPID @ 1 ML / 3 LITER OF WATER","BIHAR","NALANDA","BIHARSHARIF                                       ","2014-08-08 15:26:40.000"
+"","AGRICULTURE","Others","Others","Weather","weather information","there is  chance of rain in your in next 2 to 3 days","BIHAR","NALANDA","THARTHARI                                         ","2014-08-08 17:05:08.000"
+"","AGRICULTURE","Others","Others","","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","NALANDA","THARTHARI                                         ","2014-08-08 17:17:40.000"
+"","AGRICULTURE","Others","Others","Weather","weather information","there is  chance of rain in your in next 2 to 3 days","BIHAR","NALANDA","SILAO                                             ","2014-08-08 19:30:42.000"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Agriculture Mechanization","Weather information","today and tomorrow chance of rain","BIHAR","NALANDA","ASTHAWAN                                          ","2014-08-09 06:52:23.000"
+"RABI","AGRICULTURE","Oilseeds","Sunflower (suryamukhi)","Weather","Yellowing / drying of   seedling","spray zinc (5 gram )+ urea (10 gram )/ liter of water","BIHAR","NALANDA","ASTHAWAN                                          ","2014-08-09 06:53:04.000"
+"RABI","AGRICULTURE","Oilseeds","Sunflower (suryamukhi)","Weather","ferlizer recomendation in maize","urea-1.5kg,dap-500g,potash-1kg and give urea in three split dose on 20,45,and60days from the day of  sowing","BIHAR","NALANDA","ASTHAWAN                                          ","2014-08-09 06:53:59.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","weed control","spray Butachlore @ 2ml in 1 litre of water","BIHAR","NALANDA","KARAI PARSURAI                                    ","2014-08-09 07:01:44.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","fertilizer dose in paddy-","fertilizer dose in paddy-NPK- 100:40:20 Kg/ ha","BIHAR","NALANDA","KARAI PARSURAI                                    ","2014-08-09 07:03:02.000"
+"","AGRICULTURE","Others","Others","Weather","WEATHER INFORMATION","cloudy weather in your area but no chance of rain","BIHAR","NALANDA","BEN                                               ","2014-08-09 13:36:13.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-09 14:23:25.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-09 14:26:52.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Max UV Index: N/A
+Thunderstorms: 60%
+Precipitation: 11 mm
+Rain: 11 mm
+Snow: 0 CM","BIHAR","NALANDA","KARAI PARSURAI                                    ","2014-08-09 18:29:43.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","weed control","use nominee gold @ 100ml/acre","BIHAR","NALANDA","KARAI PARSURAI                                    ","2014-08-09 18:30:37.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","","Fruit borers","Phosalone 35 % EC
+ 
+1.5 ml /lit
+ 
+
+Pyridalyl 10 % EC
+ 
+1.0  ml/lit","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-10 09:20:09.000"
+"","AGRICULTURE","Others","Others","Weather","weather information ?","Cloudy weather in your area and chance of rain.","BIHAR","NALANDA","HARNAUT                                           ","2014-08-10 09:51:32.000"
+"","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","","INSECT IN BHINDI.","SPRAY IMIDACHLOROPID-1ML/3LIT OF WATER.","BIHAR","NALANDA","HARNAUT                                           ","2014-08-10 09:52:52.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Max UV Index: 7 (High)
+Thunderstorms: 40%
+Precipitation: 8 mm
+Rain: 8 mm","BIHAR","NALANDA","HILSA                                             ","2014-08-10 14:29:57.000"
+"","HORTICULTURE","Vegetables","Pumpkin","","rotting of pumpkin.","spray saaf-2gm/lit of water.","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-10 20:50:13.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Cloudy weather in your area & little chance of rain","BIHAR","NALANDA","HILSA                                             ","2014-08-11 06:34:41.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","weather","Max UV Index: N/A 
+Thunderstorms: 60% 
+Precipitation: 8 mm 
+Rain: 8 mm","BIHAR","NALANDA","HILSA                                             ","2014-08-11 08:15:13.000"
+"","AGRICULTURE","Others","Others","Weather","Weather information","Cloudy weather in your area & little chance of rain","BIHAR","NALANDA","HARNAUT                                           ","2014-08-11 08:17:44.000"
+"","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","","LOSS OF APETITE?","INJ.INTACEF-3GM-DAYS,PEPSID-C-10ML-3DAYS,RUCHAMAX POWDER-30GM TWICE IN A DAY.","BIHAR","NALANDA","ASTHAWAN                                          ","2014-08-11 10:24:54.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","fertilizer","urea 1.5 kg , DAP 1 kg , zinc 200 gram/ katha","BIHAR","NALANDA","THARTHARI                                         ","2014-08-11 11:00:25.000"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","yellowing pof seedling","spray saaf @ 2 gram / liter of water","BIHAR","NALANDA","ISLAMPUR                                          ","2014-08-20 06:50:21.143"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","","Good variety of paddy for upper land-","turanta, prabhat,richariya, and saroj","BIHAR","NALANDA","ISLAMPUR                                          ","2014-08-20 06:55:52.307"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","TOMORROW CHANCE OF RAIN","BIHAR","NALANDA","RAHUI                                             ","2014-08-20 08:08:14.203"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","Seeds and Planting Material","VARIETY OF OKRA","VARIETY OF OKRA-PARBHANI KRANTI,VRO-6,5","BIHAR","NALANDA","RAHUI                                             ","2014-08-20 08:31:00.193"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","DISEASE IN BRINJAL","Spray sulphur @ 2 gram in 1 litre of water","BIHAR","NALANDA","SILAO                                             ","2014-08-21 10:18:49.830"
+"JAYAD","HORTICULTURE","Vegetables","Cauliflower","Weather","Insect problem","spray chlorpyriphos 2 mili/liter water","BIHAR","NALANDA","CHANDI                                            ","2014-08-21 19:21:32.107"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Cloudy weather in your area but chance of rain","BIHAR","NALANDA","RAHUI                                             ","2014-08-22 13:58:44.960"
+"KHARIF","HORTICULTURE","Vegetables","Bell Pepper","Spices and Condiment Crops","insect problem","Use Carbofuran @ 10-15 grains in gabha","BIHAR","NALANDA","PARBALPUR                                         ","2014-08-23 12:21:44.293"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Bio-Pesticides and Bio-Fertilizers","delay in growth in rice","Spray boomflower @ 2 ml in 1 litre of water","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-24 19:05:41.817"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","FERTILIZER DOSE IN PADDY","APPLY 15KG.UREA/ACRE","BIHAR","NALANDA","HILSA                                             ","2014-08-24 21:28:06.963"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","Peanut bud necrosis virus","Selection of healthy seedlings and rouging of PBNV infected plants up to 45 days of planting. Apply Carbofuran 3 G 1 kg a.i./ha in nursery at sowing and second application at 1.25 kg a.i./ha 10 days after transplanting in mainfield and 3 sprays of Dimethoate 30 EC 1 ml/l or Methyl demeton 25 EC 1 ml/l or Phosphomidan 1.0 ml/l @ 25, 40 and 55 days after transplanting.","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-25 07:31:25.283"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INSECT CONTROL IN PADDY","Spray methyl demeton or dimethoate @ 1 ml in water","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-26 15:09:27.320"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","fertilizer dose in paddy-","fertilizer dose in paddy-NPK- 100:40:20 Kg/ ha","BIHAR","NALANDA","NAGAR NAUSA                                       ","2014-08-26 18:09:12.493"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area  chance of rain","BIHAR","NALANDA","EKANGARSARAI                                      ","2014-08-27 11:44:00.420"
+"JAYAD","HORTICULTURE","Fruits","Banana","	Plant Protection	","INSECT PROBLEM IN BANANA PLANT","spray imidachlorpid @ 1 ml / 3 lt of water","BIHAR","NALANDA","PARBALPUR                                         ","2014-08-27 11:56:58.283"
+"KHARIF","HORTICULTURE","Vegetables","Broad Bean","Bio-Pesticides and Bio-Fertilizers","WILTING PROBLEM IN MAIZE","SPRAY BLITOX -50@2ML/LIT","BIHAR","NALANDA","HARNAUT                                           ","2014-08-27 16:31:00.730"
+"KHARIF","HORTICULTURE","Vegetables","Broad Bean","Bio-Pesticides and Bio-Fertilizers","WILTING PROBLEM IN MAIZE","SPRAY BLITOX -50@2ML/LIT","BIHAR","NALANDA","HARNAUT                                           ","2014-08-27 16:36:08.450"
+"KHARIF","HORTICULTURE","Vegetables","Broad Bean","Bio-Pesticides and Bio-Fertilizers","WILTING PROBLEM IN MAIZE","SPRAY BLITOX -50@2ML/LIT","BIHAR","NALANDA","HARNAUT                                           ","2014-08-27 16:37:58.570"
+"KHARIF","HORTICULTURE","Vegetables","Broad Bean","Bio-Pesticides and Bio-Fertilizers","WILTING PROBLEM IN MAIZE","SPRAY BLITOX -50@2ML/LIT","BIHAR","NALANDA","HARNAUT                                           ","2014-08-27 16:39:48.863"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","NALANDA","HARNAUT                                           ","2014-08-28 08:28:49.673"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","PADDY FERTILIZER DOSE=","PADDY FERTILIZER DOSE= N:P:K-120 SULPHATE@25KG/HA+COMPOST-10-15TONN/HA","BIHAR","NALANDA","CHANDI                                            ","2014-08-28 18:03:55.843"

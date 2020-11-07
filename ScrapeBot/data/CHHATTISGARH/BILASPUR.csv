@@ -1,0 +1,467 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"","AGRICULTURE","Others","Others","Weather","farmer want to know information about  weather forcast ?","01/08               02/08               03/08               04/08               05/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  71                   6                  18                  15                  33","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-01 07:14:47.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather information ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              01/08               02/08               03/08               04/08               05/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  71                   6                  18                  15                  33","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-01 07:42:00.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","farmer want to know information about What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-01 11:37:27.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop?","Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-01 11:39:44.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","farmer want to know information about Which fertilizer and nutrient give for better growth in paddy?","Spray N: P: K 19:19:19 100 grams /15 liter of water.","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-01 11:57:14.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","farmer want to know information about How to control stem borer in paddy crop?","Apply cartap hydro chloride 7 to 10 kg at per Acer.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-01 12:39:27.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","Cultural Practices","how to control weeds ?","spray odyssey @ 40gm/acar to control weeds .","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-01 14:57:38.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","fertilizers dose for paddy crop ?","fertilizers dose for paddy crop-  N 80 -100  KILOGRAM,  P 50- 40  KILOGRAM ,  K 40-30 KILOGRAM","CHHATTISGARH","BILASPUR","","2014-08-01 15:35:19.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how to control Sheath Blight ?","spray  propiconazol @ 1 ml/litre of water.","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-01 16:43:20.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","Dos of N:P:K in paddy crop","Apply N:P:K 100:50:40 /hact.(217 kg urea ,312 kg/ 108 kg dap,66 kg mop/hact.)","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-01 17:35:42.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","Weather","weather information","???? ???? ??????
+???? ??: +37°
+?????: +24°
+???: 66.1%
+????????????: 4 ????????
+???? ?? 1.8. 14:30
+?? ???? ??? Pbo Raipur
+????? ????????, Pbo Raipur >","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-01 17:47:12.000"
+"JAYAD","HORTICULTURE","Fruits","Papaya","	Plant Protection	","Seed treatment in soybean crop?","Use bavastim 3 gm per kg of seed","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-02 07:28:38.000"
+"","AGRICULTURE","Others","Others","","Farmer want to information about weather ?","02/08               03/08               04/08               05/08               06/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  36                  13                  38                  66                  48","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-02 07:34:31.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","how to control red mite in okra crop ?","spray of dicophol dava 20 ml per pump .","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-02 08:14:52.000"
+"","HORTICULTURE","Vegetables","Tomato","","How to control of fungal attack in tomato ?","Use copper oxy chloride 45 gram and steptrocyclin 2 gram at 15 liter of water.","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-02 09:08:14.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Field Preparation	","farmer want to know information about Which fertilizer and nutrient give for better growth in soyabean crop?","Spray N: P: K 19:19:19 100 grams /15 liter of water.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-02 09:17:54.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","farmer want to know information about How to control white fly in crop?","Spray Dimethoate (Rogar) or Triazophos 30 ml per pump.","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-02 11:25:28.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","farmer want to know information about How to control white fly in crop?","Spray Dimethoate (Rogar) or Triazophos 30 ml per pump.","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-02 11:28:58.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","how to control wilt in chilli crop ?","Mancozeb 63% + Carbendazim 12% WP 40 gram and steptrocyclin 2 gram at 15 liter of water.","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-02 11:45:27.000"
+"JAYAD","HORTICULTURE","Fruits","Acid Lime","	Plant Protection	","farmer want to know information about How to control aphid ?","Spray of imidaclorprid 17.8%SL 5 to 6 ml per pump.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-02 13:04:17.000"
+"","AGRICULTURE","Others","Others","","Farmer want to information about weather ?","03/08               04/08               05/08               06/08               07/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  21                  23                  64                 194                  79","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-02 13:09:09.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paddy weeds control ?","spray byutachlor @ 1-1.2  liter / acre 250-500 liter","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-02 14:10:54.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","Paddy fertilizer  doses ?","apply urea 220 kg + ssp-375 kg + mop -68 kg / hectare .","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-02 15:00:31.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paddy weeds control ?","NIMINEE GOLD (bispyribac sodium 10%sc)  @ 200 ml / 300 liter water / hectare 15-25 days after sowing of transplanting","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-02 15:01:45.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paddy stem borer control ?","apply cartap hydrochloride @ 7.5 kg / acre .","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-02 16:42:30.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast control paddy ?","spray propiconazole @ 1 ml / liter ,","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-02 16:44:46.000"
+"JAYAD","HORTICULTURE","Fruits","Guava","Seeds and Planting Material","Guava Varieties ?","Allahabad, Lucknow 46, 49, Arka Amulya, Arka Mridula, Banaras, Baptla, Arka Kiran, Lalit a","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-02 16:46:34.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","how to control of fruit bober in bhindi?","apply cartap hydrochloride @ 7.5 kg / acre .","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-02 17:16:43.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","Paddy fertilizer  doses ?","apply urea 220 kg + ssp-375 kg + mop -68 kg / hectare .","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-02 18:58:47.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","how to control broad leaves weeds ?","recommended for spray 2,4 -D @ 1Kg per hectare.","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-02 19:23:49.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","How Can We Control Fungus In CHILLIES ?","You Can Spray Tebuconazole @ 200ml/Acre, Mencozeb + Carbindazim (Saaf Or  Sixer)@ 40 G /Pump To Control Fungus In CHILLIES.","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-03 08:21:15.000"
+"JAYAD","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","How To Control White Fly In COTTON Crop?","Spray Daiphenthuran (Pegasas) 10 To 12 Gram At Per Pump.","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-03 08:38:27.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control stem borer in paddy crop?","Apply cartap hydro chloride 7 to 10 kg at per Acer.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-03 08:40:13.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop?","Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-03 09:49:11.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","farmer want to know information about How to control stem borer in paddy crop?","Apply cartap hydro chloride 7 to 10 kg at per Acer.","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-03 10:17:47.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-03 10:30:00.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","farmer want to know information about How to control of fungal attack in crop ?","spray mencojeb + carbandazim 45 gram and steptrocyclin 2 gram at 15 liter of water","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-03 11:08:40.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about Which fertilizer and nutrient give for better growth?","Spray N: P: K 19:19:19 100 grams /15 liter of water","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-03 11:18:00.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","farmer want to know information about How to control of fungal attack in crop ?","spray mencojeb + carbandazim 45 gram and steptrocyclin 2 gram at 15 liter of water","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-03 11:26:38.000"
+"JAYAD","AGRICULTURE","Others","Others","	Plant Protection	","how to control of sucking pest?","sprey dimethyote 35-40ml/pump","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-03 11:31:43.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control weeds in paddy crop?","Spray Nomini gold (Bispayriback sodium) 80 gram per acar.","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-03 11:38:16.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-03 11:53:57.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop?","Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-03 11:58:38.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","How to control weeds in soybean crop?","When your crop become 15 to 20 days you will be spay qugelefop ethyel 400ml per acar for narrow leaf weeds and emejhathayper 300 ml per acar for broad leaf weeds","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-03 12:04:54.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather information","??? ???? ?? ???? ?????
+???? ??: +26°
+?????: +25°
+???: 94.2%
+????????????: 2 ????????
+???? ?? 3.8. 05:30 pm
+?? ???? ??? Pbo Raipur
+????? ????????, Pbo Raipur >","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-03 19:24:16.000"
+"","AGRICULTURE","Others","Others","","Farmer want to know information about weather forecast ?","04/08               05/08               06/08               07/08               08/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  28                  45                 124                   5                   0","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-04 06:35:17.000"
+"","AGRICULTURE","Others","Others","","Farmer want to know information about weather forecast ?","04/08               05/08               06/08               07/08               08/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  28                  45                 124                   5                   0","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-04 08:32:04.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","How to control stem borer in paddy crop?","Apply cartap hydro chloride 7 to 10 kg at per Acer.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-04 09:48:49.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","Control  of  BPH, WBPH, GLH, Stem Borer and Termites  of  Paddy ?","Use  of  Cartap Hydrochloride 4G @ 8-10 Kg/acre","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-04 10:09:59.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","TO KNWO ABOUT THE DOS OF N:P:K IN PADDY CROP","APPLY N:P:K  217 KG UREA,312 KG SSP(108 KG DAP),66 KG MOP /HACT.OR N:P:K 12:32:16 KG/ACRE.","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-04 10:36:42.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Rainfall (mm)                  23                  15                   4                   0                   3
+Max Temperature ( deg C)       30                  25                  29                  30                  31
+Min Temperature ( deg C)       22                  21                  21                  21                  22
+Total cloud cover (octa)        8                   8                   3                   5                   5","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-04 10:58:17.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control weeds in paddy crop?","?????? ????? ??? ?? 80 ????? ?? ?????? ?? ????? ??? ?? ????? ?? ?????? ???","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-04 11:02:55.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about How to control of fungal attack in paddy crop ?","spray mencojeb + carbandazim 45 gram and steptrocyclin 2 gram at 15 liter of water","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-04 11:08:47.000"
+"JAYAD","HORTICULTURE","Fruits","Aonla","Fertilizer Use and Availability","Manures and fertilizers (per plant/year)","Manures and Fertilizers
+
+Bearing tree
+
+FYM
+
+10 kg
+
+N
+
+200 g
+
+P
+
+500 g
+
+K
+
+200 g","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-04 11:28:09.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TO KNOW ABOUT SUCKING PEST IN","1.	spray any one of the following insecticide
+Insecticide	Dose
+Imidacloprid 17.8 % SL	3.0 ml/10 lit.
+Dimethoate 30 % EC	1.0 ml/lit.
+Emamectin benzoate 5 % SG	4 g/10 lit.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-04 12:08:55.000"
+"JAYAD","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","TO KNOW ABOUT SUCKING PEST IN","1.	spray any one of the following insecticide
+Insecticide	Dose
+Imidacloprid 17.8 % SL	3.0 ml/10 lit.
+Dimethoate 30 % EC	1.0 ml/lit.
+Emamectin benzoate 5 % SG	4 g/10 lit.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-04 12:14:48.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","WEED CONTROL IN SOYBEAN","???????????? ????? 320-400 ???? ?? 20-25 ??? ?? ??? ??? ?? ???? ????? ???? ????????? ?? ????????? ???? ????   ???? ??????????  300 ???? ?? 20-25 ??? ??? ?? ??????? ?? 2-3 ????? ?? ?????? ?? ?? ???? ????? ???? ??? ????? ????? ???? ???? ?? ????????? ?? ????????? ???? ????","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-04 12:19:50.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Bacterial leaf streak","Spraying streptomycin sulphate and tetracycline combination 300g +copper oxychloride 1.25 kg/ha.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-04 12:36:28.000"
+"JAYAD","HORTICULTURE","Vegetables","Tomato","Cultural Practices","fertilizer application","Basal dose : FYM 25 t/ha, NPK 50:250:100 kg/ha 
+                    Borax 10 kg and Zinc sulphate 50 kg/ha 
+Top dressing : N and K each 150 kg/ha in 3 equal splits at 30, 45 and 60 days after planting.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-04 12:42:47.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TO KNOW ABOUT THE STEM BORER IN PADDY CROP","•	Spray any one of the following based on ETLs : 
+ Monocrotophos 36 SL 1000 ml/ha (or) Quinalphos 25 EC 1000 ml/ha (or) Phosphamidon 40 SL 600 ml/ha (or) Profenophos 50 EC 1000 ml/ha.","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-04 13:04:10.000"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","WEED CONTROL IN PADDY","•	Where broad-leaved weeds and sedges are predominant, apply 2,4-D sodium salt (Fernoxone 80% WP) 1.25 kg/ha dissolved in 625 litres of water with a high volume sprayer, three weeks after transplanting or when the weeds are in 3-4 leaf stage","CHHATTISGARH","BILASPUR","","2014-08-04 13:11:41.000"
+"JAYAD","HORTICULTURE","Vegetables","Colocasia (Arvi, Arbi)","	Plant Protection	","How to control of fungal attack in colocasia crop?","???? ????? ???????? ??? ?? 45 ????? ?? ?????????????????? ??? ?? 2 ????? ??? ?? 15 ???? ???? ?? ??? ?????? ?????? ???|","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-04 13:11:57.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","Fertilizer Use and Availability","??????? ?? ??? ?? ??? ???? ?????? (??????, ????? ? ?????) ?? ?????? (??????./?????.)","????? ???????? ??????? ???? 20-25 ???? ?????? 60-75 ???? ????? ? 30-40 ???? ????? ?? ???????? ???? ?? 25 ??.????. ???? ?????? ????? ???????? ???? ?? ??????? ???? ??? ??","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-04 13:13:00.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","TO KNOW ABOUT THE WAETHER INFORMATION","??? ???? ?? ???? ?????
+???? ??: +26°
+?????: +25°
+???: 92%
+????????????: 4 ????????
+???? ?? 4.8. 11:30 am
+?? ???? ??? Pbo Raipur
+????? ????????, Pbo Raipur >","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-04 13:16:39.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","mandi rate in bilaspur","Commodity: Groundnut
+
+Market	Arrivals 
+(Tonnes)	Origin	Variety	Minimum Price
+(Rs./Quintal)	Maximum Price
+(Rs./Quintal)	Modal Price
+(Rs./Quintal)
+Haryana 
+Bilaspur  	0.6  	  	Other  	5000  	5000  	5000","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-04 13:31:16.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TO KNOW ABOUT SUCKING PEST IN","1.	spray any one of the following insecticide
+Insecticide	Dose
+Imidacloprid 17.8 % SL	3.0 ml/10 lit.
+Dimethoate 30 % EC	1.0 ml/lit.
+Emamectin benzoate 5 % SG	4 g/10 lit.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-04 13:54:31.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TO KNOW ABOUT THE STEM BORER IN PADDY CROP","•	Spray any one of the following based on ETLs : 
+ Monocrotophos 36 SL 1000 ml/ha (or) Quinalphos 25 EC 1000 ml/ha (or) Phosphamidon 40 SL 600 ml/ha (or) Profenophos 50 EC 1000 ml/ha.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-04 13:58:07.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","TO KNOW ABOUT THE STEM BORER IN PADDY CROP","•	Spray any one of the following based on ETLs : 
+ Monocrotophos 36 SL 1000 ml/ha (or) Quinalphos 25 EC 1000 ml/ha (or) Phosphamidon 40 SL 600 ml/ha (or) Profenophos 50 EC 1000 ml/ha.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-04 14:04:21.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TO KNOW ABOUT SUCKING PEST IN","1.	spray any one of the following insecticide
+Insecticide	Dose
+Imidacloprid 17.8 % SL	3.0 ml/10 lit.
+Dimethoate 30 % EC	1.0 ml/lit.
+Emamectin benzoate 5 % SG	4 g/10 lit.","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-04 14:09:27.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","Paddy fertilizer  doses ?","apply urea 220 kg + ssp-375 kg + mop -68 kg / hectare .","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-04 14:09:40.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","tubewell yojna of govt . schemes ?","40000/- per benfishry contact to raeo , sado ,ada ,","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-04 15:07:09.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TO KNWO ABOUT THE DOS OF N:P:K IN PADDY CROP","APPLY N:P:K  217 KG UREA,312 KG SSP(108 KG DAP),66 KG MOP /HACT.OR N:P:K 12:32:16 KG/ACRE.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-04 15:53:02.000"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","?? ??? ?? ????? (?????) ?????? ??? ?? ?????? ???????? ??, ?? ??? ???? ?? ?????? ????? ?? ???? ??? ????? ???? ?? ????? ?? ????? ???? ?? ?????? ??????? ???? ????","???? ??????
+
+5 ??????? ???????? ????
+
+????? 10 ??. 10 ????. ??  ???????? 0.3 ??. 25 ????.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-04 16:08:18.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TO KNOW ABOUT SUCKING PEST IN","1.	spray any one of the following insecticide
+Insecticide	Dose
+Imidacloprid 17.8 % SL	3.0 ml/10 lit.
+Dimethoate 30 % EC	1.0 ml/lit.
+Emamectin benzoate 5 % SG	4 g/10 lit.","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-04 16:13:29.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","WEED CONTROL IN PADDY","•	Where broad-leaved weeds and sedges are predominant, apply 2,4-D sodium salt (Fernoxone 80% WP) 1.25 kg/ha dissolved in 625 litres of water with a high volume sprayer, three weeks after transplanting or when the weeds are in 3-4 leaf stage.","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-04 16:17:01.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","Paddy fertilizer  doses ?","apply urea 220 kg + ssp-375 kg + mop -68 kg / hectare .","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-04 16:20:40.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","???????? ?? ????? ???? ???? ??? : (??????? ?? ?????, ?????? ??????? ???, ????? ????? ???","?? ??????? ??????? ?? 35-40 ??? 55-60 ????? ??? :(1)	?????????? 25 ???.??.	 -1250 ??.??./??.
+(2)	????????????? 20 ???.??.-1.5 ??./??.,(3)??????????? 40 ???.??. -1.0 ??./??.,
+(4)	?????????????? 480 ??.??.-175-200 ??.??./??., (5)?????????? 45 ??.??.-250 ??.??./??.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-04 16:42:37.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","???????? ?? ????? ???? ???? ??? : (??????? ?? ?????, ?????? ??????? ???, ????? ????? ???","?? ??????? ??????? ?? 35-40 ??? 55-60 ????? ??? :(1)	?????????? 25 ???.??.	 -1250 ??.??./??.
+(2)	????????????? 20 ???.??.-1.5 ??./??.,(3)??????????? 40 ???.??. -1.0 ??./??.,
+(4)	?????????????? 480 ??.??.-175-200 ??.??./??., (5)?????????? 45 ??.??.-250 ??.??./??.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-04 16:45:27.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","???????? ?? ????? ???? ???? ??? : (??????? ?? ?????, ?????? ??????? ???, ????? ????? ???)","?? ??????? ??????? ?? 35-40 ??? 55-60 ????? ??? :(1)	?????????? 25 ???.??.	 -1250 ??.??./??.
+(2)	????????????? 20 ???.??.-1.5 ??./??.,(3)??????????? 40 ???.??. -1.0 ??./??.,
+(4)	?????????????? 480 ??.??.-175-200 ??.??./??., (5)?????????? 45 ??.??.-250 ??.??./??.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-04 16:58:03.000"
+"JAYAD","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","how  I can  improve growth ?","SPRAY NPK 19:19:19 @ 1.5 Kg/ acar dissolve in 150 litre of water.","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-04 17:01:39.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how  I can  improve growth ?","recommended for  SPRAY NPK 19:19:19 @ 2.25 Kg/ acar dissolve in 150 litre of water.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-04 20:07:11.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer wants to registration for mandi information.","your mobile number has been registerd.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-04 20:11:37.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","Farmer want to information  of weather forecast ?","Your district no rainfall in 23 mm .","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-04 20:21:03.000"
+"JAYAD","AGRICULTURE","Others","Others","Government Schemes","farmer wants to registration for mandi information.","your mobile number has been registerd.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-04 22:00:37.000"
+"","HORTICULTURE","Vegetables","Bitter Gourd","","Control  of  Whitefly, Aphid, Jassid and Thrips  of  bitter gourd?","Spray of  Acetamiprid 20% SP @ 20-40 gm/acre.","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-05 07:43:00.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about How to control weeds in paddy crop?","Spray Nomini gold(Bispayriback sodium) 80 ml  per acar.","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-05 08:29:30.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","Control  of  BPH, WBPH, GLH, Stem Borer and Termites  of  Paddy ?","Use  of  Cartap Hydrochloride 4G @ 8-10 Kg/acre","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-05 08:30:04.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","farmer want to fertilizer dose of paddy crop ?","urea 131 KILOGRAM ,DAP 108 kilogram ,MOP 50 kilogram , zinc sulphete 25 kilogram per hectare","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-05 10:11:34.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about  weather forcast ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              06/08               07/08               08/08               09/08               10/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  33                   0                   0                   0                   3","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-05 10:20:57.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Bilaspur 1 – 3 Day Weather Forecast Summary: Heavy rain (total 23mm), heaviest during Tue morning. Warm (max 31°C on Thu afternoon, min 24°C on Tue night). Winds decreasing (strong winds from the WSW on Tue afternoon, light winds from the W by Thu night).,Bilaspur 4 – 7 Day Weather Forecast Summary: Heavy rain (total 30mm), heaviest during Sun night. Warm (max 33°C on Sat afternoon, min 26°C on Fri night). Wind will be generally light.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-05 10:52:59.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about How to control weeds in paddy crop?","Spray Nomini gold(Bispayriback sodium) 80 ml  per acar.","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-05 11:39:40.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control of fungal attack in paddy crop?","???? ????? ???????? ??? ?? 45 ????? ?? ?????????????????? ??? ?? 2 ????? ??? ?? 15 ???? ???? ?? ??? ?????? ?????? ???|","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-05 11:59:57.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","farmer want to know information about What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","GHUMARWIN                                         ","2014-08-05 12:04:02.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","farmer want to fertilizer dose of paddy crop ?","urea 131 KILOGRAM ,DAP 108 kilogram ,MOP 50 kilogram , zinc sulphete 25 kilogram per hectare","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-05 12:49:07.000"
+"","AGRICULTURE","Others","Others","","Farmer want to information  of weather forecast ?","06/08               07/08               08/08               09/08               10/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  33                   0                   0                   0                   3","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-05 13:35:03.000"
+"","AGRICULTURE","Others","Others","Weather","Farmer want to information  of weather forecast ?","06/08               07/08               08/08               09/08               10/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  33                   0                   0                   0                   3","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-05 14:02:35.000"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather forecast ?","chance of heavy  rainfall next 24 hours.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-05 14:28:46.000"
+"JAYAD","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","To know about the control of sucking pest in green gram ?","?????? ??? ????- ????, ???? ?????, ??????? ??? ?? ???? ????????????? 25 ???.??. ?? 750 ??.??. ????? ???????? ?? ?? ??????? ?????","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-05 14:29:38.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","NWP MODELS BASED DISTRICT LEVEL WEATHER PREDICTION  ISSUED ON:  05-08-2014?","rainfall 33 mm","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-05 14:29:50.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","WEED CONTROL IN SOYBEAN","??????????  	30	300	???? ?? 20-25 ??? ??? ?? ??????? ?? 2-3 ????? ?? ?????? ??	?? ???? ????? ???? ??? ????? ????? ???? ???? ?? ????????? ?? ????????? ???? ????","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-05 14:34:34.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","WEED CONTROL IN SOYBEAN","??????????  	30	300	???? ?? 20-25 ??? ??? ?? ??????? ?? 2-3 ????? ?? ?????? ??	?? ???? ????? ???? ??? ????? ????? ???? ???? ?? ????????? ?? ????????? ???? ????","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-05 14:36:27.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","Weather","To know about the weather information","??? ???? ?? ???? ?????
+???? ??: +25°
+?????: +23°
+???: 93%
+????????????: 2 ????????
+???? ?? 5.8. 11:30
+?? ???? ??? Pbo Raipur
+????? ????????, Pbo Raipur >","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-05 14:38:49.000"
+"JAYAD","HORTICULTURE","Condiments and Spices","Ginger","	Plant Protection	","how to control Soft rot or rhizome rot  in ginger ?","Once the disease is located in the field, removal of affected clumps and drenching the affected and surrounding beds with mancozeb @ 3gm/litre of water  checks the spread of the disease.","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-05 15:14:11.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather forecast ?","chance of heavy  rainfall next 24 hours.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-05 15:27:12.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather forecast ?","chance of heavy  rainfall next 24 hours.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-05 15:51:32.000"
+"JAYAD","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","how to control fruit rot ?","recommended for Spraying with Mancozeb @ 2g/Litre of water.","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-05 18:12:27.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","TO KNOW ABOUT THE WAETHER INFORMATION","??? ???? ?? ???? ?????
+???? ??: +25°
+?????: +23°
+???: 93%
+????????????: 4 ????????
+???? ?? 5.8. 05:30 pm
+?? ???? ??? Pbo Raipur
+????? ????????, Pbo Raipur >","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-05 18:46:03.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather information","??? ???? ?? ???? ?????
+???? ??: +25°
+?????: +23°
+???: 93%
+????????????: 4 ????????
+???? ?? 5.8. 05:30 pm
+?? ???? ??? Pbo Raipur
+????? ????????, Pbo Raipur >","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-05 19:04:40.000"
+"RABI","HORTICULTURE","Vegetables","Bottle Gourd ","Weather","TO KNOW ABOUT THE WAETHER INFORMATION","?? ???? ?? ???? ?????
+???? ??: +24°
+????????: 1001.0 ???????????? 
+?????: +23°
+???: 94.1%
+????????????: 4 ????????
+???? ?? 5.8. 06:10 pm","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-05 19:26:50.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","TO KNOW ABOUT THE WAETHER INFORMATION","??? ???? ?? ???? ?????
+???? ??: +24°
+????????: 1001.0 ???????????? 
+?????: +23°
+???: 94.1%
+????????????: 4 ????????
+???? ?? 5.8. 06:10 pm","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-05 19:29:09.000"
+"JAYAD","HORTICULTURE","Vegetables","Brinjal","Weather","TO KNOW ABOUT THE WAETHER INFORMATION","??? ???? ?? ???? ?????
+???? ??: +25°
+?????: +23°
+???: 93%
+????????????: 4 ????????
+???? ?? 5.8. 05:30 pm
+?? ???? ??? Pbo Raipur
+????? ????????, Pbo Raipur >","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-05 19:46:41.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TO KNOW ABOUT THE STEM BORER IN PADDY CROP","•	Spray any one of the following based on ETLs : 
+ Monocrotophos 36 SL 1000 ml/ha (or) Quinalphos 25 EC 1000 ml/ha (or) Phosphamidon 40 SL 600 ml/ha (or) Profenophos 50 EC 1000 ml/ha.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-05 20:00:13.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","Seed treatment in soybean crop.","Use bavastin 3 gm per kg of seed","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-06 06:21:58.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-06 07:00:04.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather information ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              06/08               07/08               08/08               09/08               10/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  33                   0                   0                   0                   3","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-06 08:16:53.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control stem borer in paddy crop?","Apply cartap hydro chloride 50% SP @ 7 to 10 kg at per Acer.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-06 08:47:45.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about How to control kahira disease in paddy crop?","apply zinc sulphate 10 kg per Acer.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-06 08:58:00.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","farmer want to know information about How to control of fungal attack in crop ?","spray mencojeb + carbandazim 45 gram and steptrocyclin 2 gram at 15 liter of water","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-06 09:30:54.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","how to control wilt in chilli crop ?","Mancozeb 63% + Carbendazime 12% WP 40 gram and steptrocyclean 2 gram at 15 liter of water.","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-06 09:37:42.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TO KNOW ABOUT SUCKING PEST IN","1.	spray any one of the following insecticide
+Insecticide	Dose
+Imidacloprid 17.8 % SL	3.0 ml/10 lit.
+Dimethoate 30 % EC	1.0 ml/lit.
+Emamectin benzoate 5 % SG	4 g/10 lit.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-06 10:44:58.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","how to control rat problem in paddy ?","use zink phosphate","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-06 10:56:46.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","farmer want to know information about How to control of fungal attack in crop ?","spray mencojeb + carbandazim 45 gram and steptrocyclin 2 gram at 15 liter of water","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-06 11:10:02.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather information ?","some clouds in your area","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-06 11:32:25.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","????? ??? ?? ???? ?? ?? ??? ?? ???? ?? ?? ???? ???? ???? ?????? ?? ???? ??? ???? ??? ?? ??? ??????? ?? ??? ???? ???? ????? ???? ??? ?? ???? ???","???????? ????????? ???? ??????????????? (??? ?? ???) - 6 ????.10 ??. ????, ??????????????? (????????- 1 ????./??. ????) ?? ??????????? (?????????-1.5 ????/??. ????) ?? ??????? ???? ??????? ??? ?? ??????? ?? ?????? 12-15 ??? ??? ??????? ?????? ???? ???????","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-06 11:33:50.000"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Irregular cuttings of stem","Poison bait at 1 part zinc phosphide with 49 parts popped corn/rice/dry fish or bromodialone 0.25 w/w (1:49) at 0.005%. Mix one part of bromodialone + 49 parts of bait and keep inside the field.","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-06 11:49:17.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","Weather","weather information ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              07/08               08/08               09/08               10/08               11/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   4                   0                   0                   8                  27","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-06 13:16:39.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Market Information","where from get agril . govt. subsidy .?","contact to raeo ,rheo , sado agril depptt .","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-06 14:44:27.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","Weather forecast ?","RECOMMENDED FOR Chance of heavy rainfall next five days.","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-06 15:40:18.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","Weather forecast ?","RECOMMENDED FOR Chance of heavy rainfall next five days.","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-06 15:44:35.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast control paddy ?","spray propiconazole @ 1 ml / liter ,","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-06 17:34:33.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast control paddy ?","spray propiconazole @ 1 ml / liter ,","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-06 18:27:53.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control weeds in paddy crop?","Spray Nomini gold (Bispayriback sodium) 80 gram per acar.","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-07 07:49:03.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about How to control weeds in paddy crop?","Spray Nomini gold(Bispayriback sodium) 80 ml  per acar.","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-07 07:49:12.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather information ?","some clouds in your area","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-07 09:47:57.000"
+"JAYAD","HORTICULTURE","Vegetables","Bitter Gourd","	Plant Protection	","How to control of fungal attack in BITTERGAURD crop?","???? ????? ???????? ??? ?? 45 ????? ?? ?????????????????? ??? ?? 2 ????? ??? ?? 15 ???? ???? ?? ??? ?????? ?????? ???| 
+???????? 63% + ????????????? 12% WP ??? ?? 40 ????? ?? ?????????????????? ??? ?? 2 ????? ??? ?? 15 ???? ???? ?? ??? ?????? ?????? ???|","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-07 09:52:06.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","how to increase yield of paddy ?","use urea 25 kg\accre","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-07 10:09:51.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","What are fertilizer doses in paddy crop?","??? ??? ?????? = 60 ??.????.,??.?.??. = 108 ??.????. ,??????? ?? ????? = 50 ??.????.?? 25 ???? ???? ??????  ????? ??????? ????? ?? ??? /???? ??? ?? ??? ?? ????? ??-?? ???? ??????/ ???  ?? ????? ?? ?????? ???","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-07 10:53:59.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","Farmer want to information weed control in soyabean crop?","???????  ??? ????????? ?? ???? ???? ?? ???? ??-?? ????? ??? ???? ??  ????? ????? ??????????? ????? (???????? ) 400 ???? ????? ??? ???? ???? ??? ?? ??? ???? ????? ??? ???? ????????? ?? ???? (????/????/?????)??????????? 300 ???? ????? ??? ?? ?? ?? ?????? ?? ?????? ???","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-07 12:17:11.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather information ?","some clouds in your area","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-07 12:51:42.000"
+"JAYAD","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","sowing season of redgram ?","??? ?? ???? ????????: ??? ?? ????? ?????? ?? ????? ?? ????? ?????? ?? ???? ????? ? ?????? ????????? ??? ????? ???? ???? ???? ?? ???? ??? ?? ????? ?????? ?? ??????? ?????? ??? ???? ?? ????? ??? ????? ?? ? ??? ????? ???? ???? ?? ??? ?? ???? ?? ???? ???? ? ?? ???? ?? ??? ???? ???? ????? ?? ????? ?????? ?? ?? ?? ???? ?? ?","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-07 14:46:21.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast control paddy ?","spray propiconazole @ 1 ml / liter ,","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-07 14:54:29.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paddy stem borer control ?","apply cartap hydrochloride @ 7.5 kg / acre .","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-07 15:00:35.000"
+"JAYAD","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","arhar variety ?","icpl-87, 151 ,","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-07 15:12:42.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","fertilizer  paddy  ?","apply zinc sulphate @ 25 kg / hectare","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-07 18:46:35.000"
+"JAYAD","HORTICULTURE","Vegetables","Cowpea (Vegetable)","	Plant Protection	","HOW TO CONTROL FLOWER DROPPING .","recommended for SPRAY NAPTHALIN ACITIC ACID @ 1 ML/10 LITRE OF WATER.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-07 19:21:47.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","how to inncrese yield  of paddy ?","use npk 191919 100g\pump","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-08 07:21:43.000"
+"JAYAD","AGRICULTURE","Others","Others","","weather","Rainfall (mm)                   9                   0                   0                   0                   0
+Max Temperature ( deg C)       29                  30                  30                  31                  31
+Min Temperature ( deg C)       23                  23                  23                  23                  23
+Total cloud cover (octa)        6                   3                   6                   6                   8","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-08 09:24:52.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Rainfall (mm)                   0                   0                   3                   4                   4
+Max Temperature ( deg C)       29                  30                  31                  31                  29
+Min Temperature ( deg C)       21                  22                  22                  22                  23
+Total cloud cover (octa)        4                   3                   7                   7                   7","CHHATTISGARH","BILASPUR","GAURELLA-2                                        ","2014-08-08 09:40:54.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather information ?","some clouds in your  area","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-08 09:52:09.000"
+"JAYAD","HORTICULTURE","Fruits","Papaya","	Plant Protection	","how to control fungal disease ?","use copper oxy chloride 40 gram and streptocyclin 2 gram at 15 liter of water","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-08 10:23:17.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","What are fertilizer doses in paddy crop?","??? ??? ?????? = 60 ??.????.,??.?.??. = 108 ??.????. ,??????? ?? ????? = 50 ??.????.?? 25 ???? ???? ??????  ????? ??????? ????? ?? ??? /???? ??? ?? ??? ?? ????? ??-?? ???? ??????/ ???  ?? ????? ?? ?????? ???","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-08 10:29:01.000"
+"JAYAD","HORTICULTURE","Vegetables","Bottle Gourd ","	Plant Protection	","how to control yellowness in lower leaves ?","recommended for spray NPK 19:19 :19 @ 1.5 Kg per acar  dissovlve in 150 litre.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-08 15:56:15.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","How to control weeds in paddy ?","recommended for pray bispyribac sodium @ 80 ml/acar .","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-08 16:25:54.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","Farmer want to know information about weather forecast ?","09/08         10/08         11/08        12/08            13/08Rainfall (mm)                   5                   0                   0                  12                   3","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-08 18:53:46.000"
+"JAYAD","HORTICULTURE","Fruits","Papaya","	Plant Protection	","how to control leafblight of papaya ?","Recommended for spray mancozeb @ 2 gm/litre of water to  control leaf blight in  papaya ,","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-08 19:21:21.000"
+"JAYAD","HORTICULTURE","Fruits","Papaya","	Plant Protection	","How to control of fungal attack in papaya crop?","Mancozeb 63% + Carbendazim 12% WP 40 gram and 15 liter of water.","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-08 19:25:13.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how to control stem borer ?","recommended for apply carbofuran 3 % G @ 33 kg/hectare,","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-08 21:10:46.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how to improve growth ?","Recommended for  
+spray NPK 19:19 :19 @ 2.25 Kg per acar  dissovlve in 150 litre.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-08 21:11:52.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about How to reduce effect of herbicide in soyabean crop?","Spray glucose 100 to 150 gram per pump","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-09 07:45:09.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control weeds in paddy crop?","?????? ????? ??? ?? 80 ????? ?? ?????? ?? ????? ??? ?? ????? ?? ?????? ???","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-09 08:17:45.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","How to control weeds in paddy crop?","?????? ????? ??? ?? 80 ????? ?? ?????? ?? ????? ??? ?? ????? ?? ?????? ???","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-09 11:10:52.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about How to control weeds in paddy crop?","Spray Nomini gold(Bispayriback sodium) 80 ml  per acar.","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-09 11:32:48.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","kai in paddy ?","apply copper sulphate @ 6-8 kilo / acre .","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-09 14:17:53.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","Farmer want to information  of weather forecast ?","Your district no rainfall in 05 mm .","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-09 17:19:46.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Farmer want to control of gall midge in paddy?","Spraying chloropyriphos 20 ec  40 ml/pump.","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-09 18:37:45.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paddy weeds control ?","NIMINEE GOLD (bispyribac sodium 10%sc)  @ 200 ml / 300 liter water / hectare 15-25 days after sowing of transplanting","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-09 20:12:19.000"
+"JAYAD","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","How to control mealy bug  in arhar?","Spray imedaclorpid @8 ml/pump","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-09 20:15:21.000"
+"JAYAD","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","Q.control of wilt attack in arharcrop  ?","sprey Mencozeb + Carbindazim Saaf or  sixer)@ 40 g /pump","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-10 06:50:16.000"
+"JAYAD","AGRICULTURE","Others","Others","Government Schemes","farmer wants to registration for mandi information. 
+farmer wants to registration for sms alert .","???? ?????? ?????  ?? ??????? ?? ???? ??? ??? | 
+???? ?????? ?????  ?? ???????  ???? ??? ?? ??????? ?? ???  ?? ???? ??? ??? |","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-10 09:26:02.000"
+"JAYAD","AGRICULTURE","Others","Others","Government Schemes","farmer wants to registration for mandi information.","???? ?????? ?????  ?? ??????? ?? ???? ??? ??? | 
+???? ?????? ?????  ?? ???????  ???? ??? ?? ??????? ?? ???  ?? ???? ??? ??? |","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-10 11:47:54.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Rainfall (mm)                  33                   4                  12                   9                   3
+Max Temperature ( deg C)       27                  30                  27                  25                  29
+Min Temperature ( deg C)       22                  22                  23                  22                  22
+Total cloud cover (octa)        7                   5                   7                   8                   8","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-10 11:52:18.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","Paddy fertilizer  doses ?","apply urea 220 kg + ssp-375 kg + mop -68 kg / hectare .","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-11 07:40:42.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Paddy stemborer:","Spray any one of the following insecticides :
+
+Phosalone 35 EC 1500 ml/ha Acephate
+75 % SP 666-1000 g/ha Azadirachtin
+0.03% 1000 ml/ha Carbofuran 3% CG
+25 kg/ha Carbosulfan 6% G 16.7 kg/ha
+Carbosulfan 25% EC 800-1000 ml/ha
+CartapHydrochloride 50 % SP 1 kg/ha
+Chlorantraniliprole 18.5% SC 150 ml/ha","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-11 08:01:14.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","water logging in soyabean ?","drain water from soyabean field .","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-11 10:41:13.000"
+"JAYAD","HORTICULTURE","Fruits","Banana","	Plant Protection	","ant problem in banana","cloropairifas-50ml/pump","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-11 11:09:54.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","farmer want to know information about What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-11 11:30:20.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","farmer want to know information about What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-11 12:14:31.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Rice tungro disease : Rice tungro virus paddy?","spray thiamethaxam @ 7.5 ml / pump.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-11 12:19:07.000"
+"JAYAD","HORTICULTURE","Vegetables","Mushroom","Training and Exposure Visits","mushroom training ?","Agriculture Technology Information Center (???? ??????? ???????)	Dr. S.S. Tuteja, Pr. Scientist & Incharge ATIC	0771-2442672,94255-85171","CHHATTISGARH","BILASPUR","BILASPUR SADAR                                    ","2014-08-11 12:42:47.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paddy weeds control ?","NIMINEE GOLD (bispyribac sodium 10%sc)  @ 200 ml / 300 liter water / hectare 15-25 days after sowing of transplanting
+?","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-11 13:33:20.000"
+"JAYAD","HORTICULTURE","Medicinal and Aromatic Plants","Aloe Vera","Post Harvest Management (Cleaning, Grading, Packaging, Food Processing, Cool Chain etc.)","aloe vera harvesting ?","Harvest
+Harvesting can be done 6 – 7 months after planting. Plants are uprooted and processed (gel extraction) within 6 hours after harvest.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-11 15:57:53.000"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","how to control flower drop of bhindi ?","Ans:-  Spray + planofix @ 5ml/pump.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-19 16:56:45.283"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","brinjal stem borer control ?","spray keldan @ 1 gram / liter","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-19 17:08:13.003"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how to control blast of Paddy?","2- 3 Foliar application of Propiconazol(Tilt) 1 Lit/hac or Cantaze 2 Lit./hac at 15 days interval. Split the dose of nitrogen in 2- 3 times & increase the dose of potassium .","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-19 18:29:10.110"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","Nutrient Management","how to increase growth of cauliflower ? .","foliar application of IFFCO 19:19:19 water soluble fertilizer @ 2kg / acar","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-19 18:30:54.170"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","gall midge control in paddy ?","spray lamdacyhalothrin @ 100 mili / acre","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-19 21:07:38.253"
+"KHARIF","AGRICULTURE","Oilseeds","Soybean (bhat)","Nutrient Management","how to increase growth of soybean ?","Ans:-  foliar application of IFFCO 00:00:50 water soluble fertilizer @ 2kg / acar.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-19 21:10:18.243"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","FERTILIZER DOSSES IN PADDY ?","apply UREA 55 KILO / HACTAR","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-19 21:38:10.743"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","what is blast control  in paddy ?","spray propiconazole @ 1 ml / liter ,","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-20 07:04:03.320"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Agriculture Mechanization","where from get  reaper cum binder ?","contact to bcs india company limited ,jabalpur ele sales 9981361166,cg agro , raeo sado, agriculture engineer .","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-20 07:13:18.370"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about How to control weeds in soybean crop?","When your crop become 25 to 30 days you will be spay qugelefop ethyel 400ml per acar for narrow leaf weeds and emejhathayper 300 ml per acar for broad leaf weeds","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-20 08:04:33.710"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about blast attack of paddy?","spray tricyclazole 75% wp 200gm. per acre","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-20 08:22:27.583"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","degreeRainfall (mm) forecasting ?","today Rainfall (mm)03","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-20 09:18:19.227"
+"KHARIF","AGRICULTURE","Oilseeds","Linseed (alsi)","Seeds","lentil sowing season >?","15 oct. is best season , seed corporation , raeo , sado .","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-20 10:41:26.787"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information ?","some clouds in your area","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-20 12:39:03.400"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer want to information about weather ?","21/08               22/08               23/08               24/08               25/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   8                  22                  15                   7                   7","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-20 14:21:11.040"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","weeds control in paddy ?","apply hand weeding , spray almix@ 8 gram / acre . .","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-20 14:21:31.150"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","Paddy fertilizer  doses ?","apply urea 220 kg + ssp-375 kg + mop -68 kg / hectare .","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-20 20:51:37.110"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about How to control stem borer in paddy crop?","Apply cartap hydro chloride 7 to 10 kg at per Acer.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-21 07:14:58.237"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop ?","Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-21 07:30:53.200"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","how to control blast of paddy ?","trycyclozole powder","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-21 09:53:56.580"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Bilaspur 1 – 3 Day Weather Forecast Summary: Moderate rain (total 13mm), heaviest on Fri afternoon. Warm (max 35°C on Thu afternoon, min 25°C on Sat night). Wind will be generally light.Bilaspur 4 – 7 Day Weather Forecast Summary: Light rain (total 9mm), mostly falling on Tue afternoon. Warm (max 33°C on Sun afternoon, min 27°C on Tue night). Wind will be generally light.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-21 10:35:34.717"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop ?","Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-21 10:39:13.613"
+"KHARIF","HORTICULTURE","Fruits","Banana","Fertilizer Use and Availability","HOW TO INCREASE SIZE OF BANANA FRUIT CROP ?","To improve the grade of bunches 2, 4-D at 25 ppm (25 mg/lit) may be sprayed on Poovan and Co 1 banana after the last hand has emerged. This will also help to remove seediness in Poovan variety. Spray CCC 1000 ppm at 4th and 6th month after planting.","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-21 12:23:08.280"
+"KHARIF","HORTICULTURE","Fruits","Banana","Fertilizer Use and Availability","HOW TO INCREASE SIZE OF BANANA FRUIT CROP ?","To improve the grade of bunches 2, 4-D at 25 ppm (25 mg/lit) may be sprayed on Poovan and Co 1 banana after the last hand has emerged. This will also help to remove seediness in Poovan variety. Spray CCC 1000 ppm at 4th and 6th month after planting.","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-21 12:23:11.477"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-21 14:02:51.220"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about sowing time of ramtil ?","sowing time of ramtil second week of july to second week of augast","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-21 14:48:12.537"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about sowing time of ramtil ?","sowing time of ramtil second week of july to second week of augast","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-21 14:48:16.380"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about sowing time of ramtil ?","sowing time of ramtil second week of july to second week of augast","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-21 14:48:21.890"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Soil Health Card","How to control weeds in paddy crop?","spray whip super 30 ml/pump","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-21 14:55:31.133"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about How to control of fungal attack in paddy  crop ?","spray mencojeb + carbandazim 45 gram and steptrocyclin 2 gram at 15 liter of water","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-21 18:15:51.340"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","what is blast control paddy ?","spray propiconazole @ 1 ml / liter ,","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-21 21:39:21.817"
+"KHARIF","AGRICULTURE","Others","Others","	Field Preparation	","how to increse yield of paddy ?","foliar application of IFFCO 19:19:19 water soluble fertilizer @ 100 gm/pump.","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-22 08:52:42.190"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather information ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              23/08               24/08               25/08               26/08               27/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  15                  24                   0                   6                   4","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-22 15:06:25.937"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control weeds in paddy crop?","Spray Nomini gold(Bispayriback sodium) 80 gram per acar","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-22 15:12:27.740"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","Which fertilizer and nutrient give for better growth in soybean crop?","Spray N: P: K 19:19:19 100 and humic acid 30 ml at 15 liter of water.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-22 15:14:29.163"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast in paddy","???????? ????????? ???? ??????????????? (??? ?? ???) - 6 ????.10 ??. ????, ??????????????? (????????- 1 ????./??. ????) ?? ??????????? (?????????-1.5 ????/??. ????) ?? ??????? ???? ??????? ??? ?? ??????? ?? ?????? 12-15 ??? ??? ??????? ?????? ???? ???????","CHHATTISGARH","BILASPUR","GAURELLA-1                                        ","2014-08-22 19:55:14.117"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about How to control Blast disease in paddy crop?","Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-23 08:22:54.167"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about blast attack of paddy?","spray tricyclazole 75% wp 200gm. per acre","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-23 09:16:56.533"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about How to control weeds in paddy crop?","Spray Nomini gold(Bispayriback sodium) 80 ml  per acar.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-23 09:25:56.337"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about How to control stem borer in paddy crop?","Apply cartap hydro chloride 7 to 10 kg at per Acer.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-23 10:42:16.567"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","To know about the control of stem borer in paddy crop ?","????????????? 36 ??????? 1500 ??.??., ??  ????????????? 20 ??????? 2500 ??.??. ?? ???????????? 20% 150 ??.??..","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-23 15:54:11.963"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","WEED CONTROL IN PADDY CROP","Hand weeding should be done before fertlizer applicationat least 2-3 times at 20 days interval starting 20 days after planting. Wherever weed problem is acute, herbicides such as Butachlor (1.5 kg a.i/ha), Anilophos (0.6 kg a.i/ha), Pentachlor (0.4 kg a.i/ha) or any one of them in combination with 2,4-D (0.4 kg a.i/ha) should be applied, followed by need based hand weeding 20 days later.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-23 19:41:17.070"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","farmer want to know information about   weather information ?","4/08               25/08               26/08               27/08               28/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  10                   9                  17                   5                  22","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-24 07:24:57.377"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-24 07:44:50.217"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about  How to control caterpillars in crop?","Monocrotophos 36 s. L. 800 ml. / hac. Rate of spray.","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-24 11:36:43.003"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather information ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              25/08               26/08               27/08               28/08               29/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   7                   6                   9                  17","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-24 11:59:48.343"
+"KHARIF","AGRICULTURE","Others","Others","Government Schemes","how much subsidy in boring and pump instalation","????? ???	???????	???	?????? 10000 ????? ?? 100%
+	?.??.	???	?????? 18000 ????? ?? 100%
+	?.?.??.	???	?????? 18000 ????? ?? 100%
+??? ???????????	???????	???	?????? 15000 ????? ?? 100%
+	?.??.	???	?????? 25000 ????? ?? 100%
+	?.?.??.	???	?????? 25000 ????? ?? 100%","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-24 12:48:11.480"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop ?","Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-25 07:03:57.083"
+"KHARIF","HORTICULTURE","Fruits","Papaya","	Plant Protection	","azosprillum dose of papaya ?","Apply 20 g in each of Azospirillum and Phosphobacterium at planting again six months after planting.","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-25 08:37:35.310"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","how to control funagal disease ?","use tryclozole 10g\pump","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-25 08:52:34.437"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop ?","????????????? ?? ????????????? ?? ??????????????? ??? ?? 20 ?? 25 ????? ?? ?????? ?? ??? ?? ?????????????????? ??? ?? 2 ?? 3 ????? ?? ?????? ?? ????? ??? ?? ????? ?? ?????? ????","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-25 10:07:15.603"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-25 13:18:08.080"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather forecast ?","chance of  light rainfall next five days .","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-25 16:35:54.707"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how to control of weed in paddy crop ?","Spray Nomini gold(Bispayriback sodium) 80 ml  per acar.","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-25 17:20:39.110"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to know information about  weather of bliaspur ?","chance of low rainfall for next week  dist bliaspur","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-25 17:44:31.430"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how to improve growth ?","spray NPK 19:19:19 @ 2.25 kg/acar dissolve in 150 litre of water.","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-25 21:04:25.117"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about How to control of fungal attack in crop ?","Use copper oxy chloride  50% w  45 gram and steptrocyclin  90% w/w 2 gram at 15 liter of water","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-26 06:49:48.327"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information ?","some clouds in your area","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-26 08:42:10.937"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","farmer want to know information about How to control of fungal attack in crop ?","spray mencojeb + carbandazim 45 gram and steptrocyclin 2 gram at 15 liter of water","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-26 09:07:48.613"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-26 10:29:37.810"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about blast attack of paddy?","27/08               28/08               29/08               30/08               31/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   5                  10                   3                  20","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-26 10:33:32.230"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control stem borer in paddy crop?","Apply cartap hydro chloride 7 to 10 kg at per Acer.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-26 11:28:14.430"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop ?","Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-26 13:33:08.193"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control stem borer in paddy crop?","Apply cartap hydro chloride 7 to 10 kg at per Acer.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-26 14:05:11.137"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather forecast ?","Chance of meadium rainfall next five days.","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-26 15:00:27.283"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather forecast ?","chance of medium rainfall next five days .","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-26 15:36:54.650"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","To know about the control of stem borer paddy crop ?","????????????? 36 ??????? 1500 ??.??., ??  ????????????? 20 ??????? 2500 ??.??. ?? ???????????? 20% 150 ??.??..","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-26 16:15:27.427"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","To know about the control of blast in paddy crop ?","???????? ????????? ???? ??????????????? (??? ?? ???) - 6 ????.10 ??. ????, ??????????????? (????????- 1 ????./??. ????) ?? ??????????? (?????????-1.5 ????/??. ????) ?? ??????? ???? ??????? ??? ?? ??????? ?? ?????? 12-15 ??? ??? ??????? ?????? ???? ???????","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-26 16:16:24.773"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather information ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              27/08               28/08               29/08               30/08               31/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   5                  10                   3                  20","CHHATTISGARH","BILASPUR","MARWAHI                                           ","2014-08-26 17:11:15.983"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about   weather information ?","27/08               28/08               29/08               30/08               31/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   5                  10                   3                  20","CHHATTISGARH","BILASPUR","TAKHATPUR                                         ","2014-08-27 06:51:22.270"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","control of brown spot in paddy ?","Spray Mancozeb (2.0g/lit) or Edifenphos (1ml/lit) - 2 to 3 times at 10 - 15 day intervals.","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-27 07:33:54.163"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control stem borer in paddy crop?","Apply cartap hydro chloride 7 to 10 kg at per Acer.","CHHATTISGARH","BILASPUR","LORMI                                             ","2014-08-27 08:57:48.113"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about How to control aphid ?","Spray of imidaclorprid 17.8%SL 5 to 6 ml per pump.","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-27 11:24:47.060"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Rainfall (mm)                   0                   6                  10                  18                  25
+Max Temperature ( deg C)       35                  35                  34                  33                  32
+Min Temperature ( deg C)       24                  24                  23                  23                  23
+Total cloud cover (octa)        7                   6                   6                   6                   5","CHHATTISGARH","BILASPUR","KOTA                                              ","2014-08-27 11:38:29.130"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-27 13:02:08.957"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","To know about the control of stem borer paddy crop ?","????????????? 36 ??????? 1500 ??.??., ??  ????????????? 20 ??????? 2500 ??.??. ?? ???????????? 20% 150 ??.??..","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-27 15:08:39.407"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","To know about the control of blast in paddy crop ?","???????? ????????? ???? ??????????????? (??? ?? ???) - 6 ????.10 ??. ????, ??????????????? (????????- 1 ????./??. ????) ?? ??????????? (?????????-1.5 ????/??. ????) ?? ??????? ???? ??????? ??? ?? ??????? ?? ?????? 12-15 ??? ??? ??????? ?????? ???? ???????","CHHATTISGARH","BILASPUR","MUNGELI                                           ","2014-08-27 21:23:14.487"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","how to control weeds in paddy ?","cartap 4g","CHHATTISGARH","BILASPUR","MASTURI                                           ","2014-08-28 08:58:57.567"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Control  of  pest in paddy ?","Spray of  Chlorpyriphos 50% + Cypermethrin 5% EC  40ml/pump.","CHHATTISGARH","BILASPUR","PATHARIYA                                         ","2014-08-28 09:34:37.383"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","how to control insect in paddy ?","use fipronil 0.3g","CHHATTISGARH","BILASPUR","BELHA                                             ","2014-08-28 12:41:41.920"

@@ -1,0 +1,128 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather information ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              02/08               03/08               04/08               05/08               06/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  14                  17                  16                  16                  14","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-01 09:56:28.000"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","Dos of N:P:K in paddy crop","Apply N:P:K 100:50:40 /hact.(217 kg urea ,312 kg/ 108 kg dap,66 kg mop/hact.)","CHHATTISGARH","KANKER(North Bastar)","CHARAMA                                           ","2014-08-01 16:57:21.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","farmer want to know information about What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","KANKER(North Bastar)","CHARAMA                                           ","2014-08-02 09:48:43.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","to know about the stem borer","recommendade  for Spray any one of the following insecticides :Phosalone 35 EC 1500 ml/ha Acephate,75 % SP 666-1000 g/ha Azadirachtin,0.03% 1000 ml/ha Carbofuran 3% CG,25 kg/ha Carbosulfan 6% G 16.7 kg/ha","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-02 17:12:21.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paddy weeds control ?","NIMINEE GOLD (bispyribac sodium 10%sc)  @ 200 ml / 300 liter water / hectare 15-25 days after sowing of transplanting","CHHATTISGARH","KANKER(North Bastar)","NARHARPUR                                         ","2014-08-02 18:50:11.000"
+"JAYAD","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","how to control fungal attack in maize crop ?","Mancozeb 63% + Carbendazim 12% WP 40 gram and steptrocyclin 2 gram at 15 liter of water.","CHHATTISGARH","KANKER(North Bastar)","KOILEBEDA                                         ","2014-08-03 08:49:21.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","WEED CONTROL IN SOYBEAN","RECOMMENDAD FOR Trade Name: INRO
+Common Name: Imazethapyr,Formulation: 10% SL, DOSE (Per Ha)
+1 litre","CHHATTISGARH","KANKER(North Bastar)","DURGUKONDAL                                       ","2014-08-03 18:31:23.000"
+"JAYAD","HORTICULTURE","Vegetables","Cowpea (Vegetable)","	Plant Protection	","thrips problem in cowpea","Insecticide	Dose
+Imidacloprid 17.8 % SL	3.0 ml/10 lit.
+Dimethoate 30 % EC	1.0 ml/lit.
+Emamectin benzoate 5 % SG	4 g/10 lit.
+Ethion 50 % EC	2.0 ml/lit.
+Fipronil 5 % SC	1.5 ml/lit.
+Oxydemeton –Methyl 25 % EC	1.0 ml/lit.
+Phosalone 35 % EC	2.0 ml/lit.
+Spinosad 45 % SC	3.2 ml/10 lit.
+Thiacloprid 21.7 % SC	6.0 ml/10 lit.","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-04 10:31:06.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Rainfall (mm)                  51                  10                   4                   3                   0
+Max Temperature ( deg C)       23                  26                  30                  31                  32
+Min Temperature ( deg C)       22                  22                  22                  23                  23
+Total cloud cover (octa)        8                   8                   4                   5                   7","CHHATTISGARH","KANKER(North Bastar)","NARHARPUR                                         ","2014-08-04 11:44:59.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Paddy stemborer","Spray any one of the following insecticides :
+
+Phosalone 35 EC 1500 ml/ha Acephate
+75 % SP 666-1000 g/ha Azadirachtin
+0.03% 1000 ml/ha Carbofuran 3% CG
+25 kg/ha Carbosulfan 6% G 16.7 kg/ha
+Carbosulfan 25% EC 800-1000 ml/ha
+CartapHydrochloride 50 % SP 1 kg/ha
+Chlorantraniliprole 18.5% SC 150 ml/ha
+Chlorantraniliprole 0.4% G 10 kg/ha
+Chlorpyriphos 20% EC 1.25 l/ha","CHHATTISGARH","KANKER(North Bastar)","KOILEBEDA                                         ","2014-08-04 11:49:30.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","How to control weeds in paddy crop?","Spray Nomini gold(Bispayriback sodium) 80 gram per acar","CHHATTISGARH","KANKER(North Bastar)","CHARAMA                                           ","2014-08-04 17:53:10.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-05 09:18:21.000"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","thrips problem in chilli","Insecticide	Dose
+Imidacloprid 17.8 % SL	3.0 ml/10 lit.
+Dimethoate 30 % EC	1.0 ml/lit.
+Emamectin benzoate 5 % SG	4 g/10 lit.
+Ethion 50 % EC	2.0 ml/lit.
+Fipronil 5 % SC	1.5 ml/lit.
+Oxydemeton –Methyl 25 % EC	1.0 ml/lit.
+Phosalone 35 % EC	2.0 ml/lit.
+Spinosad 45 % SC	3.2 ml/10 lit.
+Thiacloprid 21.7 % SC	6.0 ml/10 lit.","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-05 11:17:57.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","WEATHER","Rainfall (mm)                   8                   5                   3                   3                   5
+Max Temperature ( deg C)       26                  31                  32                  32                  29
+Min Temperature ( deg C)       21                  21                  22                  23                  22
+Total cloud cover (octa)        8                   5                   4                   6                   7","CHHATTISGARH","KANKER(North Bastar)","CHARAMA                                           ","2014-08-05 11:44:06.000"
+"JAYAD","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","brinjal stem borer control ?","apply cartap hydrochloride @ 7.5 kg / acre .","CHHATTISGARH","KANKER(North Bastar)","KOILEBEDA                                         ","2014-08-05 15:20:13.000"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer wants to registration for sms ALERT ?","YOUR MOBILE NUMBER HAS BEEN REGISTERD .","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-05 16:15:16.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","Cultural Practices","SOWING SEASON OF SOYBEAN ?","recommended for  SOWING SEASON OF SOYBEAN - LAST WEEK OF JUNE TO FIRST WEEK OF JULY.","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-05 16:19:16.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","farmer want to know information about What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","KANKER(North Bastar)","CHARAMA                                           ","2014-08-06 12:31:00.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","Nutrient Management","fertilizer  soyabean ?","apply 44 kg + urea + ssp-375 kg + mop-34 kg / hectare .","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-06 14:12:24.000"
+"","AGRICULTURE","Others","Others","","weather information ?","07/08               08/08               09/08               10/08               11/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   5                   5                   0                  21                  14","CHHATTISGARH","KANKER(North Bastar)","NARHARPUR                                         ","2014-08-07 06:35:49.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","how to control fungal disease in paddy ?","??????????????? (????????- 1 ????./??. ????)","CHHATTISGARH","KANKER(North Bastar)","NARHARPUR                                         ","2014-08-07 07:06:12.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-07 07:54:18.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Rainfall (mm)                   6                   0                   4                   5                   0
+Max Temperature ( deg C)       32                  32                  31                  32                  32
+Min Temperature ( deg C)       22                  23                  23                  23                  23
+Total cloud cover (octa)        4                   5                   6                   7                   7","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-07 10:41:16.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","how to control insect in paddy crops ?","???????????? 20% 150 ??.??..","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-07 11:19:50.000"
+"JAYAD","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","how to control fruit craking in brinjal ?","use boron 10g\pump","CHHATTISGARH","KANKER(North Bastar)","KOILEBEDA                                         ","2014-08-07 11:57:47.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","how to control weeds ?","spray bispyribac sodium 10 % SC  @ 80 ml/acar dissolve in 130 litre of water.","CHHATTISGARH","KANKER(North Bastar)","NARHARPUR                                         ","2014-08-07 15:06:43.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","how to control weeds ?","spray bispyribac sodium 10 % SC  @ 80 ml/acar dissolve in 130 litre of water.","CHHATTISGARH","KANKER(North Bastar)","NARHARPUR                                         ","2014-08-07 15:09:22.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","How to control weeds in paddy crop?","Recommended for Spray Nomini gold (Bispayriback sodium) 80 mili  per acar.","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-07 15:22:01.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","Farmer want to information  of weather forecast ?","???? ?????????? ????? 06??.??. ???","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-07 15:55:41.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","Paddy fertilizer  doses ?","apply urea 220 kg + ssp-375 kg + mop -68 kg / hectare .","CHHATTISGARH","KANKER(North Bastar)","BHANUPRATAPPUR                                    ","2014-08-07 16:12:52.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","how to improve growth ?","spray NPK 19:19:19 @ 1.5kg/acar dissolve in 150 litre of water.","CHHATTISGARH","KANKER(North Bastar)","DURGUKONDAL                                       ","2014-08-07 16:40:57.000"
+"JAYAD","AGRICULTURE","Millets","Maize (Makka)","Cultural Practices","sowing season of maize ?","recommended for last week of june to first week of july is suitable time of sowing ,.","CHHATTISGARH","KANKER(North Bastar)","DURGUKONDAL                                       ","2014-08-07 16:47:23.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","Farmer want to control of Sucking pest in bhindi?","Spraying of   Dimethoate (Rogar) @ 30 ml/pump","CHHATTISGARH","KANKER(North Bastar)","ANTAGARH                                          ","2014-08-07 20:17:25.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control stem borer in paddy crop?","??????? ??????? ???????? ?? ? ?? 10  ???? ?? ?????? ?? ????? ??? ?? ????? ?? ?????? ???","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-08 11:20:17.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","What are fertilizer doses in paddy crop?","??? ??? ?????? = 60 ??.????.,??.?.??. = 108 ??.????. ,??????? ?? ????? = 50 ??.????.?? 25 ???? ???? ??????  ????? ??????? ????? ?? ??? /???? ??? ?? ??? ?? ????? ??-?? ???? ??????/ ???  ?? ????? ?? ?????? ???","CHHATTISGARH","KANKER(North Bastar)","ANTAGARH                                          ","2014-08-08 12:22:53.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how to control Sheath Rot in paddy ?","Spray Carbendazim 250 g or Chlorothalonil 1 kg or Edifenphos 1 litre/hectare.","CHHATTISGARH","KANKER(North Bastar)","CHARAMA                                           ","2014-08-08 14:23:01.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","KANKER(North Bastar)","KOILEBEDA                                         ","2014-08-09 06:51:45.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","farmer want to know information about How to control of fungal attack in crop ?","Use copper oxy chloride  50% w  45 gram and steptrocyclin  90% w/w 2 gram at 15 liter of water","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-09 07:23:49.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control weeds in paddy crop?","?????? ????? ??? ?? 80 ????? ?? ?????? ?? ????? ??? ?? ????? ?? ?????? ???","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-09 09:12:08.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","What are fertilizer doses in paddy crop?","??? ??? ?????? = 60 ??.????.,??.?.??. = 108 ??.????. ,??????? ?? ????? = 50 ??.????.?? 25 ???? ???? ??????  ????? ??????? ????? ?? ??? /???? ??? ?? ??? ?? ????? ??-?? ???? ??????/ ???  ?? ????? ?? ?????? ???","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-09 13:39:00.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control stem borer in paddy crop?","??????? ??????? ???????? ?? ? ?? 10  ???? ?? ?????? ?? ????? ??? ?? ????? ?? ?????? ???","CHHATTISGARH","KANKER(North Bastar)","NARHARPUR                                         ","2014-08-10 12:45:03.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","farmer want to know information about Plant growth in  crop?","spray iffco NPK 19:19:19 @ 100 GRAM/PUMP.","CHHATTISGARH","KANKER(North Bastar)","NARHARPUR                                         ","2014-08-11 10:42:26.000"
+"JAYAD","AGRICULTURE","Millets","Kodo Millet (Kodara/Varagu)","	Field Preparation	","soil of kodon ?","loan & sandy loam soil is best .","CHHATTISGARH","KANKER(North Bastar)","ANTAGARH                                          ","2014-08-11 14:37:55.000"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","rainfall todays ?","4 mm rain fall todays","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-20 13:11:36.947"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","Farmer want to information  of weather forecast ?","Your district no rainfall in 08 mm .","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-20 20:15:54.717"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","To know about the weather information","Feels Like: +33°
+Barometer: 1005.2 hPa 
+Dewpoint: +25°
+Humidity: 82.3%
+Visibility: 4 km
+As of 20/08 08:30 pm
+Observed at Pbo Raipur
+Past observations, Pbo Raipur >","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-20 21:41:21.273"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how to increase growth of paddy ?","foliar application of IFFCO 19:19:19 water soluble fertilizer @ 100 gm/pump.","CHHATTISGARH","KANKER(North Bastar)","BHANUPRATAPPUR                                    ","2014-08-21 12:32:58.993"
+"KHARIF","HORTICULTURE","Vegetables","Cabbage","	Plant Protection	","seeds rate of cabbage ?","375 g/ha seeds are required.","CHHATTISGARH","KANKER(North Bastar)","BHANUPRATAPPUR                                    ","2014-08-22 07:03:09.143"
+"KHARIF","AGRICULTURE","Others","Others","Government Schemes","farmer wants to registration for sms alert .","???? ?????? ?????  ?? ??????? ?? ???? ??? ??? |","CHHATTISGARH","KANKER(North Bastar)","CHARAMA                                           ","2014-08-22 08:25:47.950"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information ?","some clouds in your area","CHHATTISGARH","KANKER(North Bastar)","KOILEBEDA                                         ","2014-08-22 08:27:17.550"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","KANKER(North Bastar)","NARHARPUR                                         ","2014-08-22 08:28:57.950"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information ?","some clouds in your area","CHHATTISGARH","KANKER(North Bastar)","CHARAMA                                           ","2014-08-22 09:05:38.640"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","To know about the weather information","????? ????, ???? ?? ??? ?????
+???? ??: +35°
+????????: 1004.8 ???????????? 
+?????: +25°
+???: 73.7%
+????????????: 4 ????????
+???? ?? 23.8. 02:30 pm
+?? ???? ??? Pbo Raipur
+????? ????????, Pbo Raipur >","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-23 16:13:26.617"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","What are fertilizer doses in paddy crop?","Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","KANKER(North Bastar)","NARHARPUR                                         ","2014-08-25 10:19:23.530"
+"KHARIF","HORTICULTURE","Vegetables","Cowpea (Vegetable)","	Plant Protection	","thrips nproblem in cowpea","Insecticide	Dose
+Imidacloprid 17.8 % SL	3.0 ml/10 lit.
+Dimethoate 30 % EC	1.0 ml/lit.
+Emamectin benzoate 5 % SG	4 g/10 lit.
+Ethion 50 % EC	2.0 ml/lit.
+Fipronil 5 % SC	1.5 ml/lit.
+Oxydemeton –Methyl 25 % EC	1.0 ml/lit.
+Phosalone 35 % EC	2.0 ml/lit.
+Spinosad 45 % SC	3.2 ml/10 lit.
+Thiacloprid 21.7 % SC	6.0 ml/10 lit.","CHHATTISGARH","KANKER(North Bastar)","BHANUPRATAPPUR                                    ","2014-08-26 11:48:29.680"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","How to increase the growth & flowering of ?","foliar application of IFFCO n p k 19:19:19 water soluable fertilizer @ 150 gm/pump","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-26 13:12:12.793"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","control of brown hopper in paddy ?","??? ??? ???? ??? ?? ???????? ???? ????????????? 25% ?? ????? ?? ????????????? 36 % 400 ??.?? ?? ?????????????? 17.8% 40 ???? ?? ????????????? 25% 320 ??.??.????? ??? ?????? ???","CHHATTISGARH","KANKER(North Bastar)","BHANUPRATAPPUR                                    ","2014-08-28 07:21:12.140"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","How to control of fungal attack in soyabean crop","Use copper oxy chloride 45 gram and steptrocyclin 2 gram at 15 liter of water.","CHHATTISGARH","KANKER(North Bastar)","KANKER                                            ","2014-08-28 10:01:27.260"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","To know about the control of stem borer paddy crop ?","????????????? 36 ??????? 1500 ??.??., ??  ????????????? 20 ??????? 2500 ??.??. ?? ???????????? 20% 150 ??.??..","CHHATTISGARH","KANKER(North Bastar)","CHARAMA                                           ","2014-08-28 18:50:22.667"

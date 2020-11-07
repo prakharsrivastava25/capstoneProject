@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "number_of_shards": 2,
+    "number_of_replicas": 1
+  },
+  "mappings": {
+    "dynamic": "true",
+    "_source": {
+      "enabled": "true"
+    },
+    "properties": {
+      "StateName": {
+        "type": "text"
+      },
+      "DistrictName": {
+        "type": "text"
+      },
+      "QueryType_clean": {
+        "type": "text"
+      },
+      "QueryText_clean": {
+        "type": "text"
+      },
+      "KCCAns": {
+        "type": "text"
+      },
+      "text_vector": {
+        "type": "dense_vector",
+        "dims": 768
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","neck blast in rice","TRICYCLOZOL(BEAM, TOOPER, CIVIC) 120 GRAMS PER ACRE","ANDHRA PRADESH","WEST GODAVARI","KOVVUR","2014-10-01 08:48:42.830"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","reddenning of  leaf in rice","SPRAY 30 GRAMS COPPER OXY CHLORIDE+ 1 GRAM STREPTOCYCLIN PER 10 LITRES","ANDHRA PRADESH","WEST GODAVARI","KOYYALAGUDEM","2014-10-01 09:01:26.220"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","normal","ANDHRA PRADESH","WEST GODAVARI","NARSAPUR","2014-10-02 12:04:11.647"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","paccha doma damage in rice","monocrotophas @2.2ml/lit water","ANDHRA PRADESH","WEST GODAVARI","MOGALTHUR","2014-10-02 20:29:33.870"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","no rain","ANDHRA PRADESH","WEST GODAVARI","NIDADAVOLE","2014-10-03 08:58:15.527"
+"KHARIF","AGRICULTURE","Pulses","Black Gram (urd bean)","	Field Preparation	","fertiliser","fertiliser","ANDHRA PRADESH","WEST GODAVARI","NALLAJERLA","2014-10-03 10:13:08.290"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bph in rice","token 80gm/acr","ANDHRA PRADESH","WEST GODAVARI","DENDULURU","2014-10-03 11:34:29.087"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","leafhopper in rice","fepronil 400ml/acr","ANDHRA PRADESH","WEST GODAVARI","GANAPAVARAM","2014-10-03 18:08:10.073"
+"KHARIF","AGRICULTURE","Others","Others","Weather","waether","thunder stream","ANDHRA PRADESH","WEST GODAVARI","THALLAPUDI","2014-10-05 08:14:18.300"
+"KHARIF","AGRICULTURE","Others","Others","Weed Management","weed management in citrus","glyposate","ANDHRA PRADESH","WEST GODAVARI","DEVARAPALLE","2014-10-05 08:18:38.387"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","thunder storm","ANDHRA PRADESH","WEST GODAVARI","LINGAPALEM","2014-10-05 13:59:22.953"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","laef folding in rice","fame 20ml/acr","ANDHRA PRADESH","WEST GODAVARI","BHIMAVARAM","2014-10-06 11:09:24.653"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","leaf urling in rice","fame 20ml/acer","ANDHRA PRADESH","WEST GODAVARI","ELURU","2014-10-06 12:01:47.023"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","ZN DEFICIECY","ZN SULFATE 10GM/L OF WATER","ANDHRA PRADESH","WEST GODAVARI","IRAGAVARAM","2014-10-06 16:17:31.560"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","WEST GODAVARI","BHIMADOLE","2014-10-07 10:31:36.703"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice blast","recommended merzer 400g/acre","ANDHRA PRADESH","WEST GODAVARI","MOGALTHUR","2014-10-07 11:25:11.770"
+"KHARIF","HORTICULTURE","Fruits","Citrus","Nutrient Management","ZN deficiency","recommended zinc sulphate 2g/lit water","ANDHRA PRADESH","WEST GODAVARI","DEVARAPALLE","2014-10-07 13:47:37.193"
+"RABI","HORTICULTURE","Vegetables","Chillies","Nutrient Management","GROWTHING IN CHILLI","recommended multi k1kg/acre","ANDHRA PRADESH","WEST GODAVARI","DENDULURU","2014-10-08 10:36:29.620"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","WEST GODAVARI","ELURU","2014-10-09 14:51:19.577"
+"KHARIF","HORTICULTURE","Fruits","Avacado","	Plant Protection	","HORTICULTURE           CONTACT","HORTICULTURE           CONTACT 18004250080   18004250080","ANDHRA PRADESH","WEST GODAVARI","GOPALAPURAM","2014-10-10 09:03:55.990"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","maize varieties for rabi sesoan","dhm-117,107","ANDHRA PRADESH","WEST GODAVARI","BHIMADOLE","2014-10-10 09:54:37.727"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","REDDENINHG OF LEAVS IN RICE","RECOMMENDED TO SPRAY CARBENDAZIM (BAVISTIN, DEROSAL, CARBENDAZIM) 200 GRAMS PER ACRE","ANDHRA PRADESH","WEST GODAVARI","ELAMANCHILI","2014-10-11 07:46:46.397"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","maize varieties","dhm 113,115","ANDHRA PRADESH","WEST GODAVARI","LINGAPALEM","2014-10-11 17:57:11.190"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","CLOUDY AND THUNDER STROME","ANDHRA PRADESH","WEST GODAVARI","BUTTAYAGUDEM","2014-10-12 09:00:10.587"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","WEST GODAVARI","DWARAKATIRUMALA","2014-10-13 09:00:46.863"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","Variable clouds with a shower Hi 33°
+
+RealFeel 41°
+ 
+more Tonight
+Oct 14
+Increasing cloudiness Lo 24°
+
+RealFeel 25°
+ 
+more Tomorrow
+Oct 15
+Couple of showers, t-storms Hi 31°
+
+RealFeel 39°
+ 
+more","ANDHRA PRADESH","WEST GODAVARI","GOPALAPURAM","2014-10-14 08:02:36.713"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice blast","recomended merger 400g/acre","ANDHRA PRADESH","WEST GODAVARI","GANAPAVARAM","2014-10-14 09:02:32.873"
+"RABI","HORTICULTURE","Fruits","Citrus","	Plant Protection	","citrus canker","recomended blitex 30g+streptocyclin  1g+10lit water","ANDHRA PRADESH","WEST GODAVARI","DENDULURU","2014-10-14 13:16:15.637"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","leaf hopper in paddy","recommended confidor 0.6 ml/lit water","ANDHRA PRADESH","WEST GODAVARI","NARSAPUR","2014-10-15 08:22:28.097"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","LEAFS BURNING IN RICE","RECOMMENDED TO SPRAY SPRAY 30 GRAMS COPPER OXY CHLORIDE+ 1GM PLANTOMYCIN","ANDHRA PRADESH","WEST GODAVARI","CHAGALLU","2014-10-16 09:54:32.707"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","FERTILIZERS IN RICE AT BOOTING STAGE","25KG OF UREA","ANDHRA PRADESH","WEST GODAVARI","BHIMAVARAM","2014-10-16 10:00:27.153"
+"KHARIF","ANIMAL HUSBANDRY","Animal","Others","Animal Nutrition","VETERNARY","040-23311720,  9848406211-koteshwar rao (knr)
+040-24015316","ANDHRA PRADESH","WEST GODAVARI","ATTILI","2014-10-17 09:25:32.720"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","WEST GODAVARI","KALLA","2014-10-18 11:06:36.003"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bph in rice","BUPROFEZIN(JAVA, APPLAUD) 300ML PER ACRE     ????????????(????, ???????) ???????? 300 ?????? 200 ??????? ?????? ????? ???????? ??????","ANDHRA PRADESH","WEST GODAVARI","LINGAPALEM","2014-10-18 11:35:17.280"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bacterial desease","recommended blitex 30g+plantomycin 1g+10lit water","ANDHRA PRADESH","WEST GODAVARI","ELURU","2014-10-18 11:45:47.287"
+"KHARIF","ANIMAL HUSBANDRY","Animal","Others","Animal Nutrition","VETERNARY","040-23311720,  9848406211-koteshwar rao (knr)
+040-24015316, 9848066708(kishan kumar), 9966208899 (ch. Ramesh)","ANDHRA PRADESH","WEST GODAVARI","LINGAPALEM","2014-10-18 12:02:13.773"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather re;port","chance to rain","ANDHRA PRADESH","WEST GODAVARI","KALLA","2014-10-18 12:14:20.667"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","leaf curling in chillie","pegases 300gm/acr","ANDHRA PRADESH","WEST GODAVARI","DWARAKATIRUMALA","2014-10-18 12:42:03.047"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","hort phn no:","HORTICULTURE	1800-425-0080, 1800-425-0040","ANDHRA PRADESH","WEST GODAVARI","PEDAVEGI","2014-10-18 16:41:57.757"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice damage","followed recom practice s","ANDHRA PRADESH","WEST GODAVARI","DEVARAPALLE","2014-10-19 07:37:29.543"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BPH in paddy","recomended tokin 80g/acre","ANDHRA PRADESH","WEST GODAVARI","CHINTALAPUDI","2014-10-19 12:02:55.347"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower drop in cotton","recomended planofix 2ml/10lit water","ANDHRA PRADESH","WEST GODAVARI","LINGAPALEM","2014-10-19 12:08:49.403"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice sudi doma","glamar@50g/acre","ANDHRA PRADESH","WEST GODAVARI","PEDAPADU","2014-10-21 07:01:16.533"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","normal","ANDHRA PRADESH","WEST GODAVARI","DEVARAPALLE","2014-10-21 13:25:14.727"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","thunder storms","ANDHRA PRADESH","WEST GODAVARI","MOGALTHUR","2014-10-21 15:52:07.803"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","cloudu,showers","ANDHRA PRADESH","WEST GODAVARI","MOGALTHUR","2014-10-22 15:53:57.447"
+"RABI","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","root rot in ground nut","recommended blitex 3g/lit water","ANDHRA PRADESH","WEST GODAVARI","CHINTALAPUDI","2014-10-23 12:49:53.417"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","Market Information","maize rate","minimum 1200-maximum 1300","ANDHRA PRADESH","WEST GODAVARI","ATTILI","2014-10-24 13:25:07.927"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bph in paddy","recomended nuvan 1ml/lit water","ANDHRA PRADESH","WEST GODAVARI","NIDADAVOLE","2014-10-24 18:32:07.480"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bph in paddy","recomended  tokin 80g/acre","ANDHRA PRADESH","WEST GODAVARI","BUTTAYAGUDEM","2014-10-24 18:43:52.790"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bph in paddy","recomended tokin 80g/acre","ANDHRA PRADESH","WEST GODAVARI","KOVVUR","2014-10-24 19:29:11.150"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bph in paddy","recomended tokin  80g/acre","ANDHRA PRADESH","WEST GODAVARI","CHINTALAPUDI","2014-10-25 07:16:56.777"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BPH IN RICE","SPRAY OF TOKIN 80GM/ACR","ANDHRA PRADESH","WEST GODAVARI","BHIMAVARAM","2014-10-25 08:54:24.033"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bacterial leaf blight","recomended blitex 30g+plantomycin 1g+10lit water","ANDHRA PRADESH","WEST GODAVARI","NARSAPUR","2014-10-25 09:13:55.320"
+"KHARIF","HORTICULTURE","Fruits","Mulberry","	Plant Protection	","HORTICULTURE           CONTACT 18004250080   18004250080 ?????? ?? ????????????","HORTICULTURE           CONTACT 18004250080   18004250080 ?????? ?? ????????????","ANDHRA PRADESH","WEST GODAVARI","KOYYALAGUDEM","2014-10-26 17:28:52.770"
+"KHARIF","AGRICULTURE","Pulses","Black Gram (urd bean)","	Plant Protection	","pallaku tegulu","RECOMMENDED TO SPRAY PROPINOPHOS (CURECRON, PROFEX,DON, BOLERO)  400 ML PER ACRE    ???????????? (???????????, ??????????,????, ??????) ???????  400 ?????? ??????  ???????? ??????","ANDHRA PRADESH","WEST GODAVARI","JEELUGUMILLI","2014-10-26 17:34:04.353"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","REDDENING OF LEAF IN RICE","CARBENDAZIM (BAVISTIN, DEROSAL, CARBENDAZIM) 200 GRAMS PER ACRE   ??????????? (??????????,  ????????, ???????????)    ?????? 200 ???????? 200 ??????? ?????? ????? ???????? ?????? ANDCHLORPYRPHOS(KORBAN, DURSBAN, LETHAL, CLASSIC, RADAR) 500 ML PER ACRE  ??????????????(???????? , ?????????, ????? , ????????, ?????? ) ??????? 500 ??????  200 ??????? ?????? ????? ???????? ??????","ANDHRA PRADESH","WEST GODAVARI","POLAVARAM","2014-10-27 07:24:31.143"
+"RABI","HORTICULTURE","Fruits","Banana","	Plant Protection	","bacerial disease","recomended 25g/lit water","ANDHRA PRADESH","WEST GODAVARI","THALLAPUDI","2014-10-27 07:34:39.703"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BPH IN RICE","TOKIN 80GM/ACR","ANDHRA PRADESH","WEST GODAVARI","PALAKODERU","2014-10-27 08:07:09.553"
+"RABI","HORTICULTURE","Plantation Crops","Cocoa","	Plant Protection	","catterpiller in koko","recomended rogar 2ml/lit water","ANDHRA PRADESH","WEST GODAVARI","NIDAMARRU","2014-10-27 08:53:39.987"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BPH IN RICE","TOKIN 80GM/ACR","ANDHRA PRADESH","WEST GODAVARI","LINGAPALEM","2014-10-27 13:08:28.847"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BPH IN PADDY","RECOMENDED TOKIN 80G/ACRE","ANDHRA PRADESH","WEST GODAVARI","GANAPAVARAM","2014-10-28 08:12:26.830"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BPH IN RICE","SPRAY OF TOKIN 80GM/ACR","ANDHRA PRADESH","WEST GODAVARI","KOVVUR","2014-10-28 10:33:34.437"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bph in paddy","recomended nuvan 1ml/lit water","ANDHRA PRADESH","WEST GODAVARI","ELAMANCHILI","2014-10-31 15:51:22.423"
+"RABI","HORTICULTURE","Fruits","Citrus","Nutrient Management","fertilizers in citrus","recomended urea 1500g,600g super phasphate  800g potash","ANDHRA PRADESH","WEST GODAVARI","KAMAVARAPUKOTA","2014-10-31 16:25:20.167"

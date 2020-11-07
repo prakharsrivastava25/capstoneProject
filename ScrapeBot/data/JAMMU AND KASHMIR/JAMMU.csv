@@ -1,0 +1,575 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","CONTROL OF   LEAF SPOST    IN    PADDY  CROP  ?","SPRAY   PROPICONAZOLE  @  250 ML IN 200 LITRE OF  WATER PER  ACRE.","JAMMU AND KASHMIR","JAMMU","SAMBA                                             ","2014-08-01 08:37:14.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","","rust in paddy crop","spray zineb @ 2 gm in 1 lt water","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-01 08:48:45.000"
+"JAYAD","AGRICULTURE","Millets","Maize (Makka)","Weather","CONTROL OF   CUTWORM   IN MAZIE  ?","BROADCAST   PHORATE @  4-5 KG OR  REGENT @ 6 KH PER  ACRE .","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-01 09:43:03.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","INFORMATION REGARDING WEEDICIDE ON PADDY?","SPRAY OF BUTACHLOR @ 125 ML PER KANAL","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-01 10:14:50.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","SECOND  DOSE  OF  UREA  IN  PADDY   - 370 BASMATI  ?","SECOND DOSE IS   GIBE   AFTER  SIX  WEEKS  - 9 KG  PER   ACRE.","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-01 11:53:17.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","","INFORMATION REGARDING WEATHER?","More clouds than sun; very warm with a thunderstorm in the area
+Max UV Index: 7 (High)
+Thunderstorms: 60%
+Precipitation: 0.11 in
+Rain: 0.11 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-01 14:16:33.000"
+"JAYAD","HORTICULTURE","Flowers","Marigold","	Plant Protection	","SOWING TIME OF MARIGOLD ?","SOWING TIME OF MARIGOLD STARTS FROM THE MONTH OF JULY-AUGUST .","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-01 14:21:31.000"
+"JAYAD","HORTICULTURE","Vegetables","Bottle Gourd ","","information regarding control of insect in bottle gourd","spray metasystox @ 2ml /litre of water","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-01 14:50:42.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","","information regarding control of insect in bhindi","spray metasystox @ 2ml/litre of water","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-01 15:17:52.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","More clouds than sun; very warm with a thunderstorm in the area
+Max UV Index: 7 (High)
+Thunderstorms: 60%
+Precipitation: 0.11 in
+Rain: 0.11 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-01 15:33:25.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","More clouds than sun; very warm with a thunderstorm in the area
+Max UV Index: 7 (High)
+Thunderstorms: 60%
+Precipitation: 0.11 in
+Rain: 0.11 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-01 15:36:30.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","information regarding weather?","More clouds than sun; very warm with a thunderstorm in the area
+Max UV Index: 7 (High)
+Thunderstorms: 60%
+Precipitation: 0.11 in
+Rain: 0.11 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-01 15:41:05.000"
+"JAYAD","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","PLANTING TIME OF POMEGRANATE ?","PLANTING TIME OF POMEGRANATE STARTS FROM THE MONTH OF JULY-AUGUST .","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-01 17:43:53.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","","LEAF  FOLDER  IN   OKRA  ?","SPRAY  DICVOLOUS  OR METAYSTOX  @  1.5 - 2  ML PER  LITRE OF  WATER, REPEAT AT  12  DAYS  INTERVALS..","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-01 18:24:30.000"
+"JAYAD","HORTICULTURE","Vegetables","Cauliflower","Agriculture Mechanization","varieties of cauliflower","punam, priya,ns 60, summer king,pusa hybrid 2 etc are varieties of cauliflower","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-01 20:19:31.000"
+"JAYAD","ANIMAL HUSBANDRY","Animal","POULTRY  FARM ","","information regarding poultry training","contact beli charana","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-02 10:11:52.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Times of clouds and sun with a shower or thunderstorm around; very warm
+
+Max UV Index: 8 (Very High) 
+Thunderstorms: 60% 
+Precipitation: 3 mm 
+Rain: 3 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 1 hrs 
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-02 11:00:49.000"
+"JAYAD","AGRICULTURE","Others","Others","","information regarding weather report","Times of clouds and sun with a shower or thunderstorm around; very warm
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-02 11:07:38.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Times of clouds and sun with a shower or thunderstorm around; very warm
+
+Max UV Index: 8 (Very High) 
+Thunderstorms: 60% 
+Precipitation: 3 mm 
+Rain: 3 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 1 hrs 
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-02 12:32:20.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Times of clouds and sun with a shower or thunderstorm around; hot
+
+Max UV Index: 9 (Very High) 
+Thunderstorms: 60% 
+Precipitation: 3 mm 
+Rain: 3 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 1 hrs 
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-03 10:08:16.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","	Plant Protection	","INFORMATION REGARDING WEATHER?","Times of clouds and sun with a shower or thunderstorm around; hot
+
+Max UV Index: 9 (Very High) 
+Thunderstorms: 60% 
+Precipitation: 3 mm 
+Rain: 3 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 1 hrs 
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-03 10:33:09.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","WEATHER  FOREACST  OF  NIGHT  ?","Partly cloudy with a shower or thunderstorm around
+ Max UV Index: N/A
+Thunderstorms: 60%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-03 11:43:34.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","WEATHER FOREACST   ?","Warm; a thunderstorm in spots in the evening followed by occasional rain and a thunderstorm late
+ Max UV Index: N/A
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-03 14:54:44.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather  forecast ?","Partly cloudy with a thunderstorm
+ Max UV Index: N/A
+Thunderstorms: 90%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-03 17:14:50.000"
+"","AGRICULTURE","Others","Others","	Plant Protection	","rats in the field","use rat killer","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-03 17:17:45.000"
+"JAYAD","AGRICULTURE","Others","Others","	Field Preparation	","weather  forecast  ?","Partly cloudy with a thunderstorm
+ Max UV Index: N/A
+Thunderstorms: 90%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-03 17:17:58.000"
+"","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insects in brinjal crop","spray metasystox @ 35 gm in 16 lt water per kanal","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-03 17:46:30.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Partly sunny and hot with a shower or thunderstorm in spots
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-03 18:26:48.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","LESS  GROWTH  IN  PADDY?","AS YOU  HAVE   GROWN NOT  RECOMENDED  SEED, SOIL IS  LESS  FERTILE  AND  DISTANCE BETWEN TO PLANTS AFTER TRANSPLANT IS  NOT  MENTAINED ( 15 X15 CM), AS IT  TAKES  SOME  TIME  TO  GROW  AND  GIVE   UREA   AFTER  15  DAYS  @ 2  KG PER  KANAL","JAMMU AND KASHMIR","JAMMU","KHOUR                                             ","2014-08-04 07:03:09.000"
+"JAYAD","AGRICULTURE","Others","Others","	Plant Protection	","INSECTS","Quinalphos 20% 100ML/100LT WATER","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-04 08:55:58.000"
+"","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Partly sunny and very warm with a shower or thunderstorm in spots
+Max UV Index: 10 (Extreme)
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","JAMMU","KHOUR                                             ","2014-08-04 10:47:47.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","information regarding control of yellow leaves in paddy","spray mancozeb75 wp @ 300gm 100 litre of water","JAMMU AND KASHMIR","JAMMU","KHOUR                                             ","2014-08-04 10:49:52.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","More sun than clouds with a shower or thunderstorm in spots; hot
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-04 11:41:14.000"
+"JAYAD","AGRICULTURE","Others","Others","	Field Preparation	","weather  forecast  ?","Partly sunny and hot
+ Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-04 17:00:20.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","information regarding weather?","Partly sunny and hot
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 0.08 in
+Rain: 0.08 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-04 17:01:23.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","information regarding weather?","Partly sunny and hot
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 0.08 in
+Rain: 0.08 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-04 17:02:22.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","CONTROL OF RATS IN PADDY FIELD ?","APPLY POISINOUS BAITS OF ZINC PHOSPHIDE MIX WITH WHEAT FLOUR AND VEGETABLE .","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-04 17:03:48.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","","INFORMATION REGARDING CONTROL OF INSECT IN BHINDI","SPRAY CYPERMETHYLENE @ 2ML /LITRE OF WATER","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-04 17:11:08.000"
+"","HORTICULTURE","Vegetables","Carrot","","vegetables sown at this season","carrot,radish,knol-knol,cauliflower,cabbage etc are sown at this season","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-04 17:12:37.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","information regarding weather?","Partly sunny and hot
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 0.08 in
+Rain: 0.08 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-04 17:37:40.000"
+"JAYAD","AGRICULTURE","Others","Others","","information regarding weather?","Partly sunny and hot
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 0.08 in
+Rain: 0.08 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-04 17:38:43.000"
+"JAYAD","HORTICULTURE","Medicinal and Aromatic Plants","Safed Musli","Field Preparation","information regarding safeda musli?","regards to nearby agriculture office of your area","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-05 07:31:21.000"
+"JAYAD","AGRICULTURE","Others","Others","	Field Preparation	","INFORMATION REGRDING WEATHER?","Sun and clouds with a thunderstorm; very warm
+
+Max UV Index: 8 (Very High) 
+Thunderstorms: 60% 
+Precipitation: 3 mm 
+Rain: 3 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 1 hrs 
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-05 08:54:09.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","CONTROL OF   YELLOWING  OF  PADDY   ?","SPRAY ZANIB OR  PROPICONAZOLE @  200 ML IN 200 LITRE OF  WATER PER  ACRE,  REPEAT 12-15  DAYS INTERVALS.","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-05 09:18:52.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","WILT","CARBENDAZIM 2G/LT WATER","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-05 13:59:59.000"
+"JAYAD","HORTICULTURE","Vegetables","Radish","	Plant Protection	","SOWING TIME OF RADISH ?","SOWING  TIME  IS  JULY TO  AUG.","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-05 14:26:19.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast in paddy crop","spray zineb @ 500 gm in 200 lt water per acre","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-05 14:27:04.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast in paddy crop","spray zineb @ 500 gm in 200 lt water per acre","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-05 14:29:06.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","CONTROL OF PADDY  BLAST  ?","SPRAY ZANIB OR PROPICONAZOLE  @ 200 ML PER  ACRE IN  200 LITRE   OF  WATER.","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-05 20:45:43.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","HOW TO CONTROL WEED IN PADDY ?","SPRAY WITH NOMINEE GOLD @ 10ML IN 15 LITER OF WATER PER KANAL","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-06 08:13:15.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","INFORMATION REGARDING WEATHER?","Times of sun and clouds with spotty showers
+Max UV Index: 11 (Extreme)
+Thunderstorms: 24%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-06 08:47:45.000"
+"JAYAD","AGRICULTURE","Others","Others","	Plant Protection	","WEEDS","GYLSOPHATE 200ML/30 LT WATER BUT BEFORE 1 MONTH OF SOWING THE CROP","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-06 09:38:56.000"
+"JAYAD","AGRICULTURE","Others","Others","Fertilizer Use and Availability","FERTILIZER DOSAGE","UREA 120 KG/HA+DAP 60 KG+ MOP 30KG/HACTARE","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-06 11:14:22.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","	Plant Protection	","INFORMATION REGARDING WEATHER?","Very warm with sunshine
+Max UV Index: 11 (Extreme)
+Thunderstorms: 1%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-06 12:01:56.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Weather","INFORMATION REGARDING WEATHER?","Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-06 14:30:20.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Partly sunny and very warm
+Max UV Index: 11 (Extreme)
+Thunderstorms: 3%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-07 09:29:23.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","WEATHER  FOREACST  ?","Hot; a couple of morning thunderstorms around followed by a thunderstorm in spots this afternoon
+ Max UV Index: 5 (Moderate)
+Thunderstorms: 60%
+Precipitation: 6 mm
+Rain: 6 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 2.5 hrs
+Hours of Rain: 2.5 hrs","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-07 09:33:43.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Partly sunny and very warm
+Max UV Index: 11 (Extreme)
+Thunderstorms: 3%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-07 09:35:10.000"
+"JAYAD","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Animal Production (Piggery, Goatery, Sheep Farming etc.)","INFORMATION REGARDING ANIMAL HUSBANDRY?","REGARDS TO NEARBY VETY. CLINIC OF YOUR AREA","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-07 10:21:53.000"
+"JAYAD","AGRICULTURE","Others","Others","	Plant Protection	","CUT WORM","PHORATE 10G 500GM/KANAL","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-07 11:47:31.000"
+"JAYAD","AGRICULTURE","Others","Others","Government Schemes","INFORMATION REGARDING WEATHER?","Intervals of clouds and sun with a couple of showers
+Max UV Index: 12 (Extreme)
+Thunderstorms: 29%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","JAMMU","DANSAL                                            ","2014-08-07 13:09:05.000"
+"JAYAD","HORTICULTURE","Fruits","Mango","Soil Testing","INFORMATION REGARDING SOIL TESTING ?","IN THIS REGARD VISIT NEAREST AGRICULTURE OFFICE FOR MORE DETAIL.","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-07 13:46:11.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather report","N
+E
+S
+W
+
+SE 3 km/h 
+Gusts: 13 km/h 
+Hot; a couple of morning thunderstorms around followed by a thunderstorm in spots this afternoon","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-07 18:28:08.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather report?","Intervals of clouds and sun with a couple of showers and a thunderstorm","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-07 20:55:58.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","infomation regarding weather?","Intervals of clouds and sun with a couple of showers and a thunderstorm
+Max UV Index: 6 (High)
+Thunderstorms: 49%
+Precipitation: 8 mm
+Rain: 8 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 3 hrs
+Hours of Rain: 3 hrs","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-08 10:05:40.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","WEEDS","NOMINE GOLD 10ML IN 15 LITRES OF WATER AFTER 20-25 DAT","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-08 10:10:52.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","HOW TO CONTROL THREAD WORM IN PADDY ?","APPLY CHLOROPYRIPHOS 10G @ 1.5KG PER KANAL..","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-08 10:49:36.000"
+"JAYAD","AGRICULTURE","Others","Others","	Plant Protection	","FLOWER DROP IN BOTTLEGOURD","RIDOMIL MZ  2.5 G/LT WATER SPRAY","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-08 11:19:30.000"
+"JAYAD","AGRICULTURE","Others","Others","	Plant Protection	","FLOWER DROP IN BOTTLE GOURD","RIDOMIL MZ  2.5 G/LT WATER SPRAY","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-08 11:21:20.000"
+"JAYAD","HORTICULTURE","Fruits","Guava","	Plant Protection	","CONTROL OF FRUIT BORER IN GAUVA ?","SPRAY PROFENOPHOS 25EC @ 2.5GM/LITRE OF WATER .","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-08 12:16:08.000"
+"JAYAD","AGRICULTURE","Millets","Pearl Millet (Bajra/Bulrush Millet/Spiked Millet)","	Plant Protection	","CONTROL OF WEEDS IN BAJRA FIELD ?","WEEDICIDE SHOULD BE USED WITH IN TWO DAYS OF SOWING .","JAMMU AND KASHMIR","JAMMU","KHOUR                                             ","2014-08-08 13:40:08.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","A blend of sun and clouds with a couple of showers and a thunderstorm
+Max UV Index: 9 (Very High)
+Thunderstorms: 43%
+Precipitation: 21 mm
+Rain: 21 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 4 hrs
+Hours of Rain: 4 hrs","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-08 13:52:37.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","HOW TO CONTROL WEED IN PADDY ?","SPRAY WITH NOMINEE GOLD @ 10ML IN 15 LITER OF WATER.","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-08 13:52:39.000"
+"JAYAD","HORTICULTURE","Vegetables","Cauliflower","Cultural Practices","vegetables sown at this season","cauliflower,cabbage carrot, radish, turnip, knol-knol etc are sown at this season","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-08 18:38:06.000"
+"JAYAD","HORTICULTURE","Vegetables","Cauliflower","Cultural Practices","vegetables sown at this season","cauliflower,cabbage carrot, radish, turnip, knol-knol etc are sown at this season","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-08 19:17:24.000"
+"","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","insect in pomegranate tree","spray metasystox @ 2 ml in 1 lt water","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-08 21:46:56.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","CONTROL  OF  CUT  WORMS  IN   PADDY  ?","APPLY    PHORATE @  4-5 KG  OR REGENT  @  6 KG  PER    ACRE IN  STANDING  WATER.","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-09 10:17:07.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","HOW TO CONTROL BLAST IN PADDY ?","SPRAY CARBENDAZIM 50 WP @ 50-100GM IN 100 LITER OF WATER","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-09 10:35:15.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Intervals of clouds and sunshine with a thunderstorm
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","DANSAL                                            ","2014-08-09 10:47:56.000"
+"JAYAD","HORTICULTURE","Fruits","Guava","","information regarding control of insect in guava","spray chloropyriphos 20ec @ 2ml / litre of water","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-09 11:52:16.000"
+"JAYAD","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Intervals of clouds and sunshine with a thunderstorm
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-09 13:03:46.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","CONTROL OF FRUIT BORER IN BHINDI ?","SPRAY PROFENOPHOS @ 2.5ML/LITRE OF WATER .","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-09 13:23:43.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Intervals of clouds and sun with a couple of showers
+Max UV Index: 12 (Extreme)
+Thunderstorms: 29%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 2 hrs
+Hours of Rain: 2 hrs","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-09 13:30:40.000"
+"JAYAD","HORTICULTURE","Flowers","Marigold","	Plant Protection	","PLANTING TIME OF MARIGOLD ?","PLANTING TIME OF MARIGOLD IS JUNE .","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-09 13:50:35.000"
+"JAYAD","AGRICULTURE","Others","Others","","INFORMATION REGARDING SOIL TESTING","CONTACT NEAREST AGRICULTURE DEPTT.","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-09 16:00:45.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rust in paddy crop","spray zineb @ 500 gm in 200 lt water per acre","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-09 17:34:50.000"
+"JAYAD","HORTICULTURE","Vegetables","French Bean","Cultural Practices","control of anthracnose in french bean?","spray oxychoride .","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-09 18:47:53.000"
+"JAYAD","HORTICULTURE","Vegetables","French Bean","Cultural Practices","control of anthracnose in french bean?","spray oxychoride .","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-09 19:05:33.000"
+"JAYAD","HORTICULTURE","Vegetables","Tomato","Cultural Practices","Control of fruit borer in tomato?","Spray dimethoate 30 ec ,","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-09 19:07:30.000"
+"JAYAD","HORTICULTURE","Vegetables","French Bean","Cultural Practices","control of anthracnose in french bean?","spray oxychoride .","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-09 19:52:36.000"
+"JAYAD","AGRICULTURE","Others","Others","","INFORMATION REGARDING CONTROL OF BHANG","SPRAY GLYCOPHOSATE @ 1ML IN 4.5LITRE OF WATER","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-10 10:15:29.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BROWN LEAF SPOT","MENCOZEB 3G/LT WATER","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-10 13:55:21.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","FERTILIZER PADDY","UREA 3KG/KANAL","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-10 15:08:09.000"
+"JAYAD","HORTICULTURE","Vegetables","Brinjal","","INFORMATION REGARDING CONTROL OF INSECT IN BRINJAL","SPRAY CHLOROPYRIPHOS 20EC @ 2ML /LITRE OF WATER","JAMMU AND KASHMIR","JAMMU","SAMBA                                             ","2014-08-10 15:19:37.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","HOW TO CONTROL BLAST IN PADDY ?","SPRAY WITH TILT @ 100ML IN 100 LITER OF WATER","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-10 15:44:55.000"
+"JAYAD","HORTICULTURE","Fruits","Pomegranate","","HOW TO CONTROL FRUIT BORER IN POMEGRANATE ?","SPRAY METASYSTOX @ 2 ML IN 1 LITER OF WATER .","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-10 16:29:27.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","CONTROL OF  BROAD  LEAF  WEEDS  IN   PADDY  ?","SPRAY  ALGRIP ( METSULFRAN) @ 30 GRAMS IN  150 LITRE OF  WATER IN 150 LITRE  OF  WATER. PER   ACRE.","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-10 17:34:47.000"
+"JAYAD","HORTICULTURE","Vegetables","Bitter Gourd","","information regarding control of insect in bitter gourd","spray metasystox  @ 2ml /litre of water","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-11 12:25:43.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INFORMATION REGARDING RED WEEVIL IN PADDY?","SPRAY OF PHORATE 10 G @ 0.5 KG PER KANAL","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-11 12:32:36.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather  forecast   ?","Sunshine and some clouds with a shower or thunderstorm around; hot
+ Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-11 12:51:29.000"
+"JAYAD","HORTICULTURE","Vegetables","Brinjal","Cultural Practices","fruit borer ?","sumicidin 20 ec","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-11 15:07:43.000"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","","insects in paddy crop","spray chlorpyriphous @ 1 lt in 100 lt water per acre","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-11 15:11:13.000"
+"JAYAD","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","CONTROL OF LEAF BORER IN BHINDI ?","SPRAY METASYSTOX 25EC @ 2.5ML/LITRE OF WATER .","JAMMU AND KASHMIR","JAMMU","SAMBA                                             ","2014-08-11 15:11:56.000"
+"JAYAD","HORTICULTURE","Vegetables","Bitter Gourd","	Plant Protection	","CONTROL OF RED PUMPKIN BEETLE IN BOTTLE GOURD ?","SPRAY IMEDACHLOPRID @ 2.5GM/LITRE OF WATER .","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-11 16:02:11.000"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","WEEDS?","HAND WEEDING","JAMMU AND KASHMIR","JAMMU","DANSAL                                            ","2014-08-19 15:08:05.650"
+"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","POTATO SOWING","Autumn crop	Sept.- Oct.	Jan.- Feb.
+Spring crop		2ndfort night of Jan.		April -May
+Intermediate (Low)            	Sept.	Dec.-Jan.
+Intermediate (High)          	April–May                                  	Sept.- Oct.","JAMMU AND KASHMIR","JAMMU","KHOUR                                             ","2014-08-19 16:02:49.520"
+"KHARIF","HORTICULTURE","Flowers","Marigold","	Plant Protection	","INFORMATION REGARDING CONTROL OF YELLOW LEAVES IN MARRIGOLD","SPRAY MANCOZEB 75WP @ 2GM/LITRE OF WATER","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-19 16:33:32.297"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","TOMATO CULTIVARS","Open pollinated 
+Pusa Ruby: This is an early maturing variety developed by IAR1, New Delhi; derived through selection from the cross Sioux x Improved Meeruthi. Plants are indeterminate (80-85 cm), spreading and hardy with fewer branches. Fruits are flattish round, small-medium, uniform red, slightly lobed (4-5 locules) and acidic; suitable for processing; suitable for cultivation during autumn, winter and spring-summer seasons; gives an average yield of 30 t/ha.
+
+Pusa-120:  Plants are semi determinate, spreading, late maturing with dark green foliage. Fruits are flattish round, attractive, medium to large, uniform red, less acidic, less seeded, resistant to nematode and suitable for winter and summer seasons. Average yield is 300-320 q/ha.
+
+Pusa Sheetal: Plants are determinate, fruit set successfully under low night temperature ( up to 80C) and suitable for early spring season, fruits are flattish round with yellow stem end, smooth, attractive, medium sized, red color and uniform ripening. Harvesting starts from early march. Average yield is 350 q/ha.
+
+Arka Vikas: Fruits are medium large (80-90g ), oblate with light green shoulder, which develop deep red color on ripening. Suitable for fresh market. Adapted to both rain fed and irrigated conditions. Average yield is 350 q/ha.
+
+Arka Abha: Fruits are oblate with light green shoulder. Develops deep red color on ripening. Average fruit weight is 75g. Resistant to bacterial wilt caused by Ralstonia solanacearum. Suitable for fresh market. Average yield is 430 q/ha.
+
+Arka Saurabh: Fruits are medium large (70-80 g), round with light green shoulder, deep red in colour, firm with nipple tip, Suitable for both fresh market and processing. Average yield is 300-350q/ha.
+
+Arka Alok: Fruits are square round on lower cluster, large in size, firm with green shoulder, resistant to bacterial wilt. Suitable for fresh market. Average yield is 460 q/ha.
+
+Kashi Vishesh (DVRT-2): Plants are determinate, dark green, fruits are red, spherical, medium to large sized. First harvest at 70-75 days after transplanting, Resistant to TLCV. Average yield  is 400-450 q/ha.
+
+Kashi Sharad: Plants are indeterminate, leaves are broad, fruits are attractive red, slightly oval, firm with thick pericarp, longer shelf life, avg. fruit weight is 90-95 g. Average yield is 400-500q/ha.","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-20 09:18:06.283"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","PADDY FERTILIZER","UREA 4KG DAP 6.5KG MOP 2.5 KG/KANAL","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-20 10:01:58.500"
+"KHARIF","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Animal Nutrition","INFORMATION REGARDING ANIMAL HUSBANDRY?","REGARDS TO NEAR BY VETY. CLINIC OF YOUR AREA","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-20 10:17:40.723"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","INFORMATION REGARDING WEATHER?","Mostly sunny and hot
+Max UV Index: 9 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-20 11:36:13.463"
+"KHARIF","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Disease Management","CONTROL OF TICKS IN COW ANIMAL ?","APPLY POUR ON ANIMAL BODY AND COVER THE MOUTH OF THE ANIMAL BEFORE APPLING.","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-20 12:27:12.377"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","INFORMATION REGARDING WEATHER?","Mostly sunny and hot
+Max UV Index: 9 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-20 12:46:54.467"
+"KHARIF","HORTICULTURE","Vegetables","Bottle Gourd ","	Plant Protection	","SOWING TIME OF CARROT ?","SOWING TIME OF CARROT STARTS FROM THE MONTHE OF SEPTEMBER .","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-20 12:52:16.263"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PROPER TIME FOR CLIPPING IN RICE ?","IT SHOULD BE DONE BEFORE TRANSPLANTING","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-20 13:37:52.197"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","CONTROL  OF   THREAD  WORMS IN PADDY ?","APPLY  REGENT @ 6 KG PER  ACRE  IN STANDING WATER.","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-20 13:44:03.863"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","CONTROL OF  THREAD  WORMS  ?","APPLY  REGENT  40 GRAMS OR PHORATE @  25 GRAMS  PER  MARLA  AND  GIVE  LIGHT  IRRIGATION.","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-20 14:21:15.363"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast in paddy crop","spray zineb @ 500gm in 200 lt water per acre","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-20 15:01:44.830"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","downy mildew in chillies","spray ridomil mz @ 2.5 gm in 1 lt water","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-20 17:53:03.263"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Cultural Practices","HOW TO CONTROL STALK ROT IN MAIZE ?","SPRAY THE CROP WITH ZINEB 2.5 KG + STREPTOMYCINE 5O GM IN 1000 LITERS OF WATER / HA .","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-20 18:00:13.783"
+"KHARIF","HORTICULTURE","Fruits","Guava","	Plant Protection	","pest in guava fruit","spray metasystox @ 2 gm in 1 lt water in flowering stage","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-21 07:48:47.727"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","til problem","Imidacloprid 2ml/lt water","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-21 07:55:01.297"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","UNPRODUCTIVE LAND ?","RECOMMENDATION OF SOIL TESTING","JAMMU AND KASHMIR","JAMMU","DANSAL                                            ","2014-08-21 08:30:25.500"
+"KHARIF","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","borer in pomegranate tree","spray metasystox @ 1.5 ml in 1 lt water","JAMMU AND KASHMIR","JAMMU","KHOUR                                             ","2014-08-21 08:30:25.870"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","INFORATION REGARDING OKRA?","SPRAY OF PHORATE@2KG PER KANAL","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-21 11:01:12.923"
+"KHARIF","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Disease Reporting","FARMER REPOTED COW IS NOT GETTING PRAGNENT ?","IN THIS REGARD CALL ESCALUATE TO LEVEL-2 AND DOCTOR ADVICE POWDER AGRIMIN 50GM PER DAY","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-21 11:59:31.170"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","CONTROL OF FOOT ROT OR BAKANIA DISEASE IN PADDY ?","ROGUE OUT THE AFFECTED PLANT FROM THE FIELD AND SPRAY TILT 25EC @ 250ML IN 200 LITRE OF WATER PER ACRE  AT BOOT STAGE .","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-21 12:48:55.497"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","WEATHER FORECAST ?","Brilliant sunshine and hot
+Max UV Index: 9 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","JAMMU","SATWARI                                           ","2014-08-21 13:20:21.510"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","WEEDS","HAND WEEDING","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-21 13:49:23.983"
+"KHARIF","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Disease Management","CONTROL OF TICKS","APPLY @ 1-2ML PER LITRE OF WATER.","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-21 16:23:02.740"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast in paddy crop","spray zineb @ 500 gm in 200 lt water per acre","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-21 20:36:55.573"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","Field Preparation","mandi rate","thanku mr mk","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-21 21:40:00.687"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","WEATHER FORECAST ?","Mostly sunny and hot
+Max UV Index: 9 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-22 11:26:26.743"
+"KHARIF","AGRICULTURE","Oilseeds","Sesame (Gingelly/Til)/Sesamum","	Field Preparation	","information regarding control of insect in til","spray imidachlorpride @ 2ml/litre of water","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-22 11:34:42.717"
+"KHARIF","AGRICULTURE","Others","","Weather","INFORMATION REGARDING WEATHER?","Times of clouds and sun with a shower or thunderstorm this afternoon
+Max UV Index: 9 (Very High)
+Thunderstorms: 40%
+Precipitation: 1 mm
+Rain: 1 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0.5 hrs
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-22 13:31:15.350"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","HOW TO CONTROL WEEDS IN PADDY ?","APPLY BUTACHLOR 5 G @ 1.5 KG / KANAL .","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-22 14:52:34.810"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","FERTILISER DOSE IN MAIZE ?","APPLY 2 KG UREA PER KANAL .","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-22 15:10:43.600"
+"KHARIF","HORTICULTURE","Vegetables","Carrot","Fertilizer Use and Availability","FERTILISER DOSE IN RADISH ?","APPLY 7KG UREA,3KG DAP AND 4KG MOP PER KANAL .","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-22 15:54:40.640"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","black sopts","MENCOZEB 3G/LT WATER AND CARBENDAZIM 2G/LT WATER RESPECTIVELY","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-23 07:12:31.230"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","CUT WORM","PHORATE 10G 500GM/KANAL","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-23 08:46:45.300"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Partly sunny and very warm; an afternoon thunderstorm
+Max UV Index: 10 (Extreme)
+Thunderstorms: 90%
+Precipitation: 0.13 in
+Rain: 0.13 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","KHOUR                                             ","2014-08-23 09:13:47.473"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","information regarding control of yellow leaves in paddy","spray mancozeb 75wp @ 2gm/ litre of water","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-23 10:50:03.160"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","WILTING","MENCOZEB 3G/LT WATER AND CARBENDAZIM 2G/LT WATER RESPECTIVELY","JAMMU AND KASHMIR","JAMMU","KHOUR                                             ","2014-08-23 10:59:40.370"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","RICE","Rice 1 tonne After transplanting","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-23 11:35:41.643"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Organic Farming","VERMICOMPOST DOSAGE","Recommended quantity and time of
+application of vermicompost
+Quantity Time to
+Crop to apply
+per acre apply
+Rice 1 tonne After transplanting","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-23 11:39:24.497"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","HOW TO CONTROL BLAST IN PADDY ?","SPRAY WITH TILT @ 100ML IN 100 LITER OF WATER","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-23 12:29:44.633"
+"KHARIF","HORTICULTURE","Vegetables","Mushroom","Cultural Practices","information about the cultural of mashroom ?","plz contect Dr.R.I.BANGOTRA (9419115401)IN WORKING HOURS.","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-23 16:15:51.527"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","WEATHER REPORT","Partly sunny and hot with a thunderstorm","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-23 16:39:02.010"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHERR    FOREACST   ?","Sunny to partly cloudy and hot; an afternoon thunderstorm
+ Max UV Index: 9 (Very High)
+Thunderstorms: 90%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-24 09:32:36.910"
+"KHARIF","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDINGH WEATHER?","N
+E
+S
+W
+
+SW 3 km/h 
+Gusts: 6 km/h 
+Partly sunny
+
+Max UV Index: 10 (Extreme) 
+Thunderstorms: 8% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-24 10:24:58.087"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","Weather","TODAYS WEATHER FORECAST ?","Sunny to partly cloudy and hot; an afternoon thunderstorm
+Max UV Index: 9 (Very High)
+Thunderstorms: 90%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","JAMMU","BISHNAH                                           ","2014-08-24 13:41:56.557"
+"KHARIF","AGRICULTURE","Pulses","Black Gram (urd bean)","	Field Preparation	","CONTROL OF  CATERPILLER IN  MOONG  ?","SPRAY   IMADICLOPRID @  40 ML  IN 100 LITRE OF WATER.","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-24 13:51:07.443"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","downy mildew in chillies","spray ridomil mz @ 2.5 gm in 1 lt water","JAMMU AND KASHMIR","JAMMU","KHOUR                                             ","2014-08-24 18:09:44.603"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INSECTS","SPRAY CYPERMETHRIN 2ML/LT WATER AT 10-15 DAYS  INTERVAL","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-25 08:23:10.620"
+"KHARIF","FISHERIES","Inland","Others","Freshwater Pearl Farming.","FISH REARING","KVK RS PURA JAMMU","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-25 08:55:47.087"
+"KHARIF","HORTICULTURE","Flowers","Marigold","	Plant Protection	","INFORMATION REGARDING CONTROL OF TERMITE IN MARRIGOLD","DRENCH CHLOROPYRIPHOS 20EC @ 2ML /LITRE OF WATER","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-25 12:24:03.440"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","PLANTING TIME OF POPLAR TREE ?","PLANTING OF POPLAR SHOULD BE DONE IN THE MONTH OF JANUARAY-FEBRUARY .","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-25 13:27:54.800"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","WEATHER FOREACST  ?","Sunshine and hot
+Max UV Index: 9 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","JAMMU","BHALWAL                                           ","2014-08-26 09:09:49.327"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast in paddy crop","spray zineb @ 500 gm in 200 lt water per acre","JAMMU AND KASHMIR","JAMMU","R.S.PURA                                          ","2014-08-26 12:00:56.617"
+"KHARIF","HORTICULTURE","Fruits","Apple","	Plant Protection	","TODAYS WEATHER FORECAST ?","Sunshine and hot
+Max UV Index: 9 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","JAMMU","MARH                                              ","2014-08-26 13:45:32.420"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","weather  forecast  ?","Partly sunny
+ Max UV Index: 9 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","JAMMU","AKHNOOR                                           ","2014-08-26 14:09:10.043"

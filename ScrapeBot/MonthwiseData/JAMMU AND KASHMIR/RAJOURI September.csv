@@ -1,0 +1,425 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","HOW TO CONTROL STEM BORER IN MAIZE ?","APPLY CARBOFURAN 10 G @ 1KG PER KANAL.","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-02 07:45:49.630"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","HOW TO CONTROL STEM BORER IN MAIZE ?","APPLY CARBOFURAN 10 G @ 1KG PER KANAL.","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-02 07:45:49.630"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","HOW TO CONTROL STEM BORER IN MAIZE ?","APPLY CARBOFURAN 10 G @ 1KG PER KANAL.","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-02 07:45:49.630"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","information regarding insect on okra?","spray of cypermethrin @ 2ml in 1 lt of water","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-03 12:57:10.207"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Periods of rain, some heavy, and a thunderstorm; watch for flooding
+Max UV Index: 4 (Moderate)
+Thunderstorms: 41%
+Precipitation: 52 mm
+Rain: 52 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 8 hrs
+Hours of Rain: 8 hrs","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-05 07:15:12.510"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Weather","TODAYS WEATHER FORECAST ?","Periods of rain, some heavy, and a thunderstorm; additional rain can lead to flooding problems
+Max UV Index: 4 (Moderate)
+Thunderstorms: 48%
+Precipitation: 27 mm
+Rain: 27 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 8 hrs
+Hours of Rain: 8 hrs","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-05 13:23:27.047"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER   FORECAST  ?","Periods of rain and a thunderstorm
+ Max UV Index: 4 (Moderate)
+Thunderstorms: 35%
+Precipitation: 36 mm
+Rain: 36 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 8 hrs
+Hours of Rain: 8 hrs","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-06 07:41:43.170"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Periods of rain and a thunderstorm
+Max UV Index: 4 (Moderate)
+Thunderstorms: 35%
+Precipitation: 1.4 in
+Rain: 1.4 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 8 hrs
+Hours of Rain: 8 hrs","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-06 09:02:18.890"
+"KHARIF","AGRICULTURE","Others","Others","Varieties","WEATHER FORECAST ?","Periods of rain and a thunderstorm
+Max UV Index: 4 (Moderate)
+Thunderstorms: 35%
+Precipitation: 1.4 in
+Rain: 1.4 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 8 hrs
+Hours of Rain: 8 hrs","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-06 10:06:46.513"
+"KHARIF","HORTICULTURE","Fruits","Guava","Weather","WEATHER FORECAST ?","Periods of rain and a thunderstorm
+Max UV Index: 4 (Moderate)
+Thunderstorms: 38%
+Precipitation: 19 mm
+Rain: 19 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 6 hrs
+Hours of Rain: 6 hrs","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-06 11:07:20.333"
+"KHARIF","AGRICULTURE","Others","Others","	Field Preparation	","WEATHER  FOREACST  ?","Cool with periods of rain
+ Max UV Index: 5 (Moderate)
+Thunderstorms: 9%
+Precipitation: 23 mm
+Rain: 23 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 8 hrs
+Hours of Rain: 8 hrs","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-06 11:29:28.450"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Partly sunny and warmer with a thunderstorm in spots
+ Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-07 07:12:06.763"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Partly sunny and warmer with a thunderstorm in spots
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-07 09:56:52.653"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Partly sunny and warmer with a thunderstorm in spots
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-07 10:34:25.583"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Partly sunny and warmer with a thunderstorm in spots
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-07 11:44:14.150"
+"KHARIF","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Partly sunny and warmer with a thunderstorm in spots
+
+Max UV Index: 9 (Very High) 
+Thunderstorms: 60% 
+Precipitation: 2 mm 
+Rain: 2 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 1 hrs 
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","RAJOURI                                           ","2014-09-07 13:04:05.007"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","cut worm","PHORATE 10G 500GM/KANAL","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-08 08:11:34.680"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","HOW TO CONTROL BLAST IN PADDY ?","SPRAY WITH TILT @ 100ML IN 100 LITER OF WATER","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-08 08:12:36.737"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","brown spots in paddy","MANCOZEB 3G/LT 20-25 GRAM KANAL","JAMMU AND KASHMIR","RAJOURI","RAJOURI                                           ","2014-09-08 08:27:06.060"
+"KHARIF","HORTICULTURE","Fruits","Citrus","Weather","WEATHER FORECAST ?","Partly sunny with a shower or thunderstorm around
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 4 mm
+Rain: 4 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-08 16:57:05.337"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FOREACST ?","More sunshine than clouds with a shower or thunderstorm around in the afternoon
+ Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 1 mm
+Rain: 1 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0.5 hrs
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-08 20:33:20.487"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report?","Mostly sunny and hot","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-08 20:37:12.723"
+"KHARIF","AGRICULTURE","Others","Others","Government Schemes","KISSAN CREDIT CARD","APPLY FOR KISSAN CREDIT CARD AT YOUR NEAREST RURAL BANK /GRAMIN BANK","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-10 10:50:21.293"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","CONTROL  OF   RUSTING IN    PADDY   ROOTS  ?","DERNCH  CARBNEADZIM  OR  ZINAB @  200 GRAMS PER  ACRE  IN  200 LITRE OF WATER  ,  REPEAT AT   12 DAYS INTERVALS.","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-10 11:24:14.527"
+"KHARIF","AGRICULTURE","Others","Others","Varieties","WEATHER FORECAST ?","Partly sunny with widely separated thunderstorms
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","RAJOURI","MANJAKOTE                                         ","2014-09-10 12:26:00.710"
+"KHARIF","AGRICULTURE","Others","Others","	Field Preparation	","CONTROL  OF   WEEDS IN OPEN    FILED","SPRAY   ROUND UP  @ 250 GRAMS PER   KANAL  IN  30 LITRE OF  WATER .","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-10 17:41:23.300"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Credit","INFORMATION REGARDING COMPENSATION DUE TO LOSS OF MAIZE BY FLOOD ?","IN THIS REGARD VISIT NEAREST AGRICULTURE OFFICE FOR MORE DETAILS","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-11 10:31:37.450"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Field Preparation	","CONTROL OF   APHIDS  IN  MOONG  ?","SPRAY ROGER   OR  METAYSTOX  @ 2 ML PER  LITRE  OF  WATER    AND REPET   AT  12 DAYS  AFTER  IT.","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-11 12:36:21.250"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Cultural Practices","HOW TO CONTROL APHIDS IN MAIZE ?","SPRAY IMIDACHLOPRID @ 1.5 ML IN 2 LITERS OF WATER .","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-11 14:24:20.860"
+"KHARIF","HORTICULTURE","Fruits","Mango","	Plant Protection	","ROOT ROT IN MANGO","DRENCH CARBENDAZIM @ 2 GM IN 1 LT WATER","JAMMU AND KASHMIR","RAJOURI","DARHAL                                            ","2014-09-11 15:17:37.740"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","Weather","TODAYS WEATHER FORECAST ?","Partly sunny with a shower in the area
+
+Max UV Index: 8 (Very High) 
+Thunderstorms: 29% 
+Precipitation: 2 mm 
+Rain: 2 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 1 hrs 
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-11 15:37:00.640"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","WEATHER  FOREACST  ?","Intervals of clouds and sunshine with a thunderstorm
+ Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-12 08:07:01.720"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","HOW TO CONTROL WILT IN CHILLI ?","DRENCH THE ROOT WITH MANCOZEB + CARBENDAZIM @ 2.5GM PER LITER OF WATER.","JAMMU AND KASHMIR","RAJOURI","RAJOURI                                           ","2014-09-12 08:07:40.400"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","HOW TO CONTROL WLIT IN CHILLI ?","DRENCH THE ROOT WITH MANCOZEB + CARBENDAZIM @ 2.5GM PER LITER OF WATER","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-12 08:15:14.327"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","VEGETABLES SOWN IN THE MONTH OF OCTOBER ?","SOW VEGETABLES LIKE CABBAGE,CAULIFLOWER,KNOL KHOL,SPINACH,ONION,RADISH,CARROT .","JAMMU AND KASHMIR","RAJOURI","RAJOURI                                           ","2014-09-12 15:11:53.150"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Partly sunny with a thunderstorm this afternoon
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 0.05 in
+Rain: 0.05 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0.5 hrs
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","RAJOURI","MANJAKOTE                                         ","2014-09-13 07:29:34.563"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Partly sunny with a shower or thunderstorm around this afternoon
+Max UV Index: 8 (Very High)
+Thunderstorms: 40%
+Precipitation: 1 mm
+Rain: 1 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0.5 hrs
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-13 08:33:32.560"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Partly sunny with a thunderstorm this afternoon
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 0.05 in
+Rain: 0.05 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0.5 hrs
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-13 10:17:37.860"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Partly sunny with a shower or thunderstorm in spots
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 0.08 in
+Rain: 0.08 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-13 18:48:09.170"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Partly sunny with a shower or thunderstorm in spots
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 0.08 in
+Rain: 0.08 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-14 09:30:43.610"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FOREASCT  ?","Partly sunny with a shower or thunderstorm around
+ Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-14 10:14:13.633"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST ?","Partly sunny with a shower or thunderstorm around
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 0.08 in
+Rain: 0.08 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-14 10:55:44.857"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","weather forecast","Partly sunny with a shower or thunderstorm around
+
+Max UV Index: 8 (Very High) 
+Thunderstorms: 60% 
+Precipitation: 2 mm 
+Rain: 2 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 1 hrs 
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","RAJOURI                                           ","2014-09-14 11:23:28.607"
+"KHARIF","AGRICULTURE","Others","Others","Training and Exposure Visits","WEATHER FORECAST ?","Partly sunny with a shower or thunderstorm around
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 0.08 in
+Rain: 0.08 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","RAJOURI                                           ","2014-09-14 11:25:18.633"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","downy mildew in chillies","spray ridomil mz @ 2 gm in 1 lt water","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-14 14:21:33.323"
+"KHARIF","AGRICULTURE","Cereals","Wheat","	Plant Protection	","WEATHER FORECAST ?","Mostly sunny with a thunderstorm around this afternoon
+Max UV Index: 9 (Very High)
+Thunderstorms: 60%
+Precipitation: 0.04 in
+Rain: 0.04 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0.5 hrs
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-15 07:49:08.453"
+"KHARIF","HORTICULTURE","Vegetables","Bottle Gourd ","	Plant Protection	","CONTROL OF RED PUMPKIN BETTLE ON BOTTLE GOURD ?","SPRAY IMEDA CHLOPRID @ 2.5ML/LITRE OF WATER .","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-15 12:56:48.563"
+"KHARIF","HORTICULTURE","Fruits","Citrus","Weather","WEATHER FORECAST ?","Sunny to partly cloudy
+Max UV Index: 9 (Very High)
+Thunderstorms: 90%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-15 17:41:21.270"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","HOW TO CONTROL LATE BLIGHT IN TOMATO ?","SPRAY WITH MANCOZEB 75 WP @ 2.5GM/LITER OF WATER.","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-16 12:34:56.463"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Mostly sunny
+Max UV Index: 8 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-17 09:30:00.703"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Beautiful with sunshine and patchy clouds
+
+Max UV Index: 8 (Very High) 
+Thunderstorms: 24% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-17 10:08:28.850"
+"KHARIF","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Mostly sunny and nice
+Max UV Index: 9 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-17 10:10:14.797"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATEHR FOREACST   ?","Sunshine and patchy clouds
+ Max UV Index: 8 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-17 12:35:29.920"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","HOW TO CONTROL WEED IN OPEN FIELD ?","SPRAY WITH GLYSOPHATE @ 200ML IN 30 LITER OF WATER PER KANAL","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-18 16:02:19.170"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT?","Partly sunny","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-19 14:54:02.720"
+"KHARIF","AGRICULTURE","Others","Others","Soil Testing","INFORMATION REGARDING SOIL TESTING?","REGARDS TO NEARBY AGRICULTURE OFFICE OF YOUR AREA","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-20 10:41:35.453"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","POLLINATION PROBLEM","PLANOFIX 1ML IN 4.5 LITRE WATER","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-20 11:25:29.170"
+"KHARIF","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Sun and some clouds with a thunderstorm or two this afternoon
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-20 11:28:28.333"
+"KHARIF","HORTICULTURE","Fruits","Mango","	Plant Protection	","INFORMATION REGARDING CONTROL OF FLOWER DROPPING IN MANGO","SPRAY COPPER OXYCHLORIDE @ 2GM/LITRE OF WATER","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-21 11:56:50.440"
+"KHARIF","HORTICULTURE","Fruits","Mango","	Plant Protection	","CONTROL  OF  MANGO  MALFORMATION   ?","REMOVE THE AFFECTED  SHOOTS EVERY  MONTH  AND  DESTORY  THEM.  THE   APPLICATION  OF  NAA  @  200 PPM  IN  100 LITRE OF  WATER, PERIOR TO  FLOWER   BUD DURING THE   FIRST  WEEK  OF  OCT.","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-21 12:18:57.093"
+"KHARIF","AGRICULTURE","Pulses","Rajmash Bean","	Plant Protection	","HOW TO CONTROL POD BORER IN RAJMASH ?","SPRAY WITH CYPERMETHRIN 25 EC @ 2ML/LITER OF WATER","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-23 07:07:22.153"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Brilliant sunshine
+
+Max UV Index: 8 (Very High) 
+Thunderstorms: 24% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-23 11:39:58.510"
+"KHARIF","AGRICULTURE","Others","Others","Weather","information regarding weather?","Partly sunny with a shower or thunderstorm in the area
+Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 2 mm
+Rain: 2 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","RAJOURI                                           ","2014-09-24 08:40:35.167"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","INFORMATION REGARDING VARIETIES OF CAULIFLOWER","VARIETIES OF CAULIFLOWER ID PUSA KATKI, PUSA DEEPALI, GIANT SNOW BALL ETC","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-24 12:21:02.357"
+"KHARIF","AGRICULTURE","Others","Others","Organic Farming","VERMICOMPOST PRECAUITION","PRECAUTION FOR VERMICOMPOST
+THERE SHOULD BE SUFFICIENT FOOD AND MOISTURE FOR EARTH WORMS
+THE LAYER OF WASTE MATERIAL SHOULD NOT BE VERY THICK
+THE PIT SHOULD ALWAYS BE IN SHADY PLACE AND SHOULD BE PROTECTED FROM DIRECT SUNLIGHT
+PROTECT VERMIBEDS FROM FROG, POULTRY BIRDS AND RED ANTS","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-24 12:40:03.940"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER FORECAST","Partly sunny
+Max UV Index: 7 (High)
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1.5 hrs
+Hours of Rain: 1.5 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-24 16:58:38.103"
+"KHARIF","HORTICULTURE","Vegetables","Radish","	Plant Protection	","INFORMATION REGARDING SOWING TIME OF RADISH","SOWING TIME OF RADISH IS SEPT-NOV.","JAMMU AND KASHMIR","RAJOURI","NOWSHERA                                          ","2014-09-26 10:20:41.290"
+"KHARIF","HORTICULTURE","Fruits","Apple","	Plant Protection	","CONTROL FOR BITTER PIT IN APPLE ?","SPRAY CALCIUM CHLORIDE 3 GM. IN 1 LT. WATER","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-27 12:13:00.617"
+"KHARIF","HORTICULTURE","Fruits","Apple","Weather","WEATHER FORECAST ?","Clouds and sunshine with a shower or thunderstorm
+Max UV Index: 7 (High)
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-27 13:13:42.030"
+"KHARIF","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","N
+E
+S
+W
+
+SSE 3 km/h 
+Gusts: 11 km/h 
+Partial sunshine with a shower or thunderstorm around this afternoon
+
+Max UV Index: 8 (Very High) 
+Thunderstorms: 40% 
+Precipitation: 1 mm 
+Rain: 1 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0.5 hrs 
+Hours of Rain: 0.5 hrs","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-28 10:04:02.667"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","CROP  DAMAGE DUE  TO     FLOODS .","IN THIS REGRD   REGISTER  YOUR   PROBLEM   TO  NERASET   AGRI. OFFICER  OF  YOUR AREA.","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-28 12:21:29.943"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","CROP  DAMAGE DUE  TO     FLOODS .","IN THIS REGRD   REGISTER  YOUR   PROBLEM   TO  NERASET   AGRI. OFFICER  OF  YOUR AREA.","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-28 12:21:31.723"
+"KHARIF","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Disease Management","VET.  PROBLEM IN   COW.","IN THIS  REGARD  CONTACT  MR.  M.S BADWAL - 9419136239.","JAMMU AND KASHMIR","RAJOURI","MANJAKOTE                                         ","2014-09-28 12:45:58.670"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","TODAYS WEATHER FORECAST ?","Partly sunny and delightful
+Max UV Index: 8 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","RAJOURI","BUDHAL                                            ","2014-09-28 14:14:13.287"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","Agriculture Mechanization","HOW TO CONTROL FRUIT BORER IN OKRA ?","SPRAY WITH CYPERMETHRIN @ 2ML/LITER OF WATER","JAMMU AND KASHMIR","RAJOURI","KALAKOTE                                          ","2014-09-28 16:27:29.737"
+"KHARIF","HORTICULTURE","Vegetables","Garden Pea","Weather","WEATHER FORECAST ?","N
+E
+S
+W
+
+SE 6 km/h 
+Gusts: 19 km/h 
+Partly cloudy
+
+Max UV Index: N/A 
+Thunderstorms: 24% 
+Precipitation: 0 mm 
+Rain: 0 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","RAJOURI","RAJOURI                                           ","2014-09-28 17:43:45.970"
+"KHARIF","HORTICULTURE","Vegetables","Radish","	Plant Protection	","VEGETABLES SOWN IN THE MONTH OF OCTOBER ?","SOW VEGETABLES LIKE CARROT,RADISH,TURNIP,KNOL KHOL,CAULIFLOWER,CABBAGE ETC .","JAMMU AND KASHMIR","RAJOURI","RAJOURI                                           ","2014-09-29 14:45:53.780"
+"KHARIF","HORTICULTURE","Flowers","Marigold","Cultural Practices","RECOMMENDED VARITIES OF MARIGOLD ?","RECOMMENDED VARITIES OF MARIGOLD ARE Pusa Narangi Gainda,Pusa Basanti Gainda AND Desi gutta","JAMMU AND KASHMIR","RAJOURI","SUNDERBANI                                        ","2014-09-30 06:28:07.443"
+"KHARIF","HORTICULTURE","Fruits","Mosambi","	Plant Protection	","HOW TO CONTROL DROPING OF FRUIT IN MOSAMBI ?","SPRAY WITH NAA @ 1ML IN 4.5 LITER OF WATER.","JAMMU AND KASHMIR","RAJOURI","RAJOURI                                           ","2014-09-30 16:01:39.483"

@@ -1,0 +1,295 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Insect infestation","spray trizophos @ 2 ml/liter of water","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-03 07:35:34.897"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","yellowing of leaves","spray propiconazole @ 2ml/liter of water","BIHAR","BHAGALPUR","SONHAULA                                          ","2014-10-03 08:05:56.450"
+"KHARIF","HORTICULTURE","Fruits","Jack Fruit","	Plant Protection	","FRUIT BORER IN JACKFRUIT","SPRAY Carbaryl 50 WP @ 2 g/lit.","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-03 08:26:37.110"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-05 06:38:34.043"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Chance of precipitation to some extent in area your","BIHAR","BHAGALPUR","SONHAULA                                          ","2014-10-05 07:22:56.613"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","red colour leaf in paddy leaf","spray saaf/ridomil 2 gm/lt. water","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-05 09:33:11.123"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","red colour leaf in paddy leaf","spray imidacloprid @ 1ml/3 ltr. of water","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-05 09:51:26.847"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","COPPEROXYCLORIDE 2GM/LITER OF WATER","BIHAR","BHAGALPUR","NATHNAGAR                                         ","2014-10-05 10:03:55.613"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","COPPEROXYCLORIDE 2GM/LITER OF WATER","BIHAR","BHAGALPUR","NATHNAGAR                                         ","2014-10-05 10:04:08.953"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","COPPEROXYCLORIDE 2GM/LITER OF WATER","BIHAR","BHAGALPUR","NATHNAGAR                                         ","2014-10-05 10:04:23.363"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","COPPEROXYCLORIDE 2GM/LITER OF WATER","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-05 10:23:30.667"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","delay growth in all crop","spray boomflower/mirakulon/trasol 2 ml/lt. water","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-05 10:27:26.593"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","MANCOZEB @ 2 G/ 1 LITTER WATER","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-05 10:35:21.870"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Cloudy weather in your area but no chance of rain","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-05 11:45:40.673"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","Whitefly","Dimethoate 30 % EC
+ 
+1.0  ml/lit.
+ 
+
+Malathion 50 % EC
+ 
+1.5 ml/ lit.","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-06 10:00:53.673"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","Spray mencozeb @ 2gm/lit of water","BIHAR","BHAGALPUR","BIHPUR                                            ","2014-10-07 07:35:43.533"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","PLANT PROTECTION OF BRINJAL","Spray mencozeb @ 2gm/lit of water","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-07 07:52:49.020"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","PLANT PROTECTION OF BRINJAL","Spray mencozeb @ 2gm/lit of water","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-07 07:53:02.933"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information 8084177999","Very low Cloudy weather in your area but no chance of rain","BIHAR","BHAGALPUR","NATHNAGAR                                         ","2014-10-07 09:17:20.970"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information 8084177999","Very low Cloudy weather in your area but no chance of rain","BIHAR","BHAGALPUR","NATHNAGAR                                         ","2014-10-07 09:17:34.377"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","INSECT IN BRINJAL","Spray methyl demeton or dimethoate @ 1 ml in one litre of water","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-08 07:25:45.583"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","in paddy field , crop is dry from root to leaf","use straptocyclin agrimycine 1lt water in mixed 0.2ml","BIHAR","BHAGALPUR","NATHNAGAR                                         ","2014-10-08 12:28:42.477"
+"KHARIF","HORTICULTURE","Vegetables","Potato","Cultural Practices","season of potato","oct  - nov","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-08 14:17:43.130"
+"RABI","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","Potato fertilizer dose-","Potato fertilizer dose-
+compost-150quintal+urea150+dap-80+pottas-50+zn-sulphate-20kg/ha","BIHAR","BHAGALPUR","JAGDISHPUR                                        ","2014-10-08 16:33:19.200"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","SHEAT BLIGHT IN PADDY","SPRAY HEXACONOZOLE 2.5GRAM/LIT OF WATER","BIHAR","BHAGALPUR","BIHPUR                                            ","2014-10-08 21:09:46.150"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","RICE BLAST","SPRAY PROPICONAJOL 25 EC @ 1 ML./LT. OF WATER.","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-09 06:34:38.720"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Weather information","no chance of rain","BIHAR","BHAGALPUR","GOPALPUR                                          ","2014-10-09 06:52:31.207"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","Very low Cloudy weather in your area  chance of rain","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-09 14:34:54.123"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","hindi","Shoot & fruit borer
+
+
+1.Remove the affected terminal shoot showing boreholes. 
+2.Remove the affected fruits and destroy. 
+3.Avoid using synthetic pyrethroids. 
+4.Spray Neem Seed Kernel Extract 5 % or any one of the following chemicals starting from one month after planting at 15 days interval.
+Insecticide
+ Dose 
+ 
+Azadirachtin 1.0% EC (10000 ppm)
+ 3.0 ml/lit.
+ 
+Azadirachtin 0.03 % WSP (300 ppm)
+ 5.0 g/lit.
+ 
+Chlorpyrifos 20 % EC
+ 1.0 ml/lit.
+ 
+Dimethoate 30 % EC
+ 7.0 ml/10 lit.
+ 
+Emamectin benzoate 5 % SG
+ 4 g/10 lit.
+ 
+Flubendiamide 20 WDG
+ 7.5 g/10 lit.
+ 
+Phosalone 35 % EC
+ 1.5 ml/lit.
+ 
+Quinalphos 20 % AF
+ 1.7ml/ lit.
+ 
+Quinalphos 25 % EC
+ 1.5 ml/lit.
+ 
+Thiodicarb 75 % WP
+ 2.0 g/lit.
+ 
+Thiometon 25 % EC
+ 1.0 ml/lit.
+ 
+Trichlorofon 50 % EC
+ 1.0 ml/lit.
+ 
+Triazophos 40 % EC
+ 2.5 ml/lit.
+ 
+
+  
+ 
+  Shoot and fruit borer
+ 
+
+Nematode and Damping off disease 
+Seed treatment with antagonistic fungi viz. Trichoderma harzianum 4 g/kg seed and T. viride 4 g/kg seed along with application of press mud at 5 kg/m2 or Carbofuran 3 G 10 g/m2. Application of Carbofuran 3 G at 10 g/sq.m at the time of sowing. Apply Pseudomonas fluorescens at 10 g/m2 at the time of sowing to control root knot nematode and damping off disease. 
+
+Epilachna beetle
+
+
+•Collect the beetles, grubs, pupae and destroy. 
+•Spray any one of the following insecticide.  
+Insecticide 
+ Dose 
+ 
+Azadirachtin 0.03 % WSP (300 ppm) 
+ 5.0 g/lit.
+ 
+Quinalphos 20 % AF
+ 1.7 ml/lit.
+ 
+ Triazophos 40 % EC
+ 2.5 ml/lit. 
+ 
+
+Whitefly
+Monitor the whitefly with yellow sticky trap at 12 Nos./ha.  Spray Neem oil 3% + Teepol (1 ml/lit) or spray Neem Seed Kernel Extract 5 %.
+
+Insecticide 
+ Dose 
+ 
+Diafenthiuron 50 % WP
+ 8.0 g/10 lit.
+ 
+Phosphamidon 40 % SL
+ 1.5 ml/lit.
+ 
+Thiamethoxam 25 % WG
+ 4.0 g/10 lit.
+ 
+
+Ash Weevil
+Apply Carbofuran 3 G at 15 kg/ha at 15 days after planting.
+
+
+Ash weevil
+
+
+Aphid
+Release 1st instar larvae of Green lace wing bug (Chrysoperla carnea) @ 10,000 Nos./ha. Apply phorate 10 % G @ 15 kg /ha or spray any one of the following insecticide 
+
+Insecticide 
+ Dose 
+ 
+Phosphamidon 40 % SL
+ 1.5 ml/lit.
+ 
+Thiometon 25 % EC
+ 1.0 ml/lit.
+ 
+
+Red Spider mite
+
+Apply phorate 10 % G @15 kg /ha or spray any one of the following insecticide 
+
+Insecticide 
+ Dose 
+ 
+Dicofol 18.5 % SC
+ 2.0 ml/lit.
+ 
+Spiromesifen 22.9 % SC
+ 8.0 ml/10 lit.
+ 
+
+Diseases
+Damping off","BIHAR","BHAGALPUR","NAUGACHHIA                                        ","2014-10-09 14:38:55.527"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","MILLK SUCKING INSECT IN PADDY","SPRAY MALATHION 50 EC @ 5 KG / ha in mornig","BIHAR","BHAGALPUR","GORADIH                                           ","2014-10-09 14:42:12.707"
+"RABI","AGRICULTURE","Others","Others","Weather","weather infomation","today and tomorrow chance of rain","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-09 15:06:37.277"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","Weather information","???? ??? ?????? , ????? ???? ?? ???????  ????","BIHAR","BHAGALPUR","ISMAILPUR                                         ","2014-10-10 08:06:54.660"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","COPPER OXYCLORIDE 2GM/LITER OF WATER","BIHAR","BHAGALPUR","SULTANGANJ                                        ","2014-10-10 10:22:23.337"
+"KHARIF","AGRICULTURE","Others","Others","Government Schemes","about department of agriculture government of bihar site link address","http://krishi.bih.nic.in/","BIHAR","BHAGALPUR","GOPALPUR                                          ","2014-10-10 11:26:13.027"
+"KHARIF","AGRICULTURE","Pulses","Lentil (Masur)","Seeds","VARIETY OF LENTIL","P.L.406,MALLIKA ,ARUN ,","BIHAR","BHAGALPUR","GORADIH                                           ","2014-10-11 08:32:58.040"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","BHAGALPUR","NARAYANPUR                                        ","2014-10-11 15:53:52.863"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","plant protection of paddy","copper oxycloride 2gm/water","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-12 06:39:05.940"
+"KHARIF","HORTICULTURE","Fruits","Banana","	Plant Protection	","PLANT PROTECTION OF BANANA","COPPER OXYCLORIDE 2GM/LIER OF WATER","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-12 08:40:00.077"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","PLANT PROTECTION OF BRINJAL","Spray boomflower @ 2 ml in 1 litre of water","BIHAR","BHAGALPUR","NATHNAGAR                                         ","2014-10-12 08:44:08.517"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","tomorrow chance of rain","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-12 10:35:51.867"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","BHAGALPUR","NARAYANPUR                                        ","2014-10-12 14:55:59.307"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","COPPER OXYCLORIDE 2GM/LITER OF WATER","BIHAR","BHAGALPUR","GOPALPUR                                          ","2014-10-13 06:22:02.673"
+"RABI","AGRICULTURE","Others","Others","Weed Management","WEED MANAGEMENT","SPRAY GLYFOSET @ 2ML./L.OF WATER","BIHAR","BHAGALPUR","NAUGACHHIA                                        ","2014-10-13 06:54:19.620"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","in paddy crop insect problem","•Phosalone 35 EC 1500 ml/ha Acephate 
+•75 % SP 666-1000 g/ha Azadirachtin
+•0.03% 1000 ml/ha Carbofuran 3% CG
+•25 kg/ha Carbosulfan 6% G 16.7 kg/ha
+•Carbosulfan 25% EC 800-1000 ml/ha
+•CartapHydrochloride 50 % SP 1 kg/ha
+•Chlorantraniliprole 18.5% SC 150 ml/ha
+•Chlorantraniliprole 0.4% G 10 kg/ha
+•Chlorpyriphos 20% EC 1.25 l/ha
+•Fipronil 5% SC 1000-1500 g/ha Fipronil
+•80%WG 50- 62.5 kg/ha Flubendiamide
+•20% WG 125 g/ha Flubendiamide
+•39.35% M/M SC 50 g/ha Phosphamidon
+•40% SL 1250 ml/ha Thiacloprid 21.7%
+•SC 500 g/ha Thiamethoxam 25% WG
+•100 g/ha Triazophos 40% EC 625-1250","BIHAR","BHAGALPUR","GORADIH                                           ","2014-10-14 06:32:54.730"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","PLANT PROTECTION OF CAULIFLOWER","quinolphos @ 1 ml in 1 litre of water","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-14 07:54:08.523"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","fertilizer dose of potato","Application of fertilizers 
+ Apply 15 t/ha of FYM and 2 kg each of Azospirillum and Phosphobacterium as basal and 120 kg N, 240 kg P and 120 kg K/ha in two splits; half as basal and the balance for top dressing on 30 days after sowing.  Apply Magnesium sulphate at 60 kg/ha as basal dose.","BIHAR","BHAGALPUR","NAUGACHHIA                                        ","2014-10-14 08:16:16.400"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","in paddy insect problem","ETL- 25% damaged leaves
+•Remove the alternate hosts and adjust the time of planting (early).
+• Use early maturing varieties. 
+•Optimum recommendation of potash fertilizer.
+
+Spray any one of the following :
+•Cartap Hydrochloride 4% G 18750-25000 g/ha
+•Chlorpyriphos 20% EC 1250 ml/ha
+•Fipronil 5% SC 1000-1500 g/ha
+•Fipronil 0.3% GR 16670-25000 g/ha
+•Phosalone 35% EC 1428 ml/ha","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-14 08:24:29.970"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Weather information","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-14 10:03:10.960"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","COPPER OXYCLORIDE 2GM/LITER OF WATER","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-15 07:52:26.613"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","in paddy field insect problem","Spray any one of the following twice as above
+
+•Malathion 50 EC 500 ml/ha
+•Neem seed kernel extract 5% 25 kg/ha
+•Notchi or Ipomoea or Prosopis leaf extract 10%","BIHAR","BHAGALPUR","JAGDISHPUR                                        ","2014-10-15 09:16:07.203"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INSECT INFESTATION","SPRAY QUINALPHOS @ 1.5 ML / LITER OF WATER","BIHAR","BHAGALPUR","SONHAULA                                          ","2014-10-15 16:10:57.053"
+"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","insect control","Spray quinolphos @ 1 ml in 1 liter  of water","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-15 17:29:33.120"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","DISEASE IN PADDY","Spray mencozeb @ 2g/lit of water","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-16 11:15:20.777"
+"KHARIF","HORTICULTURE","Vegetables","Bell Pepper","Credit","treated your seed","You treated your seed with capton, bavistin and thirum @ 2-2.5 gram per kg of seed","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-16 15:09:06.270"
+"KHARIF","HORTICULTURE","Vegetables","Bell Pepper","Credit","treated your seed","You treated your seed with capton, bavistin and thirum @ 2-2.5 gram per kg of seed","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-16 15:11:32.153"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","COPPER OXYCLORIDE 2GM/LITER OF WATER OF WATER","BIHAR","BHAGALPUR","NAUGACHHIA                                        ","2014-10-17 08:13:20.100"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETIES OF WHEAT","C-306/K-8027/RW;3016","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-17 08:19:22.090"
+"KHARIF","AGRICULTURE","Oilseeds","Mustard","Fertilizer Use and Availability","USE OF FERTILIZER OF MUSTARD","N-P-K====80KG-40KG-40KG","BIHAR","BHAGALPUR","GOPALPUR                                          ","2014-10-17 08:54:09.097"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Water Management	","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","BHAGALPUR","GOPALPUR                                          ","2014-10-17 11:07:57.440"
+"JAYAD","AGRICULTURE","Millets","Common Millet (Panivaragu/Chena/Proso Millet/Hogm","	Field Preparation	","Weather information","Chance of precipitation to some extent in area your","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-17 15:35:47.893"
+"KHARIF","HORTICULTURE","Fruits","Citrus","	Plant Protection	","PLANT PROTECTION OF CITRUS","COPPER OXYCLORIDE 2GM/LITER OF WATER","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-18 06:23:19.663"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","variety of chilli","variety of chilli- kashi anmol, kashi gaurav,arka bashant","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-18 06:50:19.410"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","faulse smut in paddy","spray propiconazole @ 2 ml/liter of water","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-18 14:41:55.880"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","insect infestation","spray chlorpyriphos @ 1.25 ml / liter of water","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-18 15:15:00.710"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","????? ???? ??? ?????? ????? ????? ???? ?? ??? ??????? ??? ????","BIHAR","BHAGALPUR","NARAYANPUR                                        ","2014-10-18 17:15:09.703"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","NO chance of rain","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-19 06:51:50.657"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow no chance of rain","BIHAR","BHAGALPUR","SULTANGANJ                                        ","2014-10-19 08:03:52.130"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","Seeds","variety of masur-","variety of masur- BR-25,PANT L-406, MALIKA (K 75), PANT L-639, NARENDAR MASUR-1, HUL-57","BIHAR","BHAGALPUR","SULTANGANJ                                        ","2014-10-19 14:37:55.247"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INSECT CONTROL","Spray imidachlroprid @1ml/3liter of water","BIHAR","BHAGALPUR","SULTANGANJ                                        ","2014-10-19 14:46:20.320"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","yellowing of leaves","Spray metalyxl @ 2g/lit of water","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-19 15:30:18.343"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Sowing Time and Weather","weather","clear sunny day","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-19 18:40:29.853"
+"RABI","AGRICULTURE","Cereals","Wheat","Cultural Practices","fertilizer dose","N;P;K 120:60:40 kg/ hac","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-20 15:40:20.327"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","regestration","ok","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-20 17:34:29.953"
+"RABI","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","Potato fertilizer dose-","Potato fertilizer dose- compost-150quintal+urea150+dap-80+pottas-50+zn-sulphate-20kg/ha...","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-20 18:29:18.980"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","today clear weather","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-21 14:53:58.650"
+"RABI","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Animal Breeding","problem belong to breeding","wrong noumber i am belong to fishery deparment","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-22 15:11:28.753"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","milk sucker in paddy crop","apply cartop hydrochloride 5 kg/ekd after irrigation time","BIHAR","BHAGALPUR","SONHAULA                                          ","2014-10-22 16:15:17.130"
+"RABI","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","Potato fertilizer dose-","Potato fertilizer dose- compost-150quintal+urea150+dap-80+pottas-50+zn-sulphate-20kg/ha...","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-22 17:13:10.027"
+"JAYAD","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","insect problem","Spray malathion @ 2 gram in 1 litre of water","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-23 07:45:43.387"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","fruit dropping in brinjal","Spray planofix ml in 4.5- 5 liter of water","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-24 07:49:55.807"
+"RABI","AGRICULTURE","Cereals","Wheat","Cultural Practices","VARITIES","HD2733,PBW-343,HP1731,HP1761,PBW443RW-3413","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-24 09:05:05.440"
+"RABI","HORTICULTURE","Fruits","Mango","	Plant Protection	","fungal problem and leaf falling in mango","spray saaf @ 2 gm / liter of water then affter spray multimicro nutrient @ 2 ml / liter of water","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-24 09:11:30.873"
+"KHARIF","AGRICULTURE","Others","Others","Weather",".Weather information","Today and tomorrow no chance of rain","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-24 10:10:01.777"
+"RABI","AGRICULTURE","Others","Others","Weather",".Weather information","Sunny and pleasant
+Max UV Index: 7 (High)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-24 11:14:36.947"
+"KHARIF","HORTICULTURE","Vegetables","Butter Pea (Vegetable)","Agriculture Mechanization","weed control in potato crop","spray atrazin /pendimethlin 2 gm/lt. water after seed sowing","BIHAR","BHAGALPUR","BIHPUR                                            ","2014-10-24 17:54:25.323"
+"KHARIF","HORTICULTURE","Fruits","Guava","	Plant Protection	","insect problem in guava plant","Spray carbaril @ 2 gram in 1 litter of water","BIHAR","BHAGALPUR","BIHPUR                                            ","2014-10-25 09:45:24.183"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Varieties","VARITIES OF MAIZE","SHAKTIMAN 1,2,3,4","BIHAR","BHAGALPUR","RANGRACHOWK                                       ","2014-10-26 09:24:05.570"
+"KHARIF","AGRICULTURE","Cereals","Wheat","	Plant Protection	","Weather information","no chance of rain","BIHAR","BHAGALPUR","RANGRACHOWK                                       ","2014-10-26 11:28:45.937"
+"KHARIF","AGRICULTURE","Others","Others","Weather","1.Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-27 06:38:37.680"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","chance of rain","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-27 10:48:51.497"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","PLANT PROTECTION OF BRINJAL","Spry quinalphos@ 1 ml in 1 litre of watera","BIHAR","BHAGALPUR","GORADIH                                           ","2014-10-27 11:42:23.570"
+"RABI","HORTICULTURE","Vegetables","Bottle Gourd ","	Plant Protection	","Insect problem","Use Carbofuran @ 10-15 grains in each hole","BIHAR","BHAGALPUR","SABOUR                                            ","2014-10-27 18:10:42.830"
+"RABI","HORTICULTURE","Vegetables","Cucumber","	Plant Protection	","Delay in growth","Spray boomflower @ 2 ml in 1 litre of water","BIHAR","BHAGALPUR","GORADIH                                           ","2014-10-27 18:13:32.340"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Blast disease in paddy","Spray Tricyclazole 75% wp @ 2g/lit of water","BIHAR","BHAGALPUR","BIHPUR                                            ","2014-10-28 07:34:00.173"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Varieties","VARITIES OF WHHHEAT","HD 2733/PBW 343,443","BIHAR","BHAGALPUR","BIHPUR                                            ","2014-10-28 07:40:02.300"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INSECT IN PADDY","Spray IMIDACHLORPRID @ 1 ml. in 3 litre of water","BIHAR","BHAGALPUR","SHAHKUND                                          ","2014-10-29 11:51:59.917"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","insect problem","insect problem - Spray cloropyriphos @ 1 ml in 1 litre of water","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-29 11:52:46.143"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INSECT CONTROL","Apply  Acephate 75 % SP 666-1000 g/ha","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-29 14:02:21.370"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","HOW TREAT THE SEED ?","SEED TREATED WITH BAVISTIN /THIRAM @2 Gm./Kg seed","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-29 18:54:48.200"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","Shoot & fruit borer","Phosalone 35 % EC
+ 
+1.5 ml/lit.
+ 
+
+Quinalphos 20 % AF
+ 
+1.7ml/ lit.
+ 
+
+Quinalphos 25 % EC
+ 
+1.5 ml/lit.","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-30 06:06:24.930"
+"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","PLANT PROTECTION OF POTATO","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","BHAGALPUR","GOPALPUR                                          ","2014-10-30 13:36:35.273"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETIES OF WHEAT","VARIETIES OF WHEAT-PVW-343,443,HD-2278,2281","BIHAR","BHAGALPUR","KHARIK                                            ","2014-10-30 19:01:06.237"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Late blight disese of potato","Late blight disese of potato
+Mancozeb or dithane m-45ka 2 gram dava  1 liter pani me mila kar spray kare
+Control of felrish minor","BIHAR","BHAGALPUR","PIRPAINTI                                         ","2014-10-31 06:56:52.350"
+"KHARIF","AGRICULTURE","Others","Others","Weather","1.Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","BHAGALPUR","COLGONG                                           ","2014-10-31 12:12:28.487"
+"RABI","AGRICULTURE","Others","Others","Cultural Practices","VARIETIES","RAJENDRA AALOO 1,2,3","BIHAR","BHAGALPUR","GORADIH                                           ","2014-10-31 14:27:59.617"
+"RABI","AGRICULTURE","Cereals","Triticale","	Plant Protection	","INSECT MANAGEMENT","OMITE 2 ML/LITER","BIHAR","BHAGALPUR","NAUGACHHIA                                        ","2014-10-31 14:55:29.160"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INSECT CONTROL","SPRAY CLOROPYRIPHOS@2ML/LIT OF WATER","BIHAR","BHAGALPUR","NAUGACHHIA                                        ","2014-10-31 16:22:08.387"

@@ -1,0 +1,40 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","Variety of wheat","- P.B.W-373,573,443,343,154,HD-2733,2824,k-9107","BIHAR","SAHARSA","PATARGHAT                                         ","2014-11-03 09:40:07.470"
+"RABI","AGRICULTURE","Cereals","Wheat","Cultural Practices","VARIETIES","PBW343,PBW443,HD2754,HD2733","BIHAR","SAHARSA","SALKHUA                                           ","2014-11-05 20:23:46.450"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","varities of WHEAT","varities of WHEAT -K 1006 , NW 5054 DBW 39 ,HD  2824 , PBW 343","BIHAR","SAHARSA","SATTAR  KATTAIYA                                  ","2014-11-07 08:23:41.463"
+"KHARIF","AGRICULTURE","Sugar and Starch Crops","Sugarcane (Noble Cane)","	Field Preparation	","ferlizer recomendation in maize","use urea-1.5kg,dap-500g,potash-1kg and give urea in three split dose on 20,45,and60days from the day of  sowing","BIHAR","SAHARSA","SIMRI BAKHTIARPUR                                 ","2014-11-09 06:48:30.597"
+"KHARIF","AGRICULTURE","Pulses","Khesari (chickling vetch/ grass pea)","Varieties","Delay in growth","vermicompost:15kg ,DAP:100gm,potas:100, urea:150gm, boron:100gm,thimate:5gm in one tree of mango","BIHAR","SAHARSA","SIMRI BAKHTIARPUR                                 ","2014-11-09 06:54:40.860"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","SAHARSA","MAHISHI                                           ","2014-11-09 12:42:58.260"
+"KHARIF","HORTICULTURE","Vegetables","Baby Corn","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","BIHAR","SAHARSA","SOUR BAZAR                                        ","2014-11-10 13:15:26.223"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Partly sunny
+Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","BIHAR","SAHARSA","SOUR BAZAR                                        ","2014-11-12 09:46:50.053"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETY OF WHEAT","VARIETY OF WHEAT-PBW-373,HD-2285,HD-2733, PBW-343, AND PBW-502,PBW-154, up-262,","BIHAR","SAHARSA","PATARGHAT                                         ","2014-11-15 18:25:32.053"
+"KHARIF","AGRICULTURE","Millets","FingerMillet  (Ragi/Mandika)","	Plant Protection	","insect problem","spray dimethoate @ 1 ml / lt of water","BIHAR","SAHARSA","KAHARA                                            ","2014-11-16 10:24:58.860"
+"KHARIF","HORTICULTURE","Vegetables","Bottle Gourd ","	Plant Protection	","Delay in growth","spray boomflower @ 2 ml / lt of water","BIHAR","SAHARSA","PATARGHAT                                         ","2014-11-16 19:26:07.023"
+"RABI","HORTICULTURE","Flowers","Gladiolus","	Plant Protection	","INSECT IN FLOWER","Spray PROFEX @ 2 ml. in 1 litte of water","BIHAR","SAHARSA","KAHARA                                            ","2014-11-17 14:10:15.073"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","How I do seed treatment","You treated your seed with capton, bavistin and thirum @ 2-2.5 gram per kg of seed","BIHAR","SAHARSA","SALKHUA                                           ","2014-11-17 17:04:23.957"
+"RABI","HORTICULTURE","Fruits","Papaya","	Plant Protection	","FUNGAL PROBLEM OF PAPAYA","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","SAHARSA","SONBARSA                                          ","2014-11-18 12:12:44.980"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INSECT CONTROL","spray cloropyriphos@2ml/lit of water","BIHAR","SAHARSA","NAUHATTA                                          ","2014-11-20 15:35:48.630"
+"RABI","AGRICULTURE","Cereals","Wheat","Weather","Weather information","today and tomorrow no chance of rain","BIHAR","SAHARSA","KAHARA                                            ","2014-11-20 17:56:55.150"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Field Preparation	","How I do seed treatment","You treated your seed with capton, bavistin and thirum @ 2-2.5 gram per kg of seed","BIHAR","SAHARSA","SALKHUA                                           ","2014-11-21 14:24:02.027"
+"RABI","AGRICULTURE","Others","Others","Weather","How I do seed treatment","You treated your seed with capton, bavistin and thirum @ 2-2.5 gram per kg of seed","BIHAR","SAHARSA","SALKHUA                                           ","2014-11-21 14:33:42.633"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","FUNJAL PROLEM OF BRINJAL","Spray cloropyriphos @ 1 ml in 1 litre of water","BIHAR","SAHARSA","MAHISHI                                           ","2014-11-22 13:12:59.510"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","Seeds","SEED RATE OF LENTIL","SEED RATE OF LENTIL SMALL GRAIN - 30 TO  35 KG/HA","BIHAR","SAHARSA","KAHARA                                            ","2014-11-22 15:59:05.007"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETY OF WHEAT-","VARIETY OF WHEAT-PBW-373,HD-2285,HD-2733,HD-2967,HD-2932, PBW-343, AND PBW-502,PBW-154, up-262,","BIHAR","SAHARSA","SATTAR  KATTAIYA                                  ","2014-11-22 21:05:17.550"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","INSECT CONTROL","SPRAY cloropyriphos@2ml/lit of water","BIHAR","SAHARSA","SATTAR  KATTAIYA                                  ","2014-11-22 21:19:51.840"
+"RABI","HORTICULTURE","Vegetables","Mushroom","	Plant Protection	","mushroom cultivation","consult R A U Pusa SAMASTIPUR","BIHAR","SAHARSA","SATTAR  KATTAIYA                                  ","2014-11-22 21:21:20.003"
+"RABI","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","VARIETY OF OKRA","ARKA ABHAY , ARKA ANAMIKA","BIHAR","SAHARSA","SATTAR  KATTAIYA                                  ","2014-11-22 21:22:35.850"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","insect problem","Spray chloropyriphos @ 1 ml in 1 litre of water","BIHAR","SAHARSA","SIMRI BAKHTIARPUR                                 ","2014-11-23 09:48:05.350"
+"RABI","HORTICULTURE","Fruits","Banana","	Plant Protection	","FUNJAL PROBLEM OF BANANA","COPPER OXYCLORIDE 2GM/LITER OF WATER","BIHAR","SAHARSA","SATTAR  KATTAIYA                                  ","2014-11-25 08:54:23.857"
+"RABI","HORTICULTURE","Fruits","Mango","	Plant Protection	","INSECT PROBLEM OF MANGO","CHLOROPYRIPHOS 2ML/LITER OF WATER","BIHAR","SAHARSA","MAHISHI                                           ","2014-11-25 10:14:56.013"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETIES OF WHEAT","VARIETIES OF WHEAT - HD-2733,HD-2967,PBW-343,PBW-443","BIHAR","SAHARSA","BANMA  ITAHARI                                    ","2014-11-25 10:52:42.947"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect control","spray imidacloropid @1ml/3lit of water","BIHAR","SAHARSA","NAUHATTA                                          ","2014-11-28 17:59:11.497"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect control","spray traizophos@2ml/lit of water","BIHAR","SAHARSA","NAUHATTA                                          ","2014-11-28 18:01:25.480"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETIES OF WHEAT","VARIETIES OF WHEAT - HD-2733,HD-2967,PBW-343,PBW-443","BIHAR","SAHARSA","NAUHATTA                                          ","2014-11-28 20:42:02.977"

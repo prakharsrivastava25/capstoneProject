@@ -1,0 +1,97 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"RABI","HORTICULTURE","Vegetables","Potato","Seeds and Planting Material","Variety of potato","Variety of potato-kufari lalima, kufari pukhraj, kufari kanchan, kufari puskar, rajendra aalu-","BIHAR","ROHTAS","BIKRAMGANJ                                        ","2014-11-01 17:25:02.650"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","Variety of wheat","Variety of wheat:-
+P.B.W-373, P.B.W-573, P.B.W-443, P.B.W-343, P.B.W-154, HD-2733, HD-2824, k-9107","BIHAR","ROHTAS","NAWHATTA                                          ","2014-11-02 06:36:59.203"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","disease in paddy","Spray mencozeb @ 2gm/lit of water","BIHAR","ROHTAS","DEHRI                                             ","2014-11-02 18:15:51.590"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","INSECT PROBLEM","Spray chloropyriphose @2 ml / litter water","BIHAR","ROHTAS","KOCHAS                                            ","2014-11-03 08:50:01.980"
+"RABI","AGRICULTURE","Oilseeds","Raya (Indian Mustard)","Seeds","VARIETY OF SARSON","VARIETY OF SARSON- RAJENDRA SARSON-1, SWARNa","BIHAR","ROHTAS","BIKRAMGANJ                                        ","2014-11-03 10:48:38.007"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Fertilizer Use and Availability","Mustard fertilizer dose-","Mustard fertilizer dose- N-80, P-40, K-40 KG/HA OR 8-10KG KAMPOST/HACT","BIHAR","ROHTAS","BIKRAMGANJ                                        ","2014-11-03 10:52:39.160"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","INSECT CONTROL IN BRINJAL-","INSECT CONTROL IN BRINJAL- SUPERKILLER 2ML/LITER OF WATER","BIHAR","ROHTAS","DAWATH                                            ","2014-11-03 11:16:03.393"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","Organic Farming","insect problem","Spray cloropyriphos @ 1 ml in 1 litre of water","BIHAR","ROHTAS","KARGAHAR                                          ","2014-11-04 14:19:40.510"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","ROHTAS","AKHORIGOLA                                        ","2014-11-05 16:37:35.620"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","FLOWER DROPPING IN CHILLI","SPRAY PLANOFIX @ 1 ML./4-5 LT. OF WATER.","BIHAR","ROHTAS","NAWHATTA                                          ","2014-11-06 12:00:06.783"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Seeds","VARIETIES OF WHEAT","VAREITIES ARE H.D-233,P.B.W-343,443","BIHAR","ROHTAS","DAWATH                                            ","2014-11-07 19:51:40.753"
+"RABI","HORTICULTURE","Fruits","Guava","	Plant Protection	","nutrient management","FYM 50 Kg and one Kg in each of N, P and K per tree in two split doses during March and October should be applied. To increase the yield, spray Urea 1 % + Zinc sulphate 0.5% twice a year during March and October. To correct the boron deficiency (reduction in size of leaves and fruit cracking and hardening) spray 0.3% borax during flowering and fruit set stage. 
+
+Micronutrients spray for controlling bronzing of leaves
+A combined spray should be given containing ZnSO4, MgSO4 and MnSo4 @ 0.5% and CuSO4 and FeSO4 @ 0.25 % plus Teepol @ 1ml per 5 lit of solution on various stages as follows:","BIHAR","ROHTAS","AKHORIGOLA                                        ","2014-11-09 07:22:39.753"
+"RABI","AGRICULTURE","Millets","FingerMillet  (Ragi/Mandika)","	Plant Protection	","pest management","imidacholoropid 1 ml/ 3 liter water","BIHAR","ROHTAS","SANJHOULI                                         ","2014-11-09 08:59:53.540"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","insect problem","Spray monocrotophos @ 1 ml in 1 litre of water","BIHAR","ROHTAS","BIKRAMGANJ                                        ","2014-11-09 14:59:44.730"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","NO chance of rain","BIHAR","ROHTAS","TILOUTHU                                          ","2014-11-10 11:45:30.280"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","VARIETY OF WHEAT-","VARIETY OF WHEAT-PBW-373,PBW-343, PBW-502,HD-2285,hd-2285, hd-2307, hd-2329, hd-2643","BIHAR","ROHTAS","KARAKAT                                           ","2014-11-10 14:27:51.047"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Fertilizer Use and Availability","Mustard fertilizer dose-","Mustard fertilizer dose- N-80, P-40, K-40 KG/HA OR 8-10KG KAMPOST/HACT","BIHAR","ROHTAS","NOKHA                                             ","2014-11-10 14:35:02.413"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","VARIETY OF WHEAT-","VARIETY OF WHEAT-PBW-373,PBW-343, PBW-502,HD-2285,hd-2285, hd-2307, hd-2329, hd-2643","BIHAR","ROHTAS","NOKHA                                             ","2014-11-10 21:13:11.937"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Fertilizer Use and Availability","Mustard fertilizer dose-","Mustard fertilizer dose- N-80, P-40, K-40 KG/HA OR 8-10KG KAMPOST/HACT","BIHAR","ROHTAS","NOKHA                                             ","2014-11-10 21:19:22.010"
+"RABI","AGRICULTURE","Others","Others","Weather","1.	Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","ROHTAS","NOKHA                                             ","2014-11-11 08:45:00.090"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","VARIETY OF WHEAT-","VARIETY OF WHEAT-PBW-373,PBW-343, PBW-502,HD-2285,hd-2285, hd-2307, hd-2329, hd-2643","BIHAR","ROHTAS","NOKHA                                             ","2014-11-11 17:19:19.837"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Fertilizer Use and Availability","Mustard fertilizer dose-","Mustard fertilizer dose- N-80, P-40, K-40 KG/HA OR 8-10KG KAMPOST/HACT","BIHAR","ROHTAS","ROHTAS                                            ","2014-11-13 09:16:23.727"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Seeds","variety of mustard","variety of mustard - rajendra sarson -1, VARUNA, PUSA BOLD, KRANTI","BIHAR","ROHTAS","SASARAM                                           ","2014-11-13 12:32:55.777"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Fertilizer Use and Availability","Mustard fertilizer dose-","Mustard fertilizer dose- N-80, P-40, K-40 KG/HA OR 8-10KG KAMPOST/HACT","BIHAR","ROHTAS","SASARAM                                           ","2014-11-13 12:36:16.170"
+"JAYAD","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Weed management in onion-","spray oxy  phlorophen @1.5 ml in 1 litre of water
+Use paraquat @1ml\lit barron field","BIHAR","ROHTAS","KARGAHAR                                          ","2014-11-14 12:22:03.407"
+"KHARIF","AGRICULTURE","Cereals","Wheat","	Plant Protection	","good variety name of wheat","good variety name of wheat-= hd-2733, pbw-343, up-262, hd-2824,hp-1731","BIHAR","ROHTAS","SASARAM                                           ","2014-11-14 14:26:42.500"
+"KHARIF","HORTICULTURE","Vegetables","Broad Bean","Bio-Pesticides and Bio-Fertilizers","fruit shading in mango","Spray planofix ml in 4.5- 5 liter of water","BIHAR","ROHTAS","NASRIGANJ                                         ","2014-11-15 11:19:18.393"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","FUNGAL PROBLEM","FUNGAL PROBLEM - SPRAY SAAF @ 2 GRAM/LITER OF WATER","BIHAR","ROHTAS","SASARAM                                           ","2014-11-15 15:27:55.760"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","LATE VARIETY OF WHEAT","LATE VARIETY OF WHEAT-PBW-373,HD-2285,NW-1014,HW-2045,HP-1744","BIHAR","ROHTAS","SURAJPURA                                         ","2014-11-15 17:46:53.737"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","variety of wheat-","variety of wheat- HD-2733,HP- 1761,C-306,RW-3016, PBW-343, PBW-373","BIHAR","ROHTAS","BIKRAMGANJ                                        ","2014-11-17 15:02:49.750"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Day
+N
+E
+S
+W
+
+W 2 mph 
+Gusts: 5 mph 
+Mostly sunny
+
+Max UV Index: 6 (High) 
+Thunderstorms: 0% 
+Precipitation: 0 in 
+Rain: 0 in 
+Snow: 0 in 
+Ice: 0 in 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","BIHAR","ROHTAS","RAJPUR                                            ","2014-11-17 17:40:39.350"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","varities of WHEAT","PBW-343,443/HD-2733,2967,2888","BIHAR","ROHTAS","KARAKAT                                           ","2014-11-18 06:37:13.840"
+"RABI","HORTICULTURE","Vegetables","Onion","	Plant Protection	","FUNGAL PROBLEM OF ONION","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","ROHTAS","SASARAM                                           ","2014-11-18 07:25:15.833"
+"KHARIF","HORTICULTURE","Vegetables","Beans ","	Plant Protection	","YELLOWING OF LEAFS","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","ROHTAS","DAWATH                                            ","2014-11-18 07:51:04.763"
+"KHARIF","HORTICULTURE","Vegetables","Cucumber","	Plant Protection	","insect problem","Spry quinalphos@ 1 ml in 1 litre of water","BIHAR","ROHTAS","DEHRI                                             ","2014-11-18 11:23:39.917"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETIES OF WHEAT","UP-262/PBW-343,443/HD-2733,2888,2967","BIHAR","ROHTAS","NAWHATTA                                          ","2014-11-19 15:11:41.220"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","BIHAR","ROHTAS","SHEOSAGAR                                         ","2014-11-19 18:38:22.873"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","BIHAR","ROHTAS","BIKRAMGANJ                                        ","2014-11-20 07:39:25.180"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","variety of wheat-","variety of wheat- HD-2733,HP- 1761,C-306,RW-3016, PBW-343, PBW-373, pbw-502, pbw-154","BIHAR","ROHTAS","KOCHAS                                            ","2014-11-20 11:02:16.520"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","varities of WHEAT","varities of WHEAT -K 1006 , NW 5054 DBW 39 ,HD  2824 , PBW 343 ?","BIHAR","ROHTAS","SASARAM                                           ","2014-11-20 14:25:32.503"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","ROHTAS","SHEOSAGAR                                         ","2014-11-20 15:39:21.310"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","ROHTAS","SANJHOULI                                         ","2014-11-20 17:44:18.917"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","varieties of wheat","varieties of wheat - HD-2733 , HD-2967 , PBE-343,PBW-443","BIHAR","ROHTAS","DEHRI                                             ","2014-11-20 20:09:36.257"
+"RABI","AGRICULTURE","Oilseeds","Mustard","	Plant Protection	","Fungal problem","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","ROHTAS","DEHRI                                             ","2014-11-20 20:10:50.673"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","fungal problem","Spray saaf @2gm /lit of water","BIHAR","ROHTAS","SASARAM                                           ","2014-11-21 08:43:32.250"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","insect problem","spray imidachlorpid @ 1 ml / 3 lt of water","BIHAR","ROHTAS","CHENARI                                           ","2014-11-21 16:30:25.283"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","variety of wheat","variety of wheat - HD -2733","BIHAR","ROHTAS","DEHRI                                             ","2014-11-21 19:23:18.613"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","INSECT CONTROL","SPRAY CLOROPYRIPHOS@2ML/LIT OF WATER","BIHAR","ROHTAS","DEHRI                                             ","2014-11-21 19:26:57.477"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","fertilizer use of wheat field","n;p;k-120;60;40kg/ha","BIHAR","ROHTAS","DAWATH                                            ","2014-11-22 10:10:06.637"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","Wheat fertilizer dose-","Wheat fertilizer dose- NPK- 120KG, 60KG,40KG /HACT","BIHAR","ROHTAS","DEHRI                                             ","2014-11-22 15:09:50.523"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect control","spray traizophos@2ml/lit of water","BIHAR","ROHTAS","NAWHATTA                                          ","2014-11-22 20:39:41.140"
+"RABI","HORTICULTURE","Vegetables","Onion","Seeds and Planting Material","VARIETIES OF ONION","VARIETIES OF ONION - AGRIFOND LIGHT RED","BIHAR","ROHTAS","NOKHA                                             ","2014-11-23 12:52:07.810"
+"RABI","AGRICULTURE","Beekeeping","Beekeeping","Training and Exposure Visits","ABOUT BEEKEEPING INFORMATION","ABOUT BEEKEEPING INFORMATION YOU SHOUD BE CONTCET IN NEAR KRISHI VIGYAN KENDRA BIKRAMGANJ,ROHTASH","BIHAR","ROHTAS","SASARAM                                           ","2014-11-24 08:34:58.440"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER INFORMATION","TODAY NO CHANCE OF RAIN IN YOURAREA.","BIHAR","ROHTAS","SASARAM                                           ","2014-11-24 08:45:16.100"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETIES OF WHEAT","VARIETIES OF WHEAT - HD-2733,HD-2967,PBW-343,PBW-443","BIHAR","ROHTAS","TILOUTHU                                          ","2014-11-24 09:52:21.210"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","FUNJAL PROBLEM OF PADDY","SPRAY OF MENCOZEB 2GM/LITER OF WATER","BIHAR","ROHTAS","SASARAM                                           ","2014-11-24 18:19:21.217"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","INSECT PROBLEM OF LENTIL","CLOROPYRIPHOS 2ML/LITER OF WATER","BIHAR","ROHTAS","CHENARI                                           ","2014-11-25 13:38:00.973"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","no chance of rain","BIHAR","ROHTAS","DINARA                                            ","2014-11-25 17:02:13.093"
+"RABI","HORTICULTURE","Fruits","Guava","	Plant Protection	","fertz dose of guava","use compost 10kg 100gN/100P/100K/PLANT","BIHAR","ROHTAS","DAWATH                                            ","2014-11-25 18:25:31.470"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","no chance of rain","BIHAR","ROHTAS","SASARAM                                           ","2014-11-27 06:37:25.103"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","ROHTAS","SANJHOULI                                         ","2014-11-27 12:36:51.083"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","INSECT CONTROL","Spray Chlorpyriphos 20 EC 1250 ml/ha","BIHAR","ROHTAS","BIKRAMGANJ                                        ","2014-11-28 18:08:49.373"
+"RABI","AGRICULTURE","Cereals","Wheat","Weed Management","WEED CONTROL IN WHEAT-","WEED CONTROL IN WHEAT- SPRAY SALFOSLFURAN @ 33 GRAM/HACT","BIHAR","ROHTAS","DINARA                                            ","2014-11-28 20:23:56.583"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","VARIETIES OF WHEAT","VARIETIES OF WHEAT - HD-2733,HD-2967,PBW-343,PBW-443","BIHAR","ROHTAS","KOCHAS                                            ","2014-11-28 20:50:50.973"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","INSECT CONTROL IN MAIZE","APPLY CARBOFURAN 4-6DANA/GAVA","BIHAR","ROHTAS","AKHORIGOLA                                        ","2014-11-29 10:46:19.383"
+"RABI","HORTICULTURE","Vegetables","Brinjal","Fertilizer Use and Availability","fertilizer application in brinjal","Varieties 
+ Basal dose : FYM 25 t/ha, NPK 50:50:30 kg/ ha. 
+ Top dressing : 50 kg N/ha on 30th day of planting or during earthing up. 
+
+Hybrids 
+ Basal dose : FYM 25 t/ha, NPK 100:150:100 kg/ha. 
+ Top dressing : 100 kg N/ha on 30th day of planting or during earthing up.","BIHAR","ROHTAS","DAWATH                                            ","2014-11-29 11:39:02.080"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","Varieties","VARIETIES OF LENTIL","VARIETIES OF LENTIL: B. R.-25, P. L.-406, MALLIKA, ARUN, P. L. -639, H.U.L.-57, K.L.H-218, NARENDRA MUSOOR-1","BIHAR","ROHTAS","NOKHA                                             ","2014-11-30 16:40:51.257"
+"RABI","AGRICULTURE","Others","Others","Varieties","VARIETIES OF WHEAT","VARIETIES OF WHEAT - HD-2733,HD-2967,PBW-343,PBW-443","BIHAR","ROHTAS","KARGAHAR                                          ","2014-11-30 19:45:43.757"

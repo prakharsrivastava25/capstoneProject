@@ -1,0 +1,51 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","Insect infestation","Spray triazophos @ 2ml in 1 litre of water","BIHAR","KHAGARIA","KHAGARIA                                          ","2014-10-04 11:16:49.657"
+"KHARIF","AGRICULTURE","Sugar and Starch Crops","Sugarcane (Noble Cane)","	Plant Protection	","sowing time of sugarcane","sowing time of sugarcane -august -sept.","BIHAR","KHAGARIA","ALAULI                                            ","2014-10-04 14:58:15.033"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","Cultural Practices","Weed control","Spray Oxyflourfen at 0.15 kg a.i./ha or Fluchloralin at 1.0 kg a.i./ha or Metolachlor at 0.75 kg a.i./ha as pre emergence application on third day after sowing.  Herbicide application should be integrated with one hand weeding on 30 days after sowing.","BIHAR","KHAGARIA","ALAULI                                            ","2014-10-05 07:24:59.200"
+"KHARIF","HORTICULTURE","Plantation Crops","Teak","	Plant Protection	","plant protection","paint with copper oxycholoride","BIHAR","KHAGARIA","CHAUTHAM                                          ","2014-10-05 17:05:10.083"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Insect infestation","Spray imidachloprid @ 1ml/3lit of water","BIHAR","KHAGARIA","ALAULI                                            ","2014-10-07 16:15:21.190"
+"RABI","AGRICULTURE","Pulses","Rajmash Bean","Seeds","GOOD VARIETY OF RAJMASH AND SEED RATE-","GOOD VARIETY OF RAJMASH- PDR-14 (UDAY), HUR-15 , SEED RATE-60KG/HA","BIHAR","KHAGARIA","KHAGARIA                                          ","2014-10-07 19:03:35.150"
+"JAYAD","AGRICULTURE","Others","Others","	Field Preparation	","Weather information","chance of rain","BIHAR","KHAGARIA","ALAULI                                            ","2014-10-08 08:44:27.927"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","KHAGARIA","ALAULI                                            ","2014-10-08 14:40:52.267"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","Serpentine leaf miner","Spray Neem Seed Kernel Extract 5 %.","BIHAR","KHAGARIA","ALAULI                                            ","2014-10-08 17:03:34.700"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","cloudy weather in your area but no chance of rain","BIHAR","KHAGARIA","ALAULI                                            ","2014-10-09 15:39:57.580"
+"KHARIF","HORTICULTURE","Vegetables","Bottle Gourd ","	Plant Protection	","PLANT PROTECTION OF BOTTLE GOURD","Spray imidachloprid @ 1ml/3 lit of water *","BIHAR","KHAGARIA","BELDAUR                                           ","2014-10-10 08:14:50.253"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","Insect infestation","Spray methyl demeton or dimethoate @ 1 ml in one litter of water","BIHAR","KHAGARIA","PARBATTA                                          ","2014-10-10 08:21:52.013"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","in paddy bugs problem","•Remove the grasses and trim the bunds during the main field preparation before transplanting.
+•Remove and destroy the affected plants.
+•Spraying of Buprofezin (25 SC) @ 200 ml/ 200 lit of water for 1 acre (or)
+•Spraying of Thiomethoxum (20 WDG) @ 100 g/ 200 lit of water for 1 acre (or)
+•Spraying of Dimethoate (30 EC ) 400 ml along with Azardiractin 1000PPM
+•can be used for controlling mealy bug infestation","BIHAR","KHAGARIA","BELDAUR                                           ","2014-10-10 12:00:32.573"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","PLANT PROTECTION OF BRIANJAL","imidachloprid @ 1ml/3 lit of water 
+ boomflower @ 2 ml in 1 litre of water","BIHAR","KHAGARIA","PARBATTA                                          ","2014-10-17 06:45:17.890"
+"KHARIF","HORTICULTURE","Fruits","Chestnut","	Plant Protection	","PLANT PROTECTION OF CHESTNUT","planofix @ 1 ml in 4.5- 5 liter of water","BIHAR","KHAGARIA","PARBATTA                                          ","2014-10-18 07:20:13.813"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow no chance of rain","BIHAR","KHAGARIA","PARBATTA                                          ","2014-10-19 12:03:12.377"
+"RABI","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","fertilizer dose","fertilizer dose- Urea = 260 kg/ha , SSP = 350 kg / ha and MOP = 65 kg/ha.Apply half dose of urea and full dose of SSP and MOP at time of field preparation and rest half dose of urea after 45 days of sowing.","BIHAR","KHAGARIA","PARBATTA                                          ","2014-10-19 16:22:13.803"
+"RABI","AGRICULTURE","Others","Others","Sowing Time and Weather","sowing time","25 oct 7 nov","BIHAR","KHAGARIA","ALAULI                                            ","2014-10-19 18:59:52.817"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","INSECT IN OKRA","Spry quinalphos@ 2 ml in 1 litre of watera","BIHAR","KHAGARIA","MANSI                                             ","2014-10-20 06:27:31.430"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","yellowing of leaves","Spray metalyxl @ 2g/lit of water","BIHAR","KHAGARIA","KHAGARIA                                          ","2014-10-20 18:10:50.420"
+"RABI","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","INSECT PROBLEM IN BHINDI","Spray quinqalphos @ 2ml/lit of water","BIHAR","KHAGARIA","KHAGARIA                                          ","2014-10-21 15:12:00.850"
+"KHARIF","AGRICULTURE","Others","Others","Weather","1.Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","KHAGARIA","PARBATTA                                          ","2014-10-22 08:51:39.863"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Sunny and pleasant
+Max UV Index: 7 (High)
+Thunderstorms: 0%
+Precipitation: 0 in
+Rain: 0 in
+Snow: 0 in
+Ice: 0 in
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","BIHAR","KHAGARIA","PARBATTA                                          ","2014-10-24 10:44:24.323"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","Seeds","Good variety of maize-","Good variety of maize- saktiman 1-4, ganga-11, suan, devki","BIHAR","KHAGARIA","CHAUTHAM                                          ","2014-10-24 14:42:17.220"
+"RABI","AGRICULTURE","Others","Others","Varieties","VARIETIES CORIANDER","RAJENDRA SWATI,PANT HARITIMA,HINSAR ANAND","BIHAR","KHAGARIA","KHAGARIA                                          ","2014-10-25 10:09:07.757"
+"KHARIF","HORTICULTURE","Vegetables","Carrot","Seeds and Planting Material","varities of carrot","pusa kesar/nenteg/sankar reshi","BIHAR","KHAGARIA","ALAULI                                            ","2014-10-26 07:09:44.730"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","yellow leaf of paddy plant","spray multiplex@2ml/lit of water","BIHAR","KHAGARIA","KHAGARIA                                          ","2014-10-26 15:21:57.600"
+"RABI","AGRICULTURE","Others","Others","Weather","1.Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","KHAGARIA","ALAULI                                            ","2014-10-27 11:50:55.500"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","VARIETY OF WHEAT-","VARIETY OF WHEAT-PBW-373,HD-2285,HD-2733, PBW-343, AND PBW-502","BIHAR","KHAGARIA","KHAGARIA                                          ","2014-10-27 21:10:44.847"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Varieties","VARIETIES OF WHEAT","HD 2733,2967/PBW 343,443","BIHAR","KHAGARIA","GOGRI                                             ","2014-10-28 11:40:36.230"
+"RABI","HORTICULTURE","Fruits","Mango","	Plant Protection	","?? ?? ??? ??? ????","spray in carbaril @ 2 gram per liter water","BIHAR","KHAGARIA","PARBATTA                                          ","2014-10-30 10:41:55.340"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Field Preparation	","Good variety of maize","Good variety of maize- saktiman 1-4, ganga-11, suan, devki","BIHAR","KHAGARIA","BELDAUR                                           ","2014-10-30 14:45:00.950"
+"RABI","HORTICULTURE","Vegetables","Onion","	Plant Protection	","Good variety of onion","- agrfound light red ,arka niketa,pusa red, patna red,nasik red","BIHAR","KHAGARIA","BELDAUR                                           ","2014-10-30 19:55:52.913"
+"RABI","AGRICULTURE","Cereals","Wheat","Weed Management","Weed problem in barren land","Spray glyphosate @ 2 ml in 1 litre of water","BIHAR","KHAGARIA","GOGRI                                             ","2014-10-31 14:16:31.100"
+"RABI","AGRICULTURE","Oilseeds","Mustard","	Field Preparation	","FERTILIZER DOSE OF MUSTARD","APPLY 100QUENTAL COMPOST,150KG UREA,250KG SSP,83 KG POTAS","BIHAR","KHAGARIA","KHAGARIA                                          ","2014-10-31 16:48:27.270"
+"KHARIF","HORTICULTURE","Vegetables","Broad Bean","	Plant Protection	","variety of masur","variety of masur -ARUN (PL 77-12), PANT L-639, NARENDAR MASUR-1, HUL-57, PANT L-406","BIHAR","KHAGARIA","KHAGARIA                                          ","2014-10-31 16:56:20.300"

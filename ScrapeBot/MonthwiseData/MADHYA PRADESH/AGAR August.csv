@@ -1,0 +1,108 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"JAYAD","AGRICULTURE","Others","Others","Weather","Farmer want to know information about  weather  farecast ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              03/08               04/08               05/08               06/08               07/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   6                   0                   3                   0                   4","MADHYA PRADESH","AGAR","AGAR","2014-08-02 16:54:19.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","farmer want to know  weather information ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              05/08               06/08               07/08               08/08               09/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  13                 114                  19                   0                   0","MADHYA PRADESH","AGAR","AGAR","2014-08-04 15:31:02.000"
+"JAYAD","HORTICULTURE","Vegetables","Onion","Market Information","What Is The Mandi Prices Of Onion In indore District Of Mp ?","indore District Mandi Prices Of Onion Is @ 375-1875  Rs/- Per Quintal.","MADHYA PRADESH","AGAR","AGAR","2014-08-05 07:16:31.000"
+"JAYAD","AGRICULTURE","Oilseeds","Soybean (bhat)","Weather","TO KNOW ABOUT THE WAETHER INFORMATION","??? ???? ?? ???? ?????
+???? ??: +23°
+????????: 996.9 ???????????? 
+?????: +23°
+???: 97.6%
+????????????: 2 ????????
+???? ?? 6.8. 08:30 am
+?? ???? ??? Jabalpur
+????? ????????, Jabalpur >","MADHYA PRADESH","AGAR","AGAR","2014-08-06 09:21:37.000"
+"JAYAD","HORTICULTURE","Condiments and Spices","Garlic","Market Information","Commodity-wise, Market-wise Daily Report on : 06/08/2014","Indore(F&V)	153.5	Tonnes	NR	Desi	475	5150	1925	Rs/Quintal","MADHYA PRADESH","AGAR","AGAR","2014-08-06 15:02:54.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","Farmer want to know information about  weather  farecast ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              07/08               08/08               09/08               10/08               11/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  41                  10                   0                   0                   0","MADHYA PRADESH","AGAR","AGAR","2014-08-06 17:17:07.000"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer  want to know information about    weather forecast ?","Shajapur 1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 33°C on Wed afternoon, min 26°C on Tue night). Wind will be generally light.","MADHYA PRADESH","AGAR","AGAR","2014-08-19 21:34:58.643"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Rainfall (mm)                   0                   0                   0                   6                   5
+Max Temperature ( deg C)       33                  34                  33                  32                  30
+Min Temperature ( deg C)       23                  24                  24                  23                  24
+Total cloud cover (octa)        6                   6                   5                   6                   6","MADHYA PRADESH","AGAR","AGAR","2014-08-20 10:01:57.703"
+"KHARIF","AGRICULTURE","Others","Others","Market Information","-to activate mandi msg alert ?","ok sir your service has been activated in kishan call centre","MADHYA PRADESH","AGAR","AGAR","2014-08-20 15:53:33.107"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information ?","possibilities of rain 23 august to 25 august","MADHYA PRADESH","AGAR","AGAR","2014-08-20 17:00:47.373"
+"KHARIF","AGRICULTURE","Others","Others","Government Schemes","farmer want to know information about govt. schemes?","recommended for to know about govt. schemes please contect rural agriculture extension officer ..","MADHYA PRADESH","AGAR","AGAR","2014-08-20 18:52:29.503"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information ?","possibilities of rain 23 august to 25 august","MADHYA PRADESH","AGAR","AGAR","2014-08-20 21:57:11.207"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Want to know about Weather forecast information of my District?","21/08               22/08               23/08               24/08               25/08
+Rainfall (mm)                   0                   0                  10                  10                  14","MADHYA PRADESH","AGAR","AGAR","2014-08-21 07:04:57.383"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather agar ?","chance of low rainfall for next week for dist agar","MADHYA PRADESH","AGAR","AGAR","2014-08-21 08:53:26.803"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather agar ?","chance of low rainfall for next week for dist agar","MADHYA PRADESH","AGAR","AGAR","2014-08-21 08:53:28.797"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather agar ?","chance of low rainfall for next week for dist agar","MADHYA PRADESH","AGAR","AGAR","2014-08-21 08:53:29.560"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Want to know about Weather forecast information of my District?","21/08               22/08               23/08               24/08               25/08
+Rainfall (mm)                   0                   0                  10                  10                  14","MADHYA PRADESH","AGAR","AGAR","2014-08-21 10:13:57.570"
+"KHARIF","AGRICULTURE","Others","Others","Agriculture Mechanization","farmer wants to information of Agriculture Mechanization?","for better information please contct krishi yantri indore 0731-2368440.","MADHYA PRADESH","AGAR","AGAR","2014-08-21 15:10:35.533"
+"KHARIF","AGRICULTURE","Oilseeds","Soybean (bhat)","	Water Management	","information to irrigation","50% moisture les irrigation to soyabeen crop","MADHYA PRADESH","AGAR","AGAR","2014-08-21 16:39:01.633"
+"KHARIF","HORTICULTURE","Fruits","Orange","	Plant Protection	","farmer want to know information about micro fertiliser MANAGEMENT in orange ?","used bio zime 25 kg per ha.","MADHYA PRADESH","AGAR","AGAR","2014-08-22 07:26:24.850"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer want to know information about  weather  forecast","22/08               23/08               24/08               25/08               26/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   4                  10                  18                   8","MADHYA PRADESH","AGAR","AGAR","2014-08-22 09:21:08.777"
+"KHARIF","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","farmer want to know information about How to control caterpillars in soyabean crop?","Spray emamectin benjoate or corajan or fem 10 ml at 15 liter of water or indoxa carb 10 ml at 15 liter of water.","MADHYA PRADESH","AGAR","AGAR","2014-08-22 13:56:37.733"
+"KHARIF","HORTICULTURE","Fruits","Orange","	Plant Protection	","sucking pest problem in orange ?","Spray of  Fipronil 5 % SC @ 1.5 ml/lit of water.","MADHYA PRADESH","AGAR","AGAR","2014-08-22 15:20:47.250"
+"KHARIF","HORTICULTURE","Fruits","Orange","	Plant Protection	","sucking pest problem in orange ?","Spray of  Fipronil 5 % SC @ 1.5 ml/lit of water.","MADHYA PRADESH","AGAR","AGAR","2014-08-22 15:22:31.987"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer want to know information about        weather  farecast ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              23/08               24/08               25/08               26/08               27/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                  10                  10                  18                   5","MADHYA PRADESH","AGAR","AGAR","2014-08-22 18:02:43.473"
+"KHARIF","AGRICULTURE","Others","Others","Weather","FARMER WANTS TO INFORMATION OF WEATHER OF AGAR DISTRICT?","AY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              23/08               24/08               25/08               26/08               27/08
+Rainfall (mm)                   0                  10                  10                  18                   5
+Max Temperature ( deg C)       34                  34                  34                  32                  32","MADHYA PRADESH","AGAR","AGAR","2014-08-22 18:04:35.210"
+"KHARIF","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","farmer want to know information about how to control defoliators in soybean?","recommended for to control defoliators Spray any one of the following insecticides in the initial stage of infestation 
+ Indoxacarb 14.5 % SC @ 10-12ml /pump
+  Deltamethrin 2.8 EC@ 750 ml Spray per ha.
+  Cveenalfos 25 EC@ 1000 ml Spray per ha.
+  Politryn  44 EC @1000 ml Spray per ha.
+ Prfinofos 50 EC@ 1500 ml Spray per ha.
+  Spark 36 EC@1000 ml Spray per ha.","MADHYA PRADESH","AGAR","AGAR","2014-08-23 10:26:52.567"
+"KHARIF","AGRICULTURE","Others","Others","Weather","FARMER ASKING ABOUT WEATHER INFORMATION  in agar ?","next 5 days rainfall chances and cloud cover 
+24,25,26,27  augest chances of rainfall in district","MADHYA PRADESH","AGAR","AGAR","2014-08-23 17:00:23.063"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              24/08               25/08               26/08               27/08               28/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   4                   8                   7                   4                   5","MADHYA PRADESH","AGAR","AGAR","2014-08-24 07:15:39.513"
+"KHARIF","HORTICULTURE","Fruits","Citrus","	Plant Protection	","HOW TO CONTROL FUNGAL ATTACK IN CITRUS CROP ?","Use copper oxy chloride 45 gram and steptrocyclin 2 gram at 15 liter of watr.","MADHYA PRADESH","AGAR","AGAR","2014-08-24 08:53:26.837"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer want to know information about weather forecasting ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              25/08               26/08               27/08               28/08               29/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   8                   0                   4                   7                   8","MADHYA PRADESH","AGAR","AGAR","2014-08-25 06:56:23.313"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer want to know about weather information  ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              26/08               27/08               28/08               29/08               30/08
+Rainfall (mm)                  10                   3                   3                   8                  10","MADHYA PRADESH","AGAR","AGAR","2014-08-25 15:19:51.767"
+"JAYAD","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","how to control of sucking pest in chillies crop?","spray of fipronil 20 ml/pump.","MADHYA PRADESH","AGAR","AGAR","2014-08-25 16:13:52.590"
+"KHARIF","AGRICULTURE","Oilseeds","Soybean (bhat)","	Plant Protection	","How to control caterpillars in soyabean crop?","Troijofos 40 EC 1000 Ml. / hac. Rate of spray.","MADHYA PRADESH","AGAR","AGAR","2014-08-25 20:20:03.193"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer want to know information about weather forecast  ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              26/08               27/08               28/08               29/08               30/08
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   5                   0                   4                   8                  11","MADHYA PRADESH","AGAR","AGAR","2014-08-26 07:11:31.803"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to know information about weather of Shajapur  ?","chance of hevey rainfall for next week for dist Shajapur","MADHYA PRADESH","AGAR","AGAR","2014-08-26 13:17:09.910"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather forecast ?","chance of  light rainfall next five days .","MADHYA PRADESH","AGAR","AGAR","2014-08-26 18:57:50.627"
+"KHARIF","HORTICULTURE","Fruits","Orange","	Plant Protection	","farmer want to know information about  How to control caterpillars in orange crop?","Monocrotophos 36 s. L. 800 ml. / hac. Rate of spray.","MADHYA PRADESH","AGAR","AGAR","2014-08-27 07:48:21.560"
+"KHARIF","HORTICULTURE","Vegetables","Bitter Gourd","Fertilizer Use and Availability","farmer want to know information about  Fertilizer dose in bitter gourd crop ?","Apply 10 kg of FYM per pit (20 t/ha) 100 g of NPK 6:12:12/pit as basal and 10 g of N/pit 30 days after sowing.Apply Azospirillum and Phosphobacteria 2 kg/ha and Pseudomonas @ 2.5 kg/ha along with FYM 50 kg and neem cake @ 100 kg before last ploughing.","MADHYA PRADESH","AGAR","AGAR","2014-08-27 10:53:48.513"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer wants to know information about  weather  forecast in agar distric ?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              28/08               29/08               30/08               31/08               01/09
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  10                   3                  12                  14                  11","MADHYA PRADESH","AGAR","AGAR","2014-08-27 11:52:24.247"
+"KHARIF","HORTICULTURE","Fruits","Orange","	Plant Protection	","farmer want to know information about How to control flower drop problem in orange crop?","Spray Plano fix 4 to 5 Ml at 15 liter of water.","MADHYA PRADESH","AGAR","AGAR","2014-08-27 12:19:03.003"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Farmer  want number activate in sms facility ?","your number is resistard in sms facility","MADHYA PRADESH","AGAR","AGAR","2014-08-27 13:05:27.753"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer wants to information of weather of Shajapur district?","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              28/08               29/08               30/08               31/08               01/09
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                  10                   3                  12                  14                  11
+Max Temperature ( deg C)       31                  33                  33                  35                  33","MADHYA PRADESH","AGAR","AGAR","2014-08-27 13:20:00.820"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather forcast agar","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              28/08               29/08               30/08               31/08               01/09
+
+Rainfall (mm)                   0                   7                  12                  13                  11","MADHYA PRADESH","AGAR","AGAR","2014-08-27 15:46:01.460"
+"KHARIF","AGRICULTURE","Others","Others","Weather","farmer want to weather information of agar district?","light rainfall chance in your district and weather will some cloudy at next 5 days","MADHYA PRADESH","AGAR","AGAR","2014-08-27 16:13:11.810"
+"KHARIF","AGRICULTURE","Oilseeds","Soybean (bhat)","Nutrient Management","Farmer want to know information about for better growth ?","NPK-19:19:19 100gm/pump for better growth","MADHYA PRADESH","AGAR","AGAR","2014-08-28 08:33:23.313"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Agar Weather Forecast – 10 Day (Madhya Pradesh, India)?","Agar 1 – 3 Day Weather Forecast Summary: Moderate rain (total 18mm), heaviest on Fri night. Warm (max 34°C on Fri afternoon, min 27°C on Thu morning). Wind will be generally light.","MADHYA PRADESH","AGAR","AGAR","2014-08-28 10:05:47.233"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report in shajapur ?","Shajapur 1 – 3 Day Weather Forecast Summary: Moderate rain (total 18mm), heaviest on Fri night. Warm (max 34°C on Fri afternoon, min 27°C on Thu morning). Wind will be generally light.","MADHYA PRADESH","AGAR","AGAR","2014-08-28 10:36:42.650"
+"KHARIF","HORTICULTURE","Fruits","Orange","	Plant Protection	","How we control Flower drop in Crop ?","Recommended of Planofix @ 5 ML./pump for manage the Flower drop condition..","MADHYA PRADESH","AGAR","AGAR","2014-08-28 14:05:09.500"

@@ -1,0 +1,51 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INSECT IN PADDY.","SPRAY IMIDACLOROPRID-1ML/3LIT OF WATER.","BIHAR","CHAMPARAN(EAST)","CHAKIA (PIPRA)                                    ","2014-09-02 06:54:41.650"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","CHAMPARAN(EAST)","DHAKA                                             ","2014-09-04 06:43:31.480"
+"KHARIF","AGRICULTURE","Others","Others","Weed Management","HERBISIDE.","SPRAY GLYCOSET-1ML/1LIT.","BIHAR","CHAMPARAN(EAST)","PAHARPUR                                          ","2014-09-06 11:25:39.470"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","today chance of rain","BIHAR","CHAMPARAN(EAST)","CHAKIA (PIPRA)                                    ","2014-09-10 06:55:08.963"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","Seeds and Planting Material","Seed rate","Varieties : 8.0 kg / ha 
+ Hybrids : 2.5 kg / ha","BIHAR","CHAMPARAN(EAST)","CHAKIA (PIPRA)                                    ","2014-09-10 07:15:29.460"
+"KHARIF","HORTICULTURE","Condiments and Spices","Ginger","	Plant Protection	","Soft rot or rhizome rot","Soft rot or rhizome rot- spray copper oxychloride 2gram/liter of water of mancozeb 2gram/liter of water","BIHAR","CHAMPARAN(EAST)","SANGRAMPUR                                        ","2014-09-10 20:21:59.950"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","today chance of rain","BIHAR","CHAMPARAN(EAST)","GHORASAHAN                                        ","2014-09-11 08:23:09.847"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","yellowing of leaves","Spray sulphur @ 2 gram in 1 litre of water","BIHAR","CHAMPARAN(EAST)","SUGAULI                                           ","2014-09-11 11:00:38.133"
+"JAYAD","AGRICULTURE","Sugar and Starch Crops","Sugarcane (Noble Cane)","Weather","Weed problem","Weed management in onion- spray oxy phlorophen @1.5 ml in 1","BIHAR","CHAMPARAN(EAST)","PATAHI                                            ","2014-09-11 14:49:41.600"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","insect problem in paddy","spray malathion @ 5 kg/ha","BIHAR","CHAMPARAN(EAST)","PIPRA KOTHI                                       ","2014-09-11 18:02:48.830"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","CHAMPARAN(EAST)","CHIRAIYA                                          ","2014-09-13 08:55:29.033"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","CHAMPARAN(EAST)","PATAHI                                            ","2014-09-13 08:58:46.190"
+"KHARIF","AGRICULTURE","Millets","FingerMillet  (Ragi/Mandika)","Weather","Insect infestation","Use Carbofuran @ 10KG/HEC","BIHAR","CHAMPARAN(EAST)","CHAWRADANO                                        ","2014-09-13 14:49:10.620"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","Weather information","Very low Cloudy weather in your area  chance of rain","BIHAR","CHAMPARAN(EAST)","MOTIHARI                                          ","2014-09-14 09:03:29.117"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Insect infestation","Spray imidachloprid @ 1ml/3lit of water","BIHAR","CHAMPARAN(EAST)","PAKRIDAYAL                                        ","2014-09-14 15:58:28.820"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","SHEATH BLIGHT DISEASE IN RICE","SPRAY  HEXACONAZOLE @ 1.5 ML/LITER OF WATER","BIHAR","CHAMPARAN(EAST)","PAHARPUR                                          ","2014-09-14 16:03:18.990"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION IN RICE","spray saaf @2gm /lit of water","BIHAR","CHAMPARAN(EAST)","SUGAULI                                           ","2014-09-15 10:05:37.753"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blast disease in paddy","spray hexaconazole @ 1ml/liter of water","BIHAR","CHAMPARAN(EAST)","SUGAULI                                           ","2014-09-15 10:25:34.900"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION PADDY","Spray mencozeb @ 2gm/lit of water","BIHAR","CHAMPARAN(EAST)","CHAKIA (PIPRA)                                    ","2014-09-15 11:38:49.997"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","Cloudy weather in your area   chance  of rain","BIHAR","CHAMPARAN(EAST)","HARSIDHI                                          ","2014-09-15 12:18:55.680"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Yellowing of leaves","spray mencozeb @ 2g/lit of water","BIHAR","CHAMPARAN(EAST)","ARERAJ                                            ","2014-09-16 09:51:41.627"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","MENCOZEB 2GM/LITER OF WATER","BIHAR","CHAMPARAN(EAST)","KALYANPUR                                         ","2014-09-16 11:49:46.553"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","Fertilizer Use and Availability","Application of Fertilizers","Apply Azospirillum and Phosphobacteria each at 2 kg/ha mixed with 100 kg of FYM before sowing. 
+
+Varieties
+ Basal dose FYM @ 25 t/ha, N @ 20 kg, P @ 50 kg and K @ 30 kg/ha as basal and 20 kg N/ha at 30 days after sowing. 
+
+Hybrids
+ Basal dose FYM @ 40 t / ha, N @ 100 kg, P @ 100 kg and K @ 100 kg/ha as basal and 100 kg N / ha 30 at days after sowing.","BIHAR","CHAMPARAN(EAST)","CHAKIA (PIPRA)                                    ","2014-09-18 07:08:35.203"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","sheath blight disease control in rice-","sheath blight disease control in rice- Spray hexaconazole @1ml/liter of water","BIHAR","CHAMPARAN(EAST)","PHENHARA                                          ","2014-09-18 15:48:20.650"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","Cultural Practices","delay in growth","spray boom flower 2 ml/litre of water","BIHAR","CHAMPARAN(EAST)","KESARIA                                           ","2014-09-18 19:49:39.577"
+"KHARIF","AGRICULTURE","Others","Others","Weather","1.Weather information","today and tomorrow chance of rain","BIHAR","CHAMPARAN(EAST)","PAKRIDAYAL                                        ","2014-09-19 12:11:37.880"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Today and Tomorrow There is a chance of rain in your area","BIHAR","CHAMPARAN(EAST)","PAKRIDAYAL                                        ","2014-09-20 10:52:46.923"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow chance of rain","BIHAR","CHAMPARAN(EAST)","PAKRIDAYAL                                        ","2014-09-22 07:54:09.303"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Blast disease in paddy","SPRY Tricyclozole 75 WP @ 500g/ha","BIHAR","CHAMPARAN(EAST)","GHORASAHAN                                        ","2014-09-23 15:29:45.580"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","BIHAR","CHAMPARAN(EAST)","GHORASAHAN                                        ","2014-09-24 08:16:17.237"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","Fertilizer Use and Availability","fetilizer dose","200 quintal vermicompost,120:80:80 N:P:K /HECTARE","BIHAR","CHAMPARAN(EAST)","KOTWA                                             ","2014-09-26 15:44:52.103"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","Fertilizer Use and Availability","fertilizer application in tomato","Varieties 
+Basal dose : FYM 25 t/ha, NPK 75:100:50 kg / ha 
+                     Borax 10 kg and Zinc sulphate 50 kg / ha 
+ Top dressing : 75 kg N/ha on 30th day of planting or during earthing up. 
+Hybrids 
+ Basal dose : FYM 25 t/ha, NPK 50:250:100 kg/ha 
+                     Borax 10 kg and Zinc sulphate 50 kg/ha 
+ Top dressing : N and K each 150 kg/ha in 3 equal splits at 30, 45 and 60 days after planting.","BIHAR","CHAMPARAN(EAST)","TURKAULIA                                         ","2014-09-28 09:00:24.070"
+"KHARIF","HORTICULTURE","Condiments and Spices","Turmeric","	Plant Protection	","PLANT PROTECTION OF TURMERIC","COPPEROXYCLORIDE 2GM/LITER OF WATER","BIHAR","CHAMPARAN(EAST)","MADHUBAN                                          ","2014-09-28 09:24:13.420"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","Nutrient Management","Delay in growth","spray boomflower @ 2 ml / lt of water","BIHAR","CHAMPARAN(EAST)","CHAKIA (PIPRA)                                    ","2014-09-29 10:18:08.153"
+"KHARIF","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","yellowing of paddy","spray saaf @ 2 gram / liter of water","BIHAR","CHAMPARAN(EAST)","KOTWA                                             ","2014-09-30 06:38:23.013"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow chance of rain","BIHAR","CHAMPARAN(EAST)","ARERAJ                                            ","2014-09-30 07:18:30.520"

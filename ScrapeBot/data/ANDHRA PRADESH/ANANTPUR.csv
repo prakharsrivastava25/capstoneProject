@@ -1,0 +1,326 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg deficiency in cotton","spraying of mg sulfate 10gm/l of water","ANDHRA PRADESH","ANANTPUR","YADIKI                                            ","2014-10-01 08:30:51.650"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","VEGETATIVE GROWTH IN TOMATO","PLANOFIX 5ML/20L OF WATER","ANDHRA PRADESH","ANANTPUR","KADIRI                                            ","2014-10-01 13:46:57.013"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","fretiliser of chilli","fcc: FARMERS CALL CENTRE	1800-425-1110","ANDHRA PRADESH","ANANTPUR","D.HIREHAL                                         ","2014-10-01 15:50:50.227"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton  sucking pest in cotton","super confidar","ANDHRA PRADESH","ANANTPUR","URAVAKONDA                                        ","2014-10-01 18:37:27.343"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weathe information","normal","ANDHRA PRADESH","ANANTPUR","KOTHACHERUVU                                      ","2014-10-01 18:45:10.553"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","normal","ANDHRA PRADESH","ANANTPUR","CHENNEKOTHAPALLE                                  ","2014-10-01 19:28:23.850"
+"JAYAD","AGRICULTURE","Others","Others","	Plant Protection	","weather","normal","ANDHRA PRADESH","ANANTPUR","AGALI                                             ","2014-10-01 19:39:06.060"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","normal","ANDHRA PRADESH","ANANTPUR","PEDDAVADUGUR                                      ","2014-10-01 19:41:14.950"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","normal","ANDHRA PRADESH","ANANTPUR","CHILAMATHUR                                       ","2014-10-01 19:53:19.150"
+"KHARIF","AGRICULTURE","Oilseeds","Castor (Rehri, Rendi, Arandi) ","	Plant Protection	","helicoverpa armigera in castor","recomended astaf 1.5g/lit water","ANDHRA PRADESH","ANANTPUR","RAYADURG                                          ","2014-10-02 07:06:17.780"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","bengal gram harvesting","100das","ANDHRA PRADESH","ANANTPUR","DHARMAVARAM                                       ","2014-10-02 07:39:34.093"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","normal","ANDHRA PRADESH","ANANTPUR","BRAHMASAMUDRAM                                    ","2014-10-02 10:16:32.890"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","fruit borer in tomato","recomended tracer 0.35/lit water","ANDHRA PRADESH","ANANTPUR","D.HIREHAL                                         ","2014-10-02 10:33:30.257"
+"KHARIF","HORTICULTURE","Fruits","Musk Melon","Nutrient Management","growthing in musk melon","recomended multi k  kg/acre","ANDHRA PRADESH","ANANTPUR","BUKKAPATNAM                                       ","2014-10-02 10:39:45.030"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion damage","mancozab@3g/lit water","ANDHRA PRADESH","ANANTPUR","TALUPULA                                          ","2014-10-02 14:06:46.847"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","recommended to spray planofix 4.5 ml/20 litre","ANDHRA PRADESH","ANANTPUR","ANANTAPUR                                         ","2014-10-02 14:34:28.473"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","trips in maize","RECOMMENDED TO SPRAY MONOCROTOPHOS(NUVACRON, PHOSKIL, LUPHOS) 300 ML PER ACRE","ANDHRA PRADESH","ANANTPUR","BELUGUPPA                                         ","2014-10-02 20:38:52.430"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in rice","RECOMMENDED TO SPRAY CARBOFURAN(FURADAN,TATAFURAN)10 KG PER ACRE","ANDHRA PRADESH","ANANTPUR","URAVAKONDA                                        ","2014-10-02 20:55:21.113"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","ZN DEFICIENCY IN RICE","spray of zinc 2 grams per litre","ANDHRA PRADESH","ANANTPUR","AMARAPURAM                                        ","2014-10-03 08:08:38.247"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","growth fertiliser","agro mini max","ANDHRA PRADESH","ANANTPUR","TADIPATRI                                         ","2014-10-03 08:11:23.847"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","water mange ment in cotrton","followed recommonded practices","ANDHRA PRADESH","ANANTPUR","PEDDAPAPPUR                                       ","2014-10-03 08:26:46.330"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton  boll  damage","borox @2g/lit water","ANDHRA PRADESH","ANANTPUR","BUKKARAYASAMUDRAM                                 ","2014-10-03 10:16:41.780"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","plants fertiliser","fertiliser","ANDHRA PRADESH","ANANTPUR","KANEKAL                                           ","2014-10-03 10:23:44.663"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","chilli damage due to sucking pest","RECOMMENDED TO SPRAY CHLORPYRPHOS(KORBAN, DURSBAN, LETHAL, CLASSIC, RADAR) 500 ML PER ACRE  ??????????????(???????? , ?????????, ????? , ????????, ?????? ) ??????? 500 ??????  200 ??????? ?????? ????? ???????? ??????","ANDHRA PRADESH","ANANTPUR","GUDIBANDA                                         ","2014-10-03 10:36:40.700"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","NO RAIN","ANDHRA PRADESH","ANANTPUR","ATMAKUR                                           ","2014-10-03 13:36:03.313"
+"KHARIF","HORTICULTURE","Fruits","Fig","Field Preparation","horti nuber","18004250040","ANDHRA PRADESH","ANANTPUR","ATMAKUR                                           ","2014-10-03 15:41:28.740"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","no rain","ANDHRA PRADESH","ANANTPUR","BUKKAPATNAM                                       ","2014-10-03 16:03:31.387"
+"RABI","HORTICULTURE","Flowers","China Astor","Bio-Pesticides and Bio-Fertilizers","horti number","1800-425-0040","ANDHRA PRADESH","ANANTPUR","BRAHMASAMUDRAM                                    ","2014-10-03 18:13:00.743"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg deficiency","mg sulphate @10/lit water","ANDHRA PRADESH","ANANTPUR","GUNTAKAL                                          ","2014-10-05 09:35:14.803"
+"KHARIF","HORTICULTURE","Flowers","Lilliums","	Plant Protection	","horti number","1800-425-0040","ANDHRA PRADESH","ANANTPUR","ATMAKUR                                           ","2014-10-05 15:24:45.610"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BPH IN PADDY","RECOMENDED aplloud 320ml/acre","ANDHRA PRADESH","ANANTPUR","PEDDAPAPPUR                                       ","2014-10-05 16:56:14.617"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","FLOWER drop in cotton","recommended planofix 2.5ml/10lit water","ANDHRA PRADESH","ANANTPUR","GORANTLA                                          ","2014-10-05 19:12:50.860"
+"KHARIF","HORTICULTURE","Vegetables","Drum Stick","Nutrient Management","growthing in munaga","recomended agromin max  1kg acre,multi k","ANDHRA PRADESH","ANANTPUR","BATHALAPALLE                                      ","2014-10-06 08:24:18.987"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","Seeds and Planting Material","sowing time of chillie","oct-nov","ANDHRA PRADESH","ANANTPUR","CHENNEKOTHAPALLE                                  ","2014-10-06 10:59:40.627"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","Market Information","tomoto mrket rates in hyd","rs400-800/qtl","ANDHRA PRADESH","ANANTPUR","PEDDAPAPPUR                                       ","2014-10-06 11:21:50.403"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower droppinin cotton","planofix 4ml/20l of water","ANDHRA PRADESH","ANANTPUR","BATHALAPALLE                                      ","2014-10-06 11:25:47.410"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice blast","recomended merger 400g/acre","ANDHRA PRADESH","ANANTPUR","BELUGUPPA                                         ","2014-10-06 13:48:30.913"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","fertiliser in  onion","multi -k","ANDHRA PRADESH","ANANTPUR","CHENNEKOTHAPALLE                                  ","2014-10-06 14:44:41.460"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","Training and Exposure Visits","weather information","thunder","ANDHRA PRADESH","ANANTPUR","BOMMANAHAL                                        ","2014-10-06 16:21:41.460"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","mealy bug damage in rice","methil-dematan@2ml/lit water","ANDHRA PRADESH","ANANTPUR","BUKKARAYASAMUDRAM                                 ","2014-10-06 19:54:12.960"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","thunder","ANDHRA PRADESH","ANANTPUR","KOTHACHERUVU                                      ","2014-10-07 10:27:52.513"
+"KHARIF","HORTICULTURE","Flowers","Chrysanthemum","	Plant Protection	","sucking pest","recommended quinolphos 8kg/acre","ANDHRA PRADESH","ANANTPUR","DHARMAVARAM                                       ","2014-10-08 10:53:23.810"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton recommended","recommended  recommended planofix 2.5ml/lit water","ANDHRA PRADESH","ANANTPUR","CHILAMATHUR                                       ","2014-10-08 13:48:45.690"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","black spots in tomato","recommended chlorotalonil 2.5g/lit water","ANDHRA PRADESH","ANANTPUR","PENUKONDA                                         ","2014-10-09 06:55:51.240"
+"RABI","HORTICULTURE","Vegetables","Chillies","Seeds and Planting Material","sowing time in chilli","recomended sowing time in chilli  octomber","ANDHRA PRADESH","ANANTPUR","GANDLAPENTA                                       ","2014-10-09 08:40:22.363"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended confidor 0.6ml/lit water","ANDHRA PRADESH","ANANTPUR","GORANTLA                                          ","2014-10-09 09:47:35.450"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","thunderstorm this afternoon Hi 32°
+
+RealFeel 39°
+ 
+more Tonight
+Oct 9
+Cloudy with a t-storm late Lo 22°
+
+RealFeel 23°
+ 
+more Tomorrow
+Oct 10
+An afternoon thunderstorm Hi 34°
+
+RealFeel 38°
+ 
+more","ANDHRA PRADESH","ANANTPUR","BRAHMASAMUDRAM                                    ","2014-10-09 13:58:02.810"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","FLOWER DROPPING IN COTTON","PLANOFIX 4ML/20L OF WATER","ANDHRA PRADESH","ANANTPUR","AMARAPURAM                                        ","2014-10-09 15:18:50.647"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","vegetative growth in cotton","max and multi-k/ 1kg/ acr","ANDHRA PRADESH","ANANTPUR","GOOTY                                             ","2014-10-09 15:43:31.830"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton sowing","august to september","ANDHRA PRADESH","ANANTPUR","BELUGUPPA                                         ","2014-10-09 15:48:26.247"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","tikka diseases inn ground nut","mancozeb 400gm/acr","ANDHRA PRADESH","ANANTPUR","RAYADURG                                          ","2014-10-09 18:20:07.317"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","ANANTPUR","KANAGANAPALLE                                     ","2014-10-09 18:28:21.030"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","vegetative growth in cotton","multi-k 1kg/acr","ANDHRA PRADESH","ANANTPUR","AMADAGUR                                          ","2014-10-09 18:35:50.307"
+"KHARIF","HORTICULTURE","Medicinal and Aromatic Plants","Betel Vine","	Plant Protection	","horti number","1800-425-0040","ANDHRA PRADESH","ANANTPUR","KADIRI                                            ","2014-10-09 20:10:41.763"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Sowing Time and Weather","sowing time of Bengal gram in rabi","October-november","ANDHRA PRADESH","ANANTPUR","AMADAGUR                                          ","2014-10-10 08:15:13.273"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","doma in tomato","andosulphan @2m/lit water","ANDHRA PRADESH","ANANTPUR","NARPALA                                           ","2014-10-10 10:25:03.260"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","ulala@75g/acre","ANDHRA PRADESH","ANANTPUR","PEDDAVADUGUR                                      ","2014-10-10 11:21:03.190"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","weather","normal","ANDHRA PRADESH","ANANTPUR","YELLANUR                                          ","2014-10-10 11:52:38.390"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","Today
+Oct 10
+A thunderstorm this afternoon 31°Lo 24° 
+more Sat
+Oct 11
+A p.m. shower or t-storm 34°Lo 24° Sun
+Oct 12
+Times of clouds and sun 35°Lo 22° 
+more Mon
+Oct 13
+Sun through high clouds 35°Lo 22° 
+more Tue
+Oct 14
+Sun yielding to clouds 35°Lo 22° 
+more","ANDHRA PRADESH","ANANTPUR","DHARMAVARAM                                       ","2014-10-10 14:39:59.240"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","fertilizers in paddy","recomended urea 40kg,potash20kg","ANDHRA PRADESH","ANANTPUR","D.HIREHAL                                         ","2014-10-10 15:33:16.903"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice hispa","recomended chloripyriphos 2.5ml/lit water","ANDHRA PRADESH","ANANTPUR","BOMMANAHAL                                        ","2014-10-10 16:53:12.813"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","growthing in chilli","recomended multi k 1kg/acre","ANDHRA PRADESH","ANANTPUR","BELUGUPPA                                         ","2014-10-10 18:03:03.773"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BPH IN PADDY","recomended tokin 80g/acre","ANDHRA PRADESH","ANANTPUR","GANDLAPENTA                                       ","2014-10-10 21:00:03.920"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","LEAF CURLING IN CHILLI","PEGASES 1.5GM/L OF WATER","ANDHRA PRADESH","ANANTPUR","CHILAMATHUR                                       ","2014-10-11 08:45:35.263"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","ANDHRA PRADESH","ANANTPUR","BRAHMASAMUDRAM                                    ","2014-10-11 12:26:27.307"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in rice","RECOMMENDED TO SPRAY CHLORANTRINIPROLU  (CORAZEN) 40-60 ML/ACRE","ANDHRA PRADESH","ANANTPUR","BOMMANAHAL                                        ","2014-10-11 13:01:40.420"
+"RABI","HORTICULTURE","Fruits","Pomegranate","Market Information","suitable soil in pomegranate","recomended all soils suitable","ANDHRA PRADESH","ANANTPUR","GANDLAPENTA                                       ","2014-10-11 16:21:35.280"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended olala 75g/acre","ANDHRA PRADESH","ANANTPUR","TADIPATRI                                         ","2014-10-11 17:02:04.920"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","fertiliser","reommonded fertiliser","ANDHRA PRADESH","ANANTPUR","RAPTADU                                           ","2014-10-11 17:02:42.263"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","thunder","ANDHRA PRADESH","ANANTPUR","VIDAPANAKAL                                       ","2014-10-11 18:34:02.423"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","weather information","thunder","ANDHRA PRADESH","ANANTPUR","PAMIDI                                            ","2014-10-11 18:57:44.947"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","leaf curl damage in chilli","pegasis@300g/acre","ANDHRA PRADESH","ANANTPUR","URAVAKONDA                                        ","2014-10-11 19:12:13.583"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","flower dropping","planofix@2ml/10 lit water","ANDHRA PRADESH","ANANTPUR","MUDIGUBBA                                         ","2014-10-11 19:58:14.433"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","MAADU TEGULU IN CHILLI","SPRAY 30 GRAMS COPPER OXY CHLORIDE+ 1 GRAM STREPTOCYCLIN PER 10 LITRES","ANDHRA PRADESH","ANANTPUR","ATMAKUR                                           ","2014-10-12 07:55:14.673"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","WILT IN CHILLIE","SPRAY 30 GRAMS COPPER OXY CHLORIDE+ 1 GRAM STREPTOCYCLIN PER 10 LITRES","ANDHRA PRADESH","ANANTPUR","BATHALAPALLE                                      ","2014-10-12 08:27:07.120"
+"RABI","HORTICULTURE","Vegetables","Tomato","Seeds and Planting Material","TOMATO SOWING TIME","OCTOBER -NOVEMBER","ANDHRA PRADESH","ANANTPUR","CHILAMATHUR                                       ","2014-10-12 08:35:20.580"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","ANANTPUR","BRAHMASAMUDRAM                                    ","2014-10-13 09:02:36.117"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","fruit borer","recomended spinosad  75g/acre","ANDHRA PRADESH","ANANTPUR","GANDLAPENTA                                       ","2014-10-13 09:49:50.067"
+"RABI","HORTICULTURE","Vegetables","Onion","Fertilizer Use and Availability","FERTILIZERS IN ONION","60-32-20 NPK","ANDHRA PRADESH","ANANTPUR","AMARAPURAM                                        ","2014-10-13 09:57:59.713"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","fertilizers  in paddy","recomended 35kg urea ,20kg potash /acre","ANDHRA PRADESH","ANANTPUR","SINGANAMALA                                       ","2014-10-14 07:23:10.450"
+"RABI","AGRICULTURE","Others","Others","Market Information","mushrum cultivation","recomended MUSHROOM	9912655843—RAJESHWARI Madam","ANDHRA PRADESH","ANANTPUR","CHILAMATHUR                                       ","2014-10-14 08:06:42.437"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","recomended planofix 2.ml/10 lit water","ANDHRA PRADESH","ANANTPUR","GUDIBANDA                                         ","2014-10-14 08:26:32.247"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","Partly sunny Hi 36°
+
+RealFeel 41°
+ 
+more Tonight
+Oct 14
+Partly cloudy Lo 20°
+
+RealFeel 19°
+ 
+more Tomorrow
+Oct 15
+Couple of showers, t-storms Hi","ANDHRA PRADESH","ANANTPUR","BATHALAPALLE                                      ","2014-10-14 09:30:06.117"
+"RABI","HORTICULTURE","Flowers","Chrysanthemum","	Plant Protection	","root rot chrysanthimam","recommended  benomil 2g/lit water,and  mancozeb 3g/lit water, multi k 1kg/acre","ANDHRA PRADESH","ANANTPUR","AMADAGUR                                          ","2014-10-15 09:44:43.747"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","sucking pest in tomato","recommended  rogar 2ml/litwater","ANDHRA PRADESH","ANANTPUR","D.HIREHAL                                         ","2014-10-15 13:52:26.603"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","weather","planofix @2ml//10lit water","ANDHRA PRADESH","ANANTPUR","KANAGANAPALLE                                     ","2014-10-15 18:52:57.413"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","weather","normla","ANDHRA PRADESH","ANANTPUR","KANAGANAPALLE                                     ","2014-10-15 20:42:32.107"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER  REPORT","CHANCES OF RAINS","ANDHRA PRADESH","ANANTPUR","BRAHMASAMUDRAM                                    ","2014-10-16 12:17:00.910"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","LEF CURLING IN CHILLIE","PEGASES 300GM/ACR","ANDHRA PRADESH","ANANTPUR","D.HIREHAL                                         ","2014-10-16 13:04:26.310"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","YERRA TEGULU IN ONION","RECOMMENDED TO SPRAY MANCOZEB (DITHANE M-45, INDOFIL M-45, MANJET)  500-600 GRAMS  PER ACRE","ANDHRA PRADESH","ANANTPUR","D.HIREHAL                                         ","2014-10-16 13:37:11.347"
+"RABI","HORTICULTURE","Fruits","Apricot","Bio-Pesticides and Bio-Fertilizers","WEATHER","NORMAL","ANDHRA PRADESH","ANANTPUR","ANANTAPUR                                         ","2014-10-16 14:45:01.267"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","normal","ANDHRA PRADESH","ANANTPUR","KALYANDRUG                                        ","2014-10-16 18:19:05.483"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","TOMATO DAMAGE","ACEPHAte @1.5g/lit awter","ANDHRA PRADESH","ANANTPUR","DHARMAVARAM                                       ","2014-10-16 19:10:19.453"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","recommended to spray planofix 4.5 ml/20 litre  ???????????? 20 ?????? ?????? 4.5 ml  ???????? ??????","ANDHRA PRADESH","ANANTPUR","KALYANDRUG                                        ","2014-10-17 08:10:23.780"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","weather","thunder","ANDHRA PRADESH","ANANTPUR","CHILAMATHUR                                       ","2014-10-17 09:00:07.980"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","RECOMMENDED TO SPRAY MONOCROTOPHOS(NUVACRON, PHOSKIL, LUPHOS) 300 ML PER ACRE","ANDHRA PRADESH","ANANTPUR","BUKKARAYASAMUDRAM                                 ","2014-10-17 09:30:31.620"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","proklem @90g/acre","ANDHRA PRADESH","ANANTPUR","TADIPATRI                                         ","2014-10-17 10:00:33.497"
+"RABI","AGRICULTURE","Pulses","Black Gram (urd bean)","	Plant Protection	","weather","normal","ANDHRA PRADESH","ANANTPUR","AMARAPURAM                                        ","2014-10-17 10:07:15.473"
+"KHARIF","AGRICULTURE","Oilseeds","Castor (Rehri, Rendi, Arandi) ","	Plant Protection	","namala purugu in castor","RECOMMENDED TO SPRAY ACEPHATE (ANTAF, ARTIN, LUCID )  300 GRAMS PER ACRE   ??????? (??????, ???????, ??????) ??????? 300 ???????? 200 ??????? ?????? ?????","ANDHRA PRADESH","ANANTPUR","GUNTAKAL                                          ","2014-10-17 11:01:22.377"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","Some sun with a thunderstorm Hi 32°
+
+RealFeel 40°
+ 
+more Tonight
+Oct 17
+A t-storm or two this evening","ANDHRA PRADESH","ANANTPUR","BUKKAPATNAM                                       ","2014-10-17 13:35:21.610"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","early blight","recomended mancozeb 3g/lit water","ANDHRA PRADESH","ANANTPUR","AGALI                                             ","2014-10-17 17:50:32.070"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","early blight in tomato","recommended mancozeb 3g/lit water","ANDHRA PRADESH","ANANTPUR","KANAGANAPALLE                                     ","2014-10-18 06:53:46.357"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower drop in cotton","recommended planofix 2ml/lit water","ANDHRA PRADESH","ANANTPUR","PEDDAVADUGUR                                      ","2014-10-18 07:30:14.190"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","up ward curling in chilli","recommended regent 2ml/lit water","ANDHRA PRADESH","ANANTPUR","AMADAGUR                                          ","2014-10-18 08:44:05.020"
+"RABI","HORTICULTURE","Vegetables","Tomato","Cultural Practices","after 20days weed management","recommended metribuzin 200-250g/acre","ANDHRA PRADESH","ANANTPUR","KAMBADUR                                          ","2014-10-18 08:54:28.053"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","spots on tomato","MANCOZEB (DITHANE M-45, INDOFIL M-45, MANJET)  500-600 GRAMS  PER ACRE ??o?????? (?????? M -45, ???????? M-45, ???????)  ?????? 500-600 ????????  200 ??????? ?????? ????? ???????? ??????","ANDHRA PRADESH","ANANTPUR","HINDUPUR                                          ","2014-10-18 09:59:23.503"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","Periods of sun with a t-storm
+Hi 32°
+
+RealFeel 42°
+ more 
+
+ 
+
+
+
+Tonight
+
+Oct 18
+
+
+Partly cloudy
+Lo 22°
+
+RealFeel 22°
+ more 
+
+ 
+
+
+
+Tomorrow
+
+Oct 19
+
+
+Clouds and sun with a t-storm
+Hi 32°
+
+RealFeel 40°
+ more","ANDHRA PRADESH","ANANTPUR","KANAGANAPALLE                                     ","2014-10-18 10:52:54.117"
+"RABI","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","Seeds","sowing time in ground nut","recommended sowing time in ground nut November","ANDHRA PRADESH","ANANTPUR","TALUPULA                                          ","2014-10-18 10:56:35.993"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","leaf eating catter piller","recommended  chloropyriphos  2.5ml/lit water","ANDHRA PRADESH","ANANTPUR","GUMMAGATTA                                        ","2014-10-18 11:29:00.277"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Market Information","onion market rates in adoni","rs800-1000/qtl","ANDHRA PRADESH","ANANTPUR","KANAGANAPALLE                                     ","2014-10-18 11:43:27.540"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chances of showers","ANDHRA PRADESH","ANANTPUR","BATHALAPALLE                                      ","2014-10-18 12:35:48.593"
+"RABI","AGRICULTURE","Others","Others","Weather","tomato  damage","plithora @350ml/acre","ANDHRA PRADESH","ANANTPUR","KALYANDRUG                                        ","2014-10-18 18:29:55.703"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","thunder storm","ANDHRA PRADESH","ANANTPUR","SINGANAMALA                                       ","2014-10-18 20:25:01.603"
+"RABI","HORTICULTURE","Fruits","Citrus","Cultural Practices","weed management","recomended glycel 2 lit /acre","ANDHRA PRADESH","ANANTPUR","SINGANAMALA                                       ","2014-10-19 08:25:24.327"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest","recomended olala 75 g/acre","ANDHRA PRADESH","ANANTPUR","GARLADINNE                                        ","2014-10-19 09:54:58.590"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","up ward curling in chilli","recomended confidor 0.6ml/lit water","ANDHRA PRADESH","ANANTPUR","KADIRI                                            ","2014-10-19 10:08:12.030"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATEHR REPORT","chances of showers","ANDHRA PRADESH","ANANTPUR","AMADAGUR                                          ","2014-10-19 10:24:56.510"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","chances of showers","ANDHRA PRADESH","ANANTPUR","BRAHMASAMUDRAM                                    ","2014-10-19 10:51:09.370"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","red leaves","recomended magnesium sulphate  10g/lit water","ANDHRA PRADESH","ANANTPUR","ATMAKUR                                           ","2014-10-19 12:43:20.627"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","weather information","normmal","ANDHRA PRADESH","ANANTPUR","RAPTADU                                           ","2014-10-19 12:43:58.920"
+"RABI","HORTICULTURE","Fruits","Mango","Nutrient Management","frtilizers in mango","recomended 200g urea 200dap, 200gpotash","ANDHRA PRADESH","ANANTPUR","GUMMAGATTA                                        ","2014-10-19 12:54:37.257"
+"RABI","HORTICULTURE","Vegetables","Curry Leaf","	Plant Protection	","black spots","recomended  scor  100ml/acre","ANDHRA PRADESH","ANANTPUR","HINDUPUR                                          ","2014-10-19 13:23:07.763"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","weather report","chance to rain","ANDHRA PRADESH","ANANTPUR","URAVAKONDA                                        ","2014-10-19 13:58:09.057"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chances of showers","ANDHRA PRADESH","ANANTPUR","URAVAKONDA                                        ","2014-10-19 14:01:03.013"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg deficiency in cotton and leafhoppers","recommended to spray of magnesium sulphate 10 grams per litre     ??????????  ???????? ????? ?????? 10 ???????? ????? ???????? ?????? 
+RECOMMENDED TO SPRAY FLUNICAMIDE (ULALA)75 GRAMS PER ACRE     ??????????????(????)   ????? 75 ???????? 200 ??????? ?????? ????? ?????? ??????","ANDHRA PRADESH","ANANTPUR","BOMMANAHAL                                        ","2014-10-20 08:13:05.823"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton damage","planofix @2ml/10lit water","ANDHRA PRADESH","ANANTPUR","PEDDAPAPPUR                                       ","2014-10-20 08:30:42.707"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","no rain","ANDHRA PRADESH","ANANTPUR","ATMAKUR                                           ","2014-10-20 08:41:17.367"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","reddening of leaves in rice","RECOMMENDED TO SPRAY SPRAY 30 GRAMS COPPER OXY CHLORIDE+  PER 10 LITRES    10 ??????? ?????? 30 ???????? ????????? ????? ?? ???? ??????????????????","ANDHRA PRADESH","ANANTPUR","BRAHMASAMUDRAM                                    ","2014-10-20 10:06:10.677"
+"RABI","HORTICULTURE","Vegetables","Bottle Gourd ","	Plant Protection	","catter piller","recommended tracer 75g/acre","ANDHRA PRADESH","ANANTPUR","GUDIBANDA                                         ","2014-10-20 11:40:09.517"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bph in paddy","recommended applaud 330ml/acre","ANDHRA PRADESH","ANANTPUR","BUKKAPATNAM                                       ","2014-10-20 12:19:54.760"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","Poly house	9849058420(hyd)
+Shade net, 040-20050701,9966907733","Poly house	9849058420(hyd)
+Shade net, 040-20050701,9966907733","ANDHRA PRADESH","ANANTPUR","ANANTAPUR                                         ","2014-10-20 12:30:54.600"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","FLOWER DROPPING IN CHILLIE","recommended to spray planofix 4.5 ml/20 litre  ???????????? 20 ?????? ?????? 4.5 ml  ???????? ??????","ANDHRA PRADESH","ANANTPUR","GOOTY                                             ","2014-10-20 12:37:28.847"
+"RABI","AGRICULTURE","Others","Others","Agriculture Mechanization","drip irrigation","ANANTHAPUR	RAVINDRA REDDY	8886614354	ADA, FTC
+	ARCHANA	8886614370	A.O, FTC","ANDHRA PRADESH","ANANTPUR","KADIRI                                            ","2014-10-20 12:51:16.887"
+"RABI","AGRICULTURE","Others","Others","Weather","hort ph no:","18004250040","ANDHRA PRADESH","ANANTPUR","KANAGANAPALLE                                     ","2014-10-20 12:51:59.440"
+"KHARIF","HORTICULTURE","Vegetables","Cabbage","Agriculture Mechanization","HORTICULTURE           CONTACT 18004250080   18004250080 ?????? ?? ????????????","HORTICULTURE           CONTACT 18004250080   18004250080 ?????? ?? ????????????","ANDHRA PRADESH","ANANTPUR","BUKKAPATNAM                                       ","2014-10-20 13:02:35.863"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BPH IN PADDY","recommended astaf 1.5g/lit water","ANDHRA PRADESH","ANANTPUR","DHARMAVARAM                                       ","2014-10-20 14:40:25.050"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","recommended planofix 2ml/10lit water","ANDHRA PRADESH","ANANTPUR","GOOTY                                             ","2014-10-20 15:33:59.577"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","thunder storm","ANDHRA PRADESH","ANANTPUR","GUMMAGATTA                                        ","2014-10-21 07:38:54.123"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","flowers damage","binomil@2g/lit water","ANDHRA PRADESH","ANANTPUR","BUKKAPATNAM                                       ","2014-10-21 07:57:51.997"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","weather","normal","ANDHRA PRADESH","ANANTPUR","AMARAPURAM                                        ","2014-10-21 08:33:27.700"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","weather report","cloudy ,showers","ANDHRA PRADESH","ANANTPUR","BATHALAPALLE                                      ","2014-10-21 16:00:46.997"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","recomended planofix 2ml/10lit water","ANDHRA PRADESH","ANANTPUR","ATMAKUR                                           ","2014-10-21 16:24:42.490"
+"RABI","AGRICULTURE","Others","Others","Weather","weathwer report","partly suny","ANDHRA PRADESH","ANANTPUR","GUDIBANDA                                         ","2014-10-22 13:07:48.627"
+"RABI","AGRICULTURE","Others","Others","Weather","weathwer report","partly suny","ANDHRA PRADESH","ANANTPUR","GUDIBANDA                                         ","2014-10-22 13:07:49.927"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","KAYA tholuchu purugu in mirchi","RECOMMENDED TO SPRAY CHLORPYRPHOS(KORBAN, DURSBAN, LETHAL, CLASSIC, RADAR) 500 ML PER ACRE  ??????????????(???????? , ?????????, ????? , ????????, ?????? ) ??????? 500 ??????  200 ??????? ?????? ????? ???????? ??????","ANDHRA PRADESH","ANANTPUR","KANEKAL                                           ","2014-10-22 14:32:29.373"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","powdery mildew in chilli","recommended amistor 150ml/acre","ANDHRA PRADESH","ANANTPUR","NALLAMADA                                         ","2014-10-22 14:34:15.377"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","leaf curl damage in chilli","pegasis@300g/acre","ANDHRA PRADESH","ANANTPUR","BELUGUPPA                                         ","2014-10-22 15:42:59.777"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","cloudy","ANDHRA PRADESH","ANANTPUR","AGALI                                             ","2014-10-22 15:47:06.740"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","weather","normal","ANDHRA PRADESH","ANANTPUR","ANANTAPUR                                         ","2014-10-22 15:48:30.423"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","fruit borer","recommended chloropyriphos 2.5ml/lit water","ANDHRA PRADESH","ANANTPUR","RAMAGIRI                                          ","2014-10-22 16:27:44.710"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","normal","ANDHRA PRADESH","ANANTPUR","AMADAGUR                                          ","2014-10-22 16:35:14.933"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","weatehr","normal","ANDHRA PRADESH","ANANTPUR","PAMIDI                                            ","2014-10-22 16:43:50.530"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","leaf drying","recommended mancozeb 2.5g/lit water","ANDHRA PRADESH","ANANTPUR","BOMMANAHAL                                        ","2014-10-22 17:30:12.487"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","asked cotton","planopix 2.5ml/ 10 liter water.","ANDHRA PRADESH","ANANTPUR","TADIPATRI                                         ","2014-10-23 06:30:29.140"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","black spot in tomato","recommended chlorotalonil 2.g/lit water","ANDHRA PRADESH","ANANTPUR","NARPALA                                           ","2014-10-23 08:03:02.443"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","MEALY BUG in cotton","recommended profenophos 2ml/lit water","ANDHRA PRADESH","ANANTPUR","D.HIREHAL                                         ","2014-10-23 10:07:13.190"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","growthing in cotton","recommended multi k 1kg/acre","ANDHRA PRADESH","ANANTPUR","TADIPATRI                                         ","2014-10-23 10:45:19.330"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mite in cotton","recommended dicofol 5ml /lit water","ANDHRA PRADESH","ANANTPUR","ANANTAPUR                                         ","2014-10-23 10:52:50.053"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mite in cotton","recommended dicofol 5ml /lit water","ANDHRA PRADESH","ANANTPUR","ANANTAPUR                                         ","2014-10-23 10:53:57.510"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mite in cotton","recommended dicofol 5ml /lit water","ANDHRA PRADESH","ANANTPUR","ANANTAPUR                                         ","2014-10-23 10:55:48.133"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","recommended planofix 2ml/10lit water","ANDHRA PRADESH","ANANTPUR","KUNDURPI                                          ","2014-10-23 11:15:17.473"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flower drop in cotton","recommended planofix 2ml/10lit water","ANDHRA PRADESH","ANANTPUR","KUNDURPI                                          ","2014-10-23 11:17:08.143"
+"RABI","HORTICULTURE","Fruits","Citrus","	Plant Protection	","greening disease","recommended  monocrotophos 1.6ml/lit water","ANDHRA PRADESH","ANANTPUR","GARLADINNE                                        ","2014-10-23 11:32:13.850"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","increasing  cloudiness","ANDHRA PRADESH","ANANTPUR","GUNTAKAL                                          ","2014-10-23 13:40:01.517"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower drop in cotton","recommended  planofix 2ml/10lit water","ANDHRA PRADESH","ANANTPUR","BUKKAPATNAM                                       ","2014-10-23 13:59:42.477"
+"RABI","AGRICULTURE","Others","Others","Weather","weather  information","normal","ANDHRA PRADESH","ANANTPUR","TADIMARRI                                         ","2014-10-23 15:37:14.527"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","weather","normal","ANDHRA PRADESH","ANANTPUR","CHENNEKOTHAPALLE                                  ","2014-10-23 16:17:23.900"
+"RABI","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","	Plant Protection	","catter piller","recomended avant 200ml/acre","ANDHRA PRADESH","ANANTPUR","BELUGUPPA                                         ","2014-10-24 07:49:43.250"
+"RABI","HORTICULTURE","Fruits","Banana","	Plant Protection	","fruit rot","recomended bavistin 1g/lit water","ANDHRA PRADESH","ANANTPUR","KAMBADUR                                          ","2014-10-24 08:24:38.040"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","root rot in tomato","recomended blitex  3g/lit water","ANDHRA PRADESH","ANANTPUR","GANDLAPENTA                                       ","2014-10-24 08:42:20.403"
+"RABI","HORTICULTURE","Vegetables","Tomato","Market Information","tomato  rate","minimu  100,maximum  300","ANDHRA PRADESH","ANANTPUR","BRAHMASAMUDRAM                                    ","2014-10-24 12:42:59.553"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","clouds with sunny","ANDHRA PRADESH","ANANTPUR","BRAHMASAMUDRAM                                    ","2014-10-24 13:22:41.690"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","black spots on tomato","RECOMMENDED TO SPRAY MANCOZEB (DITHANE M-45, INDOFIL M-45, MANJET)  500-600 GRAMS  PER ACRE ??o?????? (?????? M -45, ???????? M-45, ???????)  ?????? 500-600 ????????  200 ??????? ?????? ????? ???????? ??????","ANDHRA PRADESH","ANANTPUR","BELUGUPPA                                         ","2014-10-24 13:58:54.633"
+"RABI","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","Sowing Time and Weather","sowing time of ground nut in rabi","november-december 15th","ANDHRA PRADESH","ANANTPUR","ANANTAPUR                                         ","2014-10-24 14:03:08.827"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","cloudy    t storms","ANDHRA PRADESH","ANANTPUR","GOOTY                                             ","2014-10-24 14:12:55.340"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bph in rice","RECOMMENDED TO SPRAY THIOMETHOXOME (ACTRA, SITARA,RENOVA,) 40 GRAMS PER ACRE   ????????????? (???????, ?????, ??????) ????? 40 ???????? 200 ??????? ?????? ????? ?????? ??????","ANDHRA PRADESH","ANANTPUR","HINDUPUR                                          ","2014-10-24 14:13:29.620"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","mite in brinjal","recommended dicofol 5ml/lit water","ANDHRA PRADESH","ANANTPUR","NALLAMADA                                         ","2014-10-24 14:17:03.087"
+"KHARIF","HORTICULTURE","Vegetables","Carrot","	Plant Protection	","HORTICULTURE","HORTICULTURE           CONTACT 18004250080   18004250080 ?????? ?? ????????????","ANDHRA PRADESH","ANANTPUR","BATHALAPALLE                                      ","2014-10-24 14:30:50.417"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","spots on tomato","RECOMMENDED TO SPRAY COPPER OXY CHLORIDE (BLITOX) 600 GRAMS PER ACRE ????? ????????????? (??????????)  ?????? 600 ???????? 200 ??????? ?????? ????? ???????? ??????","ANDHRA PRADESH","ANANTPUR","BATHALAPALLE                                      ","2014-10-24 14:51:34.397"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chances of showers","ANDHRA PRADESH","ANANTPUR","GOOTY                                             ","2014-10-24 15:15:13.127"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chances of showers","ANDHRA PRADESH","ANANTPUR","GOOTY                                             ","2014-10-24 15:15:13.677"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","weather report","chance to rain","ANDHRA PRADESH","ANANTPUR","AMADAGUR                                          ","2014-10-24 15:33:19.900"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","weather report","chance to rain","ANDHRA PRADESH","ANANTPUR","AMADAGUR                                          ","2014-10-24 15:33:21.273"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest incotton","RECOMMENDED TO SPRAY MONOCROTOPHOS(NUVACRON, PHOSKIL, LUPHOS) 300 ML PER ACRE    ?????????????? (?????????, ???????, ??????) ????? 400 ?????? 200 ??????? ?????? ????? ???????? ??????","ANDHRA PRADESH","ANANTPUR","AMARAPURAM                                        ","2014-10-24 15:42:30.683"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","SUCKING pest in  brnjal","recommended astaf 1.5g/lit water","ANDHRA PRADESH","ANANTPUR","GUNTAKAL                                          ","2014-10-24 16:24:00.937"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bph in rice","RECOMMENDED TO SPRAY IMIDACHLOPRID(CONFIDOR, TATAMIDA , VICTOR ,ATOM  ) 60 ML PER ACRE       ???????????????(??????????, ????????, ???????, ??? ) ???????? 60 ??????  200 ??????? ?????? ????? ???????? ??????","ANDHRA PRADESH","ANANTPUR","TALUPULA                                          ","2014-10-24 16:30:52.340"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","aaku mudatha in tomato","RECOMMENDED TO SPRAY PROPINOPHOS (CURECRON, PROFEX,DON, BOLERO)  400 ML PER ACRE    ???????????? (???????????, ??????????,????, ??????) ???????  400 ?????? ??????  ???????? ??????","ANDHRA PRADESH","ANANTPUR","ATMAKUR                                           ","2014-10-24 16:50:12.107"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Weather","sowing time bengalgram","recomended sowing time bengalgram    october-november","ANDHRA PRADESH","ANANTPUR","URAVAKONDA                                        ","2014-10-25 07:09:34.293"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","mostly cloudy with t-storm","ANDHRA PRADESH","ANANTPUR","BUKKARAYASAMUDRAM                                 ","2014-10-25 08:05:14.633"
+"RABI","HORTICULTURE","Vegetables","Tomato","Nutrient Management","flower drop in tomato","recomended planofix 2ml/10lit water","ANDHRA PRADESH","ANANTPUR","GORANTLA                                          ","2014-10-25 08:33:12.220"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","mostly cloudywith t-storms","ANDHRA PRADESH","ANANTPUR","ATMAKUR                                           ","2014-10-25 08:47:43.297"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","mostly cloudy with t-storms","ANDHRA PRADESH","ANANTPUR","SINGANAMALA                                       ","2014-10-25 08:49:16.057"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","ANDHRA PRADESH","ANANTPUR","AMADAGUR                                          ","2014-10-25 10:11:39.830"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER REPOERT","MOSTLY CLOUDY with t-storms","ANDHRA PRADESH","ANANTPUR","ANANTAPUR                                         ","2014-10-25 10:27:41.600"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","up ward curling","recomended pegasis 300g/acre","ANDHRA PRADESH","ANANTPUR","BUKKARAYASAMUDRAM                                 ","2014-10-25 13:53:53.063"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","thunder","ANDHRA PRADESH","ANANTPUR","TADIPATRI                                         ","2014-10-26 07:00:34.000"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","thunder","ANDHRA PRADESH","ANANTPUR","ROLLA                                             ","2014-10-26 08:19:56.000"
+"RABI","AGRICULTURE","Others","Others","Weather","paccah purugu","plutan @125g/acre","ANDHRA PRADESH","ANANTPUR","RODDAM                                            ","2014-10-26 09:02:32.540"
+"RABI","AGRICULTURE","Others","Others","	Field Preparation	","weather","thunder","ANDHRA PRADESH","ANANTPUR","SETTUR                                            ","2014-10-26 10:26:04.983"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","fertiliser","fertiliser","ANDHRA PRADESH","ANANTPUR","URAVAKONDA                                        ","2014-10-26 10:33:10.833"
+"RABI","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","sowing in gn  nut","rabi","ANDHRA PRADESH","ANANTPUR","SETTUR                                            ","2014-10-26 11:37:23.727"
+"RABI","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Field Preparation	","sowing of gn nut","octo","ANDHRA PRADESH","ANANTPUR","RAYADURG                                          ","2014-10-26 13:09:37.553"
+"RABI","AGRICULTURE","Others","Others","Varieties","weather","thunder","ANDHRA PRADESH","ANANTPUR","KAMBADUR                                          ","2014-10-26 13:55:06.237"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","FLOWER DROPPING IN COTTON","recommended to spray planofix 4.5 ml/20 litre  ???????????? 20 ?????? ?????? 4.5 ml  ???????? ??????","ANDHRA PRADESH","ANANTPUR","KANEKAL                                           ","2014-10-26 14:54:31.273"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCES OF RAINS   ??????? ??? ?????? ????","ANDHRA PRADESH","ANANTPUR","MUDIGUBBA                                         ","2014-10-26 15:09:29.713"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","vegetative growth in cotton","multi-k 1kg/acr","ANDHRA PRADESH","ANANTPUR","GUMMAGATTA                                        ","2014-10-26 20:46:01.477"
+"RABI","HORTICULTURE","Fruits","Papaya","Nutrient Management","flower drop in papaya","recommended planofix 2ml/10lit water","ANDHRA PRADESH","ANANTPUR","GORANTLA                                          ","2014-10-27 09:03:07.063"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","Market Information","MARKT RATES OF MAIZE","RS1300-1400/QTL","ANDHRA PRADESH","ANANTPUR","","2014-10-27 10:01:20.620"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","catter piller","recomended tracer 75/acre","ANDHRA PRADESH","ANANTPUR","KOTHACHERUVU                                      ","2014-10-27 11:17:27.830"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","root rot in tomato","recomended blitex 3g/lit water","ANDHRA PRADESH","ANANTPUR","GOOTY                                             ","2014-10-27 12:38:01.677"
+"RABI","AGRICULTURE","Others","Others","Weather","weather report","cloudy with showers in spot","ANDHRA PRADESH","ANANTPUR","GUMMAGATTA                                        ","2014-10-27 13:26:04.097"
+"KHARIF","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","LEAFHOPPERS IN RED GRAM","QUINOLPHOS(EKALUX, FLASH, DHANULUX,QUINGUARD) 400 ML PER ACRE     ???????????? (??????? , ??????  ???????? ) ?????? 400 ?? ??? 200 ??????? ?????? ?????  ???????? ??????","ANDHRA PRADESH","ANANTPUR","BUKKARAYASAMUDRAM                                 ","2014-10-28 07:39:00.347"
+"RABI","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","Seeds","VARITIES","recomended MGG- 347","ANDHRA PRADESH","ANANTPUR","KUDAIR                                            ","2014-10-28 08:07:08.020"
+"KHARIF","HORTICULTURE","Fruits","Citrus","	Plant Protection	","FRIUT DROPPING IN CITRUS","SPRAY OF 2,4-D 10PPM 1ML/100L OF WATER OR PLANOFIX 1ML/4L OF WATER","ANDHRA PRADESH","ANANTPUR","BATHALAPALLE                                      ","2014-10-28 08:31:18.183"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","SHOWERS ,T-SPOTS","ANDHRA PRADESH","ANANTPUR","KUDAIR                                            ","2014-10-28 10:59:56.600"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","NO RAIN","ANDHRA PRADESH","ANANTPUR","KALYANDRUG                                        ","2014-10-28 11:00:10.970"
+"RABI","HORTICULTURE","Vegetables","Onion","	Plant Protection	","leaf spot on onion leaf","RECOMMENDED TO SPRAY MANCOZEB (DITHANE M-45, INDOFIL M-45, MANJET)  500-600 GRAMS  PER ACRE ??o?????? (?????? M -45, ???????? M-45, ???????)  ?????? 500-600 ????????  200 ??????? ?????? ????? ???????? ??????","ANDHRA PRADESH","ANANTPUR","BUKKAPATNAM                                       ","2014-10-28 11:21:13.890"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","market rate","recomended minimum rate 200-maximum 600","ANDHRA PRADESH","ANANTPUR","AGALI                                             ","2014-10-28 12:56:12.337"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","weather","normal","ANDHRA PRADESH","ANANTPUR","KALYANDRUG                                        ","2014-10-28 16:41:05.330"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","planofix @2.5/10lit water","ANDHRA PRADESH","ANANTPUR","PAMIDI                                            ","2014-10-28 16:57:15.787"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","normal","ANDHRA PRADESH","ANANTPUR","ANANTAPUR                                         ","2014-10-28 17:48:05.833"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","doma damage in rice","tokin @80g/acre","ANDHRA PRADESH","ANANTPUR","PUTTAPARTHI                                       ","2014-10-28 17:51:56.330"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg def","mg sulphate @10g/lit water","ANDHRA PRADESH","ANANTPUR","RODDAM                                            ","2014-10-28 18:23:25.853"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","normal","ANDHRA PRADESH","ANANTPUR","RAPTADU                                           ","2014-10-29 06:27:04.607"
+"RABI","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","	Plant Protection	","weather","normal","ANDHRA PRADESH","ANANTPUR","SINGANAMALA                                       ","2014-10-29 10:49:24.667"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","MG DEFICIENCY IN COTTON","spray of magnesium sulfat 10 grams per litre       ??????????  ???????  ?? ????? ?? 10 ???????? ????? ????????  ??????","ANDHRA PRADESH","ANANTPUR","GUDIBANDA                                         ","2014-10-29 12:12:01.987"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","ROOT ROT IN CHILLIE","copper oxy choloride 3GM/L OF WATER","ANDHRA PRADESH","ANANTPUR","BELUGUPPA                                         ","2014-10-29 12:31:54.020"
+"KHARIF","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","HELICOVERPA ON RED GRAM","QUINOLPHOS(EKALUX, FLASH, DHANULUX,QUINGUARD) 400 ML PER ACRE","ANDHRA PRADESH","ANANTPUR","ANANTAPUR                                         ","2014-10-29 12:36:35.627"
+"RABI","HORTICULTURE","Vegetables","Beet Root (Garden Beet/Stock Beet)","Seeds and Planting Material","SOWING TIME OF BEET ROOT IN RABI","AUG-NOVEMBER LAST WEEK","ANDHRA PRADESH","ANANTPUR","AMARAPURAM                                        ","2014-10-29 12:39:56.333"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","paccha purugu in red gram","plutan@125g/acre","ANDHRA PRADESH","ANANTPUR","KAMBADUR                                          ","2014-10-29 13:46:23.777"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","weather","normal","ANDHRA PRADESH","ANANTPUR","KANAGANAPALLE                                     ","2014-10-30 07:42:19.990"
+"RABI","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","	Plant Protection	","paccha purugu  in pesara","plutan@125G/ACRE","ANDHRA PRADESH","ANANTPUR","BUKKAPATNAM                                       ","2014-10-30 07:49:01.920"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg def","mg sulphate @10g/lit water","ANDHRA PRADESH","ANANTPUR","SOMANDEPALLE                                      ","2014-10-30 08:54:31.113"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","normal","ANDHRA PRADESH","ANANTPUR","AMADAGUR                                          ","2014-10-30 11:17:59.597"
+"RABI","HORTICULTURE","Vegetables","Onion","Seeds and Planting Material","sowing time of onion in  rabi season","november-december","ANDHRA PRADESH","ANANTPUR","GOOTY                                             ","2014-10-31 06:53:52.153"
+"RABI","AGRICULTURE","Millets","Sorghum (Jowar/Great Millet)","	Plant Protection	","jowar fertilizers","recomended 16 kg potash , 40kg urea","ANDHRA PRADESH","ANANTPUR","GUNTAKAL                                          ","2014-10-31 16:02:38.203"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bph in paddy","recomended tokin 80g/acre","ANDHRA PRADESH","ANANTPUR","HINDUPUR                                          ","2014-10-31 16:48:45.233"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","fruit borer","recomended tracer 75g/acre","ANDHRA PRADESH","ANANTPUR","VIDAPANAKAL                                       ","2014-10-31 18:08:35.140"
+"RABI","HORTICULTURE","Vegetables","Bitter Gourd","Nutrient Management","micro  nutrients","recomended multi k 1kg /acre","ANDHRA PRADESH","ANANTPUR","BUKKARAYASAMUDRAM                                 ","2014-10-31 21:01:36.620"

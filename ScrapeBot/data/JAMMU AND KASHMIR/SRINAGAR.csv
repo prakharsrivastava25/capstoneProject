@@ -1,0 +1,51 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"JAYAD","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","A blend of sun and clouds with a couple of showers and a thunderstorm
+Max UV Index: 9 (Very High)
+Thunderstorms: 43%
+Precipitation: 21 mm
+Rain: 21 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 4 hrs
+Hours of Rain: 4 hrs","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-08 14:33:36.000"
+"JAYAD","HORTICULTURE","Vegetables","Onion","	Plant Protection	","PLANTING DISTANCE FOR ONION ?","PLANTING DISATNACE FOR ONION IS 30CM *10CM .","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-08 14:35:43.000"
+"JAYAD","AGRICULTURE","Others","Others","Weather","information regarding weather?","Intervals of clouds and sunshine with a thunderstorm in the area
+ Max UV Index: 8 (Very High)
+Thunderstorms: 60%
+Precipitation: 3 mm
+Rain: 3 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-09 14:39:52.000"
+"JAYAD","HORTICULTURE","Vegetables","Radish","Cultural Practices","FARMER WANTS INFORMATION REGARDING THE CONTROL OF ALTERNARIA LEAF SPORT IN RADISH?","HEXACONAZOLE 5 EC (0.03%) OR COPPER OXYCHLORIDE 50 WP (0.25%) OR ZINEB 80 WP (0.2%) MAY BE SPRAYED 2 TO 3 TIMES AT 12 – 15 DAYS INTERVAL.","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-09 15:10:26.000"
+"JAYAD","AGRICULTURE","Others","Others","	Plant Protection	","ROOT ROT","DRENCHING CARBENDAZIM 2G/LITRE OF WATER","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-11 08:23:36.000"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","blight in paddy","MENCOZEB 3G/LT 20-25 GRAM KANAL","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-21 07:19:23.737"
+"KHARIF","HORTICULTURE","Flowers","China Astor","Floriculture","FARMER WANTS ASSISTANCE REGARDING FLOWER CULTIVATION ?","FARMER DIRECTED TO LOCAL FLORICULTURE DEPARTMENT FOR FURTHER ASSISTANCE .","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-21 14:39:21.100"
+"KHARIF","HORTICULTURE","Fruits","Apple","	Plant Protection	","information regarding transplanting time of apple tree","transplanting time of apple tree is feb-march","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-22 14:59:58.163"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","information regarding control of blast in paddy","spray zineb @ 1ml in 1 litre of water","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-22 15:14:16.907"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","HOW TO CONTROL FALSE SMUT IN PADDY ?","SPRAY COPPER OXYCHLORIDE @ 3 GM IN 1 LITER OF WATER .","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-22 15:17:10.547"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","Agriculture Mechanization","vegetables sown at this season","cabbage,cauliflower,turnip,raddish,carrot etc are sown at this season","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-22 16:40:04.457"
+"KHARIF","HORTICULTURE","Vegetables","Radish","	Plant Protection	","HOW TO CONTROL APHID IN RADISH ?","SPRAY WITH CHLOROPYRIPHOS @ 2ML/LITER OIF WATER","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-23 08:03:36.273"
+"KHARIF","AGRICULTURE","Others","Others","Weather","information regarding weather report","Partly sunny and very warm
+Max UV Index: 9 (Very High)
+Thunderstorms: 24%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-23 10:15:35.140"
+"KHARIF","HORTICULTURE","Fruits","Apple","	Plant Protection	","spots on apple by hailstorm","spray urea @ 50 gm in 10 lt water","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-23 18:08:23.027"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","DOSAGE OF GLYSOPHATE ?","DOSAGE OF GLYSOPHATE IS 125GM IN 20 LITRE OF WATER PER KANAL .","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-25 12:26:10.557"
+"RABI","AGRICULTURE","Others","Others","Weather","INFORMATION REGARDING WEATHER?","Clouds and sun with a shower or thunderstorm
+
+Max UV Index: 9 (Very High) 
+Thunderstorms: 40% 
+Precipitation: 3 mm 
+Rain: 3 mm 
+Snow: 0 CM 
+Ice: 0 mm 
+Hours of Precipitation: 1 hrs 
+Hours of Rain: 1 hrs","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-26 12:49:17.073"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","insects","Cypermethrin @ 1 ml/lit","JAMMU AND KASHMIR","SRINAGAR","SRINAGAR                                          ","2014-08-26 13:28:11.500"

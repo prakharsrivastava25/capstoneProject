@@ -1,0 +1,664 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Chance of Precip.
+
+NA
+
+0%
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+46%
+
+72%
+
+63%
+
+
+
+Conditions
+
+NA
+
+Partly Cloudy
+
+Mostly Cloudy
+
+Mostly Cloudy","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-01 09:07:31.750"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
+
+NA
+
+NA
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+NA
+
+74%
+
+63%
+
+
+
+Conditions
+
+NA
+
+NA
+
+Mostly Cloudy
+
+Mostly Cloudy","KARNATAKA","KOPPAL","YELBURGA                                          ","2014-11-01 13:04:42.853"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PADDY PEST","CHLOROPYRIPHOS 2ML IN 11 LITER WATER","KARNATAKA","KOPPAL","YELBURGA                                          ","2014-11-04 10:40:41.717"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Tuesday, 11
+
+
+
+
+32 | 21 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+20%
+
+
+
+Wednesday, 12
+
+
+
+
+32 | 21 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+
+
+Thursday, 13
+
+
+
+
+26 | 21 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%
+
+
+
+Friday, 14
+
+
+
+
+27 | 21 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%
+
+
+
+Saturday, 15
+
+
+
+
+29 | 21 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-11 07:16:27.063"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Tuesday, 11
+
+
+
+
+31 | 21 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+20%
+
+
+
+Wednesday, 12
+
+
+
+
+31 | 21 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+
+
+Thursday, 13
+
+
+
+
+26 | 20 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%
+
+
+
+Friday, 14
+
+
+
+
+25 | 21 °C 
+
+Rain 
+
+
+Chance of
+Precipitation
+
+90%
+
+
+
+Saturday, 15
+
+
+
+
+28 | 19 °C 
+
+Chance of Rain 
+
+
+Chance of
+Precipitation","KARNATAKA","KOPPAL","KUSHTAGI                                          ","2014-11-11 07:31:22.440"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","GROUND NUT PEST","CHLOROPYRIPHOS 2ML IN 1 LITER WATER","KARNATAKA","KOPPAL","YELBURGA                                          ","2014-11-11 07:40:17.233"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Tuesday, 11
+
+
+
+
+31 | 21 °C 
+
+Clear 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Wednesday, 12
+
+
+
+
+32 | 21 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+
+
+Thursday, 13
+
+
+
+
+25 | 21 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%
+
+
+
+Friday, 14
+
+
+
+
+28 | 21 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%
+
+
+
+Saturday, 15
+
+
+
+
+29 | 21 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation","KARNATAKA","KOPPAL","YELBURGA                                          ","2014-11-11 10:57:08.293"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Tuesday, 11
+
+
+
+
+31 | 21 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+Wednesday, 12
+
+
+
+
+32 | 21 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+10%
+
+
+
+
+
+Thursday, 13
+
+
+
+
+25 | 21 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%
+
+
+
+Friday, 14
+
+
+
+
+27 | 21 °C 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%
+
+
+
+Saturday, 15
+
+
+
+
+29 | 21 °C 
+
+Partly Cloudy 
+
+
+Chance","KARNATAKA","KOPPAL","GANGAVATHI                                        ","2014-11-11 11:33:55.967"
+"KHARIF","AGRICULTURE","Others","Others","Weather","maize  market informatiopn","0 1100 
+KOTTUR Hybrid/Local Medium 3269 Quintal  709 1124 1055 
+KUDCHI","KARNATAKA","KOPPAL","KUSHTAGI                                          ","2014-11-11 12:20:57.943"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton flower drop","planofix 1ml in 4 liter water","KARNATAKA","KOPPAL","KUSHTAGI                                          ","2014-11-12 09:37:00.540"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Wednesday, 12
+
+
+
+
+31 | 21 °C 
+
+Clear 
+
+
+Chance of
+Precipitation
+
+0%
+
+
+
+Thursday, 13
+
+
+
+
+27 | 21 °C 
+
+Chance of T-storms 
+
+
+Chance of
+Precipitation
+
+80%
+
+
+
+
+
+Friday, 14
+
+
+
+
+27 | 21 °C 
+
+Chance of T-storms 
+
+
+Chance of
+Precipitation
+
+50%
+
+
+
+Saturday, 15
+
+
+
+
+30 | 21 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation
+
+20%
+
+
+
+Sunday, 16
+
+
+
+
+30 | 20 °C 
+
+Partly Cloudy 
+
+
+Chance of
+Precipitation","KARNATAKA","KOPPAL","YELBURGA                                          ","2014-11-12 12:02:42.383"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","BENGALGRAM PEST","MONOCROTOPHOS 2ML IN 1LITER WATER","KARNATAKA","KOPPAL","YELBURGA                                          ","2014-11-14 12:44:27.867"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","groundnut pest","dimethoate 2ml in 1 liter water","KARNATAKA","KOPPAL","YELBURGA                                          ","2014-11-16 07:00:42.017"
+"KHARIF","AGRICULTURE","Oilseeds","Sunflower (suryamukhi)","Cultural Practices","sunfloewr pest","chloropyriphos 2ml in 1 liter waer","KARNATAKA","KOPPAL","YELBURGA                                          ","2014-11-18 09:04:49.903"
+"KHARIF","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","BENNDI GROWTH","ULLALA 10ML IN 15 LITER WATER","KARNATAKA","KOPPAL","YELBURGA                                          ","2014-11-18 11:25:30.247"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","groundnut pesyt","imidachlopreid 3ml in 10 liter water","KARNATAKA","KOPPAL","YELBURGA                                          ","2014-11-19 10:49:16.857"
+"KHARIF","AGRICULTURE","Others","Others","Government Schemes","government schemes","rsk","KARNATAKA","KOPPAL","KUSHTAGI                                          ","2014-11-19 11:28:04.300"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
+
+NA
+
+0%
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+8%
+
+23%
+
+22%
+
+
+
+Conditions
+
+NA
+
+Clear
+
+Clear
+
+Clear","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-19 11:40:08.907"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","CHILLI PEST","PLANOFIX 1ML IN 4 LITER WATER","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-20 09:23:18.163"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Humidity
+
+%
+
+51%
+
+55%
+
+80%
+
+
+
+Chance of Precip.
+
+NA
+
+0%
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+55%
+
+34%
+
+29%
+
+
+
+Conditions
+
+NA
+
+Partly Cloudy
+
+Partly Cloudy
+
+Clear","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-20 11:45:43.683"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
+
+NA
+
+0%
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+NA
+
+55%
+
+34%
+
+29%
+
+
+
+Conditions
+
+NA
+
+Partly Cloudy
+
+Partly Cloudy
+
+Clear
+
+
+
+Sunrise & Sunset
+
+
+
+6:29 AM
+
+5:52 PM","KARNATAKA","KOPPAL","GANGAVATHI                                        ","2014-11-20 11:54:27.893"
+"JAYAD","HORTICULTURE","Plantation Crops","Coconut","Market Information","COCONUT MARKET","Copra Medium 1526 Quintal  12500 12900 12500","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-21 08:02:43.270"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","Weed Management","GROUNDNUT WEEDICIDE","ALACHLOR 2ML IN 1 LOITER WATER","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-21 11:09:01.227"
+"JAYAD","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","BRINJAL PEST","DIMETHOATE 2ML IN 1 LITER WARE","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-22 09:30:27.167"
+"JAYAD","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","redgram pest","phrophonophos 2ml in 1 liter water","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-23 07:21:44.210"
+"KHARIF","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","BENGALGRAM PEST","CHLOROPYRIPHOS 2ML IN 1 LITER WATER","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-25 09:17:57.620"
+"JAYAD","HORTICULTURE","Fruits","Papaya","	Plant Protection	","PAPAYA DISEASE","WETABLE SULPHUR 2GM PER LITER WATER","KARNATAKA","KOPPAL","GANGAVATHI                                        ","2014-11-25 13:02:58.480"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Chance of Precip.
+
+0%
+
+0%
+
+0%
+
+0%
+
+
+
+Cloud Cover
+
+56%
+
+37%
+
+47%
+
+55%
+
+
+
+Conditions
+
+Partly Cloudy
+
+Partly Cloudy
+
+Partly Cloudy
+
+Partly Cloudy
+
+
+
+Sunrise & Sunset
+
+
+
+6:33 AM
+
+5:52 PM","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-28 06:46:10.783"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","tomato disease","carbendizium 3gm per liter water","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-29 11:40:52.113"
+"KHARIF","HORTICULTURE","","","","chilli","carbendizium + mancozeb 3gm per liter water","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-29 11:43:17.200"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Market Information","ONION MARKET","BANGALORE Bangalore Small Average 4455 Quintal  200 800 500 
+BANGALORE Local Average 24505 Quintal  800 1500 1150 
+HUBLI Local Average 19552 Quintal  300 1700 800","KARNATAKA","KOPPAL","KOPPAL                                            ","2014-11-30 09:35:13.193"

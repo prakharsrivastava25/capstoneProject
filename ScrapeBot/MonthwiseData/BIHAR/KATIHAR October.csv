@@ -1,0 +1,268 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","drying plant","spray carbendazim@2g/lit of water","BIHAR","KATIHAR","KADWA                                             ","2014-10-01 19:58:32.310"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","Nursery Management","Nursery bed preparation","Apply FYM 10 kg, neem cake 1 kg, VAM 50 g, enriched super phosphate 100 g and furadon 10 g per square metre before sowing. Area required for raising seedling for planting 1.0 ha is 100 sq.m.","BIHAR","KATIHAR","MANSAHI                                           ","2014-10-02 06:47:34.450"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","Insect infestation","Spray triazophos @ 2ml in 1 litre of water","BIHAR","KATIHAR","AZAMNAGAR                                         ","2014-10-04 08:09:54.843"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","Delay in growth","Spray boomflower @ 2 ml in 1 litre of water","BIHAR","KATIHAR","AZAMNAGAR                                         ","2014-10-04 09:10:38.617"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","weather information","chance of rain","BIHAR","KATIHAR","KADWA                                             ","2014-10-04 15:39:45.100"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","insect infestation","spray triazophos @ 2ml in 1 litre of water","BIHAR","KATIHAR","AZAMNAGAR                                         ","2014-10-04 16:22:49.050"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","Spray mencozeb @ 2gm/lit of water","BIHAR","KATIHAR","BALRAMPUR                                         ","2014-10-04 17:19:49.040"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","Spray mencozeb @ 2gm/lit of water","BIHAR","KATIHAR","BALRAMPUR                                         ","2014-10-04 17:20:03.140"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","Seeds and Planting Material","variety of tomato","kashi anupam, pusa gaurav,punjab chhuhara,","BIHAR","KATIHAR","KATIHAR                                           ","2014-10-04 18:54:10.703"
+"KHARIF","HORTICULTURE","Fruits","Banana","	Plant Protection	","wilting","spray copper oxy chloride 2gram/litre","BIHAR","KATIHAR","KORHA                                             ","2014-10-04 19:19:21.813"
+"RABI","HORTICULTURE","Vegetables","Potato","Field Preparation","varieties of potato","varieties of potato: kufri pukhraj, kufri ashoka , kufri lalima, kufri chandramukhi","BIHAR","KATIHAR","AMDABAD                                           ","2014-10-05 07:42:12.130"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","KATIHAR","BARARI                                            ","2014-10-05 07:55:39.247"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","yellowing of leaves","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","KATIHAR","KADWA                                             ","2014-10-05 09:34:45.737"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","yellowing of leaves","spray saaf 2 gram /litre of water","BIHAR","KATIHAR","BARARI                                            ","2014-10-05 10:11:35.793"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Seeds","INFORMATION OF SEED RATE OF MAIZE","20KG/HA","BIHAR","KATIHAR","KADWA                                             ","2014-10-05 11:16:50.853"
+"KHARIF","AGRICULTURE","Others","Others","	Field Preparation	","weather information","chance of rain","BIHAR","KATIHAR","BARARI                                            ","2014-10-05 19:09:42.273"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","INSECT IN PADDY","Spray MONOCROTOPHOS @ 1 ml. in 1 litre of water","BIHAR","KATIHAR","KORHA                                             ","2014-10-06 19:51:55.483"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","yellowing of leaves","SPRAY COPPEROXYCLORIDE @ 2ML IN 1 LITRE + STEPTOCYCLENE @1 ML IN 15 LITRE OF LITRE OF WATER","BIHAR","KATIHAR","KADWA                                             ","2014-10-08 15:02:28.327"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Agriculture Mechanization","fertilizer dose","UREA 40kg ,P - 75 kg, K - 50 kg","BIHAR","KATIHAR","PRANPUR                                           ","2014-10-08 16:01:51.030"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","KATIHAR","KORHA                                             ","2014-10-09 07:51:56.143"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","KATIHAR","KORHA                                             ","2014-10-09 09:02:33.580"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","chance of rain on 13 OCT.","BIHAR","KATIHAR","FALKA                                             ","2014-10-09 10:54:22.920"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","chance of rain on 13 OCT.","BIHAR","KATIHAR","FALKA                                             ","2014-10-09 10:54:22.923"
+"JAYAD","HORTICULTURE","Flowers","Chrysanthemum","	Plant Protection	","ferlizer recomendation in maize","ferlizer recomendation in maize
+use urea-1.5kg,dap-500g,potash-1kg and give urea in three split dose on 20,45,and60days from the day of  sowing","BIHAR","KATIHAR","KADWA                                             ","2014-10-09 14:23:51.260"
+"JAYAD","AGRICULTURE","Oilseeds","Safflower (kusum/kardi)","Weather","Yellowing / drying of   seedling","spray zinc (5 gram )+ urea (10 gram )/ liter of water","BIHAR","KATIHAR","KADWA                                             ","2014-10-09 14:43:48.843"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","insect infestation","spray imidachloprid 1 ml/litre of water","BIHAR","KATIHAR","AZAMNAGAR                                         ","2014-10-09 14:49:22.867"
+"JAYAD","AGRICULTURE","Pulses","Black Gram (urd bean)","	Plant Protection	","Yellowing / drying of   seedling","spray zinc (5 gram )+ urea (10 gram )/ liter of water","BIHAR","KATIHAR","AZAMNAGAR                                         ","2014-10-09 16:14:31.660"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance RAIN","BIHAR","KATIHAR","FALKA                                             ","2014-10-10 08:47:15.823"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area  chance of rain","BIHAR","KATIHAR","MANIHARI                                          ","2014-10-10 08:54:06.553"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","there is a chance of rain in your area","BIHAR","KATIHAR","FALKA                                             ","2014-10-10 09:15:43.867"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","COPPER OXYCLORIDE 2GM/LITER OF WATER","BIHAR","KATIHAR","KADWA                                             ","2014-10-10 12:00:06.463"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","no chance of rain","BIHAR","KATIHAR","FALKA                                             ","2014-10-10 14:39:13.613"
+"KHARIF","AGRICULTURE","Pulses","Horse Gram (kulthi/kultha)","	Field Preparation	","Weather information","today and tomorrow chance of rain","BIHAR","KATIHAR","FALKA                                             ","2014-10-10 14:41:51.390"
+"KHARIF","AGRICULTURE","Cereals","Wheat","	Plant Protection	","in paddy field insect problem","Spray any one of the following twice as above
+
+•Malathion 50 EC 500 ml/ha
+•Neem seed kernel extract 5% 25 kg/ha
+•Notchi or Ipomoea or Prosopis leaf extract 10%","BIHAR","KATIHAR","PRANPUR                                           ","2014-10-10 16:56:08.563"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","problem in maiz crop","treatment  with capton 2gm/1kg of seed","BIHAR","KATIHAR","BARARI                                            ","2014-10-10 17:15:18.857"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","disease in paddy","Spray mancozeb @2gm/liter water","BIHAR","KATIHAR","BARSOI                                            ","2014-10-11 06:47:03.140"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","INSECT IN BRINJAL","Spray quinalphos @ 2 ml in one litre of water","BIHAR","KATIHAR","BARARI                                            ","2014-10-11 10:34:09.620"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","Weather information katihar","Weather information katihar-Very low Cloudy weather in your area but no chance of rain","BIHAR","KATIHAR","KORHA                                             ","2014-10-11 16:09:33.897"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information katihar","Weather information katihar-Very low Cloudy weather in your area but no chance of rain","BIHAR","KATIHAR","SAMELI                                            ","2014-10-11 16:47:16.183"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","Shoot & fruit borer","1.Remove the affected terminal shoot showing boreholes. 
+2.Remove the affected fruits and destroy. 
+3.Avoid using synthetic pyrethroids. 
+4.Spray Neem Seed Kernel Extract 5 % or any one of the following chemicals starting from one month after planting at 15 days interval.
+
+
+Insecticide
+ 
+Dose 
+ 
+
+Azadirachtin 1.0% EC (10000 ppm)
+ 
+3.0 ml/lit.
+ 
+
+Azadirachtin 0.03 % WSP (300 ppm)
+ 
+5.0 g/lit.
+ 
+
+Chlorpyrifos 20 % EC
+ 
+1.0 ml/lit.
+ 
+
+Dimethoate 30 % EC
+ 
+7.0 ml/10 lit.
+ 
+
+Emamectin benzoate 5 % SG
+ 
+4 g/10 lit.
+ 
+
+Flubendiamide 20 WDG
+ 
+7.5 g/10 lit.
+ 
+
+Phosalone 35 % EC
+ 
+1.5 ml/lit.
+ 
+
+Quinalphos 20 % AF
+ 
+1.7ml/ lit.
+ 
+
+Quinalphos 25 % EC
+ 
+1.5 ml/lit.
+ 
+
+Thiodicarb 75 % WP
+ 
+2.0 g/lit.
+ 
+
+Thiometon 25 % EC
+ 
+1.0 ml/lit.
+ 
+
+Trichlorofon 50 % EC
+ 
+1.0 ml/lit.
+ 
+
+Triazophos 40 % EC
+ 
+2.5 ml/lit.","BIHAR","KATIHAR","KADWA                                             ","2014-10-12 07:42:34.953"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area chance of rain","BIHAR","KATIHAR","SAMELI                                            ","2014-10-12 07:42:58.853"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","growth regulator","Growth regulators 
+ Spray 2 ppm (1 ml in 500 lit) Triacontanol plus Sodium Borate or Borax 35 mg/l of water 15 days after transplanting and at the time of full bloom to increase the yield","BIHAR","KATIHAR","KADWA                                             ","2014-10-12 07:45:16.077"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","variety of potato","Kufri Jyoti, Kufri Muthu, Kufri Swarna, Kufri Thangam, Kufri Malar, Kufri Soga and Kufri Giriraj are commonly cultivated","BIHAR","KATIHAR","MANSAHI                                           ","2014-10-12 09:22:43.070"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","KATIHAR","KATIHAR                                           ","2014-10-12 16:16:17.083"
+"RABI","AGRICULTURE","Others","Others","Varieties","Weather information","today and tomorrow full chance of rain","BIHAR","KATIHAR","KADWA                                             ","2014-10-12 16:25:16.507"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","KATIHAR","BARARI                                            ","2014-10-12 18:11:47.697"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","Weather information","???? ??? ?????? , ????? ???? ?? ???????  ????","BIHAR","KATIHAR","BARARI                                            ","2014-10-13 07:05:44.567"
+"KHARIF","HORTICULTURE","Vegetables","Beans ","	Plant Protection	","PLANT PROTECTION OF BEANS","mencozeb @ 2gm/lit of water","BIHAR","KATIHAR","KATIHAR                                           ","2014-10-13 07:46:35.833"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Weather information","chance of rain","BIHAR","KATIHAR","KATIHAR                                           ","2014-10-13 07:47:27.597"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","malathion @ 2 gram in 1 litre of water","BIHAR","KATIHAR","BARSOI                                            ","2014-10-13 08:17:40.620"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Weather information","Weather information","BIHAR","KATIHAR","KADWA                                             ","2014-10-13 09:27:03.797"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","KATIHAR","MANSAHI                                           ","2014-10-13 09:35:48.853"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow chance of rain","BIHAR","KATIHAR","BARARI                                            ","2014-10-14 06:19:40.273"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","???? ???? ?? ???? ??? ?????? ???? ????? ???? ???? ?? ???? ??? ?????? ???? ?????","BIHAR","KATIHAR","DANDKHORA                                         ","2014-10-14 08:45:39.857"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Full chance of rain","BIHAR","KATIHAR","KORHA                                             ","2014-10-14 09:53:36.237"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","PLANT PROTECTION OF BRINJAL","dimethoate @ 1.5 ml in 1 litre of water
+boomflower @ 2 ml in 1 litre of water","BIHAR","KATIHAR","KORHA                                             ","2014-10-15 07:47:53.610"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Field Preparation	","variety","TNAU maize hybrid Co 6, Baby corn Co(Bc) 1 saktiman 1 ,2 3, ganga 11","BIHAR","KATIHAR","DANDKHORA                                         ","2014-10-15 08:15:07.410"
+"KHARIF","AGRICULTURE","Pulses","Black Gram (urd bean)","	Plant Protection	","PLANT PROTECTION OF URD BEAN","Spray imidachloprid @ 1ml/3 lit of water *","BIHAR","KATIHAR","PRANPUR                                           ","2014-10-15 09:37:23.167"
+"KHARIF","AGRICULTURE","Sugar and Starch Crops","Sugarcane (Noble Cane)","	Field Preparation	","Weather information","Chance of precipitation to some extent in area your","BIHAR","KATIHAR","BARSOI                                            ","2014-10-15 14:43:06.607"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","SHEATH BLIGHT DISEASE IN PADDY","SHEATH BLIGHT DISEASE IN PADDY- HEXACONAZOLE @ 1ML/LITER OF WATER","BIHAR","KATIHAR","BARSOI                                            ","2014-10-15 18:13:04.230"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","information OF Weather","today and tomorrow chance of rain","BIHAR","KATIHAR","BARARI                                            ","2014-10-15 20:06:37.507"
+"RABI","AGRICULTURE","Others","Others","Weather","weather update","Partly sunny and nice
+88°Lo 66°   
+
+
+
+Fri
+
+Oct 17
+
+
+
+Sun and some clouds
+88°Lo 66°  more  
+
+
+
+Sat
+
+Oct 18
+
+
+
+Sunny and comfortable
+89°Lo 63°  more  
+
+
+
+Sun
+
+Oct 19
+
+
+
+Sunny and pleasant
+88°Lo 62°  more  
+
+
+
+Mon
+
+Oct 20
+
+
+
+Sunshine and nice
+89°Lo 63°","BIHAR","KATIHAR","FALKA                                             ","2014-10-16 06:34:20.030"
+"JAYAD","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow no chance of rain","BIHAR","KATIHAR","AZAMNAGAR                                         ","2014-10-16 07:13:59.180"
+"KHARIF","HORTICULTURE","Vegetables","Cabbage","	Plant Protection	","DISEASE IN CABBAGE","Spray mencozeb @ 2g/lit of water","BIHAR","KATIHAR","AMDABAD                                           ","2014-10-17 08:06:28.140"
+"KHARIF","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","USE OF FERTILIZER","N-P-K  == 150KG;90KG;120KG","BIHAR","KATIHAR","BARSOI                                            ","2014-10-17 08:08:33.140"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","Yellowinging of leaves","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","KATIHAR","MANIHARI                                          ","2014-10-17 08:34:40.830"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","Varieties","VARIETY OF MAIZE","30V92/KARGIL/SHAKTIMAN-1,2,3","BIHAR","KATIHAR","DANDKHORA                                         ","2014-10-17 10:43:08.160"
+"KHARIF","HORTICULTURE","Fruits","Mango","	Plant Protection	","crecking stem of mango plant","use boron 200g / plant","BIHAR","KATIHAR","KATIHAR                                           ","2014-10-17 16:17:33.507"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","plant protection of paddy","copper oxycloride 2gm/liter of water","BIHAR","KATIHAR","KATIHAR                                           ","2014-10-18 09:04:06.400"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow no chance of rain","BIHAR","KATIHAR","KORHA                                             ","2014-10-18 11:47:04.880"
+"KHARIF","HORTICULTURE","Plantation Crops","Sagoan","	Plant Protection	","insect infestation","spray carbaryl 2 gram/liter of water","BIHAR","KATIHAR","BARARI                                            ","2014-10-18 15:14:47.907"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","there is a no chance of rain in your area","BIHAR","KATIHAR","BALRAMPUR                                         ","2014-10-18 17:09:53.960"
+"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","Delay in growth","spray boomflower @ 2 ml / lt of water","BIHAR","KATIHAR","KATIHAR                                           ","2014-10-18 17:28:19.063"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Field Preparation	","seed rate of maize","20-25 kg /ha","BIHAR","KATIHAR","KORHA                                             ","2014-10-18 19:15:30.707"
+"KHARIF","HORTICULTURE","Vegetables","Capsicum","Fertilizer Use and Availability","Yellowinging of leaves","Spray mencozeb @ 2g/lit of water","BIHAR","KATIHAR","KADWA                                             ","2014-10-19 07:22:31.467"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","today and tomorrow no chance of rain","BIHAR","KATIHAR","AMDABAD                                           ","2014-10-19 07:26:33.950"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","PLANT PROTECTION OF BRINJAL","spray imidachlorpid @ 1 ml / 3 lt of water","BIHAR","KATIHAR","KADWA                                             ","2014-10-19 07:49:03.577"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","insect mangement","omite 2 ml/liter","BIHAR","KATIHAR","KATIHAR                                           ","2014-10-19 19:06:29.650"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Seeds","variete of maize","shaktiman-1,2,3/","BIHAR","KATIHAR","BALRAMPUR                                         ","2014-10-20 08:44:59.763"
+"RABI","HORTICULTURE","Vegetables","Potato","Cultural Practices","INFORMATION ABOUT SEED TRATMENT","APPLY CARBENDAZYME @ 2.5 GM / KG OF SEED","BIHAR","KATIHAR","FALKA                                             ","2014-10-20 14:56:50.453"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","KATIHAR","FALKA                                             ","2014-10-20 20:24:29.007"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","insect infestation","spray acefate 1.5 ml/litre of water","BIHAR","KATIHAR","BARARI                                            ","2014-10-21 14:06:06.647"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","Fertilizer Use and Availability","fertilizer dose in maize","N:P:K  40:75:50 kg/ha","BIHAR","KATIHAR","KATIHAR                                           ","2014-10-21 14:31:46.127"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","BIHAR","KATIHAR","KATIHAR                                           ","2014-10-21 14:32:38.510"
+"JAYAD","HORTICULTURE","Fruits","Kiwi Fruit","Landscaping","aap neem oil ka  prayog kare","aap neem oil ka  prayog kare
+You should use neem oil 2ml / litar of water","BIHAR","KATIHAR","BARARI                                            ","2014-10-21 21:21:50.253"
+"JAYAD","AGRICULTURE","Millets","Barnyard Millet (Kundiraivlli/Sawan","Agriculture Mechanization","llowing of leaves","•	Spray sulphur @ 2 gram in 1 litre of water","BIHAR","KATIHAR","BARARI                                            ","2014-10-21 21:34:38.250"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","VARIETY OF GRAM","VARIETY OF GRAM-PUSA-256,KPG-59,PUSDA-372,KWR-108","BIHAR","KATIHAR","SAMELI                                            ","2014-10-22 10:22:07.540"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Potato fertilizer dose-","compost-150quintal+urea150+dap-80+pottas-50+zn-sulphate-20kg/ha","BIHAR","KATIHAR","BARARI                                            ","2014-10-22 17:12:23.623"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2gm/lit of water","BIHAR","KATIHAR","KADWA                                             ","2014-10-22 18:54:59.497"
+"RABI","HORTICULTURE","Vegetables","Potato","Cultural Practices","Potato fertilizer dose-","compost-150quintal+urea150+dap-80+pottas-50+zn-sulphate-20kg/ha...","BIHAR","KATIHAR","KADWA                                             ","2014-10-22 20:00:26.760"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","KATIHAR","MANSAHI                                           ","2014-10-23 10:08:23.853"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","Weather information","today and tomorrow chance of rain","BIHAR","KATIHAR","MANIHARI                                          ","2014-10-23 17:41:53.440"
+"RABI","AGRICULTURE","Cereals","Wheat","Weather","VARIETY of MAIZE","SHAKTIMAN-1,2,3,4; GANGA-11, DEEP JWALA,RAJENDRA SHANKAR MAKKA.","BIHAR","KATIHAR","AZAMNAGAR                                         ","2014-10-24 08:24:40.583"
+"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","How i do seed treatment","seed treatment with captan, thiram, bavistin @ 2-2.5 grm/kf seed","BIHAR","KATIHAR","BALRAMPUR                                         ","2014-10-24 09:56:03.563"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","INSECT MANAGEMENT","QUNILPHOSH 1.5 ML/LITER","BIHAR","KATIHAR","KADWA                                             ","2014-10-24 13:41:19.757"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","seed treatment","thiram 2 ml/liter","BIHAR","KATIHAR","MANIHARI                                          ","2014-10-25 07:01:44.203"
+"KHARIF","AGRICULTURE","Others","Others","Weather","1.Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","KATIHAR","KADWA                                             ","2014-10-25 07:30:11.277"
+"RABI","HORTICULTURE","Fruits","Papaya","	Plant Protection	","rotting of stem","Spray copper oxycloride @ 2 gram in 1 litre of water + straptocycline @ 1 ml /liter of watwer","BIHAR","KATIHAR","BARARI                                            ","2014-10-25 16:08:51.500"
+"RABI","AGRICULTURE","Others","Others","Weather","WEATHER INFORMATION","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","KATIHAR","KATIHAR                                           ","2014-10-26 06:59:59.400"
+"KHARIF","HORTICULTURE","Vegetables","Cucumber","Crop Insurance","Insect problem in mango stem","Spray carbaril @ 2 gram in 1 litter of water","BIHAR","KATIHAR","BALRAMPUR                                         ","2014-10-26 09:00:19.870"
+"KHARIF","HORTICULTURE","Condiments and Spices","Saffron","Soil Testing","flower dropping problem in mango","Spray carbaril @ 2 gram in 1 litter of water","BIHAR","KATIHAR","BALRAMPUR                                         ","2014-10-26 09:03:13.197"
+"KHARIF","HORTICULTURE","Fruits","Mango","	Plant Protection	","insect control","spray carbaril @2ml/lit of water","BIHAR","KATIHAR","PRANPUR                                           ","2014-10-26 16:03:48.710"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","yellowing of leaves","Spray metalyxl @ 2g/lit of water","BIHAR","KATIHAR","KADWA                                             ","2014-10-27 17:41:21.747"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","Seeds","ferlizer recomendation in maize","ferlizer recomendation in maize-NPK-40, 75, 50KG/HA","BIHAR","KATIHAR","KORHA                                             ","2014-10-27 18:50:31.913"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","SEED TREATMENT","BAVISTIN 2 GRAM/KG SEED","BIHAR","KATIHAR","BALRAMPUR                                         ","2014-10-28 08:39:18.300"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","drying plant","spray carbendazim @2ml/lit of water","BIHAR","KATIHAR","MANSAHI                                           ","2014-10-28 14:23:34.640"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","delay growth","spray boomflower@2ml/lit of water","BIHAR","KATIHAR","MANSAHI                                           ","2014-10-28 14:26:20.643"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","insect problem OF MAIZE","Spray cloropyriphos @ 1 ml in 1 litre of water","BIHAR","KATIHAR","FALKA                                             ","2014-10-29 06:19:17.650"
+"KHARIF","HORTICULTURE","Fruits","Banana","	Plant Protection	","PLANT PROTECTION OF BANANA","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","KATIHAR","DANDKHORA                                         ","2014-10-29 11:23:12.970"
+"RABI","HORTICULTURE","Vegetables","Potato","Cultural Practices","WEEDICIDE","GRAMAXONE 2.5 LITER/HACTARE IN 500 LITER WATER","BIHAR","KATIHAR","KURSELA                                           ","2014-10-29 12:50:23.320"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","variety of maize","Good variety of maize- saktiman 1-4, ganga-11, suan, devki","BIHAR","KATIHAR","KADWA                                             ","2014-10-29 18:40:31.540"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Varieties","VARIETIES OF MAIZ","VARIETIES OF MAIZ=-SAKTIMAN-1,2,3,4,GANGA-11","BIHAR","KATIHAR","KADWA                                             ","2014-10-29 18:46:56.690"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","Weather information","Partly cloudy with a passing shower late
+Max UV Index: N/A
+Thunderstorms: 20%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0.5 hrs
+Hours of Rain: 0.5 hrs","BIHAR","KATIHAR","BARARI                                            ","2014-10-29 20:14:50.030"
+"KHARIF","HORTICULTURE","Fruits","Banana","	Plant Protection	","FUNJAL PROBLEM OF BANANA","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","KATIHAR","KORHA                                             ","2014-10-30 06:53:20.647"
+"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Fungal problem. OF POTATO","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","KATIHAR","KORHA                                             ","2014-10-30 07:26:13.673"
+"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Fungal problem. OF POTATO","Spray copper oxycloride @ 2 gram in 1 litre of water","BIHAR","KATIHAR","KORHA                                             ","2014-10-30 07:31:14.260"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","ROTTING OF STEM","spray in copper oxichloride @ 2 gm/water","BIHAR","KATIHAR","BARARI                                            ","2014-10-30 11:04:26.917"
+"RABI","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","Application of fertilizers","Apply 15 t/ha of FYM and 2 kg each of Azospirillum and Phosphobacterium as basal and 120 kg N, 240 kg P and 120 kg K/ha in two splits; half as basal and the balance for top dressing on 30 days after sowing.  Apply Magnesium sulphate at 60 kg/ha as basal dose.","BIHAR","KATIHAR","KORHA                                             ","2014-10-30 17:53:26.177"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","KATIHAR","MANIHARI                                          ","2014-10-31 06:31:11.553"
+"KHARIF","AGRICULTURE","Oilseeds","Mustard","	Field Preparation	","Weather information","Very low Cloudy weather in your area","BIHAR","KATIHAR","KADWA                                             ","2014-10-31 13:50:14.843"
+"JAYAD","HORTICULTURE","Flowers","Crossandra","	Plant Protection	","Weather information","Chance of precipitation to some extent in your area","BIHAR","KATIHAR","DANDKHORA                                         ","2014-10-31 14:36:42.967"
+"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","INSECT MANAGEMENT","QUNILPHOSH 1.5 ML /LITER","BIHAR","KATIHAR","BARSOI                                            ","2014-10-31 15:53:40.143"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","VARIETY OF WHEAT","HD 2733 , PBW 343,PBW-443,HD-2967,1761, HD-2967, RAJ-3765, C-306, W-14, K-9107, K9107,K9006,K.307, PBW.343,PBW - 443, K. 8804, HD 2733,HUW.468","BIHAR","KATIHAR","MANIHARI                                          ","2014-10-31 17:20:28.880"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Mostly sunny
+
+Max UV Index: 6 (High) 
+Thunderstorms: 0% 
+Precipitation: 0 in 
+Rain: 0 in 
+Snow: 0 in 
+Ice: 0 in 
+Hours of Precipitation: 0 hrs 
+Hours of Rain: 0 hrs","BIHAR","KATIHAR","FALKA                                             ","2014-10-31 17:23:50.990"

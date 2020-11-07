@@ -1,0 +1,81 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","control of bph in paddy ?","??? ??? ???? ??? ?? ???????? ???? ????????????? 25% ?? ????? ?? ????????????? 36 % 400 ??.?? ?? ?????????????? 17.8% 40 ???? ?? ????????????? 25% 320 ??.??.????? ??? ?????? ???","CHHATTISGARH","Balod","GUNDERDEHI","2014-11-01 11:04:33.913"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","How to control of fungal attack in brinjal crop?","Mancozeb 63% + Carbendazim 12% WP 40 gram and steptrocyclin 2 gram at 15 liter of water.","CHHATTISGARH","Balod","GUNDERDEHI","2014-11-01 12:46:59.387"
+"KHARIF","HORTICULTURE","Fruits","Citrus","	Plant Protection	","Which fertilizer and nutrient give for better growth in citrus crop?","apply N:p:K 19:19:19 @ 100 GRAM AND HUMIC ACID 30 ML PER PUMP .","CHHATTISGARH","Balod","GUNDERDEHI","2014-11-02 12:20:03.867"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Market Information","mandi rat of paddy","Navapara	Paddy(Dhan)	168.6	Tonnes	NR	HMT	FAQ	1701	1725	1712	Rs/Quintal
+Tonnes		MTU-1008	FAQ	1234	1291	1265	Rs/Quintal
+Tonnes		Samba Masuri	FAQ	1300	1501	1460	Rs/Quintal
+Tonnes		Swarna Masuri (OLD)	FAQ	1265	1287	1275	Rs/Quintal","CHHATTISGARH","Balod","GURUR","2014-11-02 15:23:01.940"
+"RABI","AGRICULTURE","Others","Others","Weather","govermwent schymes","aa","CHHATTISGARH","Balod","BALOD","2014-11-03 07:09:38.963"
+"RABI","HORTICULTURE","Fruits","Acid Lime","	Plant Protection	","control of canker in acid lime  ?","spray of Copper oxychloride (COC) 0.3% is done followed by 4 sprayings with Streptocyclin 100 ppm + COC 1.5 kg/ha at monthly intervals.","CHHATTISGARH","Balod","GURUR","2014-11-03 08:19:22.933"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","WEATHER INFORMATION ?","----------------------------------------------------------------------------------------------------
+                              DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              07/11               08/11               09/11               10/11               11/11
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-06 10:59:31.653"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","how to increse yield of padddy ?","use npk 191919 100g\pump","CHHATTISGARH","Balod","GUNDERDEHI","2014-11-06 11:29:26.060"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","DAY-1               DAY-2               DAY-3               DAY-4               DAY-5
+                              08/11               09/11               10/11               11/11               12/11
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   8                   6                   0
+Max Temperature ( deg C)       29                  29                  30                  31                  31
+Min Temperature ( deg C)       16                  16                  18                  21                  20
+Total cloud cover (octa)        8                   7                   6                   4                   3
+Max Relative Humidity (%)      61                  64                  93                  92                  82","CHHATTISGARH","Balod","DONDI","2014-11-07 13:47:39.213"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","which fertilizer and nutrient give for better growth in paddy crop?","Spray N: P: K 19:19:19 100 grams and humic acid 30 ml at 15 liter of water.","CHHATTISGARH","Balod","DONDI","2014-11-09 10:18:57.853"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","Test Call.","Test Call.","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-09 13:10:30.297"
+"RABI","AGRICULTURE","Cereals","Wheat","Weather","weather information","????? ??? ?? ????
+???? ??: +32°
+?????: +19°
+???: 47.7%
+????????????: 4 ????????
+???? ?? 9.11. 02:30 pm
+?? ???? ??? Pbo Raipur
+????? ????????, Pbo Raipur >","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-09 17:31:54.223"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","Test Call.","Test Call.","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-10 15:00:06.763"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","Balod 1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 30°C on Tue afternoon, min 22°C on Wed night). Wind will be generally light.Balod 4 – 7 Day Weather Forecast Summary: Mostly dry. Warm (max 31°C on Sun afternoon, min 22°C on Fri night). Wind will be generally light.","CHHATTISGARH","Balod","DONDI","2014-11-11 07:23:36.557"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","Balod 1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 30°C on Tue afternoon, min 22°C on Wed night). Wind will be generally light.Balod 4 – 7 Day Weather Forecast Summary: Mostly dry. Warm (max 30°C on Fri afternoon, min 23°C on Fri night). Wind will be generally light.","CHHATTISGARH","Balod","GUNDERDEHI","2014-11-11 13:09:06.883"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","Damping off of tomato occurs in two stages, i.e. the pre-emergence and the post-emergence phase.","Drench with Copper oxychloride 0.2% or Bordeaux mixture 1%.
+Seed treatment with fungal culture Trichoderma viride (4 g/kg of seed) or Thiram (3 g/kg of seed) is the only preventive measure to control the pre-emergence damping off.
+Spray 0.2% Metalaxyl when there is cloudy weather","CHHATTISGARH","Balod","BALOD","2014-11-11 17:05:57.010"
+"RABI","HORTICULTURE","Fruits","Citrus","	Plant Protection	","Which fertilizer and nutrient give for better growth in citrus crop?","Recommended for Spray N: P: K 19:19:19 100 grams and humic acid 30 ml at 15 liter of water.","CHHATTISGARH","Balod","GURUR","2014-11-12 10:35:44.787"
+"RABI","AGRICULTURE","Others","Others","Weather","tell me weather information.","chance of  no rainfalll next five days .","CHHATTISGARH","Balod","GURUR","2014-11-12 20:48:52.933"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Both nymphs and adults suck the sap from individual grains, which are in milky stage.","Dust any one of the following at 25 kg/ha twice first during flowering and second a week later. Quinalphos 1.5 D, Fenitrothion 2 D, Carbaryl 10 D and Malathion 5D.","CHHATTISGARH","Balod","GURUR","2014-11-12 21:42:00.700"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","farmer want to know information about weather?","13/11               14/11               15/11               16/11               17/11
+------------------- ------------------- ------------------- ------------------- ------------------- -------------------
+Rainfall (mm)                   0                   0                   0                   0                   0","CHHATTISGARH","Balod","BALOD","2014-11-13 06:38:17.380"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information ?","chance of no  rainfall next five days.","CHHATTISGARH","Balod","BALOD","2014-11-13 14:57:23.577"
+"RABI","HORTICULTURE","Vegetables","Lab Lab","	Plant Protection	","how to control Mosaic in lab lab ?","spray metasystox 25% EC @ 1-2 ml/litre of water to control aphids.","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-13 17:28:54.357"
+"RABI","HORTICULTURE","Vegetables","Cowpea (Vegetable)","	Plant Protection	","how to improve growth ?","recommended for foliar application of IFFCO 19:19:19 water soluble fertilizer @ 150 gm/sprayer.","CHHATTISGARH","Balod","BALOD","2014-11-13 17:32:39.040"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","How to control Blast disease in paddy crop?","Recommended for Spray Tricyclazol, hexacorazol, propiconazol 20-25 ml per pump and steptrocyclin 2 to 3 gram per pump.","CHHATTISGARH","Balod","GURUR","2014-11-14 06:28:31.257"
+"RABI","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","farmer want to know information about How to control of fungal attack in pomegranate crop ?","???? ????? ????????   50 %  ????? ?? ??? ?? 45 ????? ?? ?????????????????? 90% w/w ??? ?? 2 ????? ??? ?? 15 ???? ???? ?? ??? ?????? ?????? ???","CHHATTISGARH","Balod","GURUR","2014-11-14 08:39:21.837"
+"RABI","HORTICULTURE","Vegetables","Beans ","	Plant Protection	","How to control of fungal attack in beans crop?","Mancozeb 63% + Carbendazim 12% WP 40 gram  at 15 liter of water.","CHHATTISGARH","Balod","GURUR","2014-11-15 16:51:24.860"
+"RABI","AGRICULTURE","Others","Others","Weather","Farmer want to know information about       weather forecast  ?","Balod 1 – 3 Day Weather Forecast Summary: Mostly dry. Warm (max 30°C on Sun afternoon, min 21°C on Tue night). Wind will be generally light.","CHHATTISGARH","Balod","BALOD","2014-11-16 18:00:17.117"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Control  of  Blight, Rust, Leaf Spot  of wheat ,paddy  and Ground nut ?","Spray of  Propiconazole 25% EC @ 1 ml/ litre of water.","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-18 12:46:58.757"
+"KHARIF","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","	Plant Protection	","how to control bean aphids ?","spray Methyl demeton 25 EC 500 ml/hectare to control bean aphids .","CHHATTISGARH","Balod","GURUR","2014-11-18 20:46:41.257"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information ?","some clouds in your area","CHHATTISGARH","Balod","BALOD","2014-11-18 20:51:54.633"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","What are fertilizer doses in paddy crop?","Recommended fordos of N:P:K 100:50:40  Urea = 200 KG., DAP = 108. Kg., MOP = 66. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","Balod","BALOD","2014-11-19 17:42:54.350"
+"RABI","HORTICULTURE","Fruits","Mango","	Plant Protection	","Control  of  BPH, Leaf Folder, Army Worm, Leaf Eating, Caterpilar, Red pumpkin Beetle, Pyrilla  of  Paddy, Soyabean, Cucurbits, Sugarcane ?","Spray of  Dichlorvos 76% EC  @ 250-350 ml/acre.","CHHATTISGARH","Balod","GURUR","2014-11-20 07:00:32.223"
+"RABI","AGRICULTURE","Others","Others","Government Schemes","how to start mandi rate in mobile ?","your number is registard in kcc","CHHATTISGARH","Balod","GURUR","2014-11-20 12:03:29.267"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","how to control weeds  in gram ?","Pre emergence application of Pendimethalin @ 2.5 litres on 3rd day after sowing using Backpack/ Knapsack/Rocker sprayer fitted with flat fan nozzle using 500 litres of water for spraying one ha followed by one hand weeding on 25 - 30 days after sowing.","CHHATTISGARH","Balod","GUNDERDEHI","2014-11-20 14:28:43.847"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","tell me nurseri bed preparation of paddy ?","Select 800 m2 of land area near to water source for raising seedlings for one hectare.","CHHATTISGARH","Balod","GURUR","2014-11-20 15:44:38.437"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","How to control of fungal attack in Bengal gram crop?","Recommended for Mancozeb 63% + Carbendazim 12% WP 40 gram and steptrocyclin 2 gram at 15 liter of water","CHHATTISGARH","Balod","GURUR","2014-11-21 11:51:47.740"
+"KHARIF","AGRICULTURE","Cereals","Barley (Jau)","	Plant Protection	","Test Call.","Test Call.","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-21 14:57:13.537"
+"RABI","AGRICULTURE","Cereals","Triticale","	Plant Protection	","Test Call.","Test Call.","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-21 15:08:12.300"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","Which fertilizer and nutrient give for better growth ?","Spray N: P: K 19:19:19 100 grams and humic acid 30 ml at 15 liter of water.","CHHATTISGARH","Balod","BALOD","2014-11-22 11:16:39.197"
+"RABI","AGRICULTURE","Cereals","Barley (Jau)","	Plant Protection	","Test Call.","Test Call.","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-22 12:00:12.720"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","What are fertilizer doses in paddy crop?","Recommended for Urea = 131. KG., DAP = 108. Kg., Muriate of potash = 50. Kg. and zinc sulphate 25 kg   Use per hectare","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-23 11:05:33.980"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","Seed treatment in soybean crop?","Recommended for Use bavastim or vitavex power 2-2.50 gm per kg of seed.","CHHATTISGARH","Balod","BALOD","2014-11-23 11:32:33.620"
+"KHARIF","AGRICULTURE","Green Manure","Dhaincha","Cultural Practices","Test Call.","Test Call.","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-23 15:03:37.430"
+"RABI","AGRICULTURE","Cereals","Barley (Jau)","	Plant Protection	","Test Call.","Test Call.","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-23 16:40:24.480"
+"RABI","HORTICULTURE","Vegetables","Beans ","	Plant Protection	","How to control flower drop problem","Spray Plano fix 4 to 5 Ml at 15 liter of water","CHHATTISGARH","Balod","GUNDERDEHI","2014-11-23 16:59:11.030"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","seed treatment in gram ?","treatseed with bavistin @ 3 gm / kg seed","CHHATTISGARH","Balod","GURUR","2014-11-25 12:02:33.387"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","how to control collar rot in brinjal ?","spot drenching with  carbendazim @ 1gm/litre of water to control collar rot in brinjal  .","CHHATTISGARH","Balod","GUNDERDEHI","2014-11-25 15:27:05.433"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","VARIETIES OF PADDY","ARIAS 6644,US 312,DRS 775,PAC 807,VNR 2245,SUROOCHI,JKRH 401,KO RH 3.","CHHATTISGARH","Balod","DONDI","2014-11-25 15:56:46.220"
+"RABI","AGRICULTURE","Cereals","Barley (Jau)","	Plant Protection	","Test Call.","Test Call.","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-25 17:50:00.663"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","How to control of sucking pest","Imidacloprid 17.8 % SL 3.0 ml/10 lit., Dimethoate 30 % EC 1.0 ml/lit., Emamectin benzoate 5 % SG 4 g/10 lit,. Ethion 50 % EC 2.0 2.0 ml/lit. ,Fipronil 5 % SC 1.5 ml/lit. ,Thiacloprid 21.7 % SC 6.0 ml/10 lit. , Spinosad 45 % SC Spinosad 45 % SC.","CHHATTISGARH","Balod","DONDI","2014-11-25 17:58:07.520"
+"RABI","AGRICULTURE","Cereals","Barley (Jau)","	Plant Protection	","Test Call.","Test Call.","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-27 13:14:37.350"
+"RABI","AGRICULTURE","Others","Others","Government Schemes","farmer wantts to registration for sms alert ?","your mobile number has been registerd for sms alert .","CHHATTISGARH","Balod","BALOD","2014-11-27 21:07:20.370"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","What are fertilizer doses in paddy crop?","Recommended fordos of N:P:K 100:50:40  Urea = 200 KG., DAP = 108. Kg., MOP = 66. Kg. and zinc sulphate 25 kg   Use per hectare.","CHHATTISGARH","Balod","BALOD","2014-11-27 21:12:10.120"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","Which fertilizer and nutrient give for better growth","Recommended for Spray N: P: K 19:19:19 100 grams and humic acid 30 ml at 15 liter of water.","CHHATTISGARH","Balod","BALOD","2014-11-28 17:55:47.227"
+"RABI","HORTICULTURE","Vegetables","Tomato","Cultural Practices","tell me sowing time  of tomato ?","sowing tome of tomato - May - June and November – December","CHHATTISGARH","Balod","	DONDILOHARA","2014-11-30 20:27:23.537"

@@ -1,0 +1,890 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"","AGRICULTURE","Others","Others","Weather","weather","20% ain fall","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-01 06:20:34.000"
+"","HORTICULTURE","Fruits","Pomegranate","Market Information","pomogranate rate","BINNY MILL (F&V) Pomogranate Average 1026 Quintal  4100 5100 4600","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-01 06:53:17.000"
+"","HORTICULTURE","Flowers","Chrysanthemum","	Plant Protection	","disease","magnesium sulphate, carbendazium at 2g in 1 litre water","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-01 07:13:11.000"
+"","HORTICULTURE","Fruits","Pomegranate","Bio-Pesticides and Bio-Fertilizers","pomagranate disease + fertilizer","carbondizium 2g/lt of water + 10:26:26 400:200:200 gram per liter","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-01 07:14:18.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Overcast 
+
+
+Chance of
+Precipitation
+
+20%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-01 07:36:25.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Overcast 
+
+
+Chance of
+Precipitation
+
+20%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-01 08:00:44.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion disease","spot drench with copper oxi chloride-3gram/liter","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-01 08:05:44.000"
+"","HORTICULTURE","Vegetables","Onion","","onion fertilizers","apply 25-kgs of urea/acare","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-01 08:55:43.000"
+"","AGRICULTURE","Others","Others","Weather","Challakere Weather Forecast","10%chance of precipitation","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-01 09:12:29.000"
+"","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","weedicide","hand weeding","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-01 09:14:32.000"
+"","AGRICULTURE","Others","Others","Weather","cloudy weather","cloudy weather","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-01 09:24:58.000"
+"","AGRICULTURE","Others","Others","Weather","weather","cloudy weather","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-01 09:28:10.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton weedicide","Spray 2, 4-D-2gram/liter","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-01 09:31:18.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Mostly Cloudy 
+
+
+Chance of
+Precipitation
+
+20%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-01 10:24:32.000"
+"","HORTICULTURE","Fruits","Pomegranate","","pomagranate growth improvement","Spray 19 all-2g/liter","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-01 10:51:42.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","pest","dichlorovas at 2ml in 1 litre water","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-01 11:56:59.000"
+"","AGRICULTURE","Others","Others","Agriculture Mechanization","dichlorophous","1 1/2 ml per lt of water","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-01 12:07:00.000"
+"","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","tamoto calcium deficiency","spray calcium chloride 1.5 gm /liter","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-01 13:04:03.000"
+"","AGRICULTURE","Others","Others","","weather report","rain 10%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-01 16:25:14.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","basal rot","•Soil drenching with Copper oxychloride 0.25 %.","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-01 16:48:00.000"
+"","AGRICULTURE","Others","Others","Training and Exposure Visits","veternary no.","080-23417100","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-01 17:41:22.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion pest","acephate at 2g in 1 litre water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-02 07:10:18.000"
+"","HORTICULTURE","Fruits","Papaya","	Plant Protection	","flower dropping in papaya","planofix at 4ml in 16 litres water","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-02 07:46:43.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Agriculture Mechanization","cottan development","biozene 2ml/lt of water","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-02 08:06:36.000"
+"","AGRICULTURE","Others","Others","Weather","Holalkere Weather Forecast","20% Chance of precipitation","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-02 08:26:02.000"
+"","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","tomato ripening","tricantanol 1.25mg/litre of water","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-02 10:18:43.000"
+"","AGRICULTURE","Others","Others","Weather","Hosdurga Weather Forecast","10% Chance of precipitation","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-02 10:32:05.000"
+"","AGRICULTURE","Others","Others","","maize disease","magnesium sulphate 2gm in 1liter water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-02 10:43:37.000"
+"","AGRICULTURE","Others","Others","","Weather report","Weather report –  partly cloudy ..    50 % chance of rain","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-02 11:03:10.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","fertilizers","urea 50kg per acre","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-02 11:15:04.000"
+"","HORTICULTURE","Vegetables","Brinjal","","brinzal Leaf spot","Leaf spot-spray mancozeb 2gm/lit,,,","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-02 11:16:11.000"
+"","AGRICULTURE","Others","Others","","weather","Saturday, 2
+
+79 | 69 °F 
+Overcast 
+Chance of
+Precipitation
+20%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-02 11:29:18.000"
+"","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","10% Chance of precipitation","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-02 12:22:38.000"
+"","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","fruit borer","carbaryl 3g/l water","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-02 15:40:01.000"
+"","AGRICULTURE","Others","Others","","weather report","rain 10%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-02 16:24:51.000"
+"","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","pomegranate fruit disease","coc 3gm/litre of water","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-02 16:26:36.000"
+"","HORTICULTURE","Vegetables","Ash Gourd (Petha)","Market Information","market rate","BINNY MILL (F&V) Ashgourd Average  Numbers  800 1000 900","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-02 17:26:47.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Mostly Cloudy 
+Chance of
+Precipitation
+10%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-02 17:27:54.000"
+"","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","sucking pest","dimethoate 1.7ml/l","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-02 18:04:46.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Mostly Cloudy","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-02 20:15:17.000"
+"","AGRICULTURE","Others","Others","Weather","weedicide","oxyflorafin 2ml/l","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-02 20:40:24.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","cotton Leaf curl","Leaf curl-spray acitamapride 0.25ml/liter of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-03 07:51:33.000"
+"","AGRICULTURE","Millets","Maize (Makka)","","maize pest","Shoot borer = spray carboril 2ml","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-03 07:56:24.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","cotton Leaf curl","Leaf curl-spray acitamapride 0.25ml/liter of water  ..spray saaf 2 grams/liter of water..","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-03 08:07:22.000"
+"","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","Chance of T-storms 
+Chance of
+Precipitation
+50%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-03 08:25:04.000"
+"","HORTICULTURE","Plantation Crops","Coconut","	Plant Protection	","about coconut plantation","Horticulture Helpline	080-22742103","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-03 08:54:48.000"
+"","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","","niger varities","•	COWPEA (ALASANDHE) --- T.V.X-944, K.B.C-1, K.M-5, P.K.B-4 (FOR VEGETABLES)
+•	SOYA BEAN --- K.H.S.B-2, K.B-79, KARUNE (FOR VEGETABLES), M.A.U.S-2 (POOJA)
+•	AVARE ---- H.A-3, 4
+•	BEANS --- K.B.H-1, P.H.G-9
+•	NIGER (HUCCHEYELLU) --- K.B.N","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-03 09:01:13.000"
+"","HORTICULTURE","Vegetables","Brinjal","","BRINJAL DISEASE","CARBENDIIUM","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-03 09:35:05.000"
+"","AGRICULTURE","Others","Others","","disease","mancozeb 1liter water 2gm","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-03 09:46:59.000"
+"","AGRICULTURE","Others","Others","","coriander disease","carbendezim 2 gm per liter","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-03 11:20:33.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion disese","stepto cyclin 2 ml / liter","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-03 11:25:58.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","cotton tripes","spray dimethoate 2ml/ or dicofol 2ml/liter of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-03 12:01:25.000"
+"","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","40%chance of precipitation","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-03 12:16:53.000"
+"","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","onion disease","saaf 2 gm per liter","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-03 12:55:59.000"
+"","AGRICULTURE","Others","Others","Weather","weather","50% chance of rain","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-03 13:20:51.000"
+"","HORTICULTURE","Vegetables","Onion","","tomato pest","spray takumi 0.5 grams/liter of water","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-03 13:29:34.000"
+"","AGRICULTURE","Others","Others","","WETHER REPORT","50  % Chance of precipitation","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-03 13:47:58.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Mostly Cloudy 
+Chance of
+Precipitation
+10%","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-03 14:18:20.000"
+"","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","maize fungal disease","carbendizium 2gm/litre of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-03 16:48:06.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Mostly Cloudy","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-03 17:20:35.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Partly Cloudy","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-03 17:27:32.000"
+"","HORTICULTURE","Vegetables","Onion","","ONION FERTILIZER","onino special 2 ml per liter","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-04 08:57:48.000"
+"","AGRICULTURE","Others","Others","","weather","Chance of T-storms 
+Chance of
+Precipitation
+40%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-04 10:03:19.000"
+"","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","brinjal leaf eatter","spray chloropyrifos 2m/lt","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-04 10:50:44.000"
+"","HORTICULTURE","Vegetables","Tomato","","tomato pest","Dichlorovas  2ml","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-04 11:07:01.000"
+"","HORTICULTURE","Vegetables","Chillies","","chilly fertilizer","planofix 1 ml per 4 liter of liter","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-04 11:21:02.000"
+"","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","WETHER      20     % Chance of precipitation","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-04 11:24:22.000"
+"","HORTICULTURE","Fruits","Banana","Agriculture Mechanization","banana development","biozene 2ml/lt of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-04 11:33:32.000"
+"","HORTICULTURE","Vegetables","Onion","Vegetative Propagation and Tissue Culture","ONION DISEASE","19 - ALL 2 ML / LITER","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-04 11:41:45.000"
+"","HORTICULTURE","Vegetables","Onion","Power, Roads etc.","oni0n disease","coc 2ml/lt of water","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-04 11:43:33.000"
+"","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","Mostly Cloudy 
+Chance of
+Precipitation
+20%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-04 11:46:12.000"
+"","HORTICULTURE","Fruits","Banana","","banana fertilizer","banana special 75 gm per 15 liter of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-04 11:50:50.000"
+"","HORTICULTURE","Fruits","Pomegranate","Water Management, Micro Irrigation","pomegranite disease","Horticulture Helpline	080-22742103","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-04 11:53:18.000"
+"","HORTICULTURE","Plantation Crops","Arecanut","Water Management, Micro Irrigation","aracanut weeding","2 4 D 2 ml / liter","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-04 12:05:43.000"
+"","HORTICULTURE","Vegetables","Onion","","onion pest","Shoot or Root borer-apply 10 grams of  phorate or carbofuron/ plant","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-04 12:24:41.000"
+"","HORTICULTURE","Vegetables","Onion","","onion Shoot borer","Shoot borer = spray carboril 2ml","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-04 12:28:59.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion leaf spot","spray carbendizium 2g/lt","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-04 12:58:20.000"
+"","HORTICULTURE","Plantation Crops","Arecanut","","arecanut fertilizer","boron 50 gm per tree","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-04 13:22:12.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion fungal disease","recomended mancozeb 2gm/litre of water","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-04 14:24:01.000"
+"","HORTICULTURE","Vegetables","Tomato","Fertilizer Use and Availability","tomato size","biozem 2ml/litre of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-04 14:57:37.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Weather","weather report","chance of rain 50%","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-04 15:09:03.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","Plant protection","for onion copper oxy chloride, 2.5gm/ltr and for groundnut weed managementQuizalofop-p -ethyl @1.5ml/ltr","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-04 16:37:51.000"
+"","AGRICULTURE","Others","Others","","weather report","rain 10%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-04 17:42:27.000"
+"","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","Chance of
+Precipitation
+20%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-04 17:43:26.000"
+"","AGRICULTURE","Others","Others","Weather","weaather report","Mostly Cloudy","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-04 17:48:31.000"
+"","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","Weather","Weather report","Chance of precipitation 20% tonight, and rain is possible to be occur on coming wednesday 50% and Thursday 60% Rain is likely to be happened","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-04 18:26:57.000"
+"","HORTICULTURE","Vegetables","Onion","Agriculture Mechanization","onion  disease + beans varities","mancozeb 2ml/lt of water + BEANS --- K.B.H-1, P.H.G-9","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-05 07:25:27.000"
+"","HORTICULTURE","Vegetables","Tomato","Agriculture Mechanization","tamato disease","emidachlopride 1ml/4lt of water","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-05 08:06:39.000"
+"","AGRICULTURE","Others","Others","Weather","Hosdurga Weather Forecast","78 | 68 °F 
+Overcast 
+Chance of
+Precipitation
+20%","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-05 08:14:52.000"
+"","AGRICULTURE","Others","Others","Weather","Holalkere Weather Forecast","77 | 68 °F 
+Chance of Rain 
+Chance of
+Precipitation
+40%","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-05 08:20:34.000"
+"","HORTICULTURE","Plantation Crops","Arecanut","","arecanut nut size","fertilizer","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-05 08:21:08.000"
+"","AGRICULTURE","Others","Others","Weather","weather + cottan disease","30% + dimethioate 2ml/lt of water or acetamapride 2ml/lt of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-05 09:52:34.000"
+"","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","maize yellowing","spray saaf 2g/lt","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-05 10:09:32.000"
+"","AGRICULTURE","Millets","Maize (Makka)","","maize fertilizer","19 all 2 gm per liter","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-05 10:19:27.000"
+"","AGRICULTURE","Others","Others","Weather","weather","30%","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-05 10:39:44.000"
+"","AGRICULTURE","Others","Others","Weather","Hiriyur Weather Forecast","20%chance of precipitation","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-05 10:59:10.000"
+"","AGRICULTURE","Others","Others","","sowing season","•	RAGI --- G.P.U-66, 28, 26, 45, 48, INDOF-5, 9, P.R-202, H.R-911
+•	SUGARCANE --- C.O-419,  62175, 7804, C.O.C-671","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-05 11:02:11.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Chance of Rain 
+Chance of
+Precipitation
+50%
+Chance of Rain 
+Chance of
+Precipitation
+50%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-05 11:20:59.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","cotton flower drop","planofix 1ml per 4 liter of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-05 11:55:16.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton pest","rogar 2 ml per litre","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-05 13:02:02.000"
+"","AGRICULTURE","Others","Others","","weather","Tuesday, 5
+
+
+
+
+79 | 68 °F 
+
+Chance of Rain 
+
+
+Chance of
+Precipitation
+
+30%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-05 13:10:55.000"
+"","AGRICULTURE","Others","Others","","weather","partly cloudy","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-05 13:15:54.000"
+"","AGRICULTURE","Others","Others","Weather","weather","40-50%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-05 13:27:17.000"
+"","HORTICULTURE","Vegetables","Onion","","onion disease","confidor 2 ml / liter","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-05 13:29:13.000"
+"","HORTICULTURE","Plantation Crops","Arecanut","","arecanut disease","coc 2 gm per liter","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-05 13:38:14.000"
+"","AGRICULTURE","Others","Others","","mandi rate","activated","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-05 14:01:42.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Partly Cloudy","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-05 14:11:13.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest and flower drop in cotton","SPRAY DIMEHIOATE @ 1.5ml/litre
+spray planofix @ 1ml/4 litre","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-05 14:54:28.000"
+"","HORTICULTURE","Fruits","Pomegranate","Field Preparation","varities","bhaghwa,ganesh","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-05 15:49:44.000"
+"","HORTICULTURE","Fruits","Banana","	Plant Protection	","panama","carbendazim 1g/l•Corm injection of 3 ml of 2% Carbendezim injected in the corm by making a hole to a depth of 10cm with 45 0 angle on 5 th and 7 th month as mentioned earlier","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-05 17:11:54.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Overcast 
+Chance of
+Precipitation
+10%","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-05 17:40:13.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","leaf fall","planofix 1ml/4 lwater","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-05 18:15:18.000"
+"","AGRICULTURE","Others","Others","","WEATHER REPORT","RAIN 10%","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-05 19:02:25.000"
+"","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","tomato disease","coc at 3g in 1 liter water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-06 08:06:27.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","cotton developmaent","y 19 all fertilizers 2-3 grams/ liter
+
+Spray general tonic 4ml/lit or  biozyme 2ml/lit -for vegetative growth or
+Ulala 10ml/15ltr","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-06 08:06:52.000"
+"","HORTICULTURE","Vegetables","Tomato","","tomato Leaf spot","Leaf spot-spray mancozeb 2gm/lit,,,","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-06 08:35:00.000"
+"","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","tomato pest","imidachlopride,carbendazium","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-06 09:46:36.000"
+"","AGRICULTURE","Others","Others","","disease","saaf 2gm in 1litr water","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-06 10:51:07.000"
+"","HORTICULTURE","Plantation Crops","Arecanut","","arecanut dropping","apply boron 50-80grams/plant","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-06 10:59:11.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion disease","mancozeb 2g /lt of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-06 11:00:39.000"
+"","HORTICULTURE","Vegetables","Onion","Agriculture Mechanization","onion disease","acetamopride 2g/lt of water","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-06 11:12:03.000"
+"","HORTICULTURE","Vegetables","Onion","","onion fertilizer","megnisium sulphate 2 gm per liter","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-06 11:54:00.000"
+"","HORTICULTURE","Vegetables","Onion","Agriculture Mechanization","onion red leaves and rotting","qunolphose 2ml/lt of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-06 11:54:37.000"
+"","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","","green gram mnadi rate","BANGALORE
+
+Green Gram (Whole)
+
+Average
+
+204
+
+Quintal 
+
+7000
+
+9000
+
+8000","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-06 12:14:50.000"
+"","AGRICULTURE","Others","Others","Agriculture Mechanization","pumpkin development","biozene","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-06 12:18:40.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Overcast 
+
+
+Chance of
+Precipitation
+
+20%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-06 12:47:16.000"
+"","HORTICULTURE","Vegetables","Onion","","onion fertilizer","saaf 2 gm per liter","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-06 13:54:37.000"
+"","AGRICULTURE","Pulses","Black Gram (urd bean)","Weather","Weather report","Chance of rain 40% tonight","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-06 14:35:40.000"
+"","HORTICULTURE","Vegetables","Chillies","Field Preparation","varities","arka lohith1 byadagi kaddi","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-06 15:14:31.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion fungicides","Recommended spray of MANCOZEB 2gm/litre of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-06 16:17:39.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Chance of
+Precipitation
+40%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-06 16:40:57.000"
+"","AGRICULTURE","Millets","FingerMillet  (Ragi/Mandika)","	Plant Protection	","varities","•	RAGI --- G.P.U-66, 28, 26, 45, 48, INDOF-5, 9, P.R-202, H.R-911","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-06 17:40:54.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Chance of Rain 
+Chance of
+Precipitation
+30%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-06 19:21:03.000"
+"","HORTICULTURE","Vegetables","Others","","onion growth","spray 19 all fertilizers 2-3 grams/ liter
+
+Spray general tonic 4ml/lit or  biozyme 2ml/lit -for vegetative growth or
+Ulala 10ml/15ltr","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-07 07:37:05.000"
+"","AGRICULTURE","Others","Others","","weather report","no precipitation","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-07 08:00:44.000"
+"","AGRICULTURE","Others","Others","","Hebbal Fishery","Hebbal Fishery	080-23515644","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-07 09:20:01.000"
+"","HORTICULTURE","Fruits","Banana","","banana fertilizer","boron  2 gm/ liter","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-07 09:31:02.000"
+"","AGRICULTURE","Millets","FingerMillet  (Ragi/Mandika)","","fingermillet","19 all","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-07 09:40:40.000"
+"","AGRICULTURE","Others","Others","Weather","weather","clouddddddy weather","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-07 09:44:58.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Chance of T-storms 
+
+
+Chance of
+Precipitation
+
+50%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-07 09:45:19.000"
+"","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","","groundnut redding","spray saaf 2grams/liter of water","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-07 10:04:34.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion disease","carbendazium at 2g in 1 liter water","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-07 10:07:39.000"
+"","AGRICULTURE","Others","Others","","cotton","urea","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-07 10:15:45.000"
+"","HORTICULTURE","Vegetables","Onion","","onion fertilizer","onion special 2 ml per liter","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-07 10:36:13.000"
+"","AGRICULTURE","Others","Others","","Weather report","Weather report –  partly cloudy .. 50 %    chance of rain","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-07 12:09:45.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton flower dropping","planofix at 1ml in 4liters water","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-07 12:27:06.000"
+"","AGRICULTURE","Others","Others","","weather","Thursday, 7
+
+
+
+
+79 | 68 °F 
+
+Overcast 
+
+
+Chance of
+Precipitation
+
+20%","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-07 13:00:10.000"
+"","AGRICULTURE","Others","Others","","Weather report","Weather report –  partly cloudy .. 50 %    chance of rain","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-07 13:09:56.000"
+"","AGRICULTURE","Others","Others","Weather","tobacon","12000-1500  tonne","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-07 13:14:42.000"
+"","HORTICULTURE","Fruits","Citrus","","about horticulture","•	????????? ?????? ??????  =     080 22742103","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-07 13:38:53.000"
+"","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","plant protecion","NAA@4g/10ltr","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-07 14:18:45.000"
+"","AGRICULTURE","Others","Others","","weather report","rain 20%","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-07 14:25:49.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","40% chance of precipitation","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-07 14:43:36.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Weather","Weather report","Chance of rain rain 30% tommorow","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-07 15:26:19.000"
+"","AGRICULTURE","Others","Others","","weather report","rain 20%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-07 16:59:29.000"
+"","AGRICULTURE","Others","Others","","weather report","rain 10%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-07 19:27:45.000"
+"","HORTICULTURE","Vegetables","Tomato","","tamoto disease","saff 2 gm / liter","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 07:31:18.000"
+"","HORTICULTURE","Vegetables","Onion","Market Information","onion market price","BANGALORE Local Average 3793 Quintal  1200 1600","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-08 08:17:05.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","cotton disease","magnesium supply 2 gm / liter","KARNATAKA","CHITRADURGA","","2014-08-08 08:32:51.000"
+"","HORTICULTURE","Vegetables","Cauliflower","","caulifower rot disaese","rot disease –Spray or  drench  copper oxi chloride 3gm/lit","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 09:41:42.000"
+"","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","78 | 68 °F 
+Overcast 
+Chance of
+Precipitation
+20%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-08 09:56:25.000"
+"","AGRICULTURE","Others","Others","","Weather report","Weather report –  partly cloudy .. 50 %    chance of rain","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 10:30:23.000"
+"","AGRICULTURE","Others","Others","Weather","SEED","Quantity of seed required 
+
+                Irrigated                 Transplanted - 7.5 kg/ha;  Direct sown  -        10 kg/ha 
+                Rainfed Direct sown   - 15 kg/ha 
+                Sorghum under irrigated condition is raised both as a direct sown and transplanted crop.","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-08 11:18:44.000"
+"","AGRICULTURE","Oilseeds","Castor (Rehri, Rendi, Arandi) ","	Field Preparation	","SPACING CASTOR","Rainfed situation
+
+Irrigated situation
+
+
+
+Varieties 
+
+90 cm x 60 cm 
+
+90 cm x 90 cm 
+
+
+
+Hybrids 
+
+120 cm x 90 cm 
+
+150 cm x 120","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 11:28:29.000"
+"","AGRICULTURE","Others","Others","Weather","FORMING BEDS AND CHANNEL","Form beds of size 10 m2 or 20 m2. The irrigation channels are to be provided sufficiently.","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 11:31:27.000"
+"","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","20%chance of precipitation","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 11:44:00.000"
+"","HORTICULTURE","Vegetables","Onion","Fertilizer Use and Availability","fetilizers onion","19all 2ml/litre of water","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-08 12:41:44.000"
+"","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","79 | 68 °F 
+Chance of Rain 
+Chance of
+Precipitation
+40%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 12:45:48.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton pest","dimethoate 	2ml/litre of water","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-08 13:09:46.000"
+"","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","Agriculture Mechanization","grondnut weed control","quizalofop-p-ethyle 5ec 1.5 ml per lt of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 13:13:24.000"
+"","AGRICULTURE","Others","Others","","weather report","20 % chances of rainfall","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 13:51:07.000"
+"","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","plt devp","general tonic 1ml/4l","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 14:11:12.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower drop","planofix 1ml/4l water","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-08 15:44:44.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","lurl curl and development depressed","spray 0.3 ml per liter imidacloprid and planofix for growth","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-08 15:56:55.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Overcast 
+Chance of
+Precipitation
+10%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-08 16:36:56.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Chance of
+Precipitation
+20%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 17:30:29.000"
+"","HORTICULTURE","Fruits","Banana","Market Information","market rate","MANGALORE Elakki Bale Average Quintal  1500 4800","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-08 19:13:38.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest","confider 1ml/l water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-08 20:24:58.000"
+"","HORTICULTURE","Vegetables","Onion","","onion disase","confidor 0.5 ml / liter","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-09 06:34:57.000"
+"","AGRICULTURE","Others","Others","","Weather report","Weather report –  partly cloudy .. 50 %    chance of rain","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-09 07:03:18.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","Leaf curl","Leaf spot-spray mancozeb 2gm/lit,,, 
+
+Leaf curl   -spray acitamapride 0.25ml/liter of water  
+
+
+Leaf curl-spray acitamapride 0.25ml/liter of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-09 07:56:56.000"
+"","AGRICULTURE","Others","Others","","Weather report","Weather report –  partly cloudy .. 50 %    chance of rain","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-09 07:59:07.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton leaf curl","acetamapride at 0.25ml in 1 liter water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-09 08:38:55.000"
+"","AGRICULTURE","Others","Others","	Plant Protection	","cotton powdry  mildew","wettable sulphur at 3g in 1 liter water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-09 09:06:46.000"
+"","AGRICULTURE","Others","Others","","phosphos deficiency","deficiency + confidor","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-09 09:13:30.000"
+"","AGRICULTURE","Others","Others","Weather","weather","cloudy weather","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-09 10:00:10.000"
+"","AGRICULTURE","Others","Others","Weather","Challakere Weather Forecast","40%chance of precipitation","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-09 10:12:04.000"
+"","AGRICULTURE","Others","Others","Weather","WEATHER","20% WEATYHER","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-09 11:05:02.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Partly Cloudy 
+Chance of
+Precipitation
+20%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-09 11:23:08.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton redning","magnesium sulphate		 2g/litre of water","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-09 11:45:47.000"
+"","HORTICULTURE","Fruits","Banana","	Plant Protection	","horticulture helpline","8022742103","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-09 12:10:49.000"
+"","AGRICULTURE","Others","Others","","horti number","08028466353 / 08022742103","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-09 12:14:52.000"
+"","AGRICULTURE","Others","Others","","weather","Saturday, 9
+
+
+
+
+80 | 68 °F 
+
+Overcast 
+
+
+Chance of
+Precipitation
+
+20%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-09 12:35:10.000"
+"","HORTICULTURE","Plantation Crops","Arecanut","	Plant Protection	","arecanut pest","alluminium  phosphide tablets","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-09 12:46:17.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-09 14:42:51.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Mostly Cloudy 
+Chance of
+Precipitation
+20%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-09 15:07:45.000"
+"","AGRICULTURE","Others","Others","","weather report","rain 40%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-09 15:27:34.000"
+"","HORTICULTURE","Vegetables","Onion","Market Information","markt information","1500-2000/quintal","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-09 15:28:07.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","plant protection","dimethote@2ml/ltr","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-09 15:41:14.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Partly Cloudy 
+Chance of
+Precipitation
+20%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-09 15:49:02.000"
+"","AGRICULTURE","Millets","FingerMillet  (Ragi/Mandika)","Weather","weather report","Chance of rain 40% on tommorow","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-09 18:17:36.000"
+"","AGRICULTURE","Others","Others","Weather","fishery dept","contact fishery dept","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-09 19:01:06.000"
+"","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","Chance of Rain 
+Chance of
+Precipitation
+30%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-10 07:44:10.000"
+"","HORTICULTURE","Vegetables","Chillies","Agriculture Mechanization","rsk","08199-230029","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-10 08:37:57.000"
+"","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","30% Chance of precipitation","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-10 09:20:26.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion pest","dimethoate 	2ml/litre of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-10 10:29:02.000"
+"","HORTICULTURE","Fruits","Pomegranate","Agriculture Mechanization","pomagranate fruit holes","bevina tonic 50g/lt of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-10 11:02:30.000"
+"","HORTICULTURE","Fruits","Pomegranate","","pomogranate market","not updated","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-10 12:12:46.000"
+"","AGRICULTURE","Others","Others","Weather","Hosdurga Weather Forecast","79 | 68 °F 
+Chance of Rain 
+Chance of
+Precipitation
+40%","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-10 12:21:29.000"
+"","HORTICULTURE","Vegetables","Onion","","onion vareity","bellary red, pusa red ,arka kalyan","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-10 12:36:28.000"
+"","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","Chance of
+Precipitation
+20%","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-10 12:38:17.000"
+"","AGRICULTURE","Others","Others","Weather","weather","50%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-10 13:13:13.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","nutrient mgmt","10:26:26@120kg/acre","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-10 15:23:20.000"
+"","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","goundnut sucking pest","Recommended  spray of DIMETHOATE 2ml/litre of water","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-10 16:00:07.000"
+"","AGRICULTURE","Others","Others","","WEATHER REPORT","RAIN 20%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-10 16:28:46.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Mostly Cloudy","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-10 16:40:28.000"
+"","AGRICULTURE","Others","Others","Weather","weather report","Mostly Cloudy","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-10 16:59:53.000"
+"","HORTICULTURE","Plantation Crops","Coconut","Market Information","market rate","08/08/2014 COPRA MEDIUM  15  Quintal  18340 18350","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-10 17:32:23.000"
+"","HORTICULTURE","Vegetables","Onion","Market Information","market rate","07/08/2014 PUNA AVERAGE  16443  Quintal  2000 2300","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-10 21:14:07.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","cotton vareites","•	COTTON --- SHARADA, JAYADHAR, JAYALAKSHMI","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 06:11:32.000"
+"","HORTICULTURE","Vegetables","Onion","","onion  disease","dicofol 2 ml / liter","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-11 08:20:54.000"
+"","HORTICULTURE","Plantation Crops","Arecanut","	Plant Protection	","arecanut leaf spot","mancozeb at 2g in 1 liter water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 08:31:05.000"
+"","HORTICULTURE","Fruits","Pomegranate","","pomogranate market","No Data Found For The Commodity 
+
+COMMODITY: Pomagranate","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-11 08:46:38.000"
+"","HORTICULTURE","Vegetables","Onion","","onion pest","chloropryiphos 2ml in 1liter water","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-11 08:54:36.000"
+"","AGRICULTURE","Others","Others","Soil Testing","soil testing","contact rsk","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 09:01:30.000"
+"","","","","","","","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 09:18:42.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Agriculture Mechanization","cottan leaf curl","acetamopride 1g/4lt of water","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-11 09:19:54.000"
+"","AGRICULTURE","Others","Others","Weather","weather","cloudy weather","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 09:40:01.000"
+"","AGRICULTURE","Others","Others","Weather","weather","Chance of T-storms 
+Chance of
+Precipitation
+40%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-11 09:49:34.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","","cotton disease","confidor 1.5 ml / liter","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-11 10:08:37.000"
+"","AGRICULTURE","Others","Others","Weather","weather","50%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-11 10:14:25.000"
+"","AGRICULTURE","Others","Others","","weather","Monday, 11
+
+
+
+
+80 | 69 °F 
+
+Overcast 
+
+
+Chance of
+Precipitation
+
+20%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 10:28:55.000"
+"","AGRICULTURE","Oilseeds","Castor (Rehri, Rendi, Arandi) ","Agriculture Mechanization","CASTOR VARITIES","ARUNA,ROJI","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 10:59:05.000"
+"","HORTICULTURE","Plantation Crops","Arecanut","	Plant Protection	","arecanut pest","alluminum sheet","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-11 11:18:27.000"
+"","AGRICULTURE","Others","Others","","weather","Chance of Rain 
+Chance of
+Precipitation
+40%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-11 11:18:37.000"
+"","AGRICULTURE","Others","Others","","weather","Monday, 11
+
+
+
+
+83 | 71 °F 
+
+Chance of Rain 
+
+
+Chance of
+Precipitation
+
+40%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-11 11:27:56.000"
+"","AGRICULTURE","Others","Others","Weather","weather","40%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 11:41:54.000"
+"","FISHERIES","Inland","Cold Water","","about fisheries","08022864604","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 11:47:18.000"
+"","AGRICULTURE","Others","Others","Agriculture Mechanization","weather","50%","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-11 11:59:46.000"
+"","AGRICULTURE","Others","Others","Weather","Challakere Weather Forecast","83 | 71 °F 
+T-storms 
+Chance of
+Precipitation
+80%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-11 12:56:54.000"
+"","AGRICULTURE","Others","Others","Weather","weather","cloudy weather","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 13:00:26.000"
+"","AGRICULTURE","Others","Others","","weather report","Chance of
+Precipitation
+20%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-11 13:18:42.000"
+"","AGRICULTURE","Others","Others","Weather","weather","80%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-11 13:18:49.000"
+"","HORTICULTURE","Plantation Crops","Arecanut","	Plant Protection	","plant protection","bordeaux mixture","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 15:38:46.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","plant protection","NAA(napthalene acetic acid)@4g/ 10ltr of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 15:41:49.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion fungal disease","Recommended spray of MANCOZEB 2gm/litre of water","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-11 16:05:18.000"
+"","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","plant protection","imidachloprid@2ml/ltr of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-11 16:14:01.000"
+"","HORTICULTURE","Vegetables","Onion","	Plant Protection	","mites","dicofol 2ml/l","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-11 16:19:58.000"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","80% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-19 16:04:31.560"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","100% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-19 16:25:46.760"
+"KHARIF","AGRICULTURE","Pulses","Pigeon pea (red gram/arhar/tur)","Weather","Weather report","Chance of rain 100% in bellary","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-19 16:29:55.073"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","90% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-19 17:19:43.227"
+"KHARIF","HORTICULTURE","Plantation Crops","Coconut","Market Information","copra price","Copra Ball Medium 15 Quintal  18000 18005 18001","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-19 17:49:28.957"
+"KHARIF","ANIMAL HUSBANDRY","Animal","Sheep","Animal Nutrition","Veternary Deparment","Veternary Deparment	080-22866431/080-23410509","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-20 12:15:10.140"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Day Weather Forecast for Hosdurga
+
+
+
+
+
+
+
+
+
+Wednesday, 20
+
+
+
+
+85 | 71 °F 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-20 13:02:00.007"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Day Weather Forecast for Hiriyur
+
+
+
+
+
+
+
+
+
+Wednesday, 20
+
+
+
+
+86 | 72 °F 
+
+Chance of T-storms 
+
+
+Chance of
+Precipitation
+
+50%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-20 13:10:12.000"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","Cultural Practices","weedicide opf tomato","2,4 d","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-20 14:09:22.350"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion tip burning","Recommended spray of MANCOZEB 2gm/litre of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-20 15:26:37.980"
+"KHARIF","HORTICULTURE","Plantation Crops","Coconut","Market Information","copra market","TIPTUR Copra Medium 865 Quintal  17000 18000 17626","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-21 06:49:32.110"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","80%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-21 07:12:10.133"
+"RABI","HORTICULTURE","Vegetables","Onion","Fertilizer Use and Availability","improper development of onion bulbs","080-22742103 
+hrt helpline","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-21 07:59:18.627"
+"RABI","AGRICULTURE","Others","Others","Nutrient Management","micronutrients requirements for various crops","borax 2g/lt of water","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-21 08:36:50.110"
+"KHARIF","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","pomogranate pest","quinolphos 2 ml per liter","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-21 09:26:08.743"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","90%","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-21 09:41:41.347"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","90%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-21 09:55:26.407"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report;","•	CHANCE OF RAIN   60%","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-21 16:54:09.727"
+"KHARIF","HORTICULTURE","Plantation Crops","Arecanut","Market Information","MKT REPORT';","SHIMOGA
+
+Rashi
+
+Average
+
+112
+
+Quintal 
+
+30099
+
+45000
+
+43500
+
+
+
+SHIMOGA
+
+Saraku
+
+Average
+
+4
+
+Quintal 
+
+33160
+
+62129
+
+47580","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-21 18:20:12.383"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","80%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-22 13:00:44.610"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Agriculture Mechanization","onion disease","copper oxy chloride 2g/lt of water","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-22 13:52:56.920"
+"KHARIF","HORTICULTURE","Fruits","Banana","Nutrient Management","banana special","??????? ???????
+•	10????? ?????? ????+
+•	5 ???? 10 ?? ?????? ?????+
+•	2 ????? ?????+
+•	2 ????? ?????? ??????? ????+
+•	0.25 ????? ????? +
+•	200 ????? ??????????? ?????? ?????????? ?????? ???????????????.
+•	??????? 3 ?????? ????????. 200ml/li","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-22 15:22:52.397"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","thrips in onion","spray imidacloprid 0.5 ml/ liter","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-22 17:42:16.687"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather of hosdurga","100%","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-23 07:01:47.393"
+"KHARIF","AGRICULTURE","Others","Others","","rsk","08195-251082","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-23 07:35:50.727"
+"KHARIF","AGRICULTURE","Others","Others","Agriculture Mechanization","cabbage rotting","drench copper oxy cloride 3g/lt of water","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-23 08:25:05.733"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Day Weather Forecast for Hosdurga
+
+
+
+
+
+
+
+
+
+Saturday, 23
+
+
+
+
+87 | 70 °F 
+
+Chance of T-storms 
+
+
+Chance of
+Precipitation
+
+90%","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-23 08:55:48.770"
+"KHARIF","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Fertilizer Use and Availability","fertilizer of bengalgram","urea","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-23 09:37:55.803"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Agriculture Mechanization","onion fertilizer","10:26:26","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-23 09:53:52.160"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Day Weather Forecast for Chitradurga
+
+
+
+
+
+
+
+
+
+Saturday, 23
+
+
+
+
+86 | 70 °F 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+80%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-23 10:32:12.097"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","ONION growth","ullala 10 ml in 15 liter water / biozem 2gm  1liter water","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-23 11:51:12.927"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","80%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-23 12:38:48.460"
+"KHARIF","AGRICULTURE","Others","Others","Weather","wweather","Day Weather Forecast for Challakere
+
+
+
+
+
+
+
+
+
+Saturday, 23
+
+
+
+
+87 | 72 °F 
+
+Chance of T-storms 
+
+
+Chance of
+Precipitation
+
+40%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-23 13:22:08.750"
+"KHARIF","AGRICULTURE","Others","Others","Crop Insurance","information","mancozeb f0r dring and dimethioate for monkey disease","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-23 13:23:47.427"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Day Weather Forecast for Hiriyur
+
+
+
+
+
+
+
+
+
+Saturday, 23
+
+
+
+
+87 | 71 °F 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+90%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-23 13:36:17.530"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","90%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-23 14:06:15.583"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Weather","wheather report","80% chance of precipitation","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-23 15:18:58.877"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","100% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-23 16:15:18.497"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion fungal diseases","Recommended spray of MANCOZEB 2gm/litre of water","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-23 18:02:57.447"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton fungal diseases","Recommended spray of MANCOZEB 2gm/litre of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-23 21:29:16.333"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Day Weather Forecast for Bellary
+
+
+
+
+
+
+
+
+
+Sunday, 24
+
+
+
+
+87 | 73 °F 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+90%","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-24 12:02:42.447"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","Day Weather Forecast for Bellary
+
+
+
+
+
+
+
+
+
+Sunday, 24
+
+
+
+
+87 | 73 °F 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+90%
+
+
+
+Monday, 25","KARNATAKA","CHITRADURGA","MOLAKALMURU                                       ","2014-08-24 13:01:31.727"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","-Day Weather Forecast for Challakere
+
+
+
+
+
+
+
+
+
+Sunday, 24
+
+
+
+
+85 | 71 °F 
+
+T-storms 
+
+
+Chance of
+Precipitation
+
+100%","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-24 14:04:34.117"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","Day Weather Forecast for Hiriyur
+
+
+
+
+
+
+
+
+
+Monday, 25
+
+
+
+
+83 | 71 °F 
+
+Chance of T-storms 
+
+
+Chance of
+Precipitation
+
+80%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-25 07:29:55.953"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","Market Information","market value of tomato","1000
+
+3100","KARNATAKA","CHITRADURGA","HOSDURGA                                          ","2014-08-25 09:44:45.347"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","ONIOPN DISEASE","SAAF 2GM IN 1LITER WATER","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-25 11:30:15.093"
+"KHARIF","HORTICULTURE","Flowers","Rose","Agriculture Mechanization","rose suitable soil","red soil","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-25 11:34:03.667"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton sucking pest","spray acephate 2g/lt","KARNATAKA","CHITRADURGA","HOLALKERE                                         ","2014-08-25 12:07:17.553"
+"KHARIF","AGRICULTURE","Others","Others","Agriculture Mechanization","cottan leaf curl disease","emidachlopride 1ml/4lt of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-25 12:29:50.433"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","ONION PEST","CHLOPROPYPHOS 2ML IN 1LITER WATER","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-25 12:56:29.423"
+"KHARIF","HORTICULTURE","Fruits","Pomegranate","Agriculture Mechanization","pomagranate fruit dropping","planofix 1ml/4lt of water and melathion for ants","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-25 13:22:44.197"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Agriculture Mechanization","maize fertilizer","10:26:26","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-25 13:39:47.267"
+"JAYAD","AGRICULTURE","Others","Others","Weather","weather","Day Weather Forecast for Hiriyur
+
+
+
+
+
+
+
+
+
+Monday, 25
+
+
+
+
+84 | 70 °F 
+
+Chance of T-storms 
+
+
+Chance of
+Precipitation
+
+60%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-25 13:51:55.990"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion sucking pest","Recommended  spray of DIMETHOATE 2ml/litre of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-25 16:39:35.237"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-25 18:05:01.717"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","cloudy","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 07:14:18.180"
+"RABI","AGRICULTURE","Others","Others","Weather","weather","cloudy","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 07:14:19.890"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Agriculture Mechanization","onion rotting disease","spray coc 2g/lt of water","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-26 08:30:54.613"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Agriculture Mechanization","onion rotting","coc 2g/lt of water","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-26 08:43:13.780"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Day Weather Forecast for Chitradurga","79 | 68 °F 
+Chance of T-storms 
+Chance of
+Precipitation
+80%","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-26 09:48:49.787"
+"RABI","HORTICULTURE","Flowers","Jasmine","	Plant Protection	","kakada leaf spot and drying","spray carbendizium 2g/lt","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 11:07:17.383"
+"JAYAD","AGRICULTURE","Others","","Weather","weather","cloudy weather","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 11:10:08.317"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","80%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 13:12:58.037"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:48:15.740"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:48:35.520"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:48:37.940"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:48:42.473"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:48:48.900"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:48:52.630"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:48:57.060"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:49:02.007"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:49:03.387"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:49:04.017"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:49:05.170"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:49:06.807"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:49:08.280"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:49:10.520"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:49:12.383"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 14:49:13.923"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 15:05:24.743"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","80% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-26 16:02:03.697"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion yellowing","Recommended spray of MANCOZEB 2gm/litre of water","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-26 17:29:48.363"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","60% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-26 17:32:35.447"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","80%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-27 09:15:47.940"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion leaf blast","spray carbendizium 2g/lt","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-28 07:49:54.330"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Chitradurga Weather Forecast","74 | 67 °F 
+T-storms 
+Chance of
+Precipitation
+80%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-28 09:46:31.363"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","70% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-28 10:50:28.557"
+"KHARIF","AGRICULTURE","Oilseeds","Groundnut (pea nut/mung phalli)","	Plant Protection	","GN LEAF CURL","Recommended spray of CONFIDOR  2ml/4litre of water","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-28 10:58:20.333"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather","80%","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-28 11:07:52.030"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Agriculture Mechanization","onion disease","mancozeb","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-28 11:33:22.700"
+"KHARIF","AGRICULTURE","Others","Others","Nutrient Management","rsk no.","Parashurampura 08195-254829","KARNATAKA","CHITRADURGA","CHALLAKERE                                        ","2014-08-28 12:20:04.687"
+"KHARIF","AGRICULTURE","Others","Others","Weather","pipes information","08194-222406","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-28 13:02:14.310"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Agriculture Mechanization","onion rotting disease","coc 2ml/lt of water","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-28 13:15:58.727"
+"KHARIF","HORTICULTURE","Vegetables","Onion","	Plant Protection	","onion fungal diseases","Recommended spray of MANCOZEB 2gm/litre of water","KARNATAKA","CHITRADURGA","HIRIYUR                                           ","2014-08-28 14:03:58.820"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","50% CHANCES OF RAIN IN YOUR TALUK","KARNATAKA","CHITRADURGA","CHITRADURGA                                       ","2014-08-28 15:24:57.280"

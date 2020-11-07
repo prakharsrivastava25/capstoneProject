@@ -1,0 +1,52 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather information","no chance of rain","BIHAR","MUNGER","JAMALPUR                                          ","2014-10-01 08:10:47.840"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","Spray imidachloprid @ 1ml/3 lit of water *","BIHAR","MUNGER","JAMALPUR                                          ","2014-10-01 08:12:32.203"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","insect problem","Spray malathion @ 5 kg /ha","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-05 06:51:34.413"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Cloudy weather in your area but no chance of rain","BIHAR","MUNGER","KHARAGPUR                                         ","2014-10-05 07:39:55.400"
+"KHARIF","AGRICULTURE","Pulses","Lentil (Masur)","Seeds","SEED RATE OFLENTIL","P.L.406;H.U.L57,NARENDRA MASUR-1","BIHAR","MUNGER","KHARAGPUR                                         ","2014-10-06 09:25:27.390"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","INSECT PROBLEM","Spray METHYL DEMETON @ 1 ml in 1 litre of water","BIHAR","MUNGER","ASARGANJ                                          ","2014-10-07 08:00:53.700"
+"RABI","AGRICULTURE","Pulses","Lentil (Masur)","Seeds","VARIETIES OF LENTIL:","VARIETIES OF LENTIL: B. R.-25, P. L.-406, MALLIKA, ARUN, P. L. -639, H.U.L.-57, K.L.H-218, NARENDRA MUSOOR-1","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-08 19:22:12.630"
+"KHARIF","AGRICULTURE","Cereals","Wheat","	Plant Protection	","hindi","•spary the crop with Chlorpyriphos 20 EC 1250 ml/ha","BIHAR","MUNGER","DHARHARA                                          ","2014-10-09 17:27:49.730"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-10 09:24:13.767"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Weather information","today and tomorrow chance of rain","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-11 09:51:03.060"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","weather information","Today cloudy weather in your area but no chance of rain","BIHAR","MUNGER","KHARAGPUR                                         ","2014-10-11 12:43:33.317"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","yellowing of leaves OF PADDY","Spray mencozeb @ 2g/lit of water","BIHAR","MUNGER","TARAPUR                                           ","2014-10-12 06:37:07.300"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Weather information","Full chance of rain","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-12 10:01:58.530"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Full chance of rain","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-14 09:25:18.917"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Full chance of rain","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-14 11:52:24.900"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Full chance of rain","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-14 11:52:29.947"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","there is a chance of rain in your area","BIHAR","MUNGER","SANGRAMPUR                                        ","2014-10-14 20:31:28.510"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Seeds and Planting Material","VARIETY OF ONION","PUSA RED/PUSA RATNAR/ARKA PARGATI/PANJAB RED ROUND","BIHAR","MUNGER","JAMALPUR                                          ","2014-10-15 09:16:46.440"
+"KHARIF","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","Fruit Borer","Chlorpyriphos 20EC 2 ml/lit; Malathion 50 EC 2 ml/lit","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-17 20:51:56.727"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","SHEATH BLIGHT DISEASE IN PADDY","SHEATH BLIGHT DISEASE IN PADDY- spray hexaconazole @ 1ml/liter of water","BIHAR","MUNGER","DHARHARA                                          ","2014-10-18 10:05:30.110"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","NO Full chance of rain","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-18 10:08:14.087"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","yellowing of leaves","Spray metalyxl @ 2g/lit of water","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-20 18:15:47.470"
+"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","sowing time","25 oct to 7 nov.","BIHAR","MUNGER","ASARGANJ                                          ","2014-10-21 15:59:16.520"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","MUNGER","SANGRAMPUR                                        ","2014-10-22 09:20:22.630"
+"KHARIF","AGRICULTURE","Cereals","Wheat","	Plant Protection	","Variety of wheat:-","EARLY VARIETIES H.D.-2733, P.B.W.-343, P.B.W.-443, A.H.-1731,K.9107,P.H.-1761
+LATE VARIETIES-H.U.W.-234,D.B.W.-14,H.D.-2643,,2285","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-23 12:56:29.853"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very warm with sun through high clouds
+Max UV Index: 5 (Moderate)
+Thunderstorms: 0%
+Precipitation: 0 mm
+Rain: 0 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 0 hrs
+Hours of Rain: 0 hrs","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-25 15:36:34.563"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","COPPER OXYCLORIDE 2GM/LITER OF WATER","BIHAR","MUNGER","ASARGANJ                                          ","2014-10-25 15:55:24.977"
+"KHARIF","AGRICULTURE","Oilseeds","Brown Sarson","Agriculture Mechanization","weather information","No chance of rain","BIHAR","MUNGER","DHARHARA                                          ","2014-10-25 16:10:23.630"
+"KHARIF","HORTICULTURE","Vegetables","Amarphophallus (Surankand/Elephant Foot Yam)","Fertilizer Use and Availability","leaf sucker","Spray monocrotophos 2ml/lt. water","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-25 16:15:59.870"
+"KHARIF","AGRICULTURE","Others","Others","Weather","1.Weather information","Very low Cloudy weather in your area but no chance of rain","BIHAR","MUNGER","BARIYARPUR                                        ","2014-10-26 09:19:39.520"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PLANT PROTECTION OF PADDY","COPPER OXYCHLORIDE 2GM/LITER OF WATER","BIHAR","MUNGER","ASARGANJ                                          ","2014-10-28 06:21:16.893"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Partly sunny with a passing shower
+Max UV Index: 6 (High)
+Thunderstorms: 20%
+Precipitation: 1 mm
+Rain: 1 mm
+Snow: 0 CM
+Ice: 0 mm
+Hours of Precipitation: 1 hrs
+Hours of Rain: 1 hrs","BIHAR","MUNGER","MUNGER SADAR                                      ","2014-10-29 14:27:16.230"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","disease in potato","Spray carbendazim @2gm /lit of water","BIHAR","MUNGER","TARAPUR                                           ","2014-10-29 19:21:16.423"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","NO CHANCE OF RAIN IN YOUR AREA","BIHAR","MUNGER","MUNGER SADAR                                      ","2014-10-30 07:25:10.580"

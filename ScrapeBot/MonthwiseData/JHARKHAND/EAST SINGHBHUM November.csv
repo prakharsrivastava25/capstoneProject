@@ -1,0 +1,56 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","Flower dropping in pomegranate","Flower dropping in pomegranate-Spray planofix @ 1 ml in 4.5- 5 liter of water","JHARKAND","EAST SINGHBHUM","BORAM","2014-11-01 15:05:29.610"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","NO CHANCE OF RAIN IN YOUR AREA","JHARKAND","EAST SINGHBHUM","DHALBHUMGARH                                      ","2014-11-03 14:13:57.613"
+"RABI","HORTICULTURE","Fruits","Banana","	Plant Protection	","Delay in growth","Spray boomflower @ 2 ml in 1 litre of water","JHARKAND","EAST SINGHBHUM","PATAMDA                                           ","2014-11-04 14:42:20.220"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER","NO RAIN","JHARKAND","EAST SINGHBHUM","PATAMDA                                           ","2014-11-04 15:09:02.197"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","JHARKAND","EAST SINGHBHUM","GOLMURI CUM JUGSALAI                              ","2014-11-04 15:12:23.257"
+"RABI","HORTICULTURE","Vegetables","Bottle Gourd ","	Plant Protection	","insect problem in bottle gourd","Spray methyl demeton or dimethoate @ 1 ml in one litter of water","JHARKAND","EAST SINGHBHUM","POTKA                                             ","2014-11-04 19:22:28.603"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","JHARKAND","EAST SINGHBHUM","POTKA                                             ","2014-11-04 19:24:24.127"
+"RABI","HORTICULTURE","Fruits","Lemon","	Plant Protection	","fruit cracking","Spray Borex @ 2ml/lit of water","JHARKAND","EAST SINGHBHUM","BORAM","2014-11-04 19:40:09.493"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect problem in brijal","insect problem in brijal spray  IMIDACHLROPRID @1ML/3LITER OF WATER","JHARKAND","EAST SINGHBHUM","BORAM","2014-11-06 16:40:37.977"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Seeds and Planting Material","SEED RATE OF ONION","SEED RATE ARE 8-10KG/HECT AND FERTILIZER 120:80:80KG NPK","JHARKAND","EAST SINGHBHUM","DHALBHUMGARH                                      ","2014-11-08 18:25:00.737"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","LEAF CURLING IN CHILLIES","LEAF CURLING IN CHILLIES metasistox @ 1 ml par liter of water ka spray kare","JHARKAND","EAST SINGHBHUM","GHATSHILA                                         ","2014-11-08 19:52:37.437"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","JHARKAND","EAST SINGHBHUM","PATAMDA                                           ","2014-11-11 08:38:41.847"
+"KHARIF","AGRICULTURE","Others","Others","	Water Management	","weather information ?","Cloudy weather in your area but chance of no rain","JHARKAND","EAST SINGHBHUM","BAHRAGORA                                         ","2014-11-11 17:11:54.080"
+"RABI","HORTICULTURE","Vegetables","Pumpkin","	Plant Protection	","Rotting problem","Spray copper oxycloride @ 2 gram in 1 litre of water","JHARKAND","EAST SINGHBHUM","POTKA                                             ","2014-11-13 07:41:42.580"
+"RABI","HORTICULTURE","Vegetables","Beans ","	Plant Protection	","insect problem in beans","insect problem in beans spray  IMIDACHLROPRID @1ML/3LITER OF WATER","JHARKAND","EAST SINGHBHUM","CHAKULIA                                          ","2014-11-13 08:06:43.180"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","JHARKAND","EAST SINGHBHUM","BAHRAGORA                                         ","2014-11-13 08:14:47.000"
+"KHARIF","HORTICULTURE","Flowers","Rose","	Plant Protection	","LEAF CURL IN ROSE","SPRAY ROGOR 2ML/LIT OF WATER WITH MULTIMICRONUTRIENT 3ML/LIT OF WATER","JHARKAND","EAST SINGHBHUM","PATAMDA                                           ","2014-11-14 14:38:12.763"
+"RABI","HORTICULTURE","Fruits","Guava","	Plant Protection	","insect problem in guava plant","Spray carbaril @ 2 gram in 1 litter of water","JHARKAND","EAST SINGHBHUM","GORABANDA","2014-11-15 13:04:25.897"
+"KHARIF","AGRICULTURE","Others","Others","Sowing Time and Weather","Spacing:","Spacing: 1.8x1.8 m, 2x2 m is generally initially applied. (Subsequantly  thinned in stages)","JHARKAND","EAST SINGHBHUM","GOLMURI CUM JUGSALAI                              ","2014-11-15 17:04:38.237"
+"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","ROTTING DISEASE IN CAULIFLOWER","ROTTING DISEASE IN CAULIFLOWER Spray copper oxycloride @ 2 gram in 1 litre of water","JHARKAND","EAST SINGHBHUM","MUSABANI                                          ","2014-11-16 21:33:35.933"
+"RABI","HORTICULTURE","Fruits","Guava","	Plant Protection	","use in guava plant","Spray borex @ 2 gram in 1 litre of water","JHARKAND","EAST SINGHBHUM","PATAMDA                                           ","2014-11-17 13:14:44.827"
+"RABI","HORTICULTURE","Vegetables","Pumpkin","	Plant Protection	","Rotting problem","Spray copper oxycloride @ 2 gram in 1 litre of water","JHARKAND","EAST SINGHBHUM","MUSABANI                                          ","2014-11-18 14:19:01.650"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","JHARKAND","EAST SINGHBHUM","MUSABANI                                          ","2014-11-18 14:20:36.310"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","JHARKAND","EAST SINGHBHUM","BORAM","2014-11-18 17:53:10.557"
+"RABI","AGRICULTURE","Others","Others","Training and Exposure Visits","ABOUT CONTACT NO. OF KVK","Miss Arti Beena Ekka
+Programme Coordinator
+Krishi Vigyan Kendra (BAU)
+Distt. E. Singhbhum
+Darisai (Khariya Colony)
+Vill. Badakhurshi
+P.O. Badakhurshi
+Ghatshila - 832 304
+Email: kvk_eastsinghbhum@rediffmail.com
+artiarti_horti@rediffmail.com
+- - -
+09430305501","JHARKAND","EAST SINGHBHUM","MUSABANI                                          ","2014-11-19 19:26:17.637"
+"RABI","HORTICULTURE","Flowers","Rose","	Plant Protection	","Rotting problem","Spray copper oxycloride @ 2 gram in 1 litre of water","JHARKAND","EAST SINGHBHUM","DHALBHUMGARH                                      ","2014-11-20 10:36:20.563"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","information weather in east singhbhum","information weather in east singhbhum Cloudy weather in your of rain area but no chance","JHARKAND","EAST SINGHBHUM","MUSABANI                                          ","2014-11-20 11:23:56.460"
+"RABI","HORTICULTURE","Fruits","Mango","Fertilizer Use and Availability","Manures and Fertilizers mango","Manures and Fertilizers 1st Year  Annual increase 6th year onwards 
+FYM 10.00 10.00 50 
+N 0.20 0.20 1.0 
+P 0.20 0.20 1.0 
+K 0.30 0.30 1.5","JHARKAND","EAST SINGHBHUM","MUSABANI                                          ","2014-11-21 13:37:30.060"
+"KHARIF","HORTICULTURE","Vegetables","Potato","Seeds and Planting Material","VARIEITES OF POTATO","VARIEITES ARE RAJENDRA ALU-1,2,KUPHARI PUKHRAJ","JHARKAND","EAST SINGHBHUM","PATAMDA                                           ","2014-11-21 15:38:59.387"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","FRUIT BORER IN BRINJAL","SPRAY
+Chlorpyrifos 20 % EC
+ 
+1.0 ml/lit.","JHARKAND","EAST SINGHBHUM","CHAKULIA                                          ","2014-11-24 14:41:19.000"
+"RABI","HORTICULTURE","Fruits","Papaya","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","JHARKAND","EAST SINGHBHUM","POTKA                                             ","2014-11-28 07:59:04.653"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","varities of WHEAT INFORMATION ?","varities of WHEAT -K 1006 , NW 5054 DBW 39 ,HD  2824 , PBW 343 ?","JHARKAND","EAST SINGHBHUM","MUSABANI                                          ","2014-11-28 13:30:30.940"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TERMITE ATTACK IN WHEAT","USE CHLOROPYRIPHOA 2.5LIT WITH SAND 100KG/HECT","JHARKAND","EAST SINGHBHUM","GORABANDA","2014-11-28 15:41:45.193"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect problem","Spray methyl demeton or dimethoate@ 1 ml in one liter of water","JHARKAND","EAST SINGHBHUM","GHATSHILA                                         ","2014-11-29 12:27:43.640"
+"RABI","HORTICULTURE","Vegetables","Sponge Gourd","	Plant Protection	","Rotting problem Sponge gourd","Rotting problem Sponge gourd Spray copper oxycloride @ 2 gram in 1 litre of water","JHARKAND","EAST SINGHBHUM","GOLMURI CUM JUGSALAI                              ","2014-11-30 11:14:56.960"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","yellowing  of leaves","¬¬¬¬¬¬¬¬¬Spray mancozeb @ 2 gram in 1 liter of water","JHARKAND","EAST SINGHBHUM","BAHRAGORA                                         ","2014-11-30 12:38:33.420"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","Insect problems","Spray imidacloroprid @ 1 ml in 3 litre of water","JHARKAND","EAST SINGHBHUM","BAHRAGORA                                         ","2014-11-30 12:41:24.633"

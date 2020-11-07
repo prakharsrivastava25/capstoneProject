@@ -1,0 +1,831 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","gross in potato","pendimethaline (stomp) 1liter\acr","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-01 06:45:05.813"
+"KHARIF","HORTICULTURE","Vegetables","Others","	Plant Protection	","same ki patti mur rahi hai","koper oxi kloride 3 gram dava ,: Cypermethrin 25% EC 2 ml dava /liter pani me spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-01 06:45:52.353"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhaan ki pattiyon par dhabbe pad rahe hain","hexaconezole 200 ml + streptocycline 6 gram prati acre prayog karen","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-01 08:04:35.853"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan ki phasal sukh rhi hai kya dawa dale","zineb -78 dawa 500 gram /acre + nitrobenjin 500 ml /acre spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bazar Shukul","2014-10-01 08:54:09.013"
+"KHARIF","HORTICULTURE","Fruits","Mango","Cultural Practices","mango me fruit ki problem hein","Quinalphos 20% + Cypermethrin 3%: 350-500 ml/acre","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Singhpur","2014-10-01 10:09:56.560"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan me patti lapetak ke liye kya kare","trizophos 40 E.C. @ 400 ml / acre ka spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-01 11:25:07.930"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan me pila pan hai","5 gr zink+ 20 gr yuria /liter","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-01 12:08:26.243"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mausam ki jankari chahiye","mausam saf rahega barsa ki sambhavna nahi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-01 15:01:45.417"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","POTATO KA BEEJ SODHIT KARNA HAI","CARBENDAZIM 50 % + THIRAM 2 GRAM /LITR PANI KA GHOL BANAKAR SODHIT KARE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-01 20:09:18.707"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","SEMAL ME MAHOON LAGA HAI","IMMIDACHLOPRID@2.0 ML/LI WATER SPRAY KAREN","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-02 08:45:34.537"
+"KHARIF","HORTICULTURE","Plantation Crops","Eculeptous","	Plant Protection	","liptash ke paudho me kya khad dale","liptash ke paodho me gober ki khad dale","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-02 08:49:04.583"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan ki gove me kida laga hi","diklorowas 75%wg 2ml dawa /liter pani milakar","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-02 08:50:42.927"
+"KHARIF","AGRICULTURE","Oilseeds","Sunflower (suryamukhi)","	Plant Protection	","surajmukhi ki pattiya sikud rahi hai","aap surajmukhi me hexaconazole 5% 300 ml + cypermethrin 80-100 ml dawa ko 120-150 liter pani ke sath prati acare ki dar se chidkaw kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-02 09:11:01.290"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","MOSAM  KE BARE BATYE","BADAL RHE GE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-02 14:55:06.487"
+"KHARIF","HORTICULTURE","Plantation Crops","Coconut","Fertilizer Use and Availability","nariyal ki jankari","nariyal ki jankari di gai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Singhpur","2014-10-02 15:56:17.290"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan ki patti lal ho rahi he kya kare","spray  Hexaconazole 5% EC@","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-02 17:18:55.870"
+"KHARIF","AGRICULTURE","Others","Others","Weather","LAHASUN KI BOVAI KAB KARE","2nd season: October – November ME KARE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Tiloi","2014-10-02 21:46:40.107"
+"RABI","HORTICULTURE","Vegetables","Potato","Vegetative Propagation and Tissue Culture","variety of potato","kufri bahaar , kufri ashoka","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-03 08:53:32.820"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Varieties","variety of mustard crop","variety of mustard crop -kranti, maya, rohini","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-03 09:17:53.060"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","potato seed sad jata he kya kare","potato seed ko vitavax power @ 200 gm /5 lit water se trea kar bubai kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-03 09:19:37.520"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan me jala sa nazar a rha hai","tricyclazole 75% wp. 200gram/acre ko 200 li pani me milakar spray karo.","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-03 09:31:35.027"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mousam ki jankari de","aapke yaha aaj se lekar pure hafte halke baadal chaye rahenge lekin barsat ki koi sambhawana nahi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-03 12:05:31.400"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","dhaan ki patti jal rhi hai","dhaan me-hexaconazol @ 250 ml / ecar","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-03 15:00:49.240"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan Me Kide Lag Rha Hai","genhu me propiconazol 250 ml/acre + Dichlorvos 76% EC 250-350 ml/acre spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-04 10:25:20.123"
+"KHARIF","AGRICULTURE","Pulses","Black Gram (urd bean)","	Plant Protection	","urd me keede lage hai","spray dichlorovas 76 % EC 1.5  ml/ litre of water","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-04 11:36:13.207"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bal  deri se nikal rahi hai","en pi ke 19:19:19  2kilo/acre","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-04 15:46:10.100"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mosam ki jankari","9 tak badal chhaye rahwege halki bochhar aa sakati hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-04 17:17:24.120"
+"KHARIF","HORTICULTURE","Vegetables","Pea (Vegetable)","Seeds and Planting Material","matar ki bubai","abhi bubai ka samay suru ho chuka hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadurpur","2014-10-04 17:33:12.767"
+"KHARIF","HORTICULTURE","Vegetables","Ash Gourd (Petha)","	Plant Protection	","petha me fhal sad jata hai","carbendazime 12% + mencozeb 63% wp. 400gram/acre ko 200 li pani me milakar spray karo.
+??????????? @ 180???? /???? 200 ???? ??? ?????? ???","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadurpur","2014-10-04 17:45:07.067"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan  me false sumt laga hai","coper oxy chloride  +strptosiklin ka spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-05 10:16:16.653"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan  me false sumt laga hai","coper oxy chloride  +strptosiklin ka spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-05 10:16:30.113"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mosam ki jankari","8 tak badal chhaye ho sakte hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-05 10:42:15.440"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","dub gras ki jankari","dub gras ki jankari di gai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadurpur","2014-10-05 10:50:07.843"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhaan me false smut ki samasya hai","propiconezole 25 EC 200 ml + streptocycline 6 gram prati acre chhidkaav karen","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-05 13:06:17.073"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","DHAN KI BALI KALIO HO RAHOI HAI KYA KARE","DHAN KI BALI PER PROPICONAZOAL KA SPRAY KAR DE 500 ML KA","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-05 14:47:02.073"
+"KHARIF","AGRICULTURE","Others","Others","Weather","maosm ki jankari de de","badal rhege baris ki koi sambhavna nhi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-05 17:24:07.853"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mausam ki jankari chahiye","badal rahege chhitput bundabandi ho sakti hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-05 17:45:55.303"
+"KHARIF","HORTICULTURE","Vegetables","Potato","Seeds and Planting Material","ALUKI PRAJATI KI JAAN KARI","KUFRI CHANDERMUKHI, KUFRI JYOTI, KUFRI BAHAR, KUFRI BADSHAH, Kufri Pukhraj,K.Chipsona-3","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-05 18:42:05.753"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","FLIES PROBLEM IN RICE","SPRAY QUINOLPHOS @ 1.5 ML./LIT.OF WATER","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-05 19:33:09.983"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","11 Oct tak bunda baandi ki sambhawna he","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-05 21:35:52.423"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan me  false sumat laga hai","copar oxy  chloride 500g +strptosiklin 15g ka /he spray  kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bazar Shukul","2014-10-06 07:10:30.637"
+"KHARIF","HORTICULTURE","Fruits","Mango","Cultural Practices","MANGO ME GAMOSIS LAGA HAI","MICRO NUTRIENT  APPLY KARE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-06 11:26:52.317"
+"KHARIF","HORTICULTURE","Fruits","Mango","Cultural Practices","MANGO ME GAMOSIS LAGA HAI","MICRO NUTRIENT  APPLY KARE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-06 11:27:05.350"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mausam ki jankari chahiye","kisan bhai 7 se 9 tak halki barish ki sambhawna hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-06 12:23:47.830"
+"KHARIF","HORTICULTURE","Vegetables","Lab Lab","	Plant Protection	","SEM KI PATTIYA PILI HO RAHI HAI","NPK 19:19:19 +Copper oxychloride 2.5 g/lit.   KA CHHIDKAV KARE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-06 15:43:30.573"
+"KHARIF","HORTICULTURE","Fruits","Jack Fruit","Cultural Practices","citrus me fruit nahi laga hein","napathalin 1 gram / 25 litre pani me spray","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bazar Shukul","2014-10-06 15:47:17.233"
+"KHARIF","HORTICULTURE","Fruits","Acid Lime","	Plant Protection	","NEEBU ME GOND NIKAL RAHI HAI","NEEM OIL+Copper oxychloride +MAILATHION KA 2:2:2; KE ANUPAT ME KARE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-06 16:15:24.280"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather ki jankri","abhi mausam saf hein","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-06 16:58:28.193"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BLAST IN PADDY","SPRAY HEXACONAZOL @ 1 ML./LIT.OF WATER","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-06 17:42:20.650"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","Weather information de","baris kee sambhavana nahi he","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-06 19:44:05.703"
+"KHARIF","HORTICULTURE","Vegetables","Pea (Vegetable)","	Plant Protection	","Arkil matar jami nahi hai","Khet kee parat kee tudai kar den","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-07 08:22:54.647"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan ki bali pila paowder ho rahahi","propikonajol 200ml dfawa 120liter pani milakar","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-07 08:25:39.357"
+"KHARIF","AGRICULTURE","Others","Others","Weather","onion ki nurssry dalni hi","8-10kg seed /hectre,pusa red,nasik red ,agrifound dark red","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-07 09:42:14.353"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","TERMITS HAI KYA KARE","CHLORPAYRIPHAS 20%EC KA PRYOG KARE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bazar Shukul","2014-10-07 10:17:44.637"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","leaf curl in tomato plant","spray Areva @ 40-80 gm /acre","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-07 15:07:11.047"
+"RABI","AGRICULTURE","Others","Others","Weather","weather information","7,8,9,12,13 Oct ko bunda baandi ki sambhawna he","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-07 15:13:06.943"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","Cultural Practices","bagan ka beej kanha se milega","aap krashi raksha ikai se sampark kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Singhpur","2014-10-07 16:00:28.253"
+"JAYAD","HORTICULTURE","Fruits","Mango","Crop Insurance","ANTHRACNOSE IN MANGO","SPRAY CARBENDAZIM @ 1 GM./LIT.OF WATER","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-07 16:28:31.123"
+"KHARIF","AGRICULTURE","Oilseeds","Mustard","Varieties","RAI KI PRAJATI BATAYE","RAI KI PRAJATI - KISAN BHAI VARUNA , BARDAN,ROHINI,PUSA BOLD","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-08 11:27:42.250"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mausam kee jankari chahiye","Aapake yahan 13  october tak badal bane rahegen lekin varsha nahi hogi","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-08 11:58:25.903"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan ki patti sukh rahi hai","spray hexaconazole 5 % EC   400 ml/acre","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Tiloi","2014-10-08 12:26:03.003"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan ki baali lal ho ,baali nikal nhi hi","N:P:K-18:18:18 or N:P:K-19:19: @ 1000 gram/acar 200 liter pani me spary kre","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-08 14:31:52.983"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","control of fungal disease in paddy","mencozeb 300 gram /acre spray","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bazar Shukul","2014-10-09 16:43:34.933"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","mausham ke bare me jankari","12,13,14,15 ko bhari baresh ki sambhwna hi","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-09 19:46:22.173"
+"KHARIF","AGRICULTURE","Oilseeds","Mustard","	Plant Protection	","RAI KI PRAJATI BATAYE","RAI KI PRAJATI - KISAN BHAI VARUNA , BARDAN,ROHINI,PUSA BOLD","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bazar Shukul","2014-10-10 07:24:04.017"
+"KHARIF","AGRICULTURE","Oilseeds","Mustard","	Field Preparation	","Sarason kee prajatiyan batayen","sarason kee prajatiyan-Kanti,Varuna,Kranti,Rohidi,Maya,Pusa Bold Urvashi,Basanti (pili),Narendra swarna rai-8 (PILI),","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-10 08:07:37.040"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan me Gandhi keeda hai","profinophas 300 ml/acre","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-10 09:09:28.810"
+"KHARIF","HORTICULTURE","Condiments and Spices","Coriander","	Plant Protection	","daniya ki jankari","seed rate -12-13 kg,/hater","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-10 09:19:43.340"
+"RABI","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","Potato me fertilizer dose kya dale","Kisan bhai 150 kg nitrogen, 80 kg phosphorus, 100 kg potash /hectayer dale","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Tiloi","2014-10-10 10:02:04.307"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Dhaan me gandua laga hai","Dhaan me kndua ke niyantran ke liye Propiconazole 25% EC 200 ml/ acre me spray karen","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-10 10:48:13.530"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Varieties","Gehu kee ageti prajatiyan batayen","Gehu kee ageti prajatiyan-PBW-343,UP-2338,UP-2382,PBW-502,DBW-17,PBW-550","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-10 12:28:17.080"
+"RABI","AGRICULTURE","Others","Others","Weather","mausam ki jankari chahiye","kisan bhai aapke yahan 13 se 15 tak barish ki sambhawna hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-10 13:01:48.843"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","MOSAM KE BARE","BADAL RHE GE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-10 21:19:30.943"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","MOSAM  KE BARE","BADAL RHE GE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-10 21:21:39.993"
+"RABI","HORTICULTURE","Fruits","Mango","	Plant Protection	","aam me kide lage hai","3 Gram Copper Oxy Chloride 50% WP/ litre pani ke sath spray kare  + streptocycline bhi milayen","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-11 12:01:33.730"
+"KHARIF","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","mater ki prajati","mater ki prajati -arkil ,madu rasmi ,arpana","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadurpur","2014-10-11 20:10:52.073"
+"KHARIF","HORTICULTURE","Vegetables","Potato","Agriculture Mechanization","aaloo ki kheti ki jankari de","??? ?? - dithene M-45 @ 2 ?????  / ????  ????  ???  ??????  ???  ??  25-30 ????  ??  ????  ??  ???????  ???","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bazar Shukul","2014-10-12 06:42:37.630"
+"RABI","HORTICULTURE","Vegetables","Spinach (Palak)","	Plant Protection	","palak me keede lage hai","dichlorvosh 76 % ka spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadurpur","2014-10-12 06:45:12.350"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mausam kee jankari chahiye","Aapake yahan  14  october ko varsha hone kee sambhawana hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-12 08:21:30.130"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mausam kee jankari chahiye","Aapake yahan  14  october ko varsha hone kee sambhawana hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-12 08:46:50.150"
+"KHARIF","AGRICULTURE","Oilseeds","Indian rapeseed and mustard (yellow sarson)","Varieties","sarson ki kisme","narendra ageti rai-4, varuna (T-59), rohini, kranti, maya, pusa bold, urvashi","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-12 11:16:41.323"
+"KHARIF","AGRICULTURE","Others","Others","Agriculture Mechanization","genda ki kheti ke bare me jankari chahiye","genda ki kheti ke bare me jankari di gai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-12 11:23:33.033"
+"KHARIF","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","aloo me urverko ki matra","180 KG N, 80 KG P, 100 KG POTASH, 25 KG ZINC PRATI HECTARE KA PRAYOG KARE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-12 11:25:11.663"
+"RABI","AGRICULTURE","Others","Others","Weather","mausam ki jankarui leni hai","mausam kharab hone ki sambhavna hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-12 13:44:21.197"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Cultural Practices","weather ki jankri","abhi mausam saf hein","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-12 16:34:23.850"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weather","weather ki jankri","abhi mausam barish hein","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-12 21:30:11.917"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mausum ki jankari de","????? ??? ??????-?? ?? ???? ?????  ???? ?? ???? ??","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-13 08:03:56.170"
+"RABI","AGRICULTURE","Others","Others","Weather","MAUSAM KI JANKARI CHAHIYE","AAJ AAPKE YAHAA BAARISH HO SKTI HAI","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-14 07:35:38.917"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mausam ki jankari","14 ko barish ki sambhabanye hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-14 08:31:56.140"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Mausam Ki Jankari Leni Hai","kisan bhai appke yaha, 14 october KO bundabandi aur barish ki sambhawana hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadurpur","2014-10-14 09:43:42.397"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mousam ki jankari de","aapke yaha aaj dophar me tej barsat hone ki sambhawana ban rahi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-14 10:15:16.953"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","gehu ki buvai ka samay","15 novomar tk  buvai puri kr le","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-15 06:38:28.743"
+"JAYAD","AGRICULTURE","Others","Others","Weather","ASKING ABOUT WEATHER INFORMATION","CLEAR WEATHER","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-15 14:31:07.217"
+"KHARIF","AGRICULTURE","Others","Others","Government Schemes","KAAM DHENU KI JANKARI","APNE BLOCK MAI SAMPARK KARE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-15 19:58:48.077"
+"RABI","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","Weather","BANGAL GRAM KI JANKARI KE LIYE","CHANE 100KG /HE SEED LAGEGA","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Tiloi","2014-10-16 10:12:19.240"
+"RABI","AGRICULTURE","Others","Others","Weather","mausam ke baare me bataye","baarish ki koi sambhaavna nahi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-16 10:47:44.210"
+"JAYAD","AGRICULTURE","Cereals","Wheat","Weather","MASSAGE KI SUVIDHA KE LIYE","MASSAGE KI SUVIDHA LAGA DI GAYI","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-16 11:40:37.913"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhaan pili pr rhi hai","dhaan me-urea 15kg + zinc 2 kg + mancozeb 500gm / ecar","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-16 20:47:54.300"
+"RABI","AGRICULTURE","Others","Others","Government Schemes","krishi subsidy ki jankari","upkrishi nideshak se sampark kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-17 07:34:14.627"
+"KHARIF","HORTICULTURE","Plantation Crops","Eculeptous","	Plant Protection	","safeda ke paudhe tede ho gaye hai","dande ke saha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dande ke sahare paudhe ko kahda kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-17 11:24:18.777"
+"KHARIF","HORTICULTURE","Plantation Crops","Eculeptous","	Plant Protection	","safeda ke paudhe tede ho gaye hai","dande ke saha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dande ke sahare paudhe ko kahda kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-17 11:24:18.783"
+"KHARIF","HORTICULTURE","Plantation Crops","Eculeptous","	Plant Protection	","safeda ke paudhe tede ho gaye hai","dande ke saha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dande ke sahare paudhe ko kahda kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-17 11:26:10.913"
+"KHARIF","HORTICULTURE","Plantation Crops","Eculeptous","	Plant Protection	","safeda ke paudhe tede ho gaye hai","dande ke saha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dande ke sahare paudhe ko kahda kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-17 11:26:15.613"
+"KHARIF","HORTICULTURE","Plantation Crops","Eculeptous","	Plant Protection	","safeda ke paudhe tede ho gaye hai","dande ke saha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dande ke sahare paudhe ko kahda kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-17 11:26:23.080"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mausum ki jankari de","mausum saaf rahega","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-17 13:23:31.350"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhaan ki bali sfed pr rhi hai","dhaan me- foret 10 g@ 6 kg/ ecar","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Singhpur","2014-10-17 16:20:11.260"
+"RABI","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Animal Breeding","pasu sambandhi jankari","18001805141 par call kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-17 17:17:37.900"
+"RABI","AGRICULTURE","Others","Others","Weather","Maosm ki jankari de","badal rhege baris ki koi sambhavna nhi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-17 17:53:20.230"
+"RABI","AGRICULTURE","Others","Others","Weather","mausam ki jankari den","baris nahi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-17 18:26:02.987"
+"KHARIF","HORTICULTURE","Vegetables","Mushroom","Agriculture Mechanization","mushroom ki kheti ki jankari","jankari di gayi","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-17 18:40:58.360"
+"KHARIF","HORTICULTURE","Vegetables","Tomato","Agriculture Mechanization","tamatar ki prjati","Tamatar  PRAJATI – swarna vaibhav  , AVINASH 2","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-17 20:15:28.570"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BLAST IN PADDY","SPRAY EDIFENFOS 40 %","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-17 20:54:08.510"
+"RABI","AGRICULTURE","Oilseeds","Mustard","Weather","mausam ki jankari chahiy","mausam saph rahega varish nahi hogi","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-17 21:46:12.517"
+"RABI","HORTICULTURE","Vegetables","Pea (Vegetable)","	Plant Protection	","mater ka paudha  me pani  bhar jane ke karan sukh raha hai","kesugamacyin  3% l 400- 500 ml /acre 200 liter pani ke sath spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-18 15:34:31.110"
+"KHARIF","HORTICULTURE","Fruits","Citrus","Agriculture Mechanization","nimboo ka phool jhad ja raha hai","1 mili planofix / 4 litre pani me ghol banakar spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-18 16:44:07.367"
+"RABI","HORTICULTURE","Vegetables","Potato","Seeds and Planting Material","aalu me pani bhar gaya hai kya kare","aalu ki   buwai dobara kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-18 19:16:41.993"
+"JAYAD","AGRICULTURE","Pulses","Bengal Gram (Gram/Chick Pea/Kabuli/Chana)","	Plant Protection	","cahne me weed control ke liye","pendimethlin  3.3li /he  ka prayog kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Tiloi","2014-10-19 13:15:49.397"
+"KHARIF","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Disease Management","BHAIS KHUR CHAT RAHI","PASHUCHIKITASAK SE SAMPARK KARE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-19 16:02:35.503"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","mosam ke bare batye","badal rhe ge","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-19 18:31:51.550"
+"RABI","HORTICULTURE","Plantation Crops","Eculeptous","Nutrient Management","eucalyptus me kya dale","UREA,zinc,feras sulphet, deemak ke liye- chloropayriphos","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-19 19:50:04.187"
+"KHARIF","HORTICULTURE","Vegetables","Pea (Vegetable)","	Plant Protection	","MATER KI GROWTH KE LIYE KYA KARE","MATAER KIGROWTH KE LIYE APP UREA KE SATH BOI ZYAM DAL DE KHET M","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-19 20:03:22.403"
+"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","control of fungal disease in potato","mencozeb 2 gram /liter spray","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-20 08:31:42.247"
+"KHARIF","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","anar me kire lge hai kya kare","planofix @ 100 ppm (100 mg / litar pani) ka spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-20 08:43:23.330"
+"KHARIF","HORTICULTURE","Vegetables","Potato","Agriculture Mechanization","aaloo ki kheti ki jankari be","??? ?? - dithene M-45 @ 2 ?????  / ????  ????  ???  ??????  ???  ??  25-30 ????  ??  ????  ??  ???????  ???","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-20 10:10:58.963"
+"KHARIF","HORTICULTURE","Vegetables","Potato","Cultural Practices","potato ki treatment","monosorine 3 ml /litre pani me spray","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-20 14:50:49.563"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","brinjal me kide lage hai","Dichlorvos 76% EC 250-350 ml/acre spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-21 06:44:10.450"
+"JAYAD","AGRICULTURE","Others","Others","	Plant Protection	","parwal me ida ched kar aha hi","qunalphos 25ec 2ml dawa /liter pani milakar ,karbndazim 2gram dawa /literpani milakar","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-21 09:05:06.783"
+"RABI","HORTICULTURE","Vegetables","Potato","Vegetative Propagation and Tissue Culture","varities of potatao","kufri chandra mukhi,kufri anand,kufri chipsona-1,kufri badshah","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Singhpur","2014-10-21 12:44:34.857"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","GANNE ME BARVAR KE LIYE","MITI KI JACH KARVALE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadurpur","2014-10-21 14:47:37.593"
+"RABI","AGRICULTURE","Cereals","Wheat","Sowing Time and Weather","SOWING ITME","ABHI AAP BUAYI KAR SKTE HAI","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-22 11:34:07.073"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","genhu ki prajati bataye","genhu ki prajati - k-307(shatabdi),PBW-343,373,550, SONALIKA","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadurpur","2014-10-22 11:38:42.157"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","dhan me dana fat jata hi","couperoxyclorid 2.5 gm/liter pani me ghol bana ke spray karein","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-22 17:46:19.227"
+"RABI","AGRICULTURE","Millets","Buck Wheat (Kaspat)","Sowing Time and Weather","varity of wheat","pvw343  pvw373","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Chhatoh","2014-10-22 19:36:44.440"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","DHAN ME BAL NHI NIKAL RHI HAI","HEXACONAZOL 400 ML /ACRE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bazar Shukul","2014-10-22 20:49:56.133"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mausam ki jaan kari chahiye","Is pure saptah mausam saaf rahne ki sambhavana hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-23 15:11:33.987"
+"RABI","HORTICULTURE","Vegetables","Pea (Vegetable)","	Plant Protection	","matar ki prajaati chahiye","azad p-3,arkel , malviiy matar-1,5, rudhira","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-24 09:17:39.203"
+"RABI","AGRICULTURE","Others","Others","Weed Management","aaloo me khar ke liye kya daale","pendamethilin 1 li /acre me spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-24 09:20:48.557"
+"RABI","AGRICULTURE","Others","Others","Weather","about wheather","mousum saf rhega","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-24 14:16:35.560"
+"RABI","HORTICULTURE","Vegetables","Cucumber","Agriculture Mechanization","ZIMIKAND BONE KA SAMAY","ZIMIKAND BONE KA SAMAY - (APRIL - MAY)","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-24 14:30:31.800"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","insect in paddy ?","imidachlopride 100 mili/acre","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Tiloi","2014-10-24 15:12:29.453"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","SARSO KI VARIETY..?","ROHANI,MAYA,VARDAN,BABHAV,ASHIRWAD.","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-24 15:51:05.467"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","DHAN KI BALI ME KALA DHABBA","400 MILI PROPICONAZOLE / ACRE ME SPRAY KARE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-24 16:35:22.070"
+"KHARIF","AGRICULTURE","Pulses","Lentil (Masur)","	Plant Protection	","masur ki varity","al-4076.naredramasur-1,pant maur -4dpl62,pant masur406","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadurpur","2014-10-24 18:55:29.910"
+"RABI","AGRICULTURE","Cereals","Wheat","Weather","weather ki jankri","abhi mausam saf hein","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-25 06:09:32.100"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mausham ke bare me jankari","26,27 ko halki baresh ki sambhawna hi","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-25 06:49:01.640"
+"RABI","AGRICULTURE","Others","Others","Weather","mausam ki jankri chahiye","aaj kal me bearish nahi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Singhpur","2014-10-25 07:02:20.030"
+"KHARIF","ANIMAL HUSBANDRY","Animal","Bovine(Cow,Buffalo)","Animal Breeding","buffalo ki body me insect laga hein","butax 2 ml /litre pani me spray","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Singhpur","2014-10-25 07:54:28.000"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Water Management	","weather ki jankri","abhi mausam saf hein","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-25 08:39:16.230"
+"RABI","AGRICULTURE","Others","Others","Weather","mausum ki jankari de","kisan bhai aapke yhaa mausum saaf rahega","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-25 09:05:31.080"
+"KHARIF","HORTICULTURE","Vegetables","Potato","Cultural Practices","potato ki variety ki jankri","kufri ashoka, kufri badesha","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-25 10:04:16.097"
+"KHARIF","HORTICULTURE","Fruits","Pomegranate","	Plant Protection	","ANAR ME FRUIT KALA PAD JATA HAIN.","APPLY COPPER OXYCHLORID[50WP]@3GM./LIT.WATER.+MONOCROTOPHOS[36EC]@2ML./LIT.WATER.","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-25 16:30:12.460"
+"RABI","AGRICULTURE","Oilseeds","Castor (Rehri, Rendi, Arandi) ","Agriculture Mechanization","fungas in banana","Carbendazim 12% + Mancozeb 63% WP
+400 gm/acre","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Tiloi","2014-10-25 19:23:46.570"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","WHEAT VARIETY BATAO..?","PBW-343,PBW-550,PBW-502,DBW-17,CBW-39,UP-2382,UP-2338.","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-25 20:08:54.367"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","dap ke sath sulfar dal sakte hi","dap ke sath sulfar dal sakte hi","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Chhatoh","2014-10-26 08:23:35.897"
+"JAYAD","AGRICULTURE","Cereals","Paddy (Dhan)","Varieties","gehu ki bubai kar sakte hai","k0307, dvw-17 ,dvw-14","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadurpur","2014-10-26 08:29:02.973"
+"KHARIF","AGRICULTURE","Pulses","Faba Bean (Horse Bean/windsor Bean)","	Plant Protection	","mosam ke bare batye","badal rhe ge","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadurpur","2014-10-26 08:40:06.207"
+"RABI","AGRICULTURE","Others","Others","	Field Preparation	","mosam ki janklasri","mosam saf rahegas","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-26 09:50:59.407"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","POTATO SEED TREATMENT..?","APPLY AGLAL@2GM./LIT.WATER WITH TREATED POTATO TUBER SOWING BEFORE[2 DAYS].","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-26 10:54:33.637"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","mosam ki jankari","mosam saf rahega","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-26 11:15:47.017"
+"RABI","HORTICULTURE","Vegetables","Brinjal","Seeds and Planting Material","SOWING TIME","NOVEMBER - DECEMBER ME KAR SKTE HAI","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-26 11:25:31.997"
+"RABI","AGRICULTURE","Millets","FingerMillet  (Ragi/Mandika)","	Plant Protection	","gross in masoor","pendimethaline 1liter\acr 200liter pani me","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bazar Shukul","2014-10-26 12:07:05.447"
+"RABI","AGRICULTURE","Millets","FingerMillet  (Ragi/Mandika)","	Plant Protection	","gross in masoor","pendimethaline 1liter\acr 200liter pani me","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bazar Shukul","2014-10-26 12:07:06.210"
+"RABI","AGRICULTURE","Others","Others","Weather","MAUSAM KI JAAN KARI","MAUSAM SAAF HAI","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-26 12:12:36.390"
+"RABI","AGRICULTURE","Others","Others","Weather","Mausam ki jankari leni hai","badal rahenge barish ki sambhavna nahi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-26 12:24:53.057"
+"RABI","AGRICULTURE","Others","Others","Weather","Mausam Ki Jankari Leni Hai","Kisan bhai aapke yaha26 october se 28 october tak badal aur bundabandi bane rhene ki sambhawana hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-26 15:17:18.270"
+"RABI","AGRICULTURE","Others","Others","Weather","Maosm ki jankari de","Badal rhege hlki baris ho skti hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-26 20:10:42.297"
+"KHARIF","HORTICULTURE","Vegetables","Pea (Vegetable)","Cultural Practices","pea ki cultivation","pea ki cultivation abhi sowing karene","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-26 20:26:55.860"
+"RABI","AGRICULTURE","Others","Others","Weather","mausam ki jankari chahiye","aapke yahan 27 aur 28 ko halki barish ki sambhawna hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Tiloi","2014-10-26 21:24:06.967"
+"RABI","AGRICULTURE","Others","Others","Weather","mausam ki jankari chahiye","aaj me hlki bearish ho skti hai aur kal se mausam saaf rahega","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-27 06:54:21.840"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","fanel ki kheti karana chahte hi","Varieties 
+CO 1, UF 32, PF 35 and Gujarat Fennel 1.","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Tiloi","2014-10-27 08:57:27.073"
+"RABI","HORTICULTURE","Vegetables","Potato","Weather","WEATHER PROBLEM..?","NO ANY WEATHER PROBLEM.","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-27 09:19:09.390"
+"RABI","AGRICULTURE","Others","Others","Weather","MAUSAM KI JANKARI CHAHIYE","AAJ HLKI BAARISH HO SKTI HAI AUR KAL SE MAUSAM SAAF RAHEGA","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-27 09:39:46.593"
+"RABI","AGRICULTURE","Others","Others","Weather","mausam ki jankari chahiye","aapke yahan 27 aur 28 ko halki barish ho sakti hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-27 11:10:16.153"
+"KHARIF","HORTICULTURE","Vegetables","Onion","Agriculture Mechanization","Pyaz kee prajatiyan batayen","Pyaz kee prajatiyan-Punjab Selection,Pusa Red,Arka Niketan,Agrifound light red","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-27 12:28:13.740"
+"RABI","AGRICULTURE","Others","Others","Weather","?  Mausam ki jankari leni hai","badal rahenge barish ki sambhavna nahi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-27 12:47:08.017"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","	Field Preparation	","mausam ki jankari","mausam saf rahega","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-27 12:53:29.280"
+"RABI","AGRICULTURE","Others","Others","Training and Exposure Visits","barmi kampost ki jankari de de","barmi campost ki jankari di gyi","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-27 13:28:45.140"
+"RABI","AGRICULTURE","Others","Others","Varieties","mobile par message aaya hai","proper jankari di gayi","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-27 13:52:18.390"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","GANNE ME PILA HAI","MICRONUTRIANT 5 GRAM /ACRE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-27 17:27:13.540"
+"KHARIF","AGRICULTURE","Sugar and Starch Crops","Tapioca (Cassava)","	Plant Protection	","GANNE PILA PAN HAI","DITHAN Z-78 1 KG /ACRE","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-27 17:28:33.823"
+"RABI","AGRICULTURE","Others","Others","Weather","mausam ki jaan kari chahiye","Is pure saptah mausam saaf rahne ki sambhavana hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-27 18:17:19.743"
+"RABI","HORTICULTURE","Vegetables","Broccoli","Vegetative Propagation and Tissue Culture","mausam ki jankari","saf rahega","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Gauriganj","2014-10-28 08:08:51.113"
+"RABI","HORTICULTURE","Fruits","Mango","	Plant Protection	","aam ke ped me kide lage hai","cloropayariphosh 2 ml/li pani me milaakar spray kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bazar Shukul","2014-10-28 11:07:46.850"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Market Information","GEHU KI VARIETIES","PBW 343,DVW 17,HALNA,PBW 550","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-28 11:24:41.543"
+"RABI","AGRICULTURE","Others","Others","Weather","weather condition in amethi","31 oct. me halki badli hai barish ki sambhavna nahi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-28 14:21:41.293"
+"RABI","HORTICULTURE","Fruits","Mango","	Plant Protection	","MANGO ME KEET CONTRO KAISE KARE.","APPLY COPPER OXYCHLORID[50WP]@3GM./LIT.WATER+MONOCROTOPHOS[36EC]@2ML./LIT.WATER.","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Singhpur","2014-10-28 14:36:11.983"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","PBW502 KI JANKARI CHAHIY","PRAPAR JANKARI DI GAI HAI","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-28 14:47:07.370"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","WHEAT KI VARIETY","PBW-343, DBW-17, PBW-502","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-28 15:34:39.350"
+"JAYAD","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","FERTILIZER REQUIREMENT IN POTATO","FERTILIZER ARE N:P:K @ 180:80:100 KG./HECT.","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jagdishpur","2014-10-28 16:30:01.630"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Fertilizer Use and Availability","gehu me DAP ki jagah kya de sakte hai","NPK ka prayog kare","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Shahgarh","2014-10-28 18:33:23.873"
+"RABI","AGRICULTURE","Others","Others","Weather","mausam ki jankari","barish ki koi sambhavna nahi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-28 18:44:41.280"
+"KHARIF","AGRICULTURE","Others","Others","Government Schemes","sms lagana hai","sms lagaya gaya","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-28 19:32:48.093"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","WHEAT KI VARIETY","DBW-17, PBW-343, PBW-502","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Sangrampur","2014-10-29 16:14:59.463"
+"RABI","AGRICULTURE","Cereals","Wheat","Weather","weather information de","baris kee sambhavana nahi he","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-29 18:01:15.717"
+"RABI","AGRICULTURE","Others","Others","Weather","Maosm ki jankari de","badal rhege baris ki koi sambhavna nhi hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-29 20:21:06.797"
+"KHARIF","AGRICULTURE","Others","Others","Weather","mosam ki jankari","mosam saf rahega","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Jamo","2014-10-30 06:11:24.443"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","papita ka phul ghad raha hi","planofizx 1ml dawa 4-liter pani milakar","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-30 08:09:29.823"
+"RABI","AGRICULTURE","Cereals","Wheat","Varieties","Gehun kee bubai kab se kab tak kee ja sakati hai","achchhi paidawar ke liye gehun kee bubai  15 -30 November tak karen","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-30 08:28:55.443"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","Gehun me kitani khad daalen","Gehun me 150 kilogram Naitrogen,100 kilogram Phasphoras,100 kilogram Potas / Hac. kee aawashyakata padati hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-30 08:31:21.303"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","Gehun me ghas ke liye kon see dawa daalen","Gehun me ghas ke liye Sulfosulfuron 75% WG ka prayog karen","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-30 08:35:50.090"
+"RABI","HORTICULTURE","Vegetables","Potato","Fertilizer Use and Availability","potato fertilizer dose ?","NPK -150.80.100/H","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhetua","2014-10-30 10:38:34.183"
+"KHARIF","AGRICULTURE","Others","Others","Varieties","gehu ki varityu","hd1105,70quntal upaj/hectre,25kgseed /bigh","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Bhadar","2014-10-30 11:17:01.293"
+"RABI","AGRICULTURE","Cereals","Wheat","Market Information","WHEAT MARKET INFORMATION ACTIVATE KARANA HAIN.","KISAN BAHI MANDI BHAV ACTIVATE KIYA JATA HAIN.","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-30 17:57:07.800"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","Murgi kee khad daalane ke bad gehun me kitani khad daalen","Murgi kee khad daalane ke bad gehun me 100 kilogram Naitrogen,50 kilogram Phasphoras,30 kilogram Potas / Hac. kee aawashyakata padati hai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-31 06:07:07.527"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","wheat variety ?","pbw-343,pbw-502 ,dbw-17","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Chhatoh","2014-10-31 07:04:47.390"
+"RABI","HORTICULTURE","Plantation Crops","Eculeptous","	Plant Protection	","yukelipistak ki jankari","yukelipistak ki jankari di gai","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Musafirkhana","2014-10-31 17:43:44.037"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Varieties","wheat ki variety","DBW-17, PBW-343, PBW-502, HD-2824, UP-2382","UTTAR PRADESH","AMETHI ( Shahu Ji Maharaj)","Amethi","2014-10-31 20:32:01.413"

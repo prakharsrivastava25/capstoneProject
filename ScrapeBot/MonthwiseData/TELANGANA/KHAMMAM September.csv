@@ -1,0 +1,523 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","Sowing Time and Weather","sowing time of maize","october 15","TELANGANA","KHAMMAM","BAYYARAM                                          ","2014-09-03 07:57:42.397"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","PADDY FLY","RECOMMENDED APLAD 320ML/ 200 LITRE WATER","TELANGANA","KHAMMAM","KUKKUNUR                                          ","2014-09-06 08:31:37.040"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","damping off in chilli","recomended blitex 3g /lit","TELANGANA","KHAMMAM","TEKULAPALLY                                       ","2014-09-06 15:29:07.750"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended olala 75g/acre","TELANGANA","KHAMMAM","PENUBALLY                                         ","2014-09-06 16:46:20.700"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","vari lo mogipurugu tagginchadam koraku","keldan 4g gulikalu oka acr ki 8 nundu 10 kg lu vadukovali","TELANGANA","KHAMMAM","YELLANDU                                          ","2014-09-06 17:26:47.420"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","root rot in chili","recomended blue copper 3g/lit water","TELANGANA","KHAMMAM","PALWANCHA                                         ","2014-09-07 07:45:05.680"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","root rot in chili","recomended blue copper 3g/lit water","TELANGANA","KHAMMAM","PALWANCHA                                         ","2014-09-07 10:28:37.530"
+"RABI","AGRICULTURE","Others","Others","Weather","weather data in khammam","rain fall is there","TELANGANA","KHAMMAM","THIRUMALAYAPALEM                                  ","2014-09-07 14:46:10.553"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","LEAFS turn yellow color","mancozeb","TELANGANA","KHAMMAM","YELLANDU                                          ","2014-09-07 18:27:17.517"
+"RABI","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","Sowing Time and Weather","greengram sowing time","recommanded for to sown in october - november","TELANGANA","KHAMMAM","KUKKUNUR                                          ","2014-09-08 19:30:37.810"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","flowering in cotton","recommended agrominmax 1kg/acre","TELANGANA","KHAMMAM","GARLA                                             ","2014-09-09 08:51:08.793"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weed Management","weedicide in paddy","recommended butachlor 1lit/acre","TELANGANA","KHAMMAM","YELLANDU                                          ","2014-09-09 12:28:20.280"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","FLOWER DROPPING  IN COTTON","FLOWER DROPPING 2ML/10LIT WTR","TELANGANA","KHAMMAM","YELLANDU                                          ","2014-09-10 08:33:35.420"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","planofix @2ML/10LIT WTR","TELANGANA","KHAMMAM","YELLANDU                                          ","2014-09-10 08:36:21.030"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","monocrotophos 1.6/lit water","TELANGANA","KHAMMAM","THIRUMALAYAPALEM                                  ","2014-09-10 09:26:58.450"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Nutrient Management","fertilizers in paddy","1bag urea,25kg potash","TELANGANA","KHAMMAM","GUNDALA                                           ","2014-09-10 09:45:33.870"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","phone  nmr","18004250081","TELANGANA","KHAMMAM","CHANDRUGONDA                                      ","2014-09-10 12:45:55.657"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","more 
+
+ 
+
+
+
+Tonight
+
+Sep 10
+
+
+Mostly cloudy, showers around
+Lo 74°
+
+RealFeel 76°
+ more 
+
+ 
+
+
+
+Tomorrow
+
+Sep 11
+
+
+Intervals of clouds and sun
+Hi 87°
+
+RealFeel 95°
+ more","TELANGANA","KHAMMAM","YERRUPALEM                                        ","2014-09-10 13:41:25.443"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","rains damage","cloripyriphos","TELANGANA","KHAMMAM","KUSUMANCHI                                        ","2014-09-10 14:43:56.403"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","chilli management","phn no:18004250081","TELANGANA","KHAMMAM","KAMEPALLY                                         ","2014-09-10 14:57:17.810"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","sucking pest in chilli","recomended regent 400ml/acre","TELANGANA","KHAMMAM","KAMEPALLY                                         ","2014-09-10 15:13:09.763"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","vari natlu pettetappudu vade eruvulu","150kgssp,25kgmop,20kg znk sulfate","TELANGANA","KHAMMAM","BAYYARAM                                          ","2014-09-10 17:26:41.690"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","acetemiprid 40g /acre","TELANGANA","KHAMMAM","MADHIRA                                           ","2014-09-10 17:39:32.657"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","canophthora blight","blitex 10g+streptomycin 1g+10lit water","TELANGANA","KHAMMAM","THIRUMALAYAPALEM                                  ","2014-09-10 18:04:41.220"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weed Management","WEEweeds management","pendimethilin @1.6ml","TELANGANA","KHAMMAM","YERRUPALEM                                        ","2014-09-10 18:54:29.857"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Sowing Time and Weather","transplanting in the 60days nursery","reduce the yield   winter season","TELANGANA","KHAMMAM","THALLADA                                          ","2014-09-11 07:13:51.210"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","leaf folding in cotton","fipronil 2ml/l of water","TELANGANA","KHAMMAM","JULURUPADU                                        ","2014-09-11 11:51:41.550"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","maize lo pasupu machalu","sudomonas florescence 3 kg/acr  tadi polam lo nela pi challali","TELANGANA","KHAMMAM","YERRUPALEM                                        ","2014-09-11 12:42:47.997"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mealy bug in cotton","monochrotofs 2 ml/l of water","TELANGANA","KHAMMAM","WYRA                                              ","2014-09-11 13:14:36.250"
+"KHARIF","HORTICULTURE","Flowers","Marigold","Field Preparation","marigold field preparation","phn no:HORTICULTURE	1800-425-0080, 1800-425-0040","TELANGANA","KHAMMAM","MADHIRA                                           ","2014-09-11 14:40:32.693"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","pindi nalli damage in cotton","propinophas@400ml/acre","TELANGANA","KHAMMAM","WYRA                                              ","2014-09-11 14:57:50.137"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Weed Management","weed management","namini gold  120ml/acre","TELANGANA","KHAMMAM","BAYYARAM                                          ","2014-09-12 08:40:55.020"
+"JAYAD","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower drop","recommended plano fix 5ml/20liter","TELANGANA","KHAMMAM","GARLA                                             ","2014-09-12 10:01:22.770"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","root  rot in chilli","recommended blitex 3g/lit water","TELANGANA","KHAMMAM","KAMEPALLY                                         ","2014-09-12 12:58:20.257"
+"KHARIF","HORTICULTURE","Vegetables","Ridge Gourd","	Plant Protection	","powderymildewin cucurbits","recommended tridimarph ,dinocap 1ml/lit water","TELANGANA","KHAMMAM","TEKULAPALLY                                       ","2014-09-12 13:27:56.900"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","weedicide in 10 days paddy crop","recommended ethaxy sulphuran 15%  50gm/ 200 lit water","TELANGANA","KHAMMAM","BHADRACHALAM                                      ","2014-09-12 18:16:33.883"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton leaves are turning into red colour","recommended magnisium sulphate 10gm/ litre","TELANGANA","KHAMMAM","BAYYARAM                                          ","2014-09-12 20:47:58.343"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","SPODOPTERA IN COTTON","JUMP 30-40 GM/ACR","TELANGANA","KHAMMAM","BAYYARAM                                          ","2014-09-13 07:00:32.693"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","COTTON WILT","BINOMIL 2gm/l of water","TELANGANA","KHAMMAM","CHANDRUGONDA                                      ","2014-09-13 07:22:21.333"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","fertilizers in rice fild1","70kg urea distribute equqlly 3times transplanting,30,booting stage","TELANGANA","KHAMMAM","BHADRACHALAM                                      ","2014-09-13 08:34:42.660"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","fertilizers in paddy field","urea 25 kg/acr","TELANGANA","KHAMMAM","JULURUPADU                                        ","2014-09-13 08:41:34.317"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","fertilizer in cotton","25kg urea at 30 days trasplantation","TELANGANA","KHAMMAM","KHAMMAM (RURAL)                                   ","2014-09-13 12:05:23.050"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stemborer in paddy","recomended carbofuran 3G 10kg/acre","TELANGANA","KHAMMAM","THIRUMALAYAPALEM                                  ","2014-09-13 14:30:37.470"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","sucking pest in chilli","recomended regent 8kg/acre","TELANGANA","KHAMMAM","KUNAVARAM                                         ","2014-09-14 11:38:59.677"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","bacterial disease in paddy","recomendd  blitex 30g+1g plantomycin +10lit water","TELANGANA","KHAMMAM","JULURUPADU                                        ","2014-09-14 13:59:45.653"
+"KHARIF","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","Storage","storage pest  greengram","drying of seeds/faldal powder","TELANGANA","KHAMMAM","SINGARENI                                         ","2014-09-14 14:57:37.800"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","Mon
+Sep 15
+Cloudy with a t-storm or two 29°Lo 22° 
+more Tue
+Sep 16
+A couple of thunderstorms 28°Lo 22° Wed
+Sep 17
+Cloudy with","TELANGANA","KHAMMAM","KAMEPALLY                                         ","2014-09-14 16:33:12.533"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","TELANGANA","KHAMMAM","CHANDRUGONDA                                      ","2014-09-14 17:30:32.603"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","chance to rain","TELANGANA","KHAMMAM","KAMEPALLY                                         ","2014-09-14 20:02:58.460"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","RED MITE IN COTTON","SRAYING OF OBERAN 20ML/ACR","TELANGANA","KHAMMAM","MUDIGONDA                                         ","2014-09-15 07:48:02.837"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","nalli damage in cotton","dicopal@5ml/lit","TELANGANA","KHAMMAM","BONAKAL                                           ","2014-09-15 08:05:00.777"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in  cotton","recommended prid 40g /acre","TELANGANA","KHAMMAM","BONAKAL                                           ","2014-09-15 08:33:43.533"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","chilli leaf curl","recommended pegasis 1.5gm/litre","TELANGANA","KHAMMAM","THIRUMALAYAPALEM                                  ","2014-09-15 10:20:04.397"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice stem borer in paddy","recommended carbofuron 10kg /acre","TELANGANA","KHAMMAM","PENUBALLY                                         ","2014-09-15 10:25:17.457"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","FLOWER DROPPING IN COTTON","SPRAYING OF PLANOFIX 5ML/20L OF WATER","TELANGANA","KHAMMAM","MADHIRA                                           ","2014-09-15 12:10:05.010"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stebm borer in paddy","recommended application in carbofuron 3G 10kg/acre","TELANGANA","KHAMMAM","PENUBALLY                                         ","2014-09-15 12:35:31.160"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in cotton","carbofuran 3g-6kg/acr","TELANGANA","KHAMMAM","ENKOOR                                            ","2014-09-16 06:54:27.967"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in paddy","carbofuran 3g-6kg/acr","TELANGANA","KHAMMAM","CHINTHAKANI                                       ","2014-09-16 07:10:04.550"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","chilli growth","multi-k growth purpose/acephate @1.5g/lit water","TELANGANA","KHAMMAM","VENKATAPURAM                                      ","2014-09-16 09:02:24.337"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","Weather","weather report","more 
+
+ 
+
+
+
+Tonight
+
+Sep 17
+
+
+Cloudy with a t-storm or two
+Lo 25°
+
+RealFeel 25°
+ more 
+
+ 
+
+
+
+Tomorrow
+
+Sep 18
+
+
+Heavy thunderstorms; cloudy
+Hi 32°
+
+RealFeel 38°
+ more","TELANGANA","KHAMMAM","YERRUPALEM                                        ","2014-09-17 08:37:44.810"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice","3g/granules","TELANGANA","KHAMMAM","JULURUPADU                                        ","2014-09-18 08:36:44.383"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","pindi nalli damage in cotton","trijophas @40ec/lit water","TELANGANA","KHAMMAM","THALLADA                                          ","2014-09-18 08:48:16.673"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","Nutrient Management","vegetative growth in chilli","sprying of multi-k 1kg/acr","TELANGANA","KHAMMAM","PINAPAKA                                          ","2014-09-18 10:03:34.507"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather information","thunder stream","TELANGANA","KHAMMAM","KHAMMAM (RURAL)                                   ","2014-09-18 12:17:50.657"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","aphids damage in cotton","monocrotophas@1.6ml/lit water","TELANGANA","KHAMMAM","GUNDALA                                           ","2014-09-18 12:24:17.210"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","mono 1.6ml/l","TELANGANA","KHAMMAM","DAMMAPETA                                         ","2014-09-18 15:50:49.987"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","this evening Lo 26°
+
+RealFeel 28°
+ 
+more Tomorrow
+Sep 19
+Showers and a heavier t-storm Hi 32°
+
+RealFeel 39°
+ 
+more Saturday
+Sep 20
+Rain and a thunderstorm Hi 32°
+
+RealFeel 39°
+ 
+more","TELANGANA","KHAMMAM","YELLANDU                                          ","2014-09-18 20:42:35.313"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended astaf 1.5g/lit water","TELANGANA","KHAMMAM","CHINTHAKANI                                       ","2014-09-18 20:48:44.237"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","up ward curling in chilli","recomended pegasis 300g /acre","TELANGANA","KHAMMAM","KAMEPALLY                                         ","2014-09-18 20:52:56.053"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mealy bug","recommended prophinophos 400ml/acre","TELANGANA","KHAMMAM","JULURUPADU                                        ","2014-09-18 21:34:36.857"
+"KHARIF","AGRICULTURE","Others","Others","Weather","Weather  information","thunder stream,","TELANGANA","KHAMMAM","KONIJERLA                                         ","2014-09-19 08:45:41.840"
+"RABI","AGRICULTURE","Cereals","Paddy (Dhan)","Seeds","seed avilability","swathi /satya","TELANGANA","KHAMMAM","CHINTHAKANI                                       ","2014-09-19 12:09:40.870"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","flower dropping in cotton","planofix @2ml/10lit water","TELANGANA","KHAMMAM","THIRUMALAYAPALEM                                  ","2014-09-19 12:30:45.663"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","cotton damage","phorate 10g/8/kg/acre","TELANGANA","KHAMMAM","YELLANDU                                          ","2014-09-19 13:59:39.943"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","vegetative growth in cotton","spraying of multi-k 1kg/acr","TELANGANA","KHAMMAM","KHAMMAM (URBAN)                                   ","2014-09-19 14:09:39.450"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","THRIPS IN COTTON","ULALA 80ML/ACR","TELANGANA","KHAMMAM","KUKKUNUR                                          ","2014-09-19 19:36:46.030"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","RED MITE IN COTTON","VERTIMEC 0.8ML/L OF WAYER","TELANGANA","KHAMMAM","KALLUR                                            ","2014-09-19 19:45:51.597"
+"KHARIF","AGRICULTURE","Others","Others","Weather","WEATHER REPORT","CHANCE TO RAIN","TELANGANA","KHAMMAM","KOTHAGUDEM                                        ","2014-09-19 20:00:25.593"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","CHILLI LEAF CURL","RECOMMENDED PEGASIS 1.5GM/LITRE","TELANGANA","KHAMMAM","BONAKAL                                           ","2014-09-20 06:56:02.690"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","sucking pest in chilli","trijophas@25oml/acre","TELANGANA","KHAMMAM","KUSUMANCHI                                        ","2014-09-20 15:19:25.050"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","vegetative growth in cotton","multi-k 1kg/acr","TELANGANA","KHAMMAM","THIRUMALAYAPALEM                                  ","2014-09-20 16:40:27.320"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mg deficiency","mg sulphate @10g/lit water","TELANGANA","KHAMMAM","THIRUMALAYAPALEM                                  ","2014-09-20 17:03:29.833"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","zink deficiency","zink sulphate@2g/lit water","TELANGANA","KHAMMAM","CHINTHAKANI                                       ","2014-09-20 17:09:07.277"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","STEM BORER IN COTTON","CARBOFURAN3G-10KG/ACR","TELANGANA","KHAMMAM","SINGARENI                                         ","2014-09-20 17:25:03.397"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","STEM BORER IN RICE","CORAZIN 80ML/ACR","TELANGANA","KHAMMAM","GUNDALA                                           ","2014-09-20 18:27:53.283"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","FLYIES IN COTTON","ULALA 80GM/ACR","TELANGANA","KHAMMAM","KONIJERLA                                         ","2014-09-20 18:38:47.817"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","sugar cane crop","FARMERS CALL CENTRE	1800-425-1110","TELANGANA","KHAMMAM","WYRA                                              ","2014-09-20 19:19:06.690"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","LEAF FOLDING IN CHILLI","PEGASES 300GM/ACR","TELANGANA","KHAMMAM","ASWAPURAM                                         ","2014-09-21 14:37:31.223"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","LEAF FOLDING IN CHILLI","SPRAYING OF PEGASES 300GM/ ACR","TELANGANA","KHAMMAM","KALLUR                                            ","2014-09-21 15:26:56.850"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","VEGETATIVE GROWTH IN COTTON","MULTI-K 1KG/ACR","TELANGANA","KHAMMAM","KAMEPALLY                                         ","2014-09-21 16:04:00.030"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","vetarnary phn no:","VETERNARY	040-23311720,  9848406211-koteshwar rao (knr)
+040-24015316      kisan kumar 9848066708","TELANGANA","KHAMMAM","ENKOOR                                            ","2014-09-21 16:40:33.843"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","CANOPHORA KOMMA KULLU","COC30GM AND 1GM STREPTOCYCLIN /10L OF WATER","TELANGANA","KHAMMAM","THIRUMALAYAPALEM                                  ","2014-09-21 17:08:38.380"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","leaf folding in chilli","pegases 300gm/acr","TELANGANA","KHAMMAM","ASWAPURAM                                         ","2014-09-22 07:08:12.710"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","flower drop in cotton","recommended planofix 2.5ml/10lit water, borax 1.5g/lit water","TELANGANA","KHAMMAM","WYRA                                              ","2014-09-22 07:23:16.607"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","mirapa lo aaku mudatha","pegases 300gm/acer","TELANGANA","KHAMMAM","KAMEPALLY                                         ","2014-09-22 07:24:23.940"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","up ward culing in chilli","recommended pipronil granules 8kg /acre","TELANGANA","KHAMMAM","WYRA                                              ","2014-09-22 07:30:03.347"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","mites in cotton","rogar 400ml/acr","TELANGANA","KHAMMAM","WYRA                                              ","2014-09-22 08:29:31.687"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","leaf folder in paddy","recomended astaf 1.5g/lit water","TELANGANA","KHAMMAM","PINAPAKA                                          ","2014-09-22 08:58:29.630"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice blast","bheem 120gm/acr","TELANGANA","KHAMMAM","BURGAMPAHAD                                       ","2014-09-22 09:11:26.270"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","vegetative growth in cotton","multi-k 1kg/acr","TELANGANA","KHAMMAM","BHADRACHALAM                                      ","2014-09-22 09:27:03.227"
+"KHARIF","AGRICULTURE","Pulses","Black Gram (urd bean)","Weed Management","weed management  minumu","recomended stamp 5ml/lit water","TELANGANA","KHAMMAM","BHADRACHALAM                                      ","2014-09-22 09:35:12.580"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recommended prid 40g/acre","TELANGANA","KHAMMAM","KUKKUNUR                                          ","2014-09-22 10:58:50.380"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","stem borer in paddy","recommended  RECOMMENDED TO SPRAY CARBOFURAN(FURADAN,TATAFURAN)10 KG PER ACR","TELANGANA","KHAMMAM","CHINTHAKANI                                       ","2014-09-22 12:18:55.287"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","Weed Management","weed management in maize","recommended atrazine 5g/lit water","TELANGANA","KHAMMAM","ENKOOR                                            ","2014-09-22 12:49:34.977"
+"KHARIF","HORTICULTURE","Fruits","Jamun","Fertilizer Use and Availability","jama oil","HORTICULTURE	1800-425-0080, 1800-425-0040","TELANGANA","KHAMMAM","PALWANCHA                                         ","2014-09-22 20:43:50.190"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","growthing in cotton","recommended  multi k 1kg/acre","TELANGANA","KHAMMAM","MANUGUR                                           ","2014-09-23 09:07:50.667"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","root rot in chilli","recommended blitex 3g/lit water","TELANGANA","KHAMMAM","TEKULAPALLY                                       ","2014-09-23 10:03:58.040"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","thunderstorm late
+Lo 24°
+
+RealFeel 25°
+ more 
+
+ 
+
+
+
+Tomorrow
+
+Sep 24
+
+
+Mostly cloudy with a t-storm
+Hi 33°
+
+RealFeel 40°
+ more 
+
+ 
+ 
+
+
+Video Weather Forecast
+
+
+Sep 8, 2014; 5:00 AM ET Flooding is a concern in Mumbai.
+
+ Asia Weather Forecast 
+   
+
+ 
+
+
+Khammam Satellite 
+ 
+
+  
+
+more Weather Satellite > 
+  
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Khammam Weather Map - Nearby Places
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Khammam Weather Conditions - Nearby Places
+
+
+
+Singareni
+32°Singareni weather - Mostly cloudy
+
+
+
+Karepalli
+32°Karepalli weather - Mostly cloudy
+
+
+
+Dornakal
+32°Dornakal weather - Mostly cloudy
+
+
+
+Pindipole
+32°Pindipole weather - Mostly cloudy
+
+
+
+Kushmanchi
+30°Kushmanchi weather - Mostly cloudy
+
+
+
+Tiladru
+30°Tiladru weather - Mostly cloudy
+
+
+
+Brahamanpalle
+30°Brahamanpalle weather - Mostly cloudy
+
+
+
+Niala Kondapalle
+30°Niala Kondapalle weather - Mostly cloudy
+
+
+
+Bommakal
+30°Bommakal weather - Mostly cloudy
+
+
+
+Ravinutla
+30°Ravinutla weather - Mostly cloudy
+
+.
+
+
+
+.","TELANGANA","KHAMMAM","BAYYARAM                                          ","2014-09-23 11:03:36.430"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","aphids damage in cotton","monocrotophas@1.6ml/lt water","TELANGANA","KHAMMAM","KAMEPALLY                                         ","2014-09-23 15:22:39.343"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","leaf curl damage in chilli","dicopal@1 lit /acre","TELANGANA","KHAMMAM","THIRUMALAYAPALEM                                  ","2014-09-23 16:05:43.173"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","FLOWER DROPPI NG IN COTTON","PLANOFIX 5ML/20L OF WATER","TELANGANA","KHAMMAM","GARLA                                             ","2014-09-24 17:13:59.050"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","STEM BORER IN RICE","CARBOFURAN 3G-10KG/ACR","TELANGANA","KHAMMAM","TEKULAPALLY                                       ","2014-09-24 17:28:34.760"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","catter piler in pady","recommended plitora35ml/acre     pegasis300g/acre","TELANGANA","KHAMMAM","BAYYARAM                                          ","2014-09-24 17:47:50.777"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","VEGETATIVE GROWTHIN COTTON","MULTI-K 1KG/ACR","TELANGANA","KHAMMAM","DAMMAPETA                                         ","2014-09-24 20:08:00.527"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","VEGETATIVE GROWTH IN COTTON","MULTI-K 1KG/ACR","TELANGANA","KHAMMAM","DUMMUGUDEM                                        ","2014-09-24 20:12:19.283"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","CURLING IN CHILLI","PEGASES 300GM/ACR","TELANGANA","KHAMMAM","BAYYARAM                                          ","2014-09-25 08:19:06.270"
+"RABI","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","Seeds","sowing time ofgreen gram","october","TELANGANA","KHAMMAM","PALWANCHA                                         ","2014-09-25 13:33:51.887"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","rice gall midge","CARBOFURAN(FURADAN,TATAFURAN)10 KG PER ACRE","TELANGANA","KHAMMAM","CHANDRUGONDA                                      ","2014-09-25 15:23:33.993"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","chilli leaf curl damage","pegasis @300g/acre","TELANGANA","KHAMMAM","KHAMMAM (URBAN)                                   ","2014-09-25 17:57:15.323"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest in cotton","recomended confidor 0.6ml/lit water","TELANGANA","KHAMMAM","KUSUMANCHI                                        ","2014-09-25 19:12:25.543"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","sucking pest","recomended prid 40g/acre","TELANGANA","KHAMMAM","KUKKUNUR                                          ","2014-09-25 19:48:31.517"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","FLOWER DROPPING IN COTTON","PLANOFIX 5ML/20L OF WATER","TELANGANA","KHAMMAM","TEKULAPALLY                                       ","2014-09-26 07:17:43.037"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","LEAF CURLING IN CHILLI","PEGASES 300GM/ACR","TELANGANA","KHAMMAM","THIRUMALAYAPALEM                                  ","2014-09-26 08:12:57.760"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","root rot in chilli","recomended blitex 3g/lit water","TELANGANA","KHAMMAM","KALLUR                                            ","2014-09-26 13:21:09.690"
+"KHARIF","ANIMAL HUSBANDRY","Animal","Camel","Animal Nutrition","MOBILE NUMBER OF VETERNERY","VETERNARY 040-23311720","TELANGANA","KHAMMAM","BURGAMPAHAD                                       ","2014-09-27 07:04:52.063"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","VERU KULLU IN CHILLI","COC 3GM/L OF WATER","TELANGANA","KHAMMAM","JULURUPADU                                        ","2014-09-27 08:32:47.237"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","TRIPS IN COTTON","ULALA 80GM/ACR","TELANGANA","KHAMMAM","JULURUPADU                                        ","2014-09-27 12:05:32.210"
+"RABI","AGRICULTURE","Fiber Crops","Cotton (Kapas)","Nutrient Management","VEGETATIVE GROWTH IN COTTON","MULTI-K 1KG/ACR","TELANGANA","KHAMMAM","KOTHAGUDEM                                        ","2014-09-27 12:15:30.180"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","SUCKING PEST","MONO 1.6ML/L","TELANGANA","KHAMMAM","JULURUPADU                                        ","2014-09-27 13:09:29.373"
+"KHARIF","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","sucking pest in maize","monocrotophos@1.6ml/lit water","TELANGANA","KHAMMAM","NELAKONDAPALLY                                    ","2014-09-28 08:56:24.310"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","Fertilizer Use and Availability","zink feriliser","zink feriliser","TELANGANA","KHAMMAM","MADHIRA                                           ","2014-09-28 09:21:55.557"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","weather report","CHANCES OF RAINS","TELANGANA","KHAMMAM","KONIJERLA                                         ","2014-09-28 15:28:52.810"
+"KHARIF","AGRICULTURE","Others","Others","Weather","weather report","no rain","TELANGANA","KHAMMAM","KUNAVARAM                                         ","2014-09-28 16:16:52.693"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","TALAMADU IN CHILLI","RECOMMENDED TO SPRAY COPPER OXY CHLORIDE (BLITOX) 600 GRAMS PER ACRE","TELANGANA","KHAMMAM","MANUGUR                                           ","2014-09-28 17:38:58.400"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","STEM BORER IN RICE","SPRAYING OF CORAZIN 80GM/ACR","TELANGANA","KHAMMAM","KUNAVARAM                                         ","2014-09-28 17:51:41.557"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","wilt in cotton","coc 3gm/l of water","TELANGANA","KHAMMAM","DAMMAPETA                                         ","2014-09-29 08:37:18.770"
+"KHARIF","AGRICULTURE","Fiber Crops","Cotton (Kapas)","	Plant Protection	","trips in cotton","MONOCROTOPHOS(NUVACRON, PHOSKIL, LUPHOS) 400 ML PER ACRE","TELANGANA","KHAMMAM","BONAKAL                                           ","2014-09-29 08:59:09.657"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","Fertilizer Use and Availability","fertilizers in chilli at 35 DAT","10KG UREA,6KG POTASH/ACR","TELANGANA","KHAMMAM","BAYYARAM                                          ","2014-09-29 09:11:05.213"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","BPH IN RICE","APLAD 320ML/ACR","TELANGANA","KHAMMAM","VEMSOOR                                           ","2014-09-29 12:44:58.193"
+"RABI","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","leaf curl damage in chilli","jolon @400ml/acre","TELANGANA","KHAMMAM","KHAMMAM (RURAL)                                   ","2014-09-30 19:14:15.277"
+"KHARIF","HORTICULTURE","Vegetables","Chillies","	Plant Protection	","leaf curl damage in chilli","pegasis @300g/acre","TELANGANA","KHAMMAM","GARLA                                             ","2014-09-30 20:23:36.173"

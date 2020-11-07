@@ -1,0 +1,103 @@
+"Season","Sector","Category","Crop","QueryType","QueryText","KCCAns","StateName","DistrictName","BlockName","CreatedOn"
+"KHARIF","AGRICULTURE","Others","Others","	Plant Protection	","Weather information in bokaro","Weather information in bokaro-Very low Cloudy weather in your area but no chance of rain","JHARKAND","BOKARO","CHAS                                              ","2014-11-01 16:38:35.360"
+"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","Varities of Cauliflower","Varities of Cauliflower
+Pusa Depali, Cuba Giant, Snow ball","JHARKAND","BOKARO","JARIDIH                                           ","2014-11-02 20:14:41.863"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","SHEATH BLIGHT DISEASE IN PADDY","SHEATH BLIGHT DISEASE IN PADDY- spray hexaconazole @ 1ml/liter of water","JHARKAND","BOKARO","JARIDIH                                           ","2014-11-02 21:47:32.087"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","ROOT AND SHOOT BORER IN BRINJAL","ROOT AND SHOOT BORER IN BRINJAL Spray quinqalphos @ 2ml/lit of water","JHARKAND","BOKARO","NAWADIH                                           ","2014-11-03 08:21:52.000"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","Variety of wheat","Variety of wheat- P.B.W-373, P.B.W-573, P.B.W-443, P.B.W-343, P.B.W-154, HD-2733, HD-2824, k-9107","JHARKAND","BOKARO","KASMAR                                            ","2014-11-03 12:14:09.937"
+"RABI","AGRICULTURE","Oilseeds","Raya (Indian Mustard)","Fertilizer Use and Availability","FERTILIZER MANAGEMENT IN RAYA","FERTILIZER MANAGEMENT IN RAYA N P K RATIO 80 40 40 KG PER HAC.","JHARKAND","BOKARO","CHAS                                              ","2014-11-04 06:59:57.763"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","variety of wheat","variety of wheat- HD-2733,HP- 1761,C-306,RW-3016","JHARKAND","BOKARO","CHAS                                              ","2014-11-04 07:02:38.903"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","Yellowing of leaves brinjal","Yellowing of leaves
+Spray mancozeb @2gm/liter water","JHARKAND","BOKARO","CHAS                                              ","2014-11-04 13:04:39.020"
+"RABI","HORTICULTURE","Vegetables","Radish","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","JHARKAND","BOKARO","JARIDIH                                           ","2014-11-04 14:58:58.390"
+"RABI","AGRICULTURE","Others","Others","	Plant Protection	","Weather information","Very low Cloudy weather in your area but no chance of rain","JHARKAND","BOKARO","JARIDIH                                           ","2014-11-04 15:00:25.457"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","FRUIT BORER IN BRINJAL","SPRAY TRIZOPHOS @2.5ML/LIT OF WATER","JHARKAND","BOKARO","CHAS                                              ","2014-11-05 08:28:57.087"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","FRUIT BORER","SPRAY ROGOR 1.5ML/LIT OF WATER WITH DHANZIME GOLD 3ML/LIT OF WATER","JHARKAND","BOKARO","CHAS                                              ","2014-11-05 08:31:34.453"
+"RABI","AGRICULTURE","Millets","Maize (Makka)","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","JHARKAND","BOKARO","CHANDRAPURA","2014-11-05 10:17:19.190"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","JHARKAND","BOKARO","CHANDRAPURA","2014-11-05 10:19:53.713"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Seeds","VARIETIES OF WHEAT","VARIETIES ARE H.D-2733,P.B.W-343","JHARKAND","BOKARO","CHANDRAPURA","2014-11-05 15:08:11.383"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-05 20:24:03.267"
+"KHARIF","AGRICULTURE","Cereals","Wheat","Seeds","VARIEITES OF WHEAT","VARIETIES ARE C-306,H.D-2733","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-06 15:35:00.343"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","iNSECT PROBLEM IN BRINJAL","iNSECT PROBLEM IN BRINJAL spray  IMIDACHLROPRID @1ML/3LITER OF WATER","JHARKAND","BOKARO","BERMO                                             ","2014-11-06 18:17:22.993"
+"RABI","HORTICULTURE","Vegetables","Beet Root (Garden Beet/Stock Beet)","Seeds and Planting Material","variety in beet root","variety in beet root pusa keshar,meghali,yamdagini","JHARKAND","BOKARO","CHANDRAPURA","2014-11-06 20:04:51.713"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","varities of WHEAT","varities of WHEAT -K 1006 , NW 5054 DBW 39 ,HD  2824 , PBW 343 ?","JHARKAND","BOKARO","CHAS                                              ","2014-11-08 07:18:33.170"
+"RABI","HORTICULTURE","Vegetables","Onion","Seeds and Planting Material","varities of onion","varities of onion
+Arka niketan, Nasik red, Arka kalyan 76","JHARKAND","BOKARO","CHAS                                              ","2014-11-08 07:21:39.307"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","BLIGHT DISEASE IN POTATO","BLIGHT DISEASE IN POTATO Spray mencozeb @ 2g/lit of water","JHARKAND","BOKARO","KASMAR                                            ","2014-11-08 19:23:36.697"
+"RABI","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","Seeds","Variety of mung-","Variety of mung- 
+pusa vishal, smart, sona","JHARKAND","BOKARO","BERMO                                             ","2014-11-09 08:55:56.267"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect probelm in brinjal plant","Spray imidachloprid @ 1ml/3lit of water","JHARKAND","BOKARO","CHAS                                              ","2014-11-09 15:54:19.220"
+"KHARIF","AGRICULTURE","Cereals","Paddy (Dhan)","	Plant Protection	","Yellowing of leaves paddy","Yellowing of leaves paddy spray mancozeb @ 2g/lit of water","JHARKAND","BOKARO","CHAS                                              ","2014-11-11 14:44:24.593"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect problem","Spray imidachloprid @ 1ml/3lit of water","JHARKAND","BOKARO","GOMIA                                             ","2014-11-12 09:52:41.520"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","IONSECT PROBLEM IN BRINJAL PLANT","Spray methyl demeton or dimethoate @ 1 ml in one litter of water","JHARKAND","BOKARO","NAWADIH                                           ","2014-11-13 07:34:50.790"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","yellowing of leaves","Spray mencozeb @ 2g/lit of water","JHARKAND","BOKARO","BERMO                                             ","2014-11-14 09:54:39.123"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","JHARKAND","BOKARO","BERMO                                             ","2014-11-14 09:56:42.737"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect problem","Spray methyl demeton or dimethoate @ 1 ml in one litter of water","JHARKAND","BOKARO","BERMO                                             ","2014-11-14 09:58:37.087"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect probelm in brinjal plant","Spray chlorpryphos @ 2ml/lit of water","JHARKAND","BOKARO","BERMO                                             ","2014-11-14 13:42:18.480"
+"KHARIF","AGRICULTURE","Cereals","Wheat","	Plant Protection	","INSECT PROBLEM OF WHEAT CROPS","SPRAY IMIDACHLOPRID @ 1ML/3LITER WATER IN WHEAT CROPS","JHARKAND","BOKARO","KASMAR                                            ","2014-11-14 15:23:36.887"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","DISEASE OF BRINJAL CROPS","SPRAY CARBENDAZIM @ 2GM/LITER WATER IN VEGETABLES CROPS","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-14 16:57:39.690"
+"RABI","HORTICULTURE","Vegetables","Bottle Gourd ","	Plant Protection	","insect problem in bottle gourd","Spray methyl demeton or dimethoate @ 1 ml in one litter of water","JHARKAND","BOKARO","KASMAR                                            ","2014-11-15 08:24:01.073"
+"KHARIF","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Rotting problem","Spray copper oxycloride @ 2 gram in 1 litre of water","JHARKAND","BOKARO","CHAS                                              ","2014-11-15 10:14:55.837"
+"KHARIF","HORTICULTURE","Fruits","Litchi","	Plant Protection	","fruit cranking in litchi","fruit cranking in litchi use in borex @ 2 gram per liter water","JHARKAND","BOKARO","CHAS                                              ","2014-11-15 14:48:58.473"
+"KHARIF","HORTICULTURE","Vegetables","Beans ","	Plant Protection	","Yellowing of leaves beans","Yellowing of leaves beans Spray mancozeb @2gm/liter water","JHARKAND","BOKARO","BERMO                                             ","2014-11-15 16:48:14.040"
+"KHARIF","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","ROTTING DISEASE IN CAULIFLOWER","ROTTING DISEASE IN CAULIFLOWER Spray copperoxycholoride @ 2gram/lit of water","JHARKAND","BOKARO","CHAS                                              ","2014-11-15 19:57:12.747"
+"KHARIF","HORTICULTURE","Fruits","Acid Lime","	Plant Protection	","FLOWER DROOPING IN ACID LIME","FLOWER DROOPING IN ACID LIME Planofix @1ml/ 4.5- 5 liter of   water ke dar se spray kare","JHARKAND","BOKARO","CHAS                                              ","2014-11-15 20:25:01.487"
+"RABI","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","Seeds","Variety of mung","Variety of mung- pusa vishal, smart, sona","JHARKAND","BOKARO","CHAS                                              ","2014-11-15 20:29:42.073"
+"RABI","HORTICULTURE","Vegetables","Bhindi(Okra/Ladysfinger)","	Plant Protection	","insect problem","Spray methyl demeton or dimethoate @ 1 ml in one litter of water","JHARKAND","BOKARO","NAWADIH                                           ","2014-11-16 13:30:36.977"
+"RABI","AGRICULTURE","Cereals","Wheat","	Water Management	","WATER MANAGEMENT wheat","WATER MANAGEMENT
+
+The crop requires 4 - 6 irrigations depending on the soil type and rainfall. Wheat crop requires minimum of 5 irrigations at the following critical stages.
+            I – Immediately after sowing
+            II – Crown root intiation : 15-20 DAS 
+            III- Active tillering stage : 35-40 DAS
+            IV- Flowering stage        : 50-55 DAS
+            V- Grain filling stage      : 70-75 DAS
+            Crown root initiation and flowering are the most critical stages. Water stagnation should be voided at the time of germination.","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-18 07:19:42.010"
+"KHARIF","HORTICULTURE","Fruits","Acid Lime","	Plant Protection	","INSECT PROBLEM IN ACID LIME","INSECT PROBLEM IN ACID LIME USE IN FORET 10 G","JHARKAND","BOKARO","CHAS                                              ","2014-11-18 10:57:56.910"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","insect problem","Spray methyl demeton or dimethoate @ 1 ml in one litter of water","JHARKAND","BOKARO","BERMO                                             ","2014-11-18 15:39:20.607"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Rotting problem","Spray copper oxycloride @ 2 gram in 1 litre of water","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-18 20:46:19.750"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Rotting problem","Spray saaf @ 2 ml in 1 litre of water","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-19 06:39:40.973"
+"RABI","HORTICULTURE","Vegetables","Pumpkin","	Plant Protection	","Rotting problem","Spray copper oxycloride @ 2 gram in 1 litre of water","JHARKAND","BOKARO","CHAS                                              ","2014-11-19 08:26:21.413"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","Rotting problem","Spray saaf @ 2 ml in 1 litre of water","JHARKAND","BOKARO","BERMO                                             ","2014-11-19 08:29:45.243"
+"RABI","HORTICULTURE","Vegetables","Tomato","	Plant Protection	","Rotting problem","Spray copper oxycloride @ 2 gram in 1 litre of water","JHARKAND","BOKARO","GOMIA                                             ","2014-11-19 11:39:48.780"
+"RABI","AGRICULTURE","Others","Others","Soil Testing","soil tretment in","Spray cloropyriphos @ 2 ml in 1 litre of water","JHARKAND","BOKARO","BERMO                                             ","2014-11-20 08:58:49.997"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","EARLY BLIGHT DISEASE IN POTATO","EARLY BLIGHT DISEASE IN POTATO Spray mancozeb @2gm/liter water","JHARKAND","BOKARO","GOMIA                                             ","2014-11-20 11:27:01.670"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","insect problem of brinjal crops","spray imidachloprid @ 1ml/3liter water","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-20 16:19:47.520"
+"KHARIF","AGRICULTURE","Cereals","Oats ","	Plant Protection	","TERMITE CONTOL IN TREE","USE CHLOROPYRIPHOS 5ML/LIT OF WATER IN SOIL DRENCHING","JHARKAND","BOKARO","NAWADIH                                           ","2014-11-21 16:01:56.807"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","good variety name of wheat crops","variety of wheat- HD-2733,HP- 1761,C-306,RW-3016,up-262","JHARKAND","BOKARO","BERMO                                             ","2014-11-21 16:44:28.267"
+"RABI","HORTICULTURE","Fruits","Mango","Fertilizer Use and Availability","FERTILIZER MANAGEMENT IN MANGO","Manures and fertilizers (Kg per tree)
+
+
+Manures and Fertilizers 1st Year  Annual increase 6th year onwards 
+FYM 10.00 10.00 50 
+N 0.20 0.20 1.0 
+P 0.20 0.20 1.0 
+K 0.30 0.30 1.5","JHARKAND","BOKARO","CHAS                                              ","2014-11-22 08:27:06.610"
+"RABI","HORTICULTURE","Fruits","Mango","	Plant Protection	","Anthracnose and stalk end-rot Mango","Anthracnose and stalk end-rot
+Pre-harvest spraying of Mancozeb 2g/lit or Carbendazim 1g/lit or Thiophanate methyl 1g/lit or Chlorothalonil 2 g/lit, 3 times at 15 days interval will control anthracnose and stalk end-rot.","JHARKAND","BOKARO","CHAS                                              ","2014-11-22 08:29:15.150"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","varities of WHEAT INFORMATION ?","varities of WHEAT -K 1006 , NW 5054 DBW 39 ,HD  2824 , PBW 343 ?","JHARKAND","BOKARO","GOMIA                                             ","2014-11-23 07:30:31.890"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","DISEASE IN BRINJAL","spray saaf @2gm /lit of water","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-23 19:48:39.597"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","DISEASE IN BRINJAL","spray saaf @2gm /lit of water","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-23 19:53:29.297"
+"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","Delay in growth","Spray multi micro nutrients @ 2 ml in 1 litre of ater","JHARKAND","BOKARO","NAWADIH                                           ","2014-11-23 20:09:26.310"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Rotting problem","Spray saaf @ 2 ml in 1 litre of water","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-25 12:51:58.293"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","disease of brinjal crops","spray mancozeb @ 2gm/liter water","JHARKAND","BOKARO","NAWADIH                                           ","2014-11-25 15:38:43.273"
+"KHARIF","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","LEAF CURL IN CHILIES","SPRAY OMITE AND DHAZIME 3-3ML/LIT OF WATER","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-27 11:06:55.073"
+"RABI","AGRICULTURE","Cereals","Wheat","	Field Preparation	","APHID ATTACK IN MUSTARD","SPRAY MONOCROTOPHOS 2ML/LIT OF WATER","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-27 11:53:31.160"
+"RABI","HORTICULTURE","Fruits","Jack Fruit","	Plant Protection	","insect problem","Spray carbaril @ 2 gram in 1 litter of water","JHARKAND","BOKARO","CHAS                                              ","2014-11-28 08:27:00.933"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Very low Cloudy weather in your area but no chance of rain","JHARKAND","BOKARO","CHAS                                              ","2014-11-28 08:29:22.900"
+"RABI","AGRICULTURE","Cereals","Wheat","Seeds","VARIETIES OF WHEAT","VARIETIES ARE H.D-2733,P.BP.W-343,443","JHARKAND","BOKARO","PETERWAR                                          ","2014-11-28 16:05:36.110"
+"RABI","HORTICULTURE","Vegetables","Cauliflower","Seeds and Planting Material","best variety of cauliflower-","best variety of cauliflower-
+ patna aril, pusa katki, pusa dipali, patna men ,pusa subhra","JHARKAND","BOKARO","CHAS                                              ","2014-11-29 09:08:05.960"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","Insect problems","Spray imidacloroprid @ 1 ml in 3 litre of water","JHARKAND","BOKARO","GOMIA                                             ","2014-11-29 09:22:26.247"
+"RABI","HORTICULTURE","Vegetables","Pumpkin","	Plant Protection	","yellowing  of leaves","Spray methyl demeton or dimethoate@ 1 ml in one liter of water","JHARKAND","BOKARO","CHAS                                              ","2014-11-30 08:30:55.360"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Cloudy weather in your area but no chance of rain","JHARKAND","BOKARO","CHAS                                              ","2014-11-30 08:32:10.817"
+"RABI","HORTICULTURE","Vegetables","Pea (Vegetable)","	Plant Protection	","FUNGI PROBLEM PEA","Spray saaf @ 2 ml in 1 litre of water","JHARKAND","BOKARO","CHANDRAPURA","2014-11-30 09:30:37.210"
+"RABI","HORTICULTURE","Vegetables","Brinjal","	Plant Protection	","FUNGI PROBELM IN BRINJAL PLANT","Spray mancozeb @ 2 gram in 1 liter of water","JHARKAND","BOKARO","CHAS                                              ","2014-11-30 10:46:43.433"
+"RABI","AGRICULTURE","Cereals","Wheat","	Plant Protection	","yellowing  of leaves","¬¬¬¬¬¬¬¬¬Spray mancozeb @ 2 gram in 1 liter of water","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-30 12:06:20.910"
+"RABI","HORTICULTURE","Vegetables","Brinjal","Seeds and Planting Material","Best variety of brinjal","Best variety of brinjal
+-rajendra baigan-2, pant baigan, punjab sadabahar, sonali, pusa purple long, pusa anmol, arka navneet","JHARKAND","BOKARO","NAWADIH                                           ","2014-11-30 12:27:16.947"
+"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","FUNGI PROBLEM IN CAULIFLOWER","spray carbendazym + mancojeb @ 2 gram in 1 litre of water","JHARKAND","BOKARO","JARIDIH                                           ","2014-11-30 13:18:00.287"
+"RABI","AGRICULTURE","Others","Others","Weather","Weather information","Cloudy weather in your area but no chance of rain","JHARKAND","BOKARO","JARIDIH                                           ","2014-11-30 13:19:54.630"
+"RABI","HORTICULTURE","Vegetables","Cauliflower","	Plant Protection	","INSECT PROBLEM IN CAULIFLOWER","INSECT PROBLEM IN CAULIFLOWER Spray metasistox @ 1.5 ml in 1 litre of water","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-30 15:42:43.383"
+"RABI","AGRICULTURE","Pulses","Green Gram (Moong Bean/ Moong)","Seeds","Variety of mung","Variety of mung- pusa vishal, smart, sona","JHARKAND","BOKARO","CHANDANKIYARI                                     ","2014-11-30 18:31:48.560"
+"RABI","HORTICULTURE","Vegetables","Potato","	Plant Protection	","Insect problems Potato","Insect problems Potato Spray imidacloroprid @ 1 ml in 3 litre of water","JHARKAND","BOKARO","BERMO                                             ","2014-11-30 19:26:03.080"

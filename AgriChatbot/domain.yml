@@ -1,0 +1,92 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: false
+intents:
+- greet:
+    triggers: action_greet
+- goodbye
+- affirm
+- deny
+- bot_challenge
+- inform
+- thankyou
+- out_of_scope
+- thanks
+- agriculture_query
+- weather_query
+entities:
+- area
+- dayshence
+- question
+slots:
+  area:
+    type: text
+  dayshence:
+    type: text
+  question:
+    type: text
+responses:
+  utter_greet:
+  - text: Hi! I'm Agribuddy. I'm here to solve your queries related to agriculture.
+      Do you wish to continue?
+  utter_confirm:
+  - text: Great!! Do you want to know about weather or do you have some other agricultural
+      query?
+  utter_goodbye:
+  - text: See you tomorrow. Bye!
+  - text: Goodbye!
+  - text: Bye!
+  - text: Ciao!
+  - text: Bye, was nice talking to you!
+  - text: Bye bye!
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+  utter_ask_question:
+  - text: Tell me your agriculture query please?
+  utter_ask_area:
+  - text: Which state/city do you want the weather for?
+  utter_ask_dayshence:
+  - buttons:
+    - payload: '0'
+      title: '0'
+    - payload: '1'
+      title: '1'
+    - payload: '2'
+      title: '2'
+    - payload: '3'
+      title: '3'
+    - payload: '4'
+      title: '4'
+    text: How many days hence do you want the report?(0 for today's weather)
+  utter_slots_values:
+  - text: "You've submitted the following answers:\n - Area: {area}\n - Days Hence:\
+      \ {dayshence}\n"
+  utter_ask_did_that_help:
+  - text: Did that help?
+  utter_glad:
+  - text: I'm glad that I could be of help.
+  utter_sorry:
+  - text: I'm really sorry that I could not be of help.
+  utter_ask_continue:
+  - text: Do you want to continue?
+  utter_out_of_scope:
+  - text: Sorry!! I do not understand what you're saying.
+actions:
+- utter_greet
+- utter_goodbye
+- utter_iamabot
+- utter_ask_area
+- utter_ask_dayshence
+- utter_slots_values
+- utter_ask_continue
+- utter_ask_question
+- action_greet
+- fallback_action
+- utter_sorry
+- utter_glad
+- utter_confirm
+- utter_ask_did_that_help
+- utter_out_of_scope
+forms:
+- weather_form
+- agri_form
